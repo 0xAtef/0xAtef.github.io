@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="/Css/Main.css">
     <link rel="icon" type="image/x-icon" href="Image/zold-modified.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.8/typed.min.js"></script>
 
 </head>
 
@@ -13,40 +14,63 @@
     <!-- Side navigation -->
     <div class="sidenav">
         <img class="side_Photo" src="https://avatars.githubusercontent.com/u/29626345?v=4">
-        <!-- <a href="#about">About Me</a>
-        <a href="#">Services</a>
-        <a href="#">Clients</a>
-        <a href="#">Contact</a> -->
+        <div class="whoami">
+            <h1>Mohamed Atef</h1>
+            <h3 class="whoami_talk">
+                <span  id="about_typed">Cyber Defender, Blue Team, DFIR Enthusiastic, Code Holic</span>
+            </h3>
+            <a class="side_fixed_content" href="#about">About Me</a>
+            <a class="side_fixed_content" href="#">Services</a>
+            <a class="side_fixed_content" href="#">Clients</a>
+            <a class="side_fixed_content" href="#">Contact</a>
+        </div>
+        
         <div class="footer_my_media " align="Left">
-            <a href="https://twitter.com/0xAtef" target="_blank" class="fa fa-twitter"></a>
-            <a href="https://linkedin.com/in/0xAtef" target="_blank" class="fa fa-linkedin"></a>
-            <a href="https://github.com/0xAtef" target="_blank" class="fa fa-github"></a>
-            <a href="https://medium.com/@0xAtef" target="_blank" class="fa fa-medium"></a>
-            <a href="https://0xatef.github.io/" target="_blank" class="fa fa-arrow-right"></a>
+            
+            <a href="https://twitter.com/0xAtef" target="_blank" class="fa fa-twitter">
+                <!-- <Span>Twitter</Span> -->
+            </a>
+            <a href="https://linkedin.com/in/0xAtef" target="_blank" class="fa fa-linkedin">
+                <!-- <Span>Linkedin</Span> -->
+            </a>
+            <a href="https://github.com/0xAtef" target="_blank" class="fa fa-github">
+                <!-- <Span>Github</Span> -->
+            </a>
+            <a href="https://medium.com/@0xAtef" target="_blank" class="fa fa-medium">
+                <!-- <span>Medium</span> -->
+            </a>
+            <a href="https://0xatef.github.io/" target="_blank" class="fa fa-arrow-right">
+                <!-- <span>0xAtef</span> -->
+            </a>
         </div>
     </div>
     <!-- About Page Content -->
     <div class="main">
         <div class="about_me" id="about">
-            <h1 class="typer">$ Hello World !! <br> I'm Mohamed Atef <br>
-                <span class="txt-rotate" data-period="2000" data-rotate='[ 
-                "I goes online by 0xAtef ⚡",
-                "but $Whoami",
-                "I&#39;m a Cyber Security Engineer.",
-                "Enthusiastic about Incident Response, Digital Forensics, Threat Emulation, Threat Detection & Threat Hunting.",
-                "Mainly more into Blue/Purple teams.",
-                "I&#39;m also a Coder and a Scripts Holic 😄",
-                "Automation is one of my easiest games",
-                "I always work on automate any repetitive task that would face me daily along with my work.",
-                "I&#39;m Fond about learning or gaining new knowledge&#39;s",
-                "I always seek to sharpen my Skills set.",
-                "Currently, I&#39;m interested in dockerize 🐳 any new implementation/technology",
-                "👉 Enjoy my work as a Senior SOC Analyst & Incident Responder with over a year of experience in Security Operation Center Analysis.",
-                "⚡ For Me, nothing is better than a quiet night, a cup of coffee & dark mode IDE",
-                "💬 A Wise Man once said &#39;You Need To understand what you protect&#39;",
-                "👋👋👋"                
-                    ]'></span>
-            </h1>
+            <div class="auto_type">
+                <!-- <h1 class="typer">$ Hello World !! <strong>I'm Mohamed Atef</strong> <br>
+                    <span class="txt-rotate" data-period="2000" data-rotate='[ 
+                    "⚡ I goes online by 0xAtef",
+                    "but $Whoami",
+                    "I&#39;m a Cyber Security Engineer.",
+                    "Enthusiastic about Incident Response, Digital Forensics, Threat Emulation, Threat Detection & Threat Hunting.",
+                    "Mainly more into Blue/Purple teams.",
+                    "I&#39;m also a Coder and a Scripts Holic 😄",
+                    "Automation is one of my easiest games",
+                    "I always work on automate any repetitive task that would face me daily along with my work.",
+                    "I&#39;m Fond about learning or gaining new knowledge&#39;s always seek to sharpen my Skills set.",
+                    "Currently, I&#39;m interested in dockerize 🐳 any new implementation/technology",
+                    "👉 Enjoy my work as a Senior SOC Analyst & Incident Responder with over a year of experience in Security Operation Center Analysis.",
+                    "⚡ For Me, nothing is better than a quiet night, a cup of coffee & dark mode IDE",
+                    "💬 A Wise Man once said &#39;You Need To understand what you protect&#39;",
+                    "👋👋👋"                
+                        ]'></span>
+                </h1> -->
+                <h1> $ Hello World !! <strong>I'm Mohamed Atef</strong> <br>
+                    <span id="typed"></span>
+                </h1>
+            </div>
+
 
             <!-- <div class="about_footer_my_media" align="Center">
                 <div class="footer_img_animation"><a href="https://getbootstrap.com" target="_blank"
