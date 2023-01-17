@@ -3,6 +3,10 @@ body {
     padding: 10px;
     background-color: #0c0f0f !important;
     color: #8f9292;
+    -webkit-background-color: #0c0f0f !important;
+    -moz-background-color: #0c0f0f !important;
+    -ms-background-color: #0c0f0f !important;
+    -o-background-color: #0c0f0f !important;
 }
 
 /* .typer {
