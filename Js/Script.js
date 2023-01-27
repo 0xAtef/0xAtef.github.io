@@ -8,7 +8,7 @@ new Typed('#typed', {
         "Enthusiastic about Threat Hunting,",
         "Enthusiastic about Threat Emulation.",
         "Mainly more into Blue/Purple teams.",
-        "I&#39;m also a Coder and a Scripts Holic",
+        "I&#39;m also a Coder and a Scripts Holic.",
         "Automation is one of my easiest games.",
         "I always work on automate any repetitive task that would face me daily along with my work.",
         "I&#39;m Fond about learning or gaining new knowledge&#39;s always seek to sharpen my Skills set.",
