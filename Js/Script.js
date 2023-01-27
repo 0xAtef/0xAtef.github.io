@@ -1,6 +1,6 @@
 new Typed('#typed', {
-    strings: ["⚡ I goes online by 0xAtef",
-        "but $Whoami",
+    strings: ["I goes online by 0xAtef.",
+        "but $Whoami.",
         "I&#39;m a Cyber Security Engineer.",
         "Enthusiastic about Incident Response,",
         "Enthusiastic about Digital Forensics,",
