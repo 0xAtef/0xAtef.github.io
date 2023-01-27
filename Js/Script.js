@@ -12,7 +12,7 @@ new Typed('#typed', {
         "Automation is one of my easiest games.",
         "I always work on automate any repetitive task that would face me daily along with my work.",
         "I&#39;m Fond about learning or gaining new knowledge&#39;s always seek to sharpen my Skills set.",
-        "Currently, I&#39;m interested in dockerize 🐳 any new implementation/technology.",
+        "Currently, I&#39;m interested in dockerize any new implementation/technology.",
         "Enjoy my work as a Senior SOC Analyst, Incident Responder with over a year of experience in Security Operation Center Analysis.",
         "For Me, nothing is better than a quiet night, a cup of coffee ,and dark mode IDE.",
         "A Wise Man once said &#39;You Need To understand what you protect&#39;.",
