@@ -7,8 +7,9 @@ order: 4
 
 # Mohamed Atef
 
-## Sr.SOC Engineer Specializing in ( Threat Detection | Threat Hunting | Incident Response | Automation )
+---
 
+## Sr.SOC Engineer Specializing in ( Threat Detection | Threat Hunting | Incident Response | Automation )
 
 **I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOC, Develope (Process, use cases, playbooks, automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting**
 
@@ -17,6 +18,8 @@ order: 4
 **I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity**
 
 [Email](mailto:mohamedatef2970@gmail.com) / [Website](https://0xatef.github.io/0xAtef-CV/) / [LinkedIn](https://www.linkedin.com/in/0xAtef/) / [GitHub](https://github.com/0xAtef/) / [Twitter](https://twitter.com/0xAtef/)
+
+---
 
 ### Experience
 
@@ -60,6 +63,8 @@ order: 4
 - Handle alerts that come from EG-FinCert or CBE and hunt for IOC that sends from both of them.
 - Handle brand protection alerts that send from our threat intel and take down fake (social media pages, profiles, websites, and mobile applications).
 
+---
+
 ### Training & Certificate
 
 - eCTHPv2 - eLearnSecurity
@@ -71,3 +76,7 @@ order: 4
 - Become an Incident Handler - Cybrary
 - Become a SOC Analyst - Level 2 - Cybrary
 - n8n Course Level 1,2 - n8n
+
+---
+
+> ⚡ **Nothing Is Better Than A Quiet Night, Cup Of Coffee & Dark Mode IDE**
