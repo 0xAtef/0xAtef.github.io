@@ -1,6 +1,6 @@
 ---
 title: SOAR-ing with TheHive
-date: 2023-08-05 12:17:00 +0200
+date: 2023-08-06 12:17:00 +0200
 categories: [Automation, SOAR]
 tags: [n8n, thehive, cortex, soar, automation, vt, tip, integration]
 ---

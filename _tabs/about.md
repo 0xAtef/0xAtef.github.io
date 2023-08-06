@@ -7,7 +7,7 @@ order: 4
 
 # Mohamed Atef
 
-## Sr.SOC Engineer Specializing in ( Thread Detection | Threat Hunting | Incident Response | Automation )
+## Sr.SOC Engineer Specializing in ( Threat Detection | Threat Hunting | Incident Response | Automation )
 
 
 **I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOC, Develope (Process, use cases, playbooks, automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting**
@@ -59,3 +59,15 @@ order: 4
 - Apply threat hunting for critical systems and log sources to check for any abnormal activity or misconfiguration.
 - Handle alerts that come from EG-FinCert or CBE and hunt for IOC that sends from both of them.
 - Handle brand protection alerts that send from our threat intel and take down fake (social media pages, profiles, websites, and mobile applications).
+
+### Training & Certificate
+
+- eCTHPv2 - eLearnSecurity
+- Threat Intelligence Analyst - Group-IB
+- IBM Qradar - Pluralsight
+- Foundations of Operationalizing MITRE ATT&CK - AttackIQ
+- Foundations of Purple Teaming - AttackIQ
+- Cyber Defense path - TryHackMe
+- Become an Incident Handler - Cybrary
+- Become a SOC Analyst - Level 2 - Cybrary
+- n8n Course Level 1,2 - n8n
