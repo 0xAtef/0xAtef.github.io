@@ -1,5 +1,5 @@
 ---
-title: How To InstallBook Stack
+title: How To Install Book Stack
 date: 2023-09-02 6:00:00 +0300
 categories: [Projects, Solution, Open-Source, WIKI]
 tags: [documentation]
