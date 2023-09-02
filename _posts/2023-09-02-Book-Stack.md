@@ -1,6 +1,6 @@
 ---
-title: How To Install And Configure Velociraptor On Ubuntu
-date: 2023-09-02 5:00:00 +0300
+title: How To InstallBook Stack
+date: 2023-09-02 6:00:00 +0300
 categories: [Projects, Solution, Open-Source, WIKI]
 tags: [documentation]
 ---
@@ -11,7 +11,6 @@ tags: [documentation]
 BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 
 ![Book Stack](/assets/img/posts/bookstack/bookstack-hero-screenshot.webp "Book Stack").
-
 
 ## installation
 
@@ -52,11 +51,10 @@ nano docker-compose.yml
 
 ```
 
-
-change 
-APP_URL=https://example.com
+change
+APP_URL=<https://example.com>
 to
-APP_URL=http://192.168.45.137:8080
+APP_URL=<http://192.168.45.137:8080>
 
 ``` bash
 sudo docker compose up -d
@@ -65,7 +63,7 @@ sudo docker ps
 
 ## Access UI
 
-http://192.168.45.137:8080
+<http://192.168.45.137:8080>
 
-username: admin@admin.com
+username: <admin@admin.com>
 password: password
