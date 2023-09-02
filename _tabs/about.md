@@ -26,31 +26,17 @@ order: 4
 **Sr.SOC Engineer (Dedicated Incident Responder & Threat Hunter)**.
 
 - Develop and enhance threat detection, monitoring, and response capabilities by engaging in Purple Team activity.
-- Develop Playbook
-- Develop use cases mapped to MITRE
-- Design & Implement Automation Workflow
-- Formulate new detection ideas based on newly-published research, industry trends, or major incidents
-- Monitor TIP to detect APT recent attacks that target our region or industry
+- Design Automation Workflow to facilitate threats investigation and analysis process.
+- Integrate different SOC solutions with SIEM.
+- Implementation of SOAR solution “TheHive”.
+- Develop (Process, Use cases, Playbooks).
+- Monitor TIP to detect APT recent attacks that target our region or industry.
 - Monitor the Dark Web for compromised accounts and promptly take appropriate actions.
-- Write and develop SOC Report
-- Review and respond to escalated security events.
-- Provide guidance and training to L1 SOC analysts.
-- Write detection signatures, tune systems/tools, and develop automation scripts and correlation rules.
-
-**L2 SOC Analyst & Incident Responder**.
-
-- Provide Deep Investigation for Escalated Case That Escalated from L1
-- Start IR Cycle When needed and escalated to the concerned team for critical cases
-- Hunt for Both IOCs Shared by CBE and Various Threat Intel
-- Establish SOC Process Inside the Organization
-- Audit on L1 Analyst, Assist to Define Their Gab and Recommend Training When needed
-- Handle all cases that escalate from our Digital risk protection
-- Apply threat hunting for critical systems and log sources to check for any abnormal activity or misconfiguration.
-- Assist for build a next-generation SOC / Mature SOC
-- Assist in automating most of the repetitive daily tasks
 - Research/conduct threat-hunting operations using known adversary tactics, techniques, and procedures to detect advanced threats.
-- Formulate new detection ideas based on newly-published research, industry trends, or major incidents.
-- Develop and enhance threat detection, monitoring, and response capabilities.
+- Hunt for Both IOCs Shared by CBE and Various Threat Intel
+- Establish SOC Process Inside the Organization and Review and respond to escalated security events.
+- Audit on L1 Analyst, assist to Define Their Gab and Recommend Training When needed.
+- Write and develop Incident Response Reports.
 
 **L1 SOC Analyst**.
 
