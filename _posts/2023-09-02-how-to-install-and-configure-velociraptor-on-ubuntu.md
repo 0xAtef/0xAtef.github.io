@@ -1,7 +1,7 @@
 ---
 title: How To Install And Configure Velociraptor On Ubuntu
 date: 2023-09-02 5:00:00 +0300
-categories: [Projects, Endpoint, Forensics]
+categories: [Projects, Solution, Open-Source, Endpoint, Forensics]
 tags: [Velociraptor, Monitor, Collect, Hunt, DFIR]
 ---
 
