@@ -1,7 +1,7 @@
 ---
 title: SOAR-ing with TheHive
 date: 2023-09-02 3:00:00 +0300
-categories: [Projects, Automation, SOAR]
+categories: [Projects, Solution, Open-Source, Automation, SOAR]
 tags: [n8n, Shuffle, The-Hive, Cortex, SOAR, MISP, Automation, VT, TIP, Integration]
 ---
 
