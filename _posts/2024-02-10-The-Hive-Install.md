@@ -39,6 +39,7 @@ yum install pkg-install gnupg chkconfig python3-pip git
 ##### Java Virtual Machine
 
 for DEB
+
 ```bash
 wget -qO- https://apt.corretto.aws/corretto.key | sudo gpg --dearmor  -o /usr/share/keyrings/corretto.gpg
 echo "deb [signed-by=/usr/share/keyrings/corretto.gpg] https://apt.corretto.aws stable main" |  sudo tee -a /etc/apt/sources.list.d/corretto.sources.list
