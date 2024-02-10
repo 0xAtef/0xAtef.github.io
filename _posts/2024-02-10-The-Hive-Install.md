@@ -1,6 +1,6 @@
 ---
 title: The Hive Project (SOARing with open source)
-date: 2024-02-09 8:00:00 +0300
+date: 2024-02-10 8:00:00 +0300
 categories: [Projects, Solution, Open-Source, TheHive]
 tags: [TheHive, SOAR, Automation]
 ---
