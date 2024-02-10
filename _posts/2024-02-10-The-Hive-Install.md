@@ -11,7 +11,7 @@ TheHive is a scalable 3-in-1 open source and free Security Incident Response Pla
 
 ## Project Prerequisites & Components
 
-- 5 Linux VM
+5 Linux VM :
 - 1 For TheHive-UI
 - 1 For TheHive-BackEnd
 - 1 For Cortex
