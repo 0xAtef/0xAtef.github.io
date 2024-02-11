@@ -9,7 +9,7 @@ order: 4
 
 ---
 
-## Sr.SOC Engineer Specializing in ( Threat Detection | Threat Hunting | Incident Response | Automation )
+## Sr.Security Analyst Specializing in ( Threat Detection | Threat Hunting | Incident Response | Automation )
 
 **I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOC, Develope (Process, use cases, playbooks, automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting**
 
@@ -23,20 +23,32 @@ order: 4
 
 ### Experience
 
-**Sr.SOC Engineer (Dedicated Incident Responder & Threat Hunter)**.
+**Sr. SOC Analyst**.
 
-- Develop and enhance threat detection, monitoring, and response capabilities by engaging in Purple Team activity.
-- Design Automation Workflow to facilitate threats investigation and analysis process.
+- Establish SOC team for the first online bank in Egypt. “Misr Digital Innovation”
+- Implementation of SOAR solution “TheHive”.
+- Integrate with GRC and other operational teams to implement the SIEM and develop customized use cases, rules and playbooks to MDI daily business operations.
+- Develop and enhance threat detection, monitoring, and response capabilities in MDI.
+- Audit on L1 Analysts and  assist in defining SOC team and process gaps.
+- Mentor L1 analysts to develop their learnings and recommend needed trainings to empower their capabilities.
+- Assist in administration of SIEM & SOAR.
+- Monitor of cybersecurity trends and IOCs by reviewing TIP/Daily security feeds to ensure proactive security.
+
+**Sr. SOC & IR Engineer**.
+
+- Develop and enhance threat detection, monitoring, and response capabilities by engaging in purple team activity.
+- Design automation workflow to facilitate threats investigation and analysis process.
 - Integrate different SOC solutions with SIEM.
 - Implementation of SOAR solution “TheHive”.
-- Develop (Process, Use cases, Playbooks).
-- Monitor TIP to detect APT recent attacks that target our region or industry.
-- Monitor the Dark Web for compromised accounts and promptly take appropriate actions.
+- Develop (process, use cases, playbooks).
+- Conduct deep investigation and analysis upon escalated cases from L1 analysts.
+- Dark Web platforms monitoring to detect compromised business accounts or data breaches, followed by promptly taking appropriate actions.
 - Research/conduct threat-hunting operations using known adversary tactics, techniques, and procedures to detect advanced threats.
-- Hunt for Both IOCs Shared by CBE and Various Threat Intel
-- Establish SOC Process Inside the Organization and Review and respond to escalated security events.
+- Hunt for Both IOCs Shared by Central Bank of Egypt Incidents reports and other Threat Intelligence platforms.
+- Establish SOC Process and continuously monitor and review process efficiency.
 - Audit on L1 Analyst, assist to Define Their Gab and Recommend Training When needed.
-- Write and develop Incident Response Reports.
+- Develop incident response reports.
+- Integrate with GRC team in PCI logs simulation and other GRC functionalities related to SOC.
 
 **L1 SOC Analyst**.
 
