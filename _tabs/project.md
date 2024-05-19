@@ -1,7 +1,7 @@
 ---
 layout: Projects
 icon: fas fa-tasks
-order: 5
+order: 3
 ---
 
 # Security Projects Overview
