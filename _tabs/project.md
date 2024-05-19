@@ -1,5 +1,5 @@
 ---
-layout: archives
+layout: Projects
 icon: fas fa-tasks
 order: 5
 ---
