@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: Page
+layout: tags
 icon: fas fa-tasks
 order: 5
 ---
