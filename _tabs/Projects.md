@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: categories
 icon: fas fa-tasks
 order: 5
 ---
