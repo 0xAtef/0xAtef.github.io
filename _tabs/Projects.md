@@ -1,4 +1,5 @@
 ---
+title: Projects
 layout: Page
 icon: fas fa-tasks
 order: 5
