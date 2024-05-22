@@ -43,10 +43,10 @@ TheHive is an open-source Security Orchestration, Automation, and Response (SOAR
 **Resources:**
 
 - [TheHive Project](https://thehive-project.org/)
-- [GitHub Repository](https://github.com/TheHive-Project/TheHive)
-- [GitHub Repository](https://github.com/TheHive-Project/Cortex)
-- [GitHub Repository](https://github.com/Shuffle/Shuffle)
-- [GitHub Repository](https://github.com/n8n-io/n8n)
+- [TheHive GitHub Repository](https://github.com/TheHive-Project/TheHive)
+- [Cortex GitHub Repository](https://github.com/TheHive-Project/Cortex)
+- [Shuffle GitHub Repository](https://github.com/Shuffle/Shuffle)
+- [n8n GitHub Repository](https://github.com/n8n-io/n8n)
 
 ## MISP: Malware Information Sharing Platform
 
