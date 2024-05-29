@@ -22,7 +22,6 @@ TheHive is an open-source Security Orchestration, Automation, and Response (SOAR
 **Use Cases:**
 
 - **Incident Response Coordination:** Streamline the coordination and management of incident response activities among multiple team members.
-- **Threat Hunting:** Proactively search for cyber threats and vulnerabilities within the organization’s network.
 - **Automated Alert Processing:** Automatically process and prioritize security alerts to reduce the workload on analysts.
 - **Collaboration Across Teams:** Enhance collaboration between IT, security, and other relevant departments during incident response.
 - **Incident Reporting:** Generate detailed reports on incidents and response activities for compliance and audit purposes.
@@ -102,7 +101,7 @@ BookStack is an open-source platform designed for creating, organizing, and stor
 **Resources:**
 
 - [BookStack](https://www.bookstackapp.com/)
-- [GitHub Repository](https://github.com/BookStackApp/BookStack)
+- [BookStack GitHub Repository](https://github.com/BookStackApp/BookStack)
 
 ## EDR Assessment
 
@@ -116,6 +115,8 @@ Endpoint Detection and Response (EDR) assessment involves evaluating the effecti
 - **Forensic Analysis:** Analyzes the EDR's ability to perform detailed investigations and provide actionable insights.
 - **Integration:** Reviews how well the EDR integrates with other security tools and platforms.
 - **Performance:** Examines the impact of the EDR on system performance and user experience.
+- **Threat Hunting:** Proactively search for cyber threats and vulnerabilities within the organization’s network.
+- **Automation:**  Assesses the EDR capability and ability to be integrated into playbooks and runbooks "SOAR workflows"
 
 **Use Cases:**
 
