@@ -9,7 +9,9 @@ order: 4
 
 ---
 
-## Senior Cyber Defense Engineer with proven experience in leading Security Operations, conducting EDR assessments, and developing SOC processes, use cases, playbooks, detection rules, and automation workflows.
+## Senior Cyber Defense Engineer 
+
+**with proven experience in leading Security Operations, conducting EDR assessments, and developing SOC processes, use cases, playbooks, detection rules, and automation workflows.**
 
 **As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.**
 
