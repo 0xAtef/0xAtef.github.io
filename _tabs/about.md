@@ -9,19 +9,40 @@ order: 4
 
 ---
 
-## Sr.Security Analyst Specializing in ( Threat Detection | Threat Hunting | Incident Response | Automation )
+## Senior Cyber Defense Engineer with proven experience in leading Security Operations, conducting EDR assessments, and developing SOC processes, use cases, playbooks, detection rules, and automation workflows.
 
-**I hold a certification in Threat Hunting (eCTHPv2) and possess practical expertise in Leading SOC, Develope (Process, use cases, playbooks, automation workflows) and designing rules, SIEM Administration, implementing SOAR solutions, integrating SOCs with automation tools, and proficiently scripting**
+**As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.**
 
-**In the online realm, I am recognized as 0xAtef. My professional passion revolves around SOC, Incident Response, Threat Detection, Threat Hunting, Threat Emulation, as well as SOC Automation, with a specific focus on Blue/Purple teaming**
+**Currently, I hold a professional certificate in Threat Hunting (ecthpv2) and I’m willing to solidify my practical capabilities with other blue/purple team certificates in the future.**
+**My core belief is that you can’t protect what you don’t understand, that’s why I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.**
 
-**I am deeply enthusiastic about Developing and scripting, particularly in the realm of automation. My core belief is that you need to understand what you are protecting. I am dedicated to remaining well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity**
-
-[Email](mailto:mohamedatef2970@gmail.com) / [Website](https://0xatef.github.io/0xAtef-CV/) / [LinkedIn](https://www.linkedin.com/in/0xAtef/) / [GitHub](https://github.com/0xAtef/) / [Twitter](https://twitter.com/0xAtef/)
+[Email](mailto:mohamedatef2970@gmail.com) / [Website](https://0xatef.github.io/about/) / [LinkedIn](https://www.linkedin.com/in/0xAtef/) / [GitHub](https://github.com/0xAtef/) / [Twitter](https://twitter.com/0xAtef/)
 
 ---
 
 ### Experience
+
+**Sr. Cyber Defense Engineer**
+
+-	Administered and optimized SOC platforms—including SIEM, SOAR, EDR, and NDR—ensuring robust security monitoring and efficient response capabilities.
+-	Implemented and integrated security solutions across SOC platforms, emphasizing automation and process efficiency.
+-	Managed Digital Risk Protection (DRP) and Threat Intelligence Platforms (TIP) cases, ensuring prompt and effective responses to security incidents.
+-	Authored and escalated Incident Response reports to top management, aligning security strategies and lessons learned with business objectives.
+-	Collaborated with the GRC team on PCI DSS log simulation and supported other governance, risk, and compliance functions related to SOC.
+-	Enhanced threat detection, monitoring, and response capabilities, driving continuous improvements in SOC operations.
+-	Automated SOC processes, boosting operational efficiency and reducing response times.
+-	Assessed security products and contributed to the POC process for various security solutions (EDR, Mail Gateway, TIP, and SOAR) to ensure their effectiveness.
+
+**Cyber Defense Engineer**
+
+-	Managed SOAR platform "The Hive" for incident response.
+-	Automated SOC processes to improve efficiency.
+-	Performed EDR assessments.
+-	Supported the SOC team with complex security incidents
+-	Integrate with the GRC team in any GRC functionalities related to SOC.
+-	SIEM Administration
+
+
 
 **Sr. SOC Analyst**.
 
