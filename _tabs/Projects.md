@@ -207,3 +207,17 @@ Caldera is an automated adversary emulation system that allows security teams to
 **Resources:**
 
 - [Caldera GitHub Repository](https://github.com/mitre/caldera)
+
+## How to Send Logs From an API to QRadar SIEM Through Syslog Middleware
+
+
+**Description:**  
+**Integrating API logs into QRadar SIEM**
+
+- Fetching Logs: How to retrieve logs from an API.
+- Parsing Data: Extracting relevant information from the logs.
+- Setting Up Syslog: Configuring a logger to send logs to QRadar.
+- LEEF Formatting: Ensuring the logs are in the correct format for QRadar to be easy to parse.
+**Resources:**
+
+- [Read The Full Guide Here](https://0xatef.github.io/posts/API-to-QRadar-Through-Syslog-Middlewares/).
