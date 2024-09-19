@@ -9,14 +9,13 @@ order: 4
 
 ---
 
-## Senior Cyber Defense Engineer 
+## Senior Cyber Defense Engineer
 
-**with proven experience in leading Security Operations, conducting EDR assessments, and developing SOC processes, use cases, playbooks, detection rules, and automation workflows.**
+**With proven experience in leading Security Operations, Conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC Processes, Use Cases, Playbooks, Detection Rules, and Automation Workflows.**
 
 **As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.**
 
-**Currently, I hold a professional certificate in Threat Hunting (ecthpv2) and I’m willing to solidify my practical capabilities with other blue/purple team certificates in the future.**
-**My core belief is that you can’t protect what you don’t understand, that’s why I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.**
+**I hold a professional certificate in Threat Hunting (ecthpv2) and am willing to solidify my practical capabilities with other blue/purple team certificates in the future. My core belief is that you can’t protect what you don’t understand, so I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.**
 
 [Email](mailto:mohamedatef2970@gmail.com) / [Website](https://0xatef.github.io/about/) / [LinkedIn](https://www.linkedin.com/in/0xAtef/) / [GitHub](https://github.com/0xAtef/) / [Twitter](https://twitter.com/0xAtef/)
 
@@ -24,29 +23,27 @@ order: 4
 
 ### Experience
 
-**Sr. Cyber Defense Engineer**
+#### Sr. Cyber Defense Engineer
 
--	Administered and optimized SOC platforms—including SIEM, SOAR, EDR, and NDR—ensuring robust security monitoring and efficient response capabilities.
--	Implemented and integrated security solutions across SOC platforms, emphasizing automation and process efficiency.
--	Managed Digital Risk Protection (DRP) and Threat Intelligence Platforms (TIP) cases, ensuring prompt and effective responses to security incidents.
--	Authored and escalated Incident Response reports to top management, aligning security strategies and lessons learned with business objectives.
--	Collaborated with the GRC team on PCI DSS log simulation and supported other governance, risk, and compliance functions related to SOC.
--	Enhanced threat detection, monitoring, and response capabilities, driving continuous improvements in SOC operations.
--	Automated SOC processes, boosting operational efficiency and reducing response times.
--	Assessed security products and contributed to the POC process for various security solutions (EDR, Mail Gateway, TIP, and SOAR) to ensure their effectiveness.
+- Administered and optimized SOC platforms—including SIEM, SOAR, EDR, and NDR—ensuring robust security monitoring and efficient response capabilities.
+- Implemented and integrated security solutions across SOC platforms, emphasizing automation and process efficiency.
+- Managed Digital Risk Protection (DRP), Attack Surface Management (ASM), and Threat Intelligence Platforms (TIP) cases, ensuring prompt and effective responses to security incidents.
+- Authored and escalated Incident Response reports to top management, aligning security strategies and lessons learned with business objectives.
+- Collaborated with the GRC team on PCI DSS log simulation and supported other governance, risk, and compliance functions related to SOC.
+- Enhanced threat detection, monitoring, and response capabilities, driving continuous improvements in SOC operations.
+- Automated SOC processes, boosting operational efficiency and reducing response times.
+- Assessed security products and contributed to the POC process for various security solutions (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR) to ensure their effectiveness.
 
-**Cyber Defense Engineer**
+#### Cyber Defense Engineer
 
--	Managed SOAR platform "The Hive" for incident response.
--	Automated SOC processes to improve efficiency.
--	Performed EDR assessments.
--	Supported the SOC team with complex security incidents
--	Integrate with the GRC team in any GRC functionalities related to SOC.
--	SIEM Administration
+- Managed SOAR platform "The Hive" for incident response.
+- Automated SOC processes to improve efficiency.
+- Performed EDR assessments.
+- Supported the SOC team with complex security incidents
+- Integrate with the GRC team in any GRC functionalities related to SOC.
+- SIEM Administration
 
-
-
-**Sr. SOC Analyst**.
+#### Sr. SOC Analyst
 
 - Establish SOC team for the first online bank in Egypt. “Misr Digital Innovation”
 - Implementation of SOAR solution “TheHive”.
@@ -57,7 +54,7 @@ order: 4
 - Assist in administration of SIEM & SOAR.
 - Monitor of cybersecurity trends and IOCs by reviewing TIP/Daily security feeds to ensure proactive security.
 
-**Sr. SOC & IR Engineer**.
+#### Sr. SOC & IR Engineer
 
 - Develop and enhance threat detection, monitoring, and response capabilities by engaging in purple team activity.
 - Design automation workflow to facilitate threats investigation and analysis process.
@@ -73,7 +70,7 @@ order: 4
 - Develop incident response reports.
 - Integrate with GRC team in PCI logs simulation and other GRC functionalities related to SOC.
 
-**L1 SOC Analyst**.
+#### SOC Analyst
 
 - Monitor 24x7 alerts generated by multiple security appliances.
 - Analyze the alerts, eliminate false positives, and raise alerts to designated personnel to respond to identified incidents.
@@ -86,10 +83,13 @@ order: 4
 
 ---
 
-### Training & Certificate
+### Certificate
 
 - eCTHPv2 - eLearnSecurity
 - Threat Intelligence Analyst - Group-IB
+
+### Training
+
 - IBM Qradar - Pluralsight
 - Foundations of Operationalizing MITRE ATT&CK - AttackIQ
 - Foundations of Purple Teaming - AttackIQ
@@ -97,6 +97,35 @@ order: 4
 - Become an Incident Handler - Cybrary
 - Become a SOC Analyst - Level 2 - Cybrary
 - n8n Course Level 1,2 - n8n
+
+### Hands on Experience
+
+- SIEM (Qrader, Splunk, ELK)
+- SOAR (The Hive, IBM Resilient)
+- EDR (Trillex, Fidelis, Group-IB” XDR”)
+- NDR (IBM QNI)
+- Workflow Automation (N8N, Shuffle)
+- Python
+- TIP (GIB, Threat-Q, MISP, Dark Atlas)
+- Dark Web Monitoring (GIB, Dark Atlas)
+- ASM (GIB, Dark Atlas, Cynerv)
+- DRP (GIB, Dark Atlas)
+- C2 Frameworks (Covenant, Havoc)
+- Adversary Emulation (Caldera)
+- Middleware integrations
+- Git (GitHub)
+- GitHub Action
+
+### Security Projects Overview
+
+- [TheHive: Open Source SOAR](https://0xatef.github.io/Projects/#thehive-open-source-soar)
+- [MISP: Malware Information Sharing Platform](https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform)
+- [BookStack: Documentation Platform](https://0xatef.github.io/Projects/#bookstack-documentation-platform)
+- [EDR Assessment](https://0xatef.github.io/Projects/#edr-assessment")
+- [ELK: Elasticsearch, Logstash, Kibana](https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana")
+- [C2 Frameworks](https://0xatef.github.io/Projects/#c2-frameworks")
+- [Attack Simulation](https://0xatef.github.io/Projects/#attack-simulation")
+- [How to Send Logs From an API to QRadar SIEM Through Syslog Middleware](https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware")
 
 ---
 
