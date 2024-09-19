@@ -121,11 +121,11 @@ order: 4
 - [TheHive: Open Source SOAR](https://0xatef.github.io/Projects/#thehive-open-source-soar)
 - [MISP: Malware Information Sharing Platform](https://0xatef.github.io/Projects/#misp-malware-information-sharing-platform)
 - [BookStack: Documentation Platform](https://0xatef.github.io/Projects/#bookstack-documentation-platform)
-- [EDR Assessment](https://0xatef.github.io/Projects/#edr-assessment")
-- [ELK: Elasticsearch, Logstash, Kibana](https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana")
-- [C2 Frameworks](https://0xatef.github.io/Projects/#c2-frameworks")
-- [Attack Simulation](https://0xatef.github.io/Projects/#attack-simulation")
-- [How to Send Logs From an API to QRadar SIEM Through Syslog Middleware](https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware")
+- [EDR Assessment](https://0xatef.github.io/Projects/#edr-assessment)
+- [ELK: Elasticsearch, Logstash, Kibana](https://0xatef.github.io/Projects/#elk-elasticsearch-logstash-kibana)
+- [C2 Frameworks](https://0xatef.github.io/Projects/#c2-frameworks)
+- [Attack Simulation](https://0xatef.github.io/Projects/#attack-simulation)
+- [How to Send Logs From an API to QRadar SIEM Through Syslog Middleware](https://0xatef.github.io/Projects/#how-to-send-logs-from-an-api-to-qradar-siem-through-syslog-middleware)
 
 ---
 
