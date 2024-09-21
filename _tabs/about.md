@@ -33,6 +33,9 @@ order: 4
 - Enhanced threat detection, monitoring, and response capabilities, driving continuous improvements in SOC operations.
 - Automated SOC processes, boosting operational efficiency and reducing response times.
 - Assessed security products and contributed to the POC process for various security solutions (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR) to ensure their effectiveness.
+- Implement Threat Detection Program Leveraging Detection-as-a-code with test driven detection
+- Implement a Cyber Threat Intelligence Program leveraging MISP, TIP, Open Source Intelligence to provide an actionable intelligence
+- MITRE Assessment for both technology and detection rules and provide MITRE heat map for management
 
 #### Cyber Defense Engineer
 
@@ -90,13 +93,23 @@ order: 4
 
 ### Training
 
-- IBM Qradar - Pluralsight
-- Foundations of Operationalizing MITRE ATT&CK - AttackIQ
-- Foundations of Purple Teaming - AttackIQ
-- Cyber Defense path - TryHackMe
-- Become an Incident Handler - Cybrary
-- Become a SOC Analyst - Level 2 - Cybrary
-- n8n Course Level 1,2 - n8n
+- CCNA  (Cisco Networking Academy)
+- CCNA Security (Cisco Networking Academy)
+- Cyber-Ops Associate (Cisco Networking Academy)
+- Certified Ethical Hacker (EC-council)
+- Foundations of Operationalizing MITRE ATT&CK (Attack IQ Academy)
+- Cyber Defense (TryHackMe)
+- Practical Malware Analysis & Triage (TCM security)
+- SOC Analyst - Level 2 (Cybrary)
+- Incident Handler Path (Cybrary)
+- N8N Workflow Automation Level 1, 2
+- IBM Qradar (Pluralsight)
+- Foundations of Purple Teaming (Attack IQ Academy)
+- Fundamentals of SIEM Alert Rule Development (Purple Academy by Picus)
+- CLF-C02: AWS Cloud Practitioner (kodekloud)
+- AZ900: Microsoft Azure Fundamentals (kodekloud)
+- PCAP - Python Certification Course (kodekloud)
+- Jenkins (KodeKloud)
 
 ### Hands on Experience
 
