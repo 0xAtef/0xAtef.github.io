@@ -9,9 +9,9 @@ order: 4
 
 ---
 
-## Senior Cyber Defense Engineer
+## Cyber Defense Lead
 
-**With proven experience in leading Security Operations, Conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC Processes, Use Cases, Playbooks, Detection Rules, and Automation Workflows.**
+**Cyber Defense Lead With proven experience in leading Security Operations, Conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC Processes, Use Cases, Playbooks, Detection Rules, and Automation Workflows.**
 
 **As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.**
 
