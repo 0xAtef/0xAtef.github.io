@@ -1,36 +1,42 @@
 name: Latest blog post workflow
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 * * * *'    # hourly
+    - cron: '0 * * * *'    # hourly UTC
   workflow_dispatch:       # manual trigger
 
 permissions:
-  contents: write          # allow pushing back to README
+  contents: write          # grant write access to repo contents
 
 jobs:
   update-readme-with-blog:
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # ensure ${{ github.token }} is available
+          persist-credentials: true  # keep ${{ github.token }} available
           fetch-depth: 0             # avoid detached HEAD on push
 
       - name: Pull in posts from multiple RSS feeds
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          # All three feeds, comma-separated
           feed_list: |
-            https://feeds.feedburner.com/TheHackersNews,\
-            https://krebsonsecurity.com/feed/,\
-            https://www.bleepingcomputer.com/feed/
+            https://feeds.feedburner.com/TheHackersNews, https://krebsonsecurity.com/feed/, https://www.bleepingcomputer.com/feed/
+          # Friendly names in the same order
           feed_names: |
-            The Hacker News,\
-            Krebs on Security,\
-            Bleeping Computer
-          max_post_count: 25
+            The Hacker News, Krebs on Security, Bleeping Computer
+          max_post_count: 10
+          # Template shows source, title & date
           template: "- **$feedName**: [$title]($url) — $date$newline"
-          date_format: "UTC:yyyy-mm-dd"
-          readme_path: "./README.md"      # explicitly point to your README :contentReference[oaicite:1]{index=1}
+          date_format: "UTC:yyyy-MM-dd"
+          # Point explicitly at your README
+          readme_path: "./README.md"
+          # Commit message for the update
           commit_message: ":robot: Update blog posts"
