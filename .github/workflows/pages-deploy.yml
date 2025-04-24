@@ -5,6 +5,15 @@ on:
     branches:
       - main
       - master
+    # Trigger on changes to specific Jekyll files or directories
+    paths:
+      - "_posts/**"
+      - "_pages/**"
+      - "_data/**"
+      - "_includes/**"
+      - "_layouts/**"
+      - "assets/**"
+    # Ignore these files to avoid unnecessary rebuilds
     paths-ignore:
       - .gitignore
       - README.md
@@ -13,12 +22,12 @@ on:
   # Manual trigger
   workflow_dispatch:
 
-  # Still listen for the custom dispatch (if you ever need it)
+  # Trigger when RSS event occurs
   repository_dispatch:
     types:
       - rss-updated
 
-  # ← NEW: run this workflow when your RSS job finishes
+  # Trigger when the "Update RSS Feeds" workflow finishes
   workflow_run:
     workflows:
       - "Update RSS Feeds"    # must exactly match the `name:` in your rss.yml
