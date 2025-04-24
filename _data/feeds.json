@@ -89,12 +89,5 @@
     "summary": "A significant security gap in Linux runtime security caused by the 'io_uring' interface allows rootkits to operate undetected on systems while bypassing advanced Enterprise security software. [...]",
     "published": "2025-04-24T12:00:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals",
-    "link": "https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html",
-    "summary": "The threat actors behind the Darcula phishing-as-a-service (PhaaS) platform have released new updates to their cybercrime suite with generative artificial intelligence (GenAI) capabilities.\n\"This addition lowers the technical barrier for creating phishing pages, enabling less tech-savvy criminals to",
-    "published": "2025-04-24T11:27:00",
-    "source": "HackerNews"
   }
 ]
