@@ -5,15 +5,7 @@ on:
     branches:
       - main
       - master
-    # Trigger on changes to specific Jekyll files or directories
-    paths:
-      - "_posts/**"
-      - "_pages/**"
-      - "_data/**"
-      - "_includes/**"
-      - "_layouts/**"
-      - "assets/**"
-    # Ignore these files to avoid unnecessary rebuilds
+    # Ignore specific files from triggering the workflow
     paths-ignore:
       - .gitignore
       - README.md
