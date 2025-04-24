@@ -23,13 +23,13 @@ jobs:
         with:
           feed_list: |
             https://feeds.feedburner.com/TheHackersNews,\
-https://krebsonsecurity.com/feed/,\
-https://www.bleepingcomputer.com/feed/
+            https://krebsonsecurity.com/feed/,\
+            https://www.bleepingcomputer.com/feed/
           feed_names: |
             The Hacker News,\
-Krebs on Security,\
-Bleeping Computer
-          max_post_count: 10
+            Krebs on Security,\
+            Bleeping Computer
+          max_post_count: 25
           template: "- **$feedName**: [$title]($url) — $date$newline"
           date_format: "UTC:yyyy-mm-dd"
           readme_path: "./README.md"      # explicitly point to your README :contentReference[oaicite:1]{index=1}
