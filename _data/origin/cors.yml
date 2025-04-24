@@ -1,0 +1,59 @@
+# CDNs
+
+cdns:
+  # Google Fonts
+  - url: https://fonts.googleapis.com
+  - url: https://fonts.gstatic.com
+    args: crossorigin
+  - url: https://fonts.googleapis.com
+  # jsDelivr CDN
+  - url: https://fastly.jsdelivr.net
+
+# fonts
+
+webfonts: https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;700;900&display=swap
+
+# Libraries
+
+jquery:
+  js: https://fastly.jsdelivr.net/npm/jquery@3.7.0/dist/jquery.min.js
+
+bootstrap:
+  css: https://fastly.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css
+  js: https://fastly.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js
+
+toc:
+  css: https://fastly.jsdelivr.net/npm/tocbot@4.21.0/dist/tocbot.min.css
+  js: https://fastly.jsdelivr.net/npm/tocbot@4.21.0/dist/tocbot.min.js
+
+fontawesome:
+  css: https://fastly.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css
+
+search:
+  js: https://fastly.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js
+
+mermaid:
+  js: https://fastly.jsdelivr.net/npm/mermaid@9.4.3/dist/mermaid.min.js
+
+dayjs:
+  js:
+    common: https://fastly.jsdelivr.net/npm/dayjs@1.11.7/dayjs.min.js
+    locale: https://fastly.jsdelivr.net/npm/dayjs@1.11.7/locale/:LOCALE.min.js
+    relativeTime: https://fastly.jsdelivr.net/npm/dayjs@1.11.7/plugin/relativeTime.min.js
+    localizedFormat: https://fastly.jsdelivr.net/npm/dayjs@1.11.7/plugin/localizedFormat.min.js
+
+magnific-popup:
+  css: https://fastly.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css
+  js: https://fastly.jsdelivr.net/npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js
+
+lazysizes:
+  js: https://fastly.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js
+
+clipboard:
+  js: https://fastly.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js
+
+polyfill:
+  js: https://polyfill.io/v3/polyfill.min.js?features=es6
+
+mathjax:
+  js: https://fastly.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js

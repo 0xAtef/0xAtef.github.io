@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Microsoft now pays up to $30,000 for some AI vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-30-000-for-some-ai-vulnerabilities/",
+    "summary": "Microsoft announced an increase in bug bounty payouts to $30,000 for AI vulnerabilities found in Dynamics 365 and Power Platform services and products. [...]",
+    "published": "2025-04-24T15:06:59",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Interlock ransomware claims DaVita attack, leaks stolen data",
+    "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-davita-attack-leaks-stolen-data/",
+    "summary": "The Interlock ransomware gang has claimed the cyberattack on DaVita kidney dialysis firm and leaked data allegedly stolen from the organization. [...]",
+    "published": "2025-04-24T14:59:00",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Yale New Haven Health data breach affects 5.5 million patients",
+    "link": "https://www.bleepingcomputer.com/news/security/yale-new-haven-health-data-breach-affects-55-million-patients/",
+    "summary": "Yale New Haven Health (YNHHS) is warning that threat actors stole the personal data of 5.5 million patients in a cyberattack earlier this month. [...]",
+    "published": "2025-04-24T14:12:24",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Zero-Day and ThreatNeedle Malware",
+    "link": "https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html",
+    "summary": "At least six organizations in South Korea have been targeted by the prolific North Korea-linked Lazarus Group as part of a campaign dubbed Operation SyncHole.\nThe activity targeted South Korea's software, IT, financial, semiconductor manufacturing, and telecommunications industries, according to a r",
+    "published": "2025-04-24T14:11:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Microsoft fixes bug causing incorrect 0x80070643 WinRE errors",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-incorrect-0x80070643-winre-errors/",
+    "summary": "Microsoft says it resolved a known issue causing erroneous 0x80070643 installation failure errors when deploying the April 2025 Windows Recovery Environment (WinRE) updates. [...]",
+    "published": "2025-04-24T13:54:18",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools",
+    "link": "https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html",
+    "summary": "Cybersecurity researchers have demonstrated a proof-of-concept (PoC) rootkit dubbed Curing that leverages a Linux asynchronous I/O mechanism called io_uring to bypass traditional system call monitoring.\nThis causes a \"major blind spot in Linux runtime security tools,\" ARMO said.\n\"This mechanism allo",
+    "published": "2025-04-24T12:58:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "159 CVEs Exploited in Q1 2025 \u2014 28.3% Within 24 Hours of Disclosure",
+    "link": "https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html",
+    "summary": "As many as 159 CVE identifiers have been flagged as exploited in the wild in the first quarter of 2025, up from 151 in Q4 2024.\n\"We continue to see vulnerabilities being exploited at a fast pace with 28.3% of vulnerabilities being exploited within 1-day of their CVE disclosure,\" VulnCheck said in a ",
+    "published": "2025-04-24T12:58:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Linux 'io_uring' security blindspot allows stealthy rootkit attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/linux-io-uring-security-blindspot-allows-stealthy-rootkit-attacks/",
+    "summary": "A significant security gap in Linux runtime security caused by the 'io_uring' interface allows rootkits to operate undetected on systems while bypassing advanced Enterprise security software. [...]",
+    "published": "2025-04-24T12:00:00",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals",
+    "link": "https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html",
+    "summary": "The threat actors behind the Darcula phishing-as-a-service (PhaaS) platform have released new updates to their cybercrime suite with generative artificial intelligence (GenAI) capabilities.\n\"This addition lowers the technical barrier for creating phishing pages, enabling less tech-savvy criminals to",
+    "published": "2025-04-24T11:27:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign",
+    "link": "https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html",
+    "summary": "The Evolving Healthcare Cybersecurity Landscape&nbsp;\nHealthcare organizations face unprecedented cybersecurity challenges in 2025. With operational technology (OT) environments increasingly targeted and the convergence of IT and medical systems creating an expanded attack surface, traditional secur",
+    "published": "2025-04-24T10:30:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely",
+    "link": "https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html",
+    "summary": "A critical security flaw has been disclosed in the Commvault Command Center that could allow arbitrary code execution on affected installations.\nThe vulnerability, tracked as CVE-2025-34028, carries a CVSS score of 9.0 out of a maximum of 10.0.\n\"A critical security vulnerability has been identified ",
+    "published": "2025-04-24T10:00:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "WhatsApp Adds Advanced Chat Privacy to Blocks Chat Exports and Auto-Downloads",
+    "link": "https://thehackernews.com/2025/04/whatsapp-adds-advanced-chat-privacy-to.html",
+    "summary": "WhatsApp has introduced an extra layer of privacy called Advanced Chat Privacy that allows users to block participants from sharing the contents of a conversation in traditional chats and groups.\n\"This new setting available in both chats and groups helps prevent others from taking content outside of",
+    "published": "2025-04-24T04:03:00",
+    "source": "HackerNews"
+  }
+]
