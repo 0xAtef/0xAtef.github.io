@@ -9,13 +9,16 @@ order: 4
 
 ---
 
-## Cyber Defense Lead
+## About Me
 
-**Cyber Defense Lead With proven experience in leading Security Operations, Conducting Product assessments (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR), and developing SOC Processes, Use Cases, Playbooks, Detection Rules, and Automation Workflows.**
+I’m a **Senior Cyber Defense Engineer** specializing in **Digital Forensics**, **Incident Response**, **Threat Hunting**, **Cyber Threat Intelligence (CTI)**, and **SOC Operations**.
 
-**As a Cyber Defense Engineer, my professional passion encompasses whatever is related to blue team capabilities like threat detection, incident response, and threat hunting and my skills extend to SIEM Administration, implementing and managing SOAR solutions, integrating SOCs with automation tools, and proficient scripting.**
+I focus on integrating and automating detection and response workflows using tools like **TIP**, **SOAR**, **SIEM**, **EDR**, **Mail Security Gateways**, and **Python**, enabling efficient threat detection, investigation, and mitigation across SOC environments.
 
-**I hold a professional certificate in Threat Hunting (ecthpv2) and am willing to solidify my practical capabilities with other blue/purple team certificates in the future. My core belief is that you can’t protect what you don’t understand, so I’m eager to stay well-informed and up-to-date with the latest trends and advancements in the dynamic field of cybersecurity.**
+My experience includes evaluating and deploying security solutions—**EDR**, **TIP**, **ASM**, **DRP**, and **Dark Web Monitoring**—and ensuring they’re effectively embedded into the SOC ecosystem. I’m skilled in conducting endpoint investigations, building detection use cases, and refining SOC processes for optimal performance.
+
+I hold certifications in **Threat Hunting** and **Windows Forensics**, and I’ve led CTI initiatives including **CTI-SOP development** and **platform integration** to boost threat detection and response efficiency.
+
 
 [Email](mailto:mohamedatef2970@gmail.com) / [Website](https://0xatef.github.io/about/) / [LinkedIn](https://www.linkedin.com/in/0xAtef/) / [GitHub](https://github.com/0xAtef/) / [Twitter](https://twitter.com/0xAtef/)
 
