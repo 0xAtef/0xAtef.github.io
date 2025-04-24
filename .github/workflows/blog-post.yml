@@ -1,0 +1,37 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *'        # every hour on the hour
+  workflow_dispatch:         # manual trigger
+permissions:
+  contents: write            # allow writing back to the README
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull in posts from multiple RSS feeds
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # 1) Point to all of your feeds, comma-separated
+          feed_list: |
+            https://feeds.feedburner.com/TheHackersNews,\
+            https://krebsonsecurity.com/feed/,\
+            https://www.bleepingcomputer.com/feed/
+          # 2) (Optional) Give each feed a friendly name, in the same order
+          feed_names: |
+            The Hacker News,\
+            Krebs on Security,\
+            Bleeping Computer
+          # 3) How many posts total you want in the list
+          max_post_count: 10
+          # 4) Keep items sorted by date (default is true)
+          disable_sort: false
+          # 5) Use a custom markdown template so you can include the source name
+          template: "- **$feedName**: [$title]($url) — $date$newline"
+          # 6) ISO-style dates (you can tweak this)
+          date_format: "UTC:yyyy-mm-dd"
