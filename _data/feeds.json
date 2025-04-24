@@ -96,12 +96,5 @@
     "summary": "The threat actors behind the Darcula phishing-as-a-service (PhaaS) platform have released new updates to their cybercrime suite with generative artificial intelligence (GenAI) capabilities.\n\"This addition lowers the technical barrier for creating phishing pages, enabling less tech-savvy criminals to",
     "published": "2025-04-24T11:27:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely",
-    "link": "https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html",
-    "summary": "A critical security flaw has been disclosed in the Commvault Command Center that could allow arbitrary code execution on affected installations.\nThe vulnerability, tracked as CVE-2025-34028, carries a CVSS score of 9.0 out of a maximum of 10.0.\n\"A critical security vulnerability has been identified ",
-    "published": "2025-04-24T10:00:00",
-    "source": "HackerNews"
   }
 ]
