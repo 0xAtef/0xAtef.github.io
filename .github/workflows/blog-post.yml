@@ -26,17 +26,17 @@ jobs:
       - name: Pull in posts from multiple RSS feeds
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # All three feeds, comma-separated
-          feed_list: |
-            https://feeds.feedburner.com/TheHackersNews, https://krebsonsecurity.com/feed/, https://www.bleepingcomputer.com/feed/
-          # Friendly names in the same order
-          feed_names: |
-            The Hacker News, Krebs on Security, Bleeping Computer
-          max_post_count: 10
-          # Template shows source, title & date
-          template: "- **$feedName**: [$title]($url) — $date$newline"
-          date_format: "UTC:yyyy-MM-dd"
-          # Point explicitly at your README
-          readme_path: "./README.md"
-          # Commit message for the update
-          commit_message: ":robot: Update blog posts"
+            feed_list: |
+              https://feeds.feedburner.com/TheHackersNews, https://krebsonsecurity.com/feed/, https://www.bleepingcomputer.com/feed/
+            feed_names: |
+              The Hacker News, Krebs on Security, Bleeping Computer
+            max_post_count: 100
+  
+            # prepend a newline so every item is on its own line
+            template: "$newline- **$feedName**: [$title]($url) — $date"
+  
+            # use MM for month, dd for day  (mm was minutes, hence the weird numbers)
+            date_format: "UTC:yyyy-MM-dd"
+  
+            readme_path: "./README.md"
+            commit_message: ":robot: Update blog posts"
