@@ -1,5 +1,19 @@
 [
   {
+    "title": "Lazarus hackers breach six companies in watering hole attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-six-companies-in-watering-hole-attacks/",
+    "summary": "In a\u00a0recent espionage campaign, the infamous North Korean threat group Lazarus targeted multiple organizations in the software, IT, finance, and telecommunications sectors in South Korea. [...]",
+    "published": "2025-04-24T19:13:32",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Microsoft fixes machine learning bug flagging Adobe emails as spam",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-machine-learning-bug-flagging-adobe-emails-as-spam/",
+    "summary": "Microsoft says it mitigated a known issue in one of its machine learning (ML) models that mistakenly flagged Adobe emails in Exchange Online as spam. [...]",
+    "published": "2025-04-24T19:02:07",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Frederick Health data breach impacts nearly 1 million patients",
     "link": "https://www.bleepingcomputer.com/news/security/frederick-health-data-breach-impacts-nearly-1-million-patients/",
     "summary": "\u200bA ransomware attack in January at Frederick Health Medical Group, a major healthcare provider in Maryland, has led to a data breach affecting nearly one million patients. [...]",
