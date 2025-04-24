@@ -1,5 +1,5 @@
 ---
-title: How To MISP
+title: How To Install MISP
 date: 2025-04-24 7:30:00 +0200
 categories: [Projects, Solution, Open-Source, MISP, TIP]
 tags: [documentation]
