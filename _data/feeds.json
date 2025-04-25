@@ -1,5 +1,12 @@
 [
   {
+    "title": "Baltimore City Public Schools data breach affects over 31,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/",
+    "summary": "\u200bBaltimore City Public Schools notified tens of thousands of employees and students of a data breach following an incident in February when unknown attackers hacked into its network. [...]",
+    "published": "2025-04-25T14:06:23",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "SAP fixes suspected Netweaver zero-day exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-suspected-netweaver-zero-day-exploited-in-attacks/",
     "summary": "SAP has released out-of-band emergency NetWeaver updates to fix a suspected remote code execution (RCE) zero-day flaw actively exploited to hijack servers. [...]",
