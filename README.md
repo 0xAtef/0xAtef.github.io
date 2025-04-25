@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [SAP Confirms Critical NetWeaver Flaw Amid Suspected Zero-Day Exploitation by Hackers](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html) — 2025-41-25
+- **The Hacker News**: [Why NHIs Are Security&#39;s Most Dangerous Blind Spot](https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html) — 2025-30-25
 - **Bleeping Computer**: [FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches](https://www.bleepingcomputer.com/news/security/fbi-seeks-help-to-unmask-salt-typhoon-hackers-behind-telecom-breaches/) — 2025-34-25
 - **The Hacker News**: [Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers](https://thehackernews.com/2025/04/researchers-identify-rackstatic.html) — 2025-57-25
 - **The Hacker News**: [DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks](https://thehackernews.com/2025/04/dslogdrat-malware-deployed-via-ivanti.html) — 2025-43-25
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Gamma AI Platform Abused in Phishing Chain to Spoof Microsoft SharePoint Logins](https://thehackernews.com/2025/04/ai-powered-gamma-used-to-host-microsoft.html) — 2025-44-16
 - **The Hacker News**: [From Third-Party Vendors to U.S. Tariffs: The New Cyber Risks Facing Supply Chains](https://thehackernews.com/2025/04/from-third-party-vendors-to-us-tariffs.html) — 2025-26-16
 - **The Hacker News**: [New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks](https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html) — 2025-37-16
-- **The Hacker News**: [Product Walkthrough: A Look Inside Wing Security&#39;s Layered SaaS Identity Defense](https://thehackernews.com/2025/04/product-walkthrough-look-inside-wing.html) — 2025-30-16
-- **The Hacker News**: [Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users](https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html) — 2025-34-16
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
