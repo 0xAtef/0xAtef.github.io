@@ -1,5 +1,19 @@
 [
   {
+    "title": "SAP Confirms Critical NetWeaver Flaw Amid Suspected Zero-Day Exploitation by Hackers",
+    "link": "https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html",
+    "summary": "Threat actors are likely exploiting a new vulnerability in SAP NetWeaver to upload JSP web shells with the goal of facilitating unauthorized file uploads and code execution.&nbsp;\n\"The exploitation is likely tied to either a previously disclosed vulnerability like CVE-2017-9844 or an unreported remo",
+    "published": "2025-04-25T10:41:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Why NHIs Are Security's Most Dangerous Blind Spot",
+    "link": "https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html",
+    "summary": "When we talk about identity in cybersecurity, most people think of usernames, passwords, and the occasional MFA prompt. But lurking beneath the surface is a growing threat that does not involve human credentials at all, as we witness the exponential growth of Non-Human Identities (NHIs).&nbsp;\nAt th",
+    "published": "2025-04-25T10:30:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-help-to-unmask-salt-typhoon-hackers-behind-telecom-breaches/",
     "summary": "The FBI has asked the public for information on Chinese Salt Typhoon hackers behind widespread breaches of telecommunications providers in the United States and worldwide. [...]",
