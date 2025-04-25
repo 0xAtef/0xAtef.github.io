@@ -61,33 +61,5 @@
     "summary": "Microsoft says it resolved a known issue causing erroneous 0x80070643 installation failure errors when deploying the April 2025 Windows Recovery Environment (WinRE) updates. [...]",
     "published": "2025-04-24T13:54:18",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools",
-    "link": "https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html",
-    "summary": "Cybersecurity researchers have demonstrated a proof-of-concept (PoC) rootkit dubbed Curing that leverages a Linux asynchronous I/O mechanism called io_uring to bypass traditional system call monitoring.\nThis causes a \"major blind spot in Linux runtime security tools,\" ARMO said.\n\"This mechanism allo",
-    "published": "2025-04-24T12:58:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign",
-    "link": "https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html",
-    "summary": "The Evolving Healthcare Cybersecurity Landscape&nbsp;\nHealthcare organizations face unprecedented cybersecurity challenges in 2025. With operational technology (OT) environments increasingly targeted and the convergence of IT and medical systems creating an expanded attack surface, traditional secur",
-    "published": "2025-04-24T12:56:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "159 CVEs Exploited in Q1 2025 \u2014 28.3% Within 24 Hours of Disclosure",
-    "link": "https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html",
-    "summary": "As many as 159 CVE identifiers have been flagged as exploited in the wild in the first quarter of 2025, up from 151 in Q4 2024.\n\"We continue to see vulnerabilities being exploited at a fast pace with 28.3% of vulnerabilities being exploited within 1-day of their CVE disclosure,\" VulnCheck said in a ",
-    "published": "2025-04-24T12:55:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Linux 'io_uring' security blindspot allows stealthy rootkit attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/linux-io-uring-security-blindspot-allows-stealthy-rootkit-attacks/",
-    "summary": "A significant security gap in Linux runtime security caused by the 'io_uring' interface allows rootkits to operate undetected on systems while bypassing advanced Enterprise security software. [...]",
-    "published": "2025-04-24T12:00:00",
-    "source": "BleepingComputer"
   }
 ]
