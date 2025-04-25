@@ -1,5 +1,19 @@
 [
   {
+    "title": "Windows 11 KB5055627 update released with 30 new changes, fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5055627-update-released-with-30-new-changes-fixes/",
+    "summary": "\u200b\u200bMicrosoft has released the KB5055627 preview cumulative update for Windows 11 24H2\u00a0with many new features gradually rolling out, and some new bug fixes for everyone. [...]",
+    "published": "2025-04-25T20:18:41",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Craft CMS RCE exploit chain used in zero-day attacks to steal data",
+    "link": "https://www.bleepingcomputer.com/news/security/craft-cms-rce-exploit-chain-used-in-zero-day-attacks-to-steal-data/",
+    "summary": "Two vulnerabilities impacting\u00a0Craft CMS were chained together in zero-day attacks to breach servers and steal data, with exploitation ongoing, according to CERT Orange Cyberdefense. [...]",
+    "published": "2025-04-25T19:44:35",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Marks & Spencer pauses online orders after cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/marks-and-spencer-pauses-online-orders-after-cyberattack/",
     "summary": "British retailer giant Marks & Spencer (M&amp;S) has suspended online orders while working to recover from a recently disclosed cyberattack. [...]",
@@ -75,12 +89,5 @@
     "summary": "Cybersecurity researchers are warning about a new malware called DslogdRAT that's installed following the exploitation of a now-patched security flaw in Ivanti Connect Secure (ICS).\nThe malware, along with a web shell, were \"installed by exploiting a zero-day vulnerability at that time, CVE-2025-028",
     "published": "2025-04-25T08:43:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft announces fix for CPU spikes when typing in Outlook",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-fix-for-cpu-spikes-when-typing-in-outlook/",
-    "summary": "Microsoft says it will soon fix a known issue causing CPU spikes when typing messages in recent versions of its classic Outlook email client. [...]",
-    "published": "2025-04-25T08:10:47",
-    "source": "BleepingComputer"
   }
 ]
