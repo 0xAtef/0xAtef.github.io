@@ -26,40 +26,5 @@
     "summary": "\u200bA ransomware attack in January at Frederick Health Medical Group, a major healthcare provider in Maryland, has led to a data breach affecting nearly one million patients. [...]",
     "published": "2025-04-24T16:19:14",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft now pays up to $30,000 for some AI vulnerabilities",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-30-000-for-some-ai-vulnerabilities/",
-    "summary": "Microsoft announced an increase in bug bounty payouts to $30,000 for AI vulnerabilities found in Dynamics 365 and Power Platform services and products. [...]",
-    "published": "2025-04-24T15:06:59",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Interlock ransomware claims DaVita attack, leaks stolen data",
-    "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-davita-attack-leaks-stolen-data/",
-    "summary": "The Interlock ransomware gang has claimed the cyberattack on DaVita kidney dialysis firm and leaked data allegedly stolen from the organization. [...]",
-    "published": "2025-04-24T14:59:00",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Yale New Haven Health data breach affects 5.5 million patients",
-    "link": "https://www.bleepingcomputer.com/news/security/yale-new-haven-health-data-breach-affects-55-million-patients/",
-    "summary": "Yale New Haven Health (YNHHS) is warning that threat actors stole the personal data of 5.5 million patients in a cyberattack earlier this month. [...]",
-    "published": "2025-04-24T14:12:24",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Flaws and ThreatNeedle Malware",
-    "link": "https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html",
-    "summary": "At least six organizations in South Korea have been targeted by the prolific North Korea-linked Lazarus Group as part of a campaign dubbed Operation SyncHole.\nThe activity targeted South Korea's software, IT, financial, semiconductor manufacturing, and telecommunications industries, according to a r",
-    "published": "2025-04-24T14:11:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft fixes bug causing incorrect 0x80070643 WinRE errors",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-incorrect-0x80070643-winre-errors/",
-    "summary": "Microsoft says it resolved a known issue causing erroneous 0x80070643 installation failure errors when deploying the April 2025 Windows Recovery Environment (WinRE) updates. [...]",
-    "published": "2025-04-24T13:54:18",
-    "source": "BleepingComputer"
   }
 ]
