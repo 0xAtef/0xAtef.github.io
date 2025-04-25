@@ -5,19 +5,5 @@
     "summary": "Russian threat actors have been abusing legitimate OAuth 2.0 authentication workflows to hijack\u00a0Microsoft 365 accounts of employees of organizations related to Ukraine and human rights. [...]",
     "published": "2025-04-24T20:24:49",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Lazarus hackers breach six companies in watering hole attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-six-companies-in-watering-hole-attacks/",
-    "summary": "In a\u00a0recent espionage campaign, the infamous North Korean threat group Lazarus targeted multiple organizations in the software, IT, finance, and telecommunications sectors in South Korea. [...]",
-    "published": "2025-04-24T19:13:32",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft fixes machine learning bug flagging Adobe emails as spam",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-machine-learning-bug-flagging-adobe-emails-as-spam/",
-    "summary": "Microsoft says it mitigated a known issue in one of its machine learning (ML) models that mistakenly flagged Adobe emails in Exchange Online as spam. [...]",
-    "published": "2025-04-24T19:02:07",
-    "source": "BleepingComputer"
   }
 ]
