@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft announces fix for CPU spikes when typing in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-fix-for-cpu-spikes-when-typing-in-outlook/) — 2025-10-25
 - **Bleeping Computer**: [Hackers abuse OAuth 2.0 workflows to hijack Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-abuse-oauth-20-workflows-to-hijack-microsoft-365-accounts/) — 2025-24-24
 - **Bleeping Computer**: [Lazarus hackers breach six companies in watering hole attacks](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-six-companies-in-watering-hole-attacks/) — 2025-13-24
 - **Bleeping Computer**: [Microsoft fixes machine learning bug flagging Adobe emails as spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-machine-learning-bug-flagging-adobe-emails-as-spam/) — 2025-02-24
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [WhatsApp&#39;s new Advanced Chat Privacy protects sensitive messages](https://www.bleepingcomputer.com/news/security/whatsapps-new-advanced-chat-privacy-protects-sensitive-messages/) — 2025-42-23
 - **The Hacker News**: [DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack](https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html) — 2025-09-23
 - **Bleeping Computer**: [Blue Shield of California leaked health data of 4.7 million members to Google](https://www.bleepingcomputer.com/news/security/blue-shield-of-california-leaked-health-data-of-47-million-members-to-google/) — 2025-38-23
-- **Bleeping Computer**: [FBI: US lost record $16.6 billion to cybercrime in 2024](https://www.bleepingcomputer.com/news/security/fbi-us-lost-record-166-billion-to-cybercrime-in-2024/) — 2025-21-23
 - **The Hacker News**: [Iran-Linked Hackers Target Israel with MURKYTOUR Malware via Fake Job Campaign](https://thehackernews.com/2025/04/iran-linked-hackers-target-israel-with.html) — 2025-08-23
 - **The Hacker News**: [Android Spyware Disguised as Alpine Quest App Targets Russian Military Devices](https://thehackernews.com/2025/04/android-spyware-disguised-as-alpine.html) — 2025-22-23
 - **The Hacker News**: [Three Reasons Why the Browser is Best for Stopping Phishing Attacks](https://thehackernews.com/2025/04/three-reasons-why-browser-is-best-for.html) — 2025-00-23
