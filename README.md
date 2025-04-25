@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches](https://www.bleepingcomputer.com/news/security/fbi-seeks-help-to-unmask-salt-typhoon-hackers-behind-telecom-breaches/) — 2025-34-25
+- **The Hacker News**: [Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers](https://thehackernews.com/2025/04/researchers-identify-rackstatic.html) — 2025-57-25
+- **The Hacker News**: [DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks](https://thehackernews.com/2025/04/dslogdrat-malware-deployed-via-ivanti.html) — 2025-43-25
 - **Bleeping Computer**: [Microsoft announces fix for CPU spikes when typing in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-fix-for-cpu-spikes-when-typing-in-outlook/) — 2025-10-25
 - **Bleeping Computer**: [Hackers abuse OAuth 2.0 workflows to hijack Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-abuse-oauth-20-workflows-to-hijack-microsoft-365-accounts/) — 2025-24-24
 - **Bleeping Computer**: [Lazarus hackers breach six companies in watering hole attacks](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-six-companies-in-watering-hole-attacks/) — 2025-13-24
@@ -61,7 +64,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Russian army targeted by new Android malware hidden in mapping app](https://www.bleepingcomputer.com/news/security/russian-army-targeted-by-new-android-malware-hidden-in-mapping-app/) — 2025-30-23
 - **Bleeping Computer**: [WhatsApp&#39;s new Advanced Chat Privacy protects sensitive messages](https://www.bleepingcomputer.com/news/security/whatsapps-new-advanced-chat-privacy-protects-sensitive-messages/) — 2025-42-23
 - **The Hacker News**: [DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack](https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html) — 2025-09-23
-- **Bleeping Computer**: [Blue Shield of California leaked health data of 4.7 million members to Google](https://www.bleepingcomputer.com/news/security/blue-shield-of-california-leaked-health-data-of-47-million-members-to-google/) — 2025-38-23
 - **The Hacker News**: [Iran-Linked Hackers Target Israel with MURKYTOUR Malware via Fake Job Campaign](https://thehackernews.com/2025/04/iran-linked-hackers-target-israel-with.html) — 2025-08-23
 - **The Hacker News**: [Android Spyware Disguised as Alpine Quest App Targets Russian Military Devices](https://thehackernews.com/2025/04/android-spyware-disguised-as-alpine.html) — 2025-22-23
 - **The Hacker News**: [Three Reasons Why the Browser is Best for Stopping Phishing Attacks](https://thehackernews.com/2025/04/three-reasons-why-browser-is-best-for.html) — 2025-00-23
@@ -103,9 +105,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks](https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html) — 2025-37-16
 - **The Hacker News**: [Product Walkthrough: A Look Inside Wing Security&#39;s Layered SaaS Identity Defense](https://thehackernews.com/2025/04/product-walkthrough-look-inside-wing.html) — 2025-30-16
 - **The Hacker News**: [Chinese Android Phones Shipped with Fake WhatsApp, Telegram Apps Targeting Crypto Users](https://thehackernews.com/2025/04/chinese-android-phones-shipped-with.html) — 2025-34-16
-- **The Hacker News**: [U.S. Govt. Funding for MITRE&#39;s CVE Ends April 16, Cybersecurity Community on Alert](https://thehackernews.com/2025/04/us-govt-funding-for-mitres-cve-ends.html) — 2025-06-16
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
-- **The Hacker News**: [Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool](https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html) — 2025-06-15
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
 - **Krebs on Security**: [Patch Tuesday, April 2025 Edition](https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/) — 2025-09-09
