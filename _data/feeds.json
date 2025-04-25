@@ -1,9 +1,9 @@
 [
   {
-    "title": "Hackers abuse OAuth 2.0 workflows to hijack Microsoft 365 accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-oauth-20-workflows-to-hijack-microsoft-365-accounts/",
-    "summary": "Russian threat actors have been abusing legitimate OAuth 2.0 authentication workflows to hijack\u00a0Microsoft 365 accounts of employees of organizations related to Ukraine and human rights. [...]",
-    "published": "2025-04-24T20:24:49",
+    "title": "Microsoft announces fix for CPU spikes when typing in Outlook",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-fix-for-cpu-spikes-when-typing-in-outlook/",
+    "summary": "Microsoft says it will soon fix a known issue causing CPU spikes when typing messages in recent versions of its classic Outlook email client. [...]",
+    "published": "2025-04-25T08:10:47",
     "source": "BleepingComputer"
   }
 ]
