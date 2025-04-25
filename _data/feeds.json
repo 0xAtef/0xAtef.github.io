@@ -1,5 +1,12 @@
 [
   {
+    "title": "FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-help-to-unmask-salt-typhoon-hackers-behind-telecom-breaches/",
+    "summary": "The FBI has asked the public for information on Chinese Salt Typhoon hackers behind widespread breaches of telecommunications providers in the United States and worldwide. [...]",
+    "published": "2025-04-25T09:34:59",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers",
     "link": "https://thehackernews.com/2025/04/researchers-identify-rackstatic.html",
     "summary": "Cybersecurity researchers have disclosed three security flaws in the Rack Ruby web server interface that, if successfully exploited, could enable attackers to gain unauthorized access to files, inject malicious data, and tamper with logs under certain conditions.\nThe vulnerabilities, flagged by cybe",
