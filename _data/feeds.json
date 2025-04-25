@@ -1,5 +1,12 @@
 [
   {
+    "title": "SAP fixes suspected Netweaver zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-suspected-netweaver-zero-day-exploited-in-attacks/",
+    "summary": "SAP has released out-of-band emergency NetWeaver updates to fix a suspected remote code execution (RCE) zero-day flaw actively exploited to hijack servers. [...]",
+    "published": "2025-04-25T13:01:48",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework",
     "link": "https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html",
     "summary": "Threat actors are likely exploiting a new vulnerability in SAP NetWeaver to upload JSP web shells with the goal of facilitating unauthorized file uploads and code execution.&nbsp;\n\"The exploitation is likely tied to either a previously disclosed vulnerability like CVE-2017-9844 or an unreported remo",
