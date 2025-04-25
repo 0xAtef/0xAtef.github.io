@@ -40,7 +40,11 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Marks &amp; Spencer pauses online orders after cyberattack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-pauses-online-orders-after-cyberattack/) — 2025-05-25
+- **Bleeping Computer**: [Mobile provider MTN says cyberattack compromised customer data](https://www.bleepingcomputer.com/news/security/mobile-provider-mtn-says-cyberattack-compromised-customer-data/) — 2025-57-25
+- **Bleeping Computer**: [Windows &quot;inetpub&quot; security fix can be abused to block future updates](https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/) — 2025-23-25
 - **Bleeping Computer**: [Baltimore City Public Schools data breach affects over 31,000 people](https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/) — 2025-06-25
+- **The Hacker News**: [North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures](https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html) — 2025-05-25
 - **Bleeping Computer**: [SAP fixes suspected Netweaver zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sap-fixes-suspected-netweaver-zero-day-exploited-in-attacks/) — 2025-01-25
 - **The Hacker News**: [New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html) — 2025-41-25
 - **The Hacker News**: [Why NHIs Are Security&#39;s Most Dangerous Blind Spot](https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html) — 2025-30-25
@@ -56,11 +60,9 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Interlock ransomware claims DaVita attack, leaks stolen data](https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-davita-attack-leaks-stolen-data/) — 2025-59-24
 - **Bleeping Computer**: [Yale New Haven Health data breach affects 5.5 million patients](https://www.bleepingcomputer.com/news/security/yale-new-haven-health-data-breach-affects-55-million-patients/) — 2025-12-24
 - **The Hacker News**: [Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Flaws and ThreatNeedle Malware](https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html) — 2025-11-24
-- **Bleeping Computer**: [Microsoft fixes bug causing incorrect 0x80070643 WinRE errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-incorrect-0x80070643-winre-errors/) — 2025-54-24
 - **The Hacker News**: [Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools](https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html) — 2025-58-24
 - **The Hacker News**: [Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign](https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html) — 2025-56-24
 - **The Hacker News**: [159 CVEs Exploited in Q1 2025 — 28.3% Within 24 Hours of Disclosure](https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html) — 2025-55-24
-- **Bleeping Computer**: [Linux &#39;io_uring&#39; security blindspot allows stealthy rootkit attacks](https://www.bleepingcomputer.com/news/security/linux-io-uring-security-blindspot-allows-stealthy-rootkit-attacks/) — 2025-00-24
 - **The Hacker News**: [Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals](https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html) — 2025-27-24
 - **The Hacker News**: [Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely](https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html) — 2025-00-24
 - **The Hacker News**: [WhatsApp Adds Advanced Chat Privacy to Blocks Chat Exports and Auto-Downloads](https://thehackernews.com/2025/04/whatsapp-adds-advanced-chat-privacy-to.html) — 2025-03-24
@@ -104,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Google Blocked 5.1B Harmful Ads and Suspended 39.2M Advertiser Accounts in 2024](https://thehackernews.com/2025/04/google-blocked-51b-harmful-ads-and.html) — 2025-48-16
 - **The Hacker News**: [Gamma AI Platform Abused in Phishing Chain to Spoof Microsoft SharePoint Logins](https://thehackernews.com/2025/04/ai-powered-gamma-used-to-host-microsoft.html) — 2025-44-16
 - **The Hacker News**: [From Third-Party Vendors to U.S. Tariffs: The New Cyber Risks Facing Supply Chains](https://thehackernews.com/2025/04/from-third-party-vendors-to-us-tariffs.html) — 2025-26-16
-- **The Hacker News**: [New BPFDoor Controller Enables Stealthy Lateral Movement in Linux Server Attacks](https://thehackernews.com/2025/04/new-bpfdoor-controller-enables-stealthy.html) — 2025-37-16
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
