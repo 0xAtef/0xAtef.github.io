@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Baltimore City Public Schools data breach affects over 31,000 people](https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/) — 2025-06-25
 - **Bleeping Computer**: [SAP fixes suspected Netweaver zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sap-fixes-suspected-netweaver-zero-day-exploited-in-attacks/) — 2025-01-25
 - **The Hacker News**: [New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html) — 2025-41-25
 - **The Hacker News**: [Why NHIs Are Security&#39;s Most Dangerous Blind Spot](https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html) — 2025-30-25
@@ -64,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely](https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html) — 2025-00-24
 - **The Hacker News**: [WhatsApp Adds Advanced Chat Privacy to Blocks Chat Exports and Auto-Downloads](https://thehackernews.com/2025/04/whatsapp-adds-advanced-chat-privacy-to.html) — 2025-03-24
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
-- **Bleeping Computer**: [Russian army targeted by new Android malware hidden in mapping app](https://www.bleepingcomputer.com/news/security/russian-army-targeted-by-new-android-malware-hidden-in-mapping-app/) — 2025-30-23
 - **The Hacker News**: [DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack](https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html) — 2025-09-23
 - **The Hacker News**: [Iran-Linked Hackers Target Israel with MURKYTOUR Malware via Fake Job Campaign](https://thehackernews.com/2025/04/iran-linked-hackers-target-israel-with.html) — 2025-08-23
 - **The Hacker News**: [Android Spyware Disguised as Alpine Quest App Targets Russian Military Devices](https://thehackernews.com/2025/04/android-spyware-disguised-as-alpine.html) — 2025-22-23
