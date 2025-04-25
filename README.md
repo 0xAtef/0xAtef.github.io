@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Windows 11&#39;s Recall AI is now rolling out on Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/windows-11s-recall-ai-is-now-rolling-out-on-copilot-plus-pcs/) — 2025-08-25
+- **Bleeping Computer**: [Windows 11 KB5055627 update released with 30 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5055627-update-released-with-30-new-changes-fixes/) — 2025-18-25
 - **Bleeping Computer**: [Craft CMS RCE exploit chain used in zero-day attacks to steal data](https://www.bleepingcomputer.com/news/security/craft-cms-rce-exploit-chain-used-in-zero-day-attacks-to-steal-data/) — 2025-44-25
 - **Bleeping Computer**: [Marks &amp; Spencer pauses online orders after cyberattack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-pauses-online-orders-after-cyberattack/) — 2025-05-25
 - **Bleeping Computer**: [Mobile provider MTN says cyberattack compromised customer data](https://www.bleepingcomputer.com/news/security/mobile-provider-mtn-says-cyberattack-compromised-customer-data/) — 2025-57-25
@@ -57,8 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Lazarus hackers breach six companies in watering hole attacks](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-six-companies-in-watering-hole-attacks/) — 2025-13-24
 - **Bleeping Computer**: [Microsoft fixes machine learning bug flagging Adobe emails as spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-machine-learning-bug-flagging-adobe-emails-as-spam/) — 2025-02-24
 - **Bleeping Computer**: [Frederick Health data breach impacts nearly 1 million patients](https://www.bleepingcomputer.com/news/security/frederick-health-data-breach-impacts-nearly-1-million-patients/) — 2025-19-24
-- **Bleeping Computer**: [Microsoft now pays up to $30,000 for some AI vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-30-000-for-some-ai-vulnerabilities/) — 2025-06-24
-- **Bleeping Computer**: [Interlock ransomware claims DaVita attack, leaks stolen data](https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-davita-attack-leaks-stolen-data/) — 2025-59-24
 - **The Hacker News**: [Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Flaws and ThreatNeedle Malware](https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html) — 2025-11-24
 - **The Hacker News**: [Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools](https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html) — 2025-58-24
 - **The Hacker News**: [Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign](https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html) — 2025-56-24
