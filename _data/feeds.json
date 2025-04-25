@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows \"inetpub\" security fix can be abused to block future updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/",
+    "summary": "A recent Windows security update that creates an 'inetpub' folder has introduced a new weakness allowing attackers to prevent the installation of future updates. [...]",
+    "published": "2025-04-25T14:23:39",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Baltimore City Public Schools data breach affects over 31,000 people",
     "link": "https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/",
     "summary": "\u200bBaltimore City Public Schools notified tens of thousands of employees and students of a data breach following an incident in February when unknown attackers hacked into its network. [...]",
