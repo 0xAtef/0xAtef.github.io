@@ -5,19 +5,5 @@
     "summary": "Microsoft has confirmed that Windows Recall is\u00a0rolling out to everyone with Windows 11\u00a0KB5055627 on Copilot+ PCs. [...]",
     "published": "2025-04-25T21:08:05",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Windows 11 KB5055627 update released with 30 new changes, fixes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5055627-update-released-with-30-new-changes-fixes/",
-    "summary": "\u200b\u200bMicrosoft has released the KB5055627 preview cumulative update for Windows 11 24H2\u00a0with many new features gradually rolling out, and some new bug fixes for everyone. [...]",
-    "published": "2025-04-25T20:18:41",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Craft CMS RCE exploit chain used in zero-day attacks to steal data",
-    "link": "https://www.bleepingcomputer.com/news/security/craft-cms-rce-exploit-chain-used-in-zero-day-attacks-to-steal-data/",
-    "summary": "Two vulnerabilities impacting\u00a0Craft CMS were chained together in zero-day attacks to breach servers and steal data, with exploitation ongoing, according to CERT Orange Cyberdefense. [...]",
-    "published": "2025-04-25T19:44:35",
-    "source": "BleepingComputer"
   }
 ]
