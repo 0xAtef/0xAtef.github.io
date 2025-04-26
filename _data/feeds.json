@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "title": "ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion",
+    "link": "https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html",
+    "summary": "Cybersecurity researchers have detailed the activities of an initial access broker (IAB) dubbed ToyMaker that has been observed handing over access to double extortion ransomware gangs like CACTUS.\nThe IAB has been assessed with medium confidence to be a financially motivated threat actor, scanning ",
+    "published": "2025-04-26T10:38:00",
+    "source": "HackerNews"
+  }
+]
