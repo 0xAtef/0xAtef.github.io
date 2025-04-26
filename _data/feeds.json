@@ -54,12 +54,5 @@
     "summary": "North Korea-linked threat actors behind the Contagious Interview have set up front companies as a way to distribute malware during the fake hiring process.\n\"In this new campaign, the threat actor group is using three front companies in the cryptocurrency consulting industry\u2014BlockNovas LLC (blocknova",
     "published": "2025-04-25T14:05:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "SAP fixes suspected Netweaver zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-suspected-netweaver-zero-day-exploited-in-attacks/",
-    "summary": "SAP has released out-of-band emergency NetWeaver updates to fix a suspected remote code execution (RCE) zero-day flaw actively exploited to hijack servers. [...]",
-    "published": "2025-04-25T13:01:48",
-    "source": "BleepingComputer"
   }
 ]
