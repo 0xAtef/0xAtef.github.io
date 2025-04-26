@@ -26,33 +26,5 @@
     "summary": "British retailer giant Marks & Spencer (M&amp;S) has suspended online orders while working to recover from a recently disclosed cyberattack. [...]",
     "published": "2025-04-25T15:05:09",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Mobile provider MTN says cyberattack compromised customer data",
-    "link": "https://www.bleepingcomputer.com/news/security/mobile-provider-mtn-says-cyberattack-compromised-customer-data/",
-    "summary": "African mobile giant MTN Group announced that a cybersecurity incident has compromised the personal information of some of its subscribers in certain countries. [...]",
-    "published": "2025-04-25T14:57:05",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Windows \"inetpub\" security fix can be abused to block future updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/",
-    "summary": "A recent Windows security update that creates an 'inetpub' folder has introduced a new weakness allowing attackers to prevent the installation of future updates. [...]",
-    "published": "2025-04-25T14:23:39",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Baltimore City Public Schools data breach affects over 31,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/",
-    "summary": "\u200bBaltimore City Public Schools notified tens of thousands of employees and students of a data breach following an incident in February when unknown attackers hacked into its network. [...]",
-    "published": "2025-04-25T14:06:23",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures",
-    "link": "https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html",
-    "summary": "North Korea-linked threat actors behind the Contagious Interview have set up front companies as a way to distribute malware during the fake hiring process.\n\"In this new campaign, the threat actor group is using three front companies in the cryptocurrency consulting industry\u2014BlockNovas LLC (blocknova",
-    "published": "2025-04-25T14:05:00",
-    "source": "HackerNews"
   }
 ]
