@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion](https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html) — 2025-38-26
 - **Bleeping Computer**: [Windows 11&#39;s Recall AI is now rolling out on Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/windows-11s-recall-ai-is-now-rolling-out-on-copilot-plus-pcs/) — 2025-08-25
 - **Bleeping Computer**: [Windows 11 KB5055627 update released with 30 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5055627-update-released-with-30-new-changes-fixes/) — 2025-18-25
 - **Bleeping Computer**: [Craft CMS RCE exploit chain used in zero-day attacks to steal data](https://www.bleepingcomputer.com/news/security/craft-cms-rce-exploit-chain-used-in-zero-day-attacks-to-steal-data/) — 2025-44-25
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New Windows Task Scheduler Bugs Let Attackers Bypass UAC and Tamper with Logs](https://thehackernews.com/2025/04/experts-uncover-four-new-privilege.html) — 2025-18-16
 - **The Hacker News**: [Google Blocked 5.1B Harmful Ads and Suspended 39.2M Advertiser Accounts in 2024](https://thehackernews.com/2025/04/google-blocked-51b-harmful-ads-and.html) — 2025-48-16
 - **The Hacker News**: [Gamma AI Platform Abused in Phishing Chain to Spoof Microsoft SharePoint Logins](https://thehackernews.com/2025/04/ai-powered-gamma-used-to-host-microsoft.html) — 2025-44-16
-- **The Hacker News**: [From Third-Party Vendors to U.S. Tariffs: The New Cyber Risks Facing Supply Chains](https://thehackernews.com/2025/04/from-third-party-vendors-to-us-tariffs.html) — 2025-26-16
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
