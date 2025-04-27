@@ -40,7 +40,11 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Coinbase fixes 2FA log error making people think they were hacked](https://www.bleepingcomputer.com/news/security/coinbase-fixes-2fa-log-error-making-people-think-they-were-hacked/) — 2025-21-27
+- **Bleeping Computer**: [Brave&#39;s Cookiecrumbler tool taps community to help block cookie notices](https://www.bleepingcomputer.com/news/security/braves-cookiecrumbler-tool-taps-community-to-help-block-cookie-notices/) — 2025-12-27
 - **The Hacker News**: [Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers](https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html) — 2025-02-27
+- **Bleeping Computer**: [DragonForce expands ransomware model with white-label branding scheme](https://www.bleepingcomputer.com/news/security/dragonforce-expands-ransomware-model-with-white-label-branding-scheme/) — 2025-23-26
+- **Bleeping Computer**: [WooCommerce admins targeted by fake security patches that hijack sites](https://www.bleepingcomputer.com/news/security/woocommerce-admins-targeted-by-fake-security-patches-that-hijack-sites/) — 2025-09-26
 - **The Hacker News**: [ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion](https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html) — 2025-38-26
 - **Bleeping Computer**: [Windows 11&#39;s Recall AI is now rolling out on Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/windows-11s-recall-ai-is-now-rolling-out-on-copilot-plus-pcs/) — 2025-08-25
 - **Bleeping Computer**: [Windows 11 KB5055627 update released with 30 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5055627-update-released-with-30-new-changes-fixes/) — 2025-18-25
@@ -53,14 +57,8 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [SAP fixes suspected Netweaver zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sap-fixes-suspected-netweaver-zero-day-exploited-in-attacks/) — 2025-01-25
 - **The Hacker News**: [New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html) — 2025-41-25
 - **The Hacker News**: [Why NHIs Are Security&#39;s Most Dangerous Blind Spot](https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html) — 2025-30-25
-- **Bleeping Computer**: [FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches](https://www.bleepingcomputer.com/news/security/fbi-seeks-help-to-unmask-salt-typhoon-hackers-behind-telecom-breaches/) — 2025-34-25
 - **The Hacker News**: [Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers](https://thehackernews.com/2025/04/researchers-identify-rackstatic.html) — 2025-57-25
 - **The Hacker News**: [DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks](https://thehackernews.com/2025/04/dslogdrat-malware-deployed-via-ivanti.html) — 2025-43-25
-- **Bleeping Computer**: [Microsoft announces fix for CPU spikes when typing in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-fix-for-cpu-spikes-when-typing-in-outlook/) — 2025-10-25
-- **Bleeping Computer**: [Hackers abuse OAuth 2.0 workflows to hijack Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-abuse-oauth-20-workflows-to-hijack-microsoft-365-accounts/) — 2025-24-24
-- **Bleeping Computer**: [Lazarus hackers breach six companies in watering hole attacks](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-six-companies-in-watering-hole-attacks/) — 2025-13-24
-- **Bleeping Computer**: [Microsoft fixes machine learning bug flagging Adobe emails as spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-machine-learning-bug-flagging-adobe-emails-as-spam/) — 2025-02-24
-- **Bleeping Computer**: [Frederick Health data breach impacts nearly 1 million patients](https://www.bleepingcomputer.com/news/security/frederick-health-data-breach-impacts-nearly-1-million-patients/) — 2025-19-24
 - **The Hacker News**: [Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Flaws and ThreatNeedle Malware](https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html) — 2025-11-24
 - **The Hacker News**: [Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools](https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html) — 2025-58-24
 - **The Hacker News**: [Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign](https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html) — 2025-56-24
