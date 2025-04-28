@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools](https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html) — 2025-07-28
 - **The Hacker News**: [WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors](https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html) — 2025-06-28
 - **The Hacker News**: [Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised](https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html) — 2025-13-28
 - **Bleeping Computer**: [Coinbase fixes 2FA log error making people think they were hacked](https://www.bleepingcomputer.com/news/security/coinbase-fixes-2fa-log-error-making-people-think-they-were-hacked/) — 2025-21-27
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Blockchain Offers Security Benefits – But Don&#39;t Neglect Your Passwords](https://thehackernews.com/2025/04/blockchain-offers-security-benefits-but.html) — 2025-30-17
 - **The Hacker News**: [Node.js Malware Campaign Targets Crypto Users with Fake Binance and TradingView Installers](https://thehackernews.com/2025/04/nodejs-malware-campaign-targets-crypto.html) — 2025-57-17
 - **The Hacker News**: [CISA Flags Actively Exploited Vulnerability in SonicWall SMA Devices](https://thehackernews.com/2025/04/cisa-flags-actively-exploited.html) — 2025-44-17
-- **The Hacker News**: [Apple Patches Two Actively Exploited iOS Flaws Used in Sophisticated Targeted Attacks](https://thehackernews.com/2025/04/apple-patches-two-actively-exploited.html) — 2025-33-17
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
