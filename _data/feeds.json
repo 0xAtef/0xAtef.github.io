@@ -1,5 +1,12 @@
 [
   {
+    "title": "How Breaches Start: Breaking Down 5 Real Vulns",
+    "link": "https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html",
+    "summary": "Not every security vulnerability is high risk on its own - but in the hands of an advanced attacker, even small weaknesses can escalate into major breaches. These five real vulnerabilities, uncovered by Intruder\u2019s bug-hunting team, reveal how attackers turn overlooked flaws into serious security inc",
+    "published": "2025-04-28T11:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools",
     "link": "https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html",
     "summary": "Government and telecommunications sectors in Southeast Asia have become the target of a \"sophisticated\" campaign undertaken by a new advanced persistent threat (APT) group called Earth Kurma since June 2024.\nThe attacks, per Trend Micro, have leveraged custom malware, rootkits, and cloud storage ser",
