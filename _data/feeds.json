@@ -1,5 +1,12 @@
 [
   {
+    "title": "\u26a1 Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs & More",
+    "link": "https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html",
+    "summary": "What happens when cybercriminals no longer need deep skills to breach your defenses? Today\u2019s attackers are armed with powerful tools that do the heavy lifting \u2014 from AI-powered phishing kits to large botnets ready to strike. And they\u2019re not just after big corporations. Anyone can be a target when fa",
+    "published": "2025-04-28T12:18:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "How Breaches Start: Breaking Down 5 Real Vulns",
     "link": "https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html",
     "summary": "Not every security vulnerability is high risk on its own - but in the hands of an advanced attacker, even small weaknesses can escalate into major breaches. These five real vulnerabilities, uncovered by Intruder\u2019s bug-hunting team, reveal how attackers turn overlooked flaws into serious security inc",
