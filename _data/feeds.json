@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "title": "Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised",
+    "link": "https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html",
+    "summary": "Threat actors have been observed exploiting two newly disclosed critical security flaws in Craft CMS in zero-day attacks to breach servers and gain unauthorized access.\nThe attacks, first observed by Orange Cyberdefense SensePost on February 14, 2025, involve chaining the below vulnerabilities -\n\nCV",
+    "published": "2025-04-28T07:13:00",
+    "source": "HackerNews"
+  }
+]
