@@ -1,5 +1,12 @@
 [
   {
+    "title": "Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools",
+    "link": "https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html",
+    "summary": "Government and telecommunications sectors in Southeast Asia have become the target of a \"sophisticated\" campaign undertaken by a new advanced persistent threat (APT) group called Earth Kurma since June 2024.\nThe attacks, per Trend Micro, have leveraged custom malware, rootkits, and cloud storage ser",
+    "published": "2025-04-28T09:07:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors",
     "link": "https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html",
     "summary": "Cybersecurity researchers are warning about a large-scale phishing campaign targeting WooCommerce users with a fake security alert urging them to download a \"critical patch\" but deploy a backdoor instead.\nWordPress security company Patchstack described the activity as sophisticated and a variant of ",
