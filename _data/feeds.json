@@ -1,5 +1,12 @@
 [
   {
+    "title": "WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors",
+    "link": "https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html",
+    "summary": "Cybersecurity researchers are warning about a large-scale phishing campaign targeting WooCommerce users with a fake security alert urging them to download a \"critical patch\" but deploy a backdoor instead.\nWordPress security company Patchstack described the activity as sophisticated and a variant of ",
+    "published": "2025-04-28T08:06:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised",
     "link": "https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html",
     "summary": "Threat actors have been observed exploiting two newly disclosed critical security flaws in Craft CMS in zero-day attacks to breach servers and gain unauthorized access.\nThe attacks, first observed by Orange Cyberdefense SensePost on February 14, 2025, involve chaining the below vulnerabilities -\n\nCV",
