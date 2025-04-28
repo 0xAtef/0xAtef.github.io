@@ -5,12 +5,5 @@
     "summary": "Coinbase has fixed a confusing bug in its account activity logs that caused users to think their credentials were compromised. [...]",
     "published": "2025-04-27T18:21:15",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Brave's Cookiecrumbler tool taps community to help block cookie notices",
-    "link": "https://www.bleepingcomputer.com/news/security/braves-cookiecrumbler-tool-taps-community-to-help-block-cookie-notices/",
-    "summary": "Brave has open-sourceed a new tool called \"Cookiecrumbler,\" which uses large language models (LLMs) to detect cookie consent notices and then community-driven reviews to block those that won't break site functionality. [...]",
-    "published": "2025-04-27T14:12:22",
-    "source": "BleepingComputer"
   }
 ]
