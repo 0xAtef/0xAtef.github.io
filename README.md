@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp; More](https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html) — 2025-18-28
 - **The Hacker News**: [How Breaches Start: Breaking Down 5 Real Vulns](https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html) — 2025-00-28
 - **The Hacker News**: [Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools](https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html) — 2025-07-28
 - **The Hacker News**: [WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors](https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html) — 2025-06-28
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Artificial Intelligence – What&#39;s all the fuss?](https://thehackernews.com/2025/04/artificial-intelligence-whats-all-fuss.html) — 2025-26-17
 - **The Hacker News**: [Critical Erlang/OTP SSH Vulnerability &lpar;CVSS 10.0&rpar; Allows Unauthenticated Code Execution](https://thehackernews.com/2025/04/critical-erlangotp-ssh-vulnerability.html) — 2025-32-17
 - **The Hacker News**: [Blockchain Offers Security Benefits – But Don&#39;t Neglect Your Passwords](https://thehackernews.com/2025/04/blockchain-offers-security-benefits-but.html) — 2025-30-17
-- **The Hacker News**: [Node.js Malware Campaign Targets Crypto Users with Fake Binance and TradingView Installers](https://thehackernews.com/2025/04/nodejs-malware-campaign-targets-crypto.html) — 2025-57-17
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
