@@ -1,5 +1,19 @@
 [
   {
+    "title": "Over 1,200 SAP NetWeaver servers vulnerable to actively exploited flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/over-1-200-sap-netweaver-servers-vulnerable-to-actively-exploited-flaw/",
+    "summary": "Over 1,200 internet-exposed SAP NetWeaver instances are vulnerable to an actively exploited maximum severity unauthenticated file upload vulnerability that allows attackers to hijack servers. [...]",
+    "published": "2025-04-28T16:46:43",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Kali Linux warns of update failures after losing repo signing key",
+    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-warns-of-update-failures-after-losing-repo-signing-key/",
+    "summary": "\u200bOffensive Security warned Kali Linux users to manually install a new Kali repository signing key to avoid experiencing update failures. [...]",
+    "published": "2025-04-28T16:37:58",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft fixes Outlook on the web search issues, failures",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-on-the-web-search-issues-failures/",
     "summary": "Microsoft is working on fully mitigating issues causing Outlook on the web and SharePoint Online users to experience delays or failures when searching. [...]",
