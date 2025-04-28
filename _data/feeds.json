@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hitachi Vantara takes servers offline after Akira ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hitachi-vantara-takes-servers-offline-after-akira-ransomware-attack/",
+    "summary": "Hitachi Vantara, a subsidiary of Japanese multinational conglomerate Hitachi, was forced to take servers\u00a0offline\u00a0over the weekend to contain an Akira ransomware attack. [...]",
+    "published": "2025-04-28T19:39:09",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "VeriSource now says February data breach impacts 4 million people",
     "link": "https://www.bleepingcomputer.com/news/security/verisource-now-says-february-data-breach-impacts-4-million-people/",
     "summary": "Employee benefits administration firm VeriSource Services is warning that a data breach exposed the personal information of four million people.\u00a0 [...]",
@@ -53,13 +60,6 @@
     "link": "https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html",
     "summary": "Government and telecommunications sectors in Southeast Asia have become the target of a \"sophisticated\" campaign undertaken by a new advanced persistent threat (APT) group called Earth Kurma since June 2024.\nThe attacks, per Trend Micro, have leveraged custom malware, rootkits, and cloud storage ser",
     "published": "2025-04-28T09:07:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors",
-    "link": "https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html",
-    "summary": "Cybersecurity researchers are warning about a large-scale phishing campaign targeting WooCommerce users with a fake security alert urging them to download a \"critical patch\" but deploy a backdoor instead.\nWordPress security company Patchstack described the activity as sophisticated and a variant of ",
-    "published": "2025-04-28T08:06:00",
     "source": "HackerNews"
   }
 ]
