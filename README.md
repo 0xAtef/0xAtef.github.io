@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft: Windows Server hotpatching to require subscription](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-hotpatching-to-require-subscription/) — 2025-47-29
 - **Bleeping Computer**: [Hackers ramp up scans for leaked Git tokens and secrets](https://www.bleepingcomputer.com/news/security/hackers-ramp-up-scans-for-leaked-git-tokens-and-secrets/) — 2025-02-29
 - **Bleeping Computer**: [France ties Russian APT28 hackers to 12 cyberattacks on French orgs](https://www.bleepingcomputer.com/news/security/france-ties-russian-apt28-hackers-to-12-cyberattacks-on-french-orgs/) — 2025-57-29
 - **Bleeping Computer**: [Apple &#39;AirBorne&#39; flaws can lead to zero-click AirPlay RCE attacks](https://www.bleepingcomputer.com/news/security/apple-airborne-flaws-can-lead-to-zero-click-airplay-rce-attacks/) — 2025-32-29
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [VeriSource now says February data breach impacts 4 million people](https://www.bleepingcomputer.com/news/security/verisource-now-says-february-data-breach-impacts-4-million-people/) — 2025-54-28
 - **Bleeping Computer**: [Over 1,200 SAP NetWeaver servers vulnerable to actively exploited flaw](https://www.bleepingcomputer.com/news/security/over-1-200-sap-netweaver-servers-vulnerable-to-actively-exploited-flaw/) — 2025-46-28
 - **Bleeping Computer**: [Kali Linux warns of update failures after losing repo signing key](https://www.bleepingcomputer.com/news/linux/kali-linux-warns-of-update-failures-after-losing-repo-signing-key/) — 2025-37-28
-- **Bleeping Computer**: [Microsoft fixes Outlook on the web search issues, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-on-the-web-search-issues-failures/) — 2025-17-28
 - **The Hacker News**: [⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp; More](https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html) — 2025-18-28
 - **The Hacker News**: [How Breaches Start: Breaking Down 5 Real Vulns](https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html) — 2025-00-28
 - **The Hacker News**: [Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools](https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html) — 2025-07-28
