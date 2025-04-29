@@ -33,12 +33,5 @@
     "summary": "\u200bOffensive Security warned Kali Linux users to manually install a new Kali repository signing key to avoid experiencing update failures. [...]",
     "published": "2025-04-28T16:37:58",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft fixes Outlook on the web search issues, failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-on-the-web-search-issues-failures/",
-    "summary": "Microsoft is working on fully mitigating issues causing Outlook on the web and SharePoint Online users to experience delays or failures when searching. [...]",
-    "published": "2025-04-28T15:17:52",
-    "source": "BleepingComputer"
   }
 ]
