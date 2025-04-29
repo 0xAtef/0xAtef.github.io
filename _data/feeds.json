@@ -1,5 +1,19 @@
 [
   {
+    "title": "CISA tags Broadcom Fabric OS, CommVault flaws as exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-broadcom-fabric-os-commvault-flaws-as-exploited-in-attacks/",
+    "summary": "The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning of Broadcom Brocade Fabric OS, Commvault web servers, and Qualitia Active! Mail clients vulnerabilities that are actively exploited in attacks. [...]",
+    "published": "2025-04-29T14:15:36",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients",
+    "link": "https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html",
+    "summary": "Cybersecurity company SentinelOne has revealed that a China-nexus threat cluster dubbed PurpleHaze conducted reconnaissance attempts against its infrastructure and some of its high-value customers.\n\"We first became aware of this threat cluster during a 2024 intrusion conducted against an organizatio",
+    "published": "2025-04-29T13:07:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Product Walkthrough: Securing Microsoft Copilot with Reco",
     "link": "https://thehackernews.com/2025/04/product-walkthrough-securing-microsoft.html",
     "summary": "Find out how Reco keeps Microsoft 365 Copilot safe by spotting risky prompts, protecting data, managing user access, and identifying threats - all while keeping productivity high.\n\nMicrosoft 365 Copilot promises to boost productivity by turning natural language prompts into actions. Employees can ge",
@@ -12,6 +26,13 @@
     "summary": "Google has revealed that it observed 75 zero-day vulnerabilities exploited in the wild in 2024, down from 98 in 2023.&nbsp;\nOf the 75 zero-days, 44% of them targeted enterprise products. As many as 20 flaws were identified in security software and appliances.\n\"Zero-day exploitation of browsers and m",
     "published": "2025-04-29T10:11:00",
     "source": "HackerNews"
+  },
+  {
+    "title": "Google: 97 zero-days exploited in 2024, over 50% in spyware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-97-zero-days-exploited-in-2024-over-50-percent-in-spyware-attacks/",
+    "summary": "Google's Threat Intelligence Group (GTIG) says attackers exploited 75 zero-day vulnerabilities in the wild last year, over 50% of which were linked to spyware attacks. [...]",
+    "published": "2025-04-29T10:00:00",
+    "source": "BleepingComputer"
   },
   {
     "title": "Malware Attack Targets World Uyghur Congress Leaders via Trojanized UyghurEdit++ Tool",
