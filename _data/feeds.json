@@ -1,10 +1,31 @@
 [
   {
+    "title": "Apple 'AirBorne' flaws can lead to zero-click AirPlay RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-airborne-flaws-can-lead-to-zero-click-airplay-rce-attacks/",
+    "summary": "\u200bA set of security vulnerabilities in Apple's AirPlay Protocol and AirPlay Software Development Kit (SDK) exposed unpatched third-party and Apple devices to various attacks, including remote code execution. [...]",
+    "published": "2025-04-29T17:32:05",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy",
+    "link": "https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html",
+    "summary": "Popular messaging app WhatsApp on Tuesday unveiled a new technology called Private Processing to enable artificial intelligence (AI) capabilities in a privacy-preserving manner.\n\"Private Processing will allow users to leverage powerful optional AI features \u2013 like summarizing unread messages or editi",
+    "published": "2025-04-29T17:22:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "SK Telecom cyberattack: Free SIM replacements for 25 million customers",
     "link": "https://www.bleepingcomputer.com/news/security/sk-telecom-cyberattack-free-sim-replacements-for-25-million-customers/",
     "summary": "South Korean mobile provider SK Telecom has announced free SIM card replacements to its 25 million mobile customers following a recent USIM data breach, but only 6 million cards are available through May. [...]",
     "published": "2025-04-29T16:49:53",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "New Reports Uncover Jailbreaks, Unsafe Code, and Data Theft Risks in Leading AI Systems",
+    "link": "https://thehackernews.com/2025/04/new-reports-uncover-jailbreaks-unsafe.html",
+    "summary": "Various generative artificial intelligence (GenAI) services have been found vulnerable to two types of jailbreak attacks that make it possible to produce illicit or dangerous content.\nThe first of the two techniques, codenamed Inception, instructs an AI tool to imagine a fictitious scenario, which c",
+    "published": "2025-04-29T16:18:00",
+    "source": "HackerNews"
   },
   {
     "title": "Microsoft fixes Outlook paste, blank calendar rendering issues",
