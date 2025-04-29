@@ -1,5 +1,19 @@
 [
   {
+    "title": "Grinex exchange suspected rebrand of sanctioned Garantex crypto firm",
+    "link": "https://www.bleepingcomputer.com/news/cryptocurrency/grinex-exchange-suspected-rebrand-of-sanctioned-garantex-crypto-firm/",
+    "summary": "A new cryptocurrency exchange named Grinex is believed to be a rebrand of Garantex, a Russian cryptocurrency exchange whose domains were seized by the U.S. authorities and an admin arrested. [...]",
+    "published": "2025-04-29T20:21:12",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Microsoft: Windows Server hotpatching to require subscription",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-hotpatching-to-require-subscription/",
+    "summary": "Microsoft has announced that it will soon introduce paid subscriptions for Windows Server 2025 hotpatching, a service that enables admins to install security updates without restarting. [...]",
+    "published": "2025-04-29T19:47:15",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hackers ramp up scans for leaked Git tokens and secrets",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-ramp-up-scans-for-leaked-git-tokens-and-secrets/",
     "summary": "Threat actors are intensifying internet-wide scanning for Git configuration files that can reveal sensitive secrets and authentication tokens used to compromise cloud services and source code repositories. [...]",
