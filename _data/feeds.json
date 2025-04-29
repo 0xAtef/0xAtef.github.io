@@ -1,5 +1,12 @@
 [
   {
+    "title": "SK Telecom cyberattack: Free SIM replacements for 25 million customers",
+    "link": "https://www.bleepingcomputer.com/news/security/sk-telecom-cyberattack-free-sim-replacements-for-25-million-customers/",
+    "summary": "South Korean mobile provider SK Telecom has announced free SIM card replacements to its 25 million mobile customers following a recent USIM data breach, but only 6 million cards are available through May. [...]",
+    "published": "2025-04-29T16:49:53",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft fixes Outlook paste, blank calendar rendering issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-paste-blank-calendar-rendering-issues/",
     "summary": "Microsoft has confirmed several issues affecting Microsoft 365 customers using the \"paste special' option and the calendar feature in the\u00a0classic Outlook email client. [...]",
