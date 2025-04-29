@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [CISA Adds Actively Exploited Broadcom and Commvault Flaws to KEV Database](https://thehackernews.com/2025/04/cisa-adds-actively-exploited-broadcom.html) — 2025-21-29
 - **Bleeping Computer**: [Marks &amp; Spencer breach linked to Scattered Spider ransomware attack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-breach-linked-to-scattered-spider-ransomware-attack/) — 2025-28-28
 - **Bleeping Computer**: [Hitachi Vantara takes servers offline after Akira ransomware attack](https://www.bleepingcomputer.com/news/security/hitachi-vantara-takes-servers-offline-after-akira-ransomware-attack/) — 2025-39-28
 - **Bleeping Computer**: [VeriSource now says February data breach impacts 4 million people](https://www.bleepingcomputer.com/news/security/verisource-now-says-february-data-breach-impacts-4-million-people/) — 2025-54-28
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [State-Sponsored Hackers Weaponize ClickFix Tactic in Targeted Malware Campaigns](https://thehackernews.com/2025/04/state-sponsored-hackers-weaponize.html) — 2025-32-17
 - **The Hacker News**: [Artificial Intelligence – What&#39;s all the fuss?](https://thehackernews.com/2025/04/artificial-intelligence-whats-all-fuss.html) — 2025-26-17
 - **The Hacker News**: [Critical Erlang/OTP SSH Vulnerability &lpar;CVSS 10.0&rpar; Allows Unauthenticated Code Execution](https://thehackernews.com/2025/04/critical-erlangotp-ssh-vulnerability.html) — 2025-32-17
-- **The Hacker News**: [Blockchain Offers Security Benefits – But Don&#39;t Neglect Your Passwords](https://thehackernews.com/2025/04/blockchain-offers-security-benefits-but.html) — 2025-30-17
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
