@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Hackers ramp up scans for leaked Git tokens and secrets](https://www.bleepingcomputer.com/news/security/hackers-ramp-up-scans-for-leaked-git-tokens-and-secrets/) — 2025-02-29
+- **Bleeping Computer**: [France ties Russian APT28 hackers to 12 cyberattacks on French orgs](https://www.bleepingcomputer.com/news/security/france-ties-russian-apt28-hackers-to-12-cyberattacks-on-french-orgs/) — 2025-57-29
 - **Bleeping Computer**: [Apple &#39;AirBorne&#39; flaws can lead to zero-click AirPlay RCE attacks](https://www.bleepingcomputer.com/news/security/apple-airborne-flaws-can-lead-to-zero-click-airplay-rce-attacks/) — 2025-32-29
 - **The Hacker News**: [WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy](https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html) — 2025-22-29
 - **Bleeping Computer**: [SK Telecom cyberattack: Free SIM replacements for 25 million customers](https://www.bleepingcomputer.com/news/security/sk-telecom-cyberattack-free-sim-replacements-for-25-million-customers/) — 2025-49-29
@@ -58,13 +60,11 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Over 1,200 SAP NetWeaver servers vulnerable to actively exploited flaw](https://www.bleepingcomputer.com/news/security/over-1-200-sap-netweaver-servers-vulnerable-to-actively-exploited-flaw/) — 2025-46-28
 - **Bleeping Computer**: [Kali Linux warns of update failures after losing repo signing key](https://www.bleepingcomputer.com/news/linux/kali-linux-warns-of-update-failures-after-losing-repo-signing-key/) — 2025-37-28
 - **Bleeping Computer**: [Microsoft fixes Outlook on the web search issues, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-on-the-web-search-issues-failures/) — 2025-17-28
-- **Bleeping Computer**: [Cloudflare mitigates record number of DDoS attacks in 2025](https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-number-of-ddos-attacks-in-2025/) — 2025-04-28
 - **The Hacker News**: [⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp; More](https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html) — 2025-18-28
 - **The Hacker News**: [How Breaches Start: Breaking Down 5 Real Vulns](https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html) — 2025-00-28
 - **The Hacker News**: [Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools](https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html) — 2025-07-28
 - **The Hacker News**: [WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors](https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html) — 2025-06-28
 - **The Hacker News**: [Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised](https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html) — 2025-13-28
-- **Bleeping Computer**: [Coinbase fixes 2FA log error making people think they were hacked](https://www.bleepingcomputer.com/news/security/coinbase-fixes-2fa-log-error-making-people-think-they-were-hacked/) — 2025-21-27
 - **The Hacker News**: [Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers](https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html) — 2025-02-27
 - **The Hacker News**: [ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion](https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html) — 2025-38-26
 - **The Hacker News**: [North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures](https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html) — 2025-05-25
