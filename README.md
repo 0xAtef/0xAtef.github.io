@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html) — 2025-07-29
 - **The Hacker News**: [Product Walkthrough: Securing Microsoft Copilot with Reco](https://thehackernews.com/2025/04/product-walkthrough-securing-microsoft.html) — 2025-00-29
 - **The Hacker News**: [Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products](https://thehackernews.com/2025/04/google-reports-75-zero-days-exploited.html) — 2025-11-29
 - **The Hacker News**: [Malware Attack Targets World Uyghur Congress Leaders via Trojanized UyghurEdit++ Tool](https://thehackernews.com/2025/04/malware-attack-targets-world-uyghur.html) — 2025-43-29
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [[Webinar] AI Is Already Inside Your SaaS Stack — Learn How to Prevent the Next Silent Breach](https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html) — 2025-45-18
 - **The Hacker News**: [Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT](https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html) — 2025-10-18
 - **The Hacker News**: [CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download](https://thehackernews.com/2025/04/cve-2025-24054-under-active.html) — 2025-29-18
-- **The Hacker News**: [Mustang Panda Targets Myanmar With StarProxy, EDR Bypass, and TONESHELL Updates](https://thehackernews.com/2025/04/mustang-panda-targets-myanmar-with.html) — 2025-22-17
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
