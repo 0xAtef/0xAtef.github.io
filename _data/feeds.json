@@ -68,12 +68,5 @@
     "summary": "Google's Threat Intelligence Group (GTIG) says attackers exploited 75 zero-day vulnerabilities in the wild last year, over 50% of which were linked to spyware attacks. [...]",
     "published": "2025-04-29T10:00:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Malware Attack Targets World Uyghur Congress Leaders via Trojanized UyghurEdit++ Tool",
-    "link": "https://thehackernews.com/2025/04/malware-attack-targets-world-uyghur.html",
-    "summary": "In a new campaign detected in March 2025, senior members of the World Uyghur Congress (WUC) living in exile have been targeted by a Windows-based malware that's capable of conducting surveillance.\nThe spear-phishing campaign involved the use of a trojanized version of a legitimate open-source word p",
-    "published": "2025-04-29T05:43:00",
-    "source": "HackerNews"
   }
 ]
