@@ -40,7 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Apple &#39;AirBorne&#39; flaws can lead to zero-click AirPlay RCE attacks](https://www.bleepingcomputer.com/news/security/apple-airborne-flaws-can-lead-to-zero-click-airplay-rce-attacks/) — 2025-32-29
+- **The Hacker News**: [WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy](https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html) — 2025-22-29
 - **Bleeping Computer**: [SK Telecom cyberattack: Free SIM replacements for 25 million customers](https://www.bleepingcomputer.com/news/security/sk-telecom-cyberattack-free-sim-replacements-for-25-million-customers/) — 2025-49-29
+- **The Hacker News**: [New Reports Uncover Jailbreaks, Unsafe Code, and Data Theft Risks in Leading AI Systems](https://thehackernews.com/2025/04/new-reports-uncover-jailbreaks-unsafe.html) — 2025-18-29
 - **Bleeping Computer**: [Microsoft fixes Outlook paste, blank calendar rendering issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-paste-blank-calendar-rendering-issues/) — 2025-45-29
 - **Bleeping Computer**: [CISA tags Broadcom Fabric OS, CommVault flaws as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-broadcom-fabric-os-commvault-flaws-as-exploited-in-attacks/) — 2025-15-29
 - **The Hacker News**: [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html) — 2025-07-29
@@ -62,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors](https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html) — 2025-06-28
 - **The Hacker News**: [Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised](https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html) — 2025-13-28
 - **Bleeping Computer**: [Coinbase fixes 2FA log error making people think they were hacked](https://www.bleepingcomputer.com/news/security/coinbase-fixes-2fa-log-error-making-people-think-they-were-hacked/) — 2025-21-27
-- **Bleeping Computer**: [Brave&#39;s Cookiecrumbler tool taps community to help block cookie notices](https://www.bleepingcomputer.com/news/security/braves-cookiecrumbler-tool-taps-community-to-help-block-cookie-notices/) — 2025-12-27
 - **The Hacker News**: [Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers](https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html) — 2025-02-27
 - **The Hacker News**: [ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion](https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html) — 2025-38-26
 - **The Hacker News**: [North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures](https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html) — 2025-05-25
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States](https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html) — 2025-15-18
 - **The Hacker News**: [Multi-Stage Malware Attack Uses .JSE and PowerShell to Deploy Agent Tesla and XLoader](https://thehackernews.com/2025/04/multi-stage-malware-attack-uses-jse-and.html) — 2025-03-18
 - **The Hacker News**: [[Webinar] AI Is Already Inside Your SaaS Stack — Learn How to Prevent the Next Silent Breach](https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html) — 2025-45-18
-- **The Hacker News**: [Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT](https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html) — 2025-10-18
-- **The Hacker News**: [CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download](https://thehackernews.com/2025/04/cve-2025-24054-under-active.html) — 2025-29-18
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
