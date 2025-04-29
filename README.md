@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Product Walkthrough: Securing Microsoft Copilot with Reco](https://thehackernews.com/2025/04/product-walkthrough-securing-microsoft.html) — 2025-00-29
+- **The Hacker News**: [Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products](https://thehackernews.com/2025/04/google-reports-75-zero-days-exploited.html) — 2025-11-29
 - **The Hacker News**: [Malware Attack Targets World Uyghur Congress Leaders via Trojanized UyghurEdit++ Tool](https://thehackernews.com/2025/04/malware-attack-targets-world-uyghur.html) — 2025-43-29
 - **The Hacker News**: [CISA Adds Actively Exploited Broadcom and Commvault Flaws to KEV Database](https://thehackernews.com/2025/04/cisa-adds-actively-exploited-broadcom.html) — 2025-21-29
 - **Bleeping Computer**: [Marks &amp; Spencer breach linked to Scattered Spider ransomware attack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-breach-linked-to-scattered-spider-ransomware-attack/) — 2025-28-28
@@ -102,8 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT](https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html) — 2025-10-18
 - **The Hacker News**: [CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download](https://thehackernews.com/2025/04/cve-2025-24054-under-active.html) — 2025-29-18
 - **The Hacker News**: [Mustang Panda Targets Myanmar With StarProxy, EDR Bypass, and TONESHELL Updates](https://thehackernews.com/2025/04/mustang-panda-targets-myanmar-with.html) — 2025-22-17
-- **The Hacker News**: [State-Sponsored Hackers Weaponize ClickFix Tactic in Targeted Malware Campaigns](https://thehackernews.com/2025/04/state-sponsored-hackers-weaponize.html) — 2025-32-17
-- **The Hacker News**: [Artificial Intelligence – What&#39;s all the fuss?](https://thehackernews.com/2025/04/artificial-intelligence-whats-all-fuss.html) — 2025-26-17
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
