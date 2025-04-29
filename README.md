@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft fixes Outlook paste, blank calendar rendering issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-paste-blank-calendar-rendering-issues/) — 2025-45-29
 - **Bleeping Computer**: [CISA tags Broadcom Fabric OS, CommVault flaws as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-broadcom-fabric-os-commvault-flaws-as-exploited-in-attacks/) — 2025-15-29
 - **The Hacker News**: [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html) — 2025-07-29
 - **The Hacker News**: [Product Walkthrough: Securing Microsoft Copilot with Reco](https://thehackernews.com/2025/04/product-walkthrough-securing-microsoft.html) — 2025-00-29
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Coinbase fixes 2FA log error making people think they were hacked](https://www.bleepingcomputer.com/news/security/coinbase-fixes-2fa-log-error-making-people-think-they-were-hacked/) — 2025-21-27
 - **Bleeping Computer**: [Brave&#39;s Cookiecrumbler tool taps community to help block cookie notices](https://www.bleepingcomputer.com/news/security/braves-cookiecrumbler-tool-taps-community-to-help-block-cookie-notices/) — 2025-12-27
 - **The Hacker News**: [Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers](https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html) — 2025-02-27
-- **Bleeping Computer**: [DragonForce expands ransomware model with white-label branding scheme](https://www.bleepingcomputer.com/news/security/dragonforce-expands-ransomware-model-with-white-label-branding-scheme/) — 2025-23-26
 - **The Hacker News**: [ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion](https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html) — 2025-38-26
 - **The Hacker News**: [North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures](https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html) — 2025-05-25
 - **The Hacker News**: [New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html) — 2025-41-25
