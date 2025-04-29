@@ -40,9 +40,11 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [CISA tags Broadcom Fabric OS, CommVault flaws as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-broadcom-fabric-os-commvault-flaws-as-exploited-in-attacks/) — 2025-15-29
 - **The Hacker News**: [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html) — 2025-07-29
 - **The Hacker News**: [Product Walkthrough: Securing Microsoft Copilot with Reco](https://thehackernews.com/2025/04/product-walkthrough-securing-microsoft.html) — 2025-00-29
 - **The Hacker News**: [Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products](https://thehackernews.com/2025/04/google-reports-75-zero-days-exploited.html) — 2025-11-29
+- **Bleeping Computer**: [Google: 97 zero-days exploited in 2024, over 50% in spyware attacks](https://www.bleepingcomputer.com/news/security/google-97-zero-days-exploited-in-2024-over-50-percent-in-spyware-attacks/) — 2025-00-29
 - **The Hacker News**: [Malware Attack Targets World Uyghur Congress Leaders via Trojanized UyghurEdit++ Tool](https://thehackernews.com/2025/04/malware-attack-targets-world-uyghur.html) — 2025-43-29
 - **The Hacker News**: [CISA Adds Actively Exploited Broadcom and Commvault Flaws to KEV Database](https://thehackernews.com/2025/04/cisa-adds-actively-exploited-broadcom.html) — 2025-21-29
 - **Bleeping Computer**: [Marks &amp; Spencer breach linked to Scattered Spider ransomware attack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-breach-linked-to-scattered-spider-ransomware-attack/) — 2025-28-28
@@ -61,9 +63,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Brave&#39;s Cookiecrumbler tool taps community to help block cookie notices](https://www.bleepingcomputer.com/news/security/braves-cookiecrumbler-tool-taps-community-to-help-block-cookie-notices/) — 2025-12-27
 - **The Hacker News**: [Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers](https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html) — 2025-02-27
 - **Bleeping Computer**: [DragonForce expands ransomware model with white-label branding scheme](https://www.bleepingcomputer.com/news/security/dragonforce-expands-ransomware-model-with-white-label-branding-scheme/) — 2025-23-26
-- **Bleeping Computer**: [WooCommerce admins targeted by fake security patches that hijack sites](https://www.bleepingcomputer.com/news/security/woocommerce-admins-targeted-by-fake-security-patches-that-hijack-sites/) — 2025-09-26
 - **The Hacker News**: [ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion](https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html) — 2025-38-26
-- **Bleeping Computer**: [Windows 11&#39;s Recall AI is now rolling out on Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/windows-11s-recall-ai-is-now-rolling-out-on-copilot-plus-pcs/) — 2025-08-25
 - **The Hacker News**: [North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures](https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html) — 2025-05-25
 - **The Hacker News**: [New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html) — 2025-41-25
 - **The Hacker News**: [Why NHIs Are Security&#39;s Most Dangerous Blind Spot](https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html) — 2025-30-25
