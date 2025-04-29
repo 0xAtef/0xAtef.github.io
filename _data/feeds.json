@@ -26,12 +26,5 @@
     "summary": "Over 1,200 internet-exposed SAP NetWeaver instances are vulnerable to an actively exploited maximum severity unauthenticated file upload vulnerability that allows attackers to hijack servers. [...]",
     "published": "2025-04-28T16:46:43",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Kali Linux warns of update failures after losing repo signing key",
-    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-warns-of-update-failures-after-losing-repo-signing-key/",
-    "summary": "\u200bOffensive Security warned Kali Linux users to manually install a new Kali repository signing key to avoid experiencing update failures. [...]",
-    "published": "2025-04-28T16:37:58",
-    "source": "BleepingComputer"
   }
 ]
