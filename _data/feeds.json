@@ -1,5 +1,12 @@
 [
   {
+    "title": "CISA Adds Actively Exploited Broadcom and Commvault Flaws to KEV Database",
+    "link": "https://thehackernews.com/2025/04/cisa-adds-actively-exploited-broadcom.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two high-severity security flaws impacting Broadcom Brocade Fabric OS and Commvault Web Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerabilitie",
+    "published": "2025-04-29T04:21:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Marks & Spencer breach linked to Scattered Spider ransomware attack",
     "link": "https://www.bleepingcomputer.com/news/security/marks-and-spencer-breach-linked-to-scattered-spider-ransomware-attack/",
     "summary": "Ongoing outages at British retail giant Marks & Spencer are caused by a ransomware attack believed to be conducted by a hacking collective known as \"Scattered Spider\"\u00a0BleepingComputer has learned from multiple sources. [...]",
@@ -18,13 +25,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/verisource-now-says-february-data-breach-impacts-4-million-people/",
     "summary": "Employee benefits administration firm VeriSource Services is warning that a data breach exposed the personal information of four million people.\u00a0 [...]",
     "published": "2025-04-28T17:54:47",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Over 1,200 SAP NetWeaver servers vulnerable to actively exploited flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/over-1-200-sap-netweaver-servers-vulnerable-to-actively-exploited-flaw/",
-    "summary": "Over 1,200 internet-exposed SAP NetWeaver instances are vulnerable to an actively exploited maximum severity unauthenticated file upload vulnerability that allows attackers to hijack servers. [...]",
-    "published": "2025-04-28T16:46:43",
     "source": "BleepingComputer"
   }
 ]
