@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Commvault says recent breach didn&#39;t impact customer backup data](https://www.bleepingcomputer.com/news/security/commvault-says-recent-breach-didnt-impact-customer-backup-data/) — 2025-20-30
 - **Bleeping Computer**: [FBI shares massive list of 42,000 LabHost phishing domains](https://www.bleepingcomputer.com/news/security/fbi-shares-massive-list-of-42-000-labhost-phishing-domains/) — 2025-01-30
+- **The Hacker News**: [Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense](https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html) — 2025-59-30
 - **Bleeping Computer**: [UK retailer Co-op shuts down some IT systems after hack attempt](https://www.bleepingcomputer.com/news/security/uk-retailer-co-op-shuts-down-some-it-systems-after-hack-attempt/) — 2025-12-30
 - **Bleeping Computer**: [Ascension discloses new data breach after third-party hacking incident](https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/) — 2025-21-30
 - **The Hacker News**: [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html) — 2025-26-30
@@ -103,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan](https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html) — 2025-42-21
 - **The Hacker News**: [SuperCard X Android Malware Enables Contactless ATM and PoS Fraud via NFC Relay Attacks](https://thehackernews.com/2025/04/supercard-x-android-malware-enables.html) — 2025-13-21
 - **The Hacker News**: [5 Reasons Device Management Isn&#39;t Device Trust​](https://thehackernews.com/2025/04/5-reasons-device-management-isnt-device.html) — 2025-25-21
-- **The Hacker News**: [⚡ Weekly Recap: iOS Zero-Days, 4Chan Breach, NTLM Exploits, WhatsApp Spyware &amp; More](https://thehackernews.com/2025/04/thn-weekly-recap-ios-zero-days-4chan.html) — 2025-10-21
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
