@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Meta Launches LlamaFirewall Framework to Stop AI Jailbreaks, Injections, and Insecure Code](https://thehackernews.com/2025/04/meta-launches-llamafirewall-framework.html) — 2025-08-30
 - **The Hacker News**: [Indian Court Orders Action to Block Proton Mail Over AI Deepfake Abuse Allegations](https://thehackernews.com/2025/04/indian-court-orders-action-to-block.html) — 2025-45-30
 - **Bleeping Computer**: [Grinex exchange suspected rebrand of sanctioned Garantex crypto firm](https://www.bleepingcomputer.com/news/cryptocurrency/grinex-exchange-suspected-rebrand-of-sanctioned-garantex-crypto-firm/) — 2025-21-29
 - **Bleeping Computer**: [Microsoft: Windows Server hotpatching to require subscription](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-hotpatching-to-require-subscription/) — 2025-47-29
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Rogue npm Packages Mimic Telegram Bot API to Plant SSH Backdoors on Linux Systems](https://thehackernews.com/2025/04/rogue-npm-packages-mimic-telegram-bot.html) — 2025-11-19
 - **The Hacker News**: [ASUS Confirms Critical Flaw in AiCloud Routers; Users Urged to Update Firmware](https://thehackernews.com/2025/04/asus-confirms-critical-flaw-in-aicloud.html) — 2025-52-19
 - **The Hacker News**: [Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States](https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html) — 2025-15-18
-- **The Hacker News**: [Multi-Stage Malware Attack Uses .JSE and PowerShell to Deploy Agent Tesla and XLoader](https://thehackernews.com/2025/04/multi-stage-malware-attack-uses-jse-and.html) — 2025-03-18
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
