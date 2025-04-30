@@ -1,5 +1,12 @@
 [
   {
+    "title": "Alleged \u2018Scattered Spider\u2019 Member Extradited to U.S.",
+    "link": "https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/",
+    "summary": "A 23-year-old Scottish man thought to be a member of the prolific Scattered Spider cybercrime group was extradited last week from Spain to the United States, where he is facing charges of wire fraud, conspiracy and identity theft. U.S. prosecutors allege Tyler Robert Buchanan and co-conspirators hac",
+    "published": "2025-04-30T21:54:59",
+    "source": "Krebs"
+  },
+  {
     "title": "WordPress plugin disguised as a security tool injects backdoor",
     "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-disguised-as-a-security-tool-injects-backdoor/",
     "summary": "A new malware campaign targeting WordPress sites employs a malicious plugin disguised as a security tool to trick users into installing and trusting it. [...]",
@@ -81,20 +88,6 @@
     "link": "https://thehackernews.com/2025/04/customer-account-takeovers-multi.html",
     "summary": "Everyone has cybersecurity stories involving family members. Here\u2019s a relatively common one. The conversation usually goes something like this:&nbsp;\n\u201cThe strangest thing happened to my streaming account. I got locked out of my account, so I had to change my password. When I logged back in, all my s",
     "published": "2025-04-30T10:24:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Nebulous Mantis Targets NATO-Linked Entities with Multi-Stage Malware Attacks",
-    "link": "https://thehackernews.com/2025/04/nebulous-mantis-targets-nato-linked.html",
-    "summary": "Cybersecurity researchers have shed light on a Russian-speaking cyber espionage group called Nebulous Mantis that has deployed a remote access trojan called RomCom RAT since mid-2022.\nRomCom \"employs advanced evasion techniques, including living-off-the-land (LOTL) tactics and encrypted command and ",
-    "published": "2025-04-30T10:20:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control",
-    "link": "https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html",
-    "summary": "Cybersecurity researchers have revealed that RansomHub's online infrastructure has \"inexplicably\" gone offline as of April 1, 2025, prompting concerns among affiliates of the ransomware-as-a-service (RaaS) operation.\nSingaporean cybersecurity company Group-IB said that this may have caused affiliate",
-    "published": "2025-04-30T10:15:00",
     "source": "HackerNews"
   }
 ]
