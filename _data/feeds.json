@@ -33,19 +33,5 @@
     "summary": "\u200bA set of security vulnerabilities in Apple's AirPlay Protocol and AirPlay Software Development Kit (SDK) exposed unpatched third-party and Apple devices to various attacks, including remote code execution. [...]",
     "published": "2025-04-29T17:32:05",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy",
-    "link": "https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html",
-    "summary": "Popular messaging app WhatsApp on Tuesday unveiled a new technology called Private Processing to enable artificial intelligence (AI) capabilities in a privacy-preserving manner.\n\"Private Processing will allow users to leverage powerful optional AI features \u2013 like summarizing unread messages or editi",
-    "published": "2025-04-29T17:22:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "SK Telecom cyberattack: Free SIM replacements for 25 million customers",
-    "link": "https://www.bleepingcomputer.com/news/security/sk-telecom-cyberattack-free-sim-replacements-for-25-million-customers/",
-    "summary": "South Korean mobile provider SK Telecom has announced free SIM card replacements to its 25 million mobile customers following a recent USIM data breach, but only 6 million cards are available through May. [...]",
-    "published": "2025-04-29T16:49:53",
-    "source": "BleepingComputer"
   }
 ]
