@@ -68,12 +68,5 @@
     "summary": "The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning of Broadcom Brocade Fabric OS, Commvault web servers, and Qualitia Active! Mail clients vulnerabilities that are actively exploited in attacks. [...]",
     "published": "2025-04-29T14:15:36",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients",
-    "link": "https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html",
-    "summary": "Cybersecurity company SentinelOne has revealed that a China-nexus threat cluster dubbed PurpleHaze conducted reconnaissance attempts against its infrastructure and some of its high-value customers.\n\"We first became aware of this threat cluster during a 2024 intrusion conducted against an organizatio",
-    "published": "2025-04-29T13:07:00",
-    "source": "HackerNews"
   }
 ]
