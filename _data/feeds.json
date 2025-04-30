@@ -1,5 +1,19 @@
 [
   {
+    "title": "Commvault says recent breach didn't impact customer backup data",
+    "link": "https://www.bleepingcomputer.com/news/security/commvault-says-recent-breach-didnt-impact-customer-backup-data/",
+    "summary": "Commvault, a leading provider of data protection solutions, says a nation-state threat actor who breached its Azure environment didn't gain access to customer backup data. [...]",
+    "published": "2025-04-30T16:20:53",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "FBI shares massive list of 42,000 LabHost phishing domains",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-shares-massive-list-of-42-000-labhost-phishing-domains/",
+    "summary": "The FBI has shared 42,000 phishing domains tied to the LabHost cybercrime platform, one of the largest global phishing-as-a-service (PhaaS) platforms that was dismantled in April 2024. [...]",
+    "published": "2025-04-30T16:01:12",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "UK retailer Co-op shuts down some IT systems after hack attempt",
     "link": "https://www.bleepingcomputer.com/news/security/uk-retailer-co-op-shuts-down-some-it-systems-after-hack-attempt/",
     "summary": "British supermarket chain Co-op Food has confirmed to BleepingComputer via a statement that it has suffered limited operational disruption as it responds to a cyberattack. [...]",
