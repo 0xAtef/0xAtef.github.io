@@ -61,12 +61,5 @@
     "summary": "Microsoft has confirmed several issues affecting Microsoft 365 customers using the \"paste special' option and the calendar feature in the\u00a0classic Outlook email client. [...]",
     "published": "2025-04-29T15:45:25",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "CISA tags Broadcom Fabric OS, CommVault flaws as exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-broadcom-fabric-os-commvault-flaws-as-exploited-in-attacks/",
-    "summary": "The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning of Broadcom Brocade Fabric OS, Commvault web servers, and Qualitia Active! Mail clients vulnerabilities that are actively exploited in attacks. [...]",
-    "published": "2025-04-29T14:15:36",
-    "source": "BleepingComputer"
   }
 ]
