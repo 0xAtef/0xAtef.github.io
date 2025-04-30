@@ -54,12 +54,5 @@
     "summary": "Various generative artificial intelligence (GenAI) services have been found vulnerable to two types of jailbreak attacks that make it possible to produce illicit or dangerous content.\nThe first of the two techniques, codenamed Inception, instructs an AI tool to imagine a fictitious scenario, which c",
     "published": "2025-04-29T16:18:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft fixes Outlook paste, blank calendar rendering issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-paste-blank-calendar-rendering-issues/",
-    "summary": "Microsoft has confirmed several issues affecting Microsoft 365 customers using the \"paste special' option and the calendar feature in the\u00a0classic Outlook email client. [...]",
-    "published": "2025-04-29T15:45:25",
-    "source": "BleepingComputer"
   }
 ]
