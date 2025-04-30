@@ -26,12 +26,5 @@
     "summary": "Today, the French foreign ministry blamed the APT28 hacking group linked to Russia's military intelligence service (GRU) for targeting or breaching a dozen French entities over the last four years. [...]",
     "published": "2025-04-29T18:57:15",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Apple 'AirBorne' flaws can lead to zero-click AirPlay RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-airborne-flaws-can-lead-to-zero-click-airplay-rce-attacks/",
-    "summary": "\u200bA set of security vulnerabilities in Apple's AirPlay Protocol and AirPlay Software Development Kit (SDK) exposed unpatched third-party and Apple devices to various attacks, including remote code execution. [...]",
-    "published": "2025-04-29T17:32:05",
-    "source": "BleepingComputer"
   }
 ]
