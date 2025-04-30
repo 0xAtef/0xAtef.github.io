@@ -19,19 +19,5 @@
     "summary": "Microsoft has announced it will require paid subscriptions for Windows Server 2025 hotpatching, a service that enables admins to install security updates without restarting. [...]",
     "published": "2025-04-29T19:47:15",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers ramp up scans for leaked Git tokens and secrets",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-ramp-up-scans-for-leaked-git-tokens-and-secrets/",
-    "summary": "Threat actors are intensifying internet-wide scanning for Git configuration files that can reveal sensitive secrets and authentication tokens used to compromise cloud services and source code repositories. [...]",
-    "published": "2025-04-29T19:02:43",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "France ties Russian APT28 hackers to 12 cyberattacks on French orgs",
-    "link": "https://www.bleepingcomputer.com/news/security/france-ties-russian-apt28-hackers-to-12-cyberattacks-on-french-orgs/",
-    "summary": "Today, the French foreign ministry blamed the APT28 hacking group linked to Russia's military intelligence service (GRU) for targeting or breaching a dozen French entities over the last four years. [...]",
-    "published": "2025-04-29T18:57:15",
-    "source": "BleepingComputer"
   }
 ]
