@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [FBI shares massive list of 42,000 LabHost phishing domains](https://www.bleepingcomputer.com/news/security/fbi-shares-massive-list-of-42-000-labhost-phishing-domains/) — 2025-01-30
 - **Bleeping Computer**: [UK retailer Co-op shuts down some IT systems after hack attempt](https://www.bleepingcomputer.com/news/security/uk-retailer-co-op-shuts-down-some-it-systems-after-hack-attempt/) — 2025-12-30
 - **Bleeping Computer**: [Ascension discloses new data breach after third-party hacking incident](https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/) — 2025-21-30
 - **The Hacker News**: [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html) — 2025-26-30
@@ -63,7 +64,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html) — 2025-07-29
 - **The Hacker News**: [Product Walkthrough: Securing Microsoft Copilot with Reco](https://thehackernews.com/2025/04/product-walkthrough-securing-microsoft.html) — 2025-00-29
 - **The Hacker News**: [Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products](https://thehackernews.com/2025/04/google-reports-75-zero-days-exploited.html) — 2025-11-29
-- **Bleeping Computer**: [Google: 97 zero-days exploited in 2024, over 50% in spyware attacks](https://www.bleepingcomputer.com/news/security/google-97-zero-days-exploited-in-2024-over-50-percent-in-spyware-attacks/) — 2025-00-29
 - **The Hacker News**: [Malware Attack Targets World Uyghur Congress Leaders via Trojanized UyghurEdit++ Tool](https://thehackernews.com/2025/04/malware-attack-targets-world-uyghur.html) — 2025-43-29
 - **The Hacker News**: [CISA Adds Actively Exploited Broadcom and Commvault Flaws to KEV Database](https://thehackernews.com/2025/04/cisa-adds-actively-exploited-broadcom.html) — 2025-21-29
 - **The Hacker News**: [⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp; More](https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html) — 2025-18-28
