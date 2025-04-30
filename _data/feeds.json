@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft: Windows 11 24H2 updates fail with 0x80240069 errors",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-updates-fail-with-0x80240069-errors/",
+    "summary": "Microsoft has confirmed that Windows 11 24H2 feature updates via Windows Server Update Services (WSUS) are being blocked after installing the April 2025 security updates. [...]",
+    "published": "2025-04-30T10:45:32",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Customer Account Takeovers: The Multi-Billion Dollar Problem You Don\u2019t Know About",
+    "link": "https://thehackernews.com/2025/04/customer-account-takeovers-multi.html",
+    "summary": "Everyone has cybersecurity stories involving family members. Here\u2019s a relatively common one. The conversation usually goes something like this:&nbsp;\n\u201cThe strangest thing happened to my streaming account. I got locked out of my account, so I had to change my password. When I logged back in, all my s",
+    "published": "2025-04-30T10:24:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control",
     "link": "https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html",
     "summary": "Cybersecurity researchers have revealed that RansomHub's online infrastructure has \"inexplicably\" gone offline as of April 1, 2025, prompting concerns among affiliates of the ransomware-as-a-service (RaaS) operation.\nSingaporean cybersecurity company Group-IB said that this may have caused affiliate",
