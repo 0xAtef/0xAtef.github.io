@@ -68,19 +68,5 @@
     "summary": "How Many Gaps Are Hiding in Your Identity System? It\u2019s not just about logins anymore.\nToday\u2019s attackers don\u2019t need to \u201chack\u201d in\u2014they can trick their way in. Deepfakes, impersonation scams, and AI-powered social engineering are helping them bypass traditional defenses and slip through unnoticed. Once",
     "published": "2025-04-30T11:26:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool",
-    "link": "https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html",
-    "summary": "A China-aligned advanced persistent threat (APT) group called TheWizards has been linked to a lateral movement tool called Spellbinder that can facilitate adversary-in-the-middle (AitM) attacks.\n\"Spellbinder enables adversary-in-the-middle (AitM) attacks, through IPv6 stateless address autoconfigura",
-    "published": "2025-04-30T11:05:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft: Windows 11 24H2 updates fail with 0x80240069 errors",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-updates-fail-with-0x80240069-errors/",
-    "summary": "Microsoft has confirmed that Windows 11 24H2 feature updates via Windows Server Update Services (WSUS) are being blocked after installing the April 2025 security updates. [...]",
-    "published": "2025-04-30T10:45:32",
-    "source": "BleepingComputer"
   }
 ]
