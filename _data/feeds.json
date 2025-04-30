@@ -1,5 +1,12 @@
 [
   {
+    "title": "RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control",
+    "link": "https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html",
+    "summary": "Cybersecurity researchers have revealed that RansomHub's online infrastructure has \"inexplicably\" gone offline as of April 1, 2025, prompting concerns among affiliates of the ransomware-as-a-service (RaaS) operation.\nSingaporean cybersecurity company Group-IB said that this may have caused affiliate",
+    "published": "2025-04-30T10:15:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Meta Launches LlamaFirewall Framework to Stop AI Jailbreaks, Injections, and Insecure Code",
     "link": "https://thehackernews.com/2025/04/meta-launches-llamafirewall-framework.html",
     "summary": "Meta on Tuesday announced LlamaFirewall, an open-source framework designed to secure artificial intelligence (AI) systems against emerging cyber risks such as prompt injection, jailbreaks, and insecure code, among others.\nThe framework, the company said, incorporates three guardrails, including Prom",
