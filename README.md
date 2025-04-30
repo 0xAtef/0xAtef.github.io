@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Bleeping Computer**: [WordPress plugin disguised as a security tool injects backdoor](https://www.bleepingcomputer.com/news/security/wordpress-plugin-disguised-as-a-security-tool-injects-backdoor/) — 2025-05-30
 - **Bleeping Computer**: [WhatsApp unveils &#39;Private Processing&#39; for cloud-based AI features](https://www.bleepingcomputer.com/news/security/whatsapp-unveils-private-processing-for-cloud-based-ai-features/) — 2025-01-30
 - **Bleeping Computer**: [SonicWall: SMA100 VPN vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-sma100-vpn-vulnerabilities-now-exploited-in-attacks/) — 2025-23-30
@@ -110,5 +111,4 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Patch Tuesday, April 2025 Edition](https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/) — 2025-09-09
 - **Krebs on Security**: [Cyber Forensic Expert in 2,000+ Cases Faces FBI Probe](https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/) — 2025-37-04
 - **Krebs on Security**: [How Each Pillar of the 1st Amendment is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/) — 2025-22-31
-- **Krebs on Security**: [When Getting Phished Puts You in Mortal Danger](https://krebsonsecurity.com/2025/03/when-getting-phished-puts-you-in-mortal-danger/) — 2025-39-27
-- **Krebs on Security**: [Arrests in Tap-to-Pay Scheme Powered by Phishing](https://krebsonsecurity.com/2025/03/arrests-in-tap-to-pay-scheme-powered-by-phishing/) — 2025-12-21<!-- BLOG-POST-LIST:END -->
+- **Krebs on Security**: [When Getting Phished Puts You in Mortal Danger](https://krebsonsecurity.com/2025/03/when-getting-phished-puts-you-in-mortal-danger/) — 2025-39-27<!-- BLOG-POST-LIST:END -->
