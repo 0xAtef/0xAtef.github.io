@@ -1,5 +1,12 @@
 [
   {
+    "title": "WordPress plugin disguised as a security tool injects backdoor",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-disguised-as-a-security-tool-injects-backdoor/",
+    "summary": "A new malware campaign targeting WordPress sites employs a malicious plugin disguised as a security tool to trick users into installing and trusting it. [...]",
+    "published": "2025-04-30T21:05:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "WhatsApp unveils 'Private Processing' for cloud-based AI features",
     "link": "https://www.bleepingcomputer.com/news/security/whatsapp-unveils-private-processing-for-cloud-based-ai-features/",
     "summary": "WhatsApp has announced the introduction of 'Private Processing,' a new technology that enables users to utilize advanced AI features by offloading tasks to privacy-preserving\u00a0cloud servers. [...]",
