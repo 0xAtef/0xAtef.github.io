@@ -14,6 +14,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense",
+    "link": "https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html",
+    "summary": "As the field of artificial intelligence (AI) continues to evolve at a rapid pace, new research has found how techniques that render the Model Context Protocol (MCP) susceptible to prompt injection attacks could be used to develop security tooling or identify malicious tools, according to a new repor",
+    "published": "2025-04-30T15:59:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "UK retailer Co-op shuts down some IT systems after hack attempt",
     "link": "https://www.bleepingcomputer.com/news/security/uk-retailer-co-op-shuts-down-some-it-systems-after-hack-attempt/",
     "summary": "British supermarket chain Co-op Food has confirmed to BleepingComputer via a statement that it has suffered limited operational disruption as it responds to a cyberattack. [...]",
