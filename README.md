@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [WordPress plugin disguised as a security tool injects backdoor](https://www.bleepingcomputer.com/news/security/wordpress-plugin-disguised-as-a-security-tool-injects-backdoor/) — 2025-05-30
 - **Bleeping Computer**: [WhatsApp unveils &#39;Private Processing&#39; for cloud-based AI features](https://www.bleepingcomputer.com/news/security/whatsapp-unveils-private-processing-for-cloud-based-ai-features/) — 2025-01-30
 - **Bleeping Computer**: [SonicWall: SMA100 VPN vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-sma100-vpn-vulnerabilities-now-exploited-in-attacks/) — 2025-23-30
 - **Bleeping Computer**: [Commvault says recent breach didn&#39;t impact customer backup data](https://www.bleepingcomputer.com/news/security/commvault-says-recent-breach-didnt-impact-customer-backup-data/) — 2025-20-30
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft: Windows Server hotpatching to require subscription](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-hotpatching-to-require-subscription/) — 2025-47-29
 - **Bleeping Computer**: [Hackers ramp up scans for leaked Git tokens and secrets](https://www.bleepingcomputer.com/news/security/hackers-ramp-up-scans-for-leaked-git-tokens-and-secrets/) — 2025-02-29
 - **Bleeping Computer**: [France ties Russian APT28 hackers to 12 cyberattacks on French orgs](https://www.bleepingcomputer.com/news/security/france-ties-russian-apt28-hackers-to-12-cyberattacks-on-french-orgs/) — 2025-57-29
-- **Bleeping Computer**: [Apple &#39;AirBorne&#39; flaws can lead to zero-click AirPlay RCE attacks](https://www.bleepingcomputer.com/news/security/apple-airborne-flaws-can-lead-to-zero-click-airplay-rce-attacks/) — 2025-32-29
 - **The Hacker News**: [WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy](https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html) — 2025-22-29
 - **The Hacker News**: [New Reports Uncover Jailbreaks, Unsafe Code, and Data Theft Risks in Leading AI Systems](https://thehackernews.com/2025/04/new-reports-uncover-jailbreaks-unsafe.html) — 2025-18-29
 - **The Hacker News**: [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html) — 2025-07-29
