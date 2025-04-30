@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft: Windows 11 24H2 updates fail with 0x80240069 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-updates-fail-with-0x80240069-errors/) — 2025-45-30
+- **The Hacker News**: [Customer Account Takeovers: The Multi-Billion Dollar Problem You Don’t Know About](https://thehackernews.com/2025/04/customer-account-takeovers-multi.html) — 2025-24-30
+- **The Hacker News**: [RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control](https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html) — 2025-15-30
 - **The Hacker News**: [Meta Launches LlamaFirewall Framework to Stop AI Jailbreaks, Injections, and Insecure Code](https://thehackernews.com/2025/04/meta-launches-llamafirewall-framework.html) — 2025-08-30
 - **The Hacker News**: [Indian Court Orders Action to Block Proton Mail Over AI Deepfake Abuse Allegations](https://thehackernews.com/2025/04/indian-court-orders-action-to-block.html) — 2025-45-30
 - **Bleeping Computer**: [Grinex exchange suspected rebrand of sanctioned Garantex crypto firm](https://www.bleepingcomputer.com/news/cryptocurrency/grinex-exchange-suspected-rebrand-of-sanctioned-garantex-crypto-firm/) — 2025-21-29
@@ -61,7 +64,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Marks &amp; Spencer breach linked to Scattered Spider ransomware attack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-breach-linked-to-scattered-spider-ransomware-attack/) — 2025-28-28
 - **Bleeping Computer**: [Hitachi Vantara takes servers offline after Akira ransomware attack](https://www.bleepingcomputer.com/news/security/hitachi-vantara-takes-servers-offline-after-akira-ransomware-attack/) — 2025-39-28
 - **Bleeping Computer**: [VeriSource now says February data breach impacts 4 million people](https://www.bleepingcomputer.com/news/security/verisource-now-says-february-data-breach-impacts-4-million-people/) — 2025-54-28
-- **Bleeping Computer**: [Over 1,200 SAP NetWeaver servers vulnerable to actively exploited flaw](https://www.bleepingcomputer.com/news/security/over-1-200-sap-netweaver-servers-vulnerable-to-actively-exploited-flaw/) — 2025-46-28
 - **The Hacker News**: [⚡ Weekly Recap: Critical SAP Exploit, AI-Powered Phishing, Major Breaches, New CVEs &amp; More](https://thehackernews.com/2025/04/weekly-recap-critical-sap-exploit-ai.html) — 2025-18-28
 - **The Hacker News**: [How Breaches Start: Breaking Down 5 Real Vulns](https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html) — 2025-00-28
 - **The Hacker News**: [Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools](https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html) — 2025-07-28
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Hackers Abuse Russian Bulletproof Host Proton66 for Global Attacks and Malware Delivery](https://thehackernews.com/2025/04/hackers-abuse-russian-bulletproof-host.html) — 2025-01-21
 - **The Hacker News**: [APT29 Deploys GRAPELOADER Malware Targeting European Diplomats Through Wine-Tasting Lures](https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html) — 2025-58-20
 - **The Hacker News**: [Rogue npm Packages Mimic Telegram Bot API to Plant SSH Backdoors on Linux Systems](https://thehackernews.com/2025/04/rogue-npm-packages-mimic-telegram-bot.html) — 2025-11-19
-- **The Hacker News**: [ASUS Confirms Critical Flaw in AiCloud Routers; Users Urged to Update Firmware](https://thehackernews.com/2025/04/asus-confirms-critical-flaw-in-aicloud.html) — 2025-52-19
-- **The Hacker News**: [Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States](https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html) — 2025-15-18
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
