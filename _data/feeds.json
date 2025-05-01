@@ -47,12 +47,5 @@
     "summary": "Artificial intelligence (AI) company Anthropic has revealed that unknown threat actors leveraged its Claude chatbot for an \"influence-as-a-service\" operation to engage with authentic accounts across Facebook and X.\nThe sophisticated activity, branded as financially-motivated, is said to have used it",
     "published": "2025-05-01T11:02:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "New Research Reveals: 95% of AppSec Fixes Don\u2019t Reduce Risk",
-    "link": "https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html",
-    "summary": "For over a decade, application security teams have faced a brutal irony: the more advanced the detection tools became, the less useful their results proved to be. As alerts from static analysis tools, scanners, and CVE databases surged, the promise of better security grew more distant. In its place,",
-    "published": "2025-05-01T09:44:00",
-    "source": "HackerNews"
   }
 ]
