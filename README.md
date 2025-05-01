@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Malicious PyPI packages abuse Gmail, websockets to hijack systems](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-abuse-gmail-websockets-to-hijack-systems/) — 2025-25-01
 - **The Hacker News**: [Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers](https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html) — 2025-47-01
 - **The Hacker News**: [Why top SOC teams are shifting to Network Detection and Response](https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html) — 2025-25-01
 - **The Hacker News**: [Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign](https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html) — 2025-02-01
@@ -67,7 +68,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Indian Court Orders Action to Block Proton Mail Over AI Deepfake Abuse Allegations](https://thehackernews.com/2025/04/indian-court-orders-action-to-block.html) — 2025-45-30
 - **Bleeping Computer**: [Grinex exchange suspected rebrand of sanctioned Garantex crypto firm](https://www.bleepingcomputer.com/news/cryptocurrency/grinex-exchange-suspected-rebrand-of-sanctioned-garantex-crypto-firm/) — 2025-21-29
 - **Bleeping Computer**: [Microsoft: Windows Server hotpatching to require subscription](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-hotpatching-to-require-subscription/) — 2025-47-29
-- **Bleeping Computer**: [Hackers ramp up scans for leaked Git tokens and secrets](https://www.bleepingcomputer.com/news/security/hackers-ramp-up-scans-for-leaked-git-tokens-and-secrets/) — 2025-02-29
 - **The Hacker News**: [WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy](https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html) — 2025-22-29
 - **The Hacker News**: [New Reports Uncover Jailbreaks, Unsafe Code, and Data Theft Risks in Leading AI Systems](https://thehackernews.com/2025/04/new-reports-uncover-jailbreaks-unsafe.html) — 2025-18-29
 - **The Hacker News**: [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html) — 2025-07-29
