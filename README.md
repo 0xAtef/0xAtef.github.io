@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [New Research Reveals: 95% of AppSec Fixes Don’t Reduce Risk](https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html) — 2025-44-01
+- **The Hacker News**: [DarkWatchman, Sheriff Malware Hit Russia and Ukraine with Stealth and Nation-Grade Tactics](https://thehackernews.com/2025/05/darkwatchman-sheriff-malware-hit-russia.html) — 2025-27-01
 - **The Hacker News**: [Commvault Confirms Hackers Exploited CVE-2025-3928 as Zero-Day in Azure Breach](https://thehackernews.com/2025/05/commvault-confirms-hackers-exploited.html) — 2025-11-01
 - **The Hacker News**: [SonicWall Confirms Active Exploitation of Flaws Affecting Multiple Appliance Models](https://thehackernews.com/2025/05/sonicwall-confirms-active-exploitation.html) — 2025-22-01
 - **Bleeping Computer**: [Hackers abuse IPv6 networking feature to hijack software updates](https://www.bleepingcomputer.com/news/security/hackers-abuse-ipv6-networking-feature-to-hijack-software-updates/) — 2025-33-01
@@ -103,9 +105,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [5 Major Concerns With Employees Using The Browser](https://thehackernews.com/2025/04/5-major-concerns-with-employees-using.html) — 2025-00-22
 - **The Hacker News**: [Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials](https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html) — 2025-50-22
 - **The Hacker News**: [Microsoft Secures MSA Signing with Azure Confidential VMs Following Storm-0558 Breach](https://thehackernews.com/2025/04/microsoft-secures-msa-signing-with.html) — 2025-38-22
-- **The Hacker News**: [Lotus Panda Hacks SE Asian Governments With Browser Stealers and Sideloaded Malware](https://thehackernews.com/2025/04/lotus-panda-hacks-se-asian-governments.html) — 2025-29-22
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
-- **The Hacker News**: [Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan](https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html) — 2025-42-21
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
