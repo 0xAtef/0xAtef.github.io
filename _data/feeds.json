@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackers abuse IPv6 networking feature to hijack software updates",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ipv6-networking-feature-to-hijack-software-updates/",
+    "summary": "A China-aligned APT threat actor named \"TheWizards\" abuses an IPv6 networking feature\u00a0to launch adversary-in-the-middle (AitM) attacks that hijack software updates to install Windows malware. [...]",
+    "published": "2025-05-01T00:33:42",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Alleged \u2018Scattered Spider\u2019 Member Extradited to U.S.",
     "link": "https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/",
     "summary": "A 23-year-old Scottish man thought to be a member of the prolific Scattered Spider cybercrime group was extradited last week from Spain to the United States, where he is facing charges of wire fraud, conspiracy and identity theft. U.S. prosecutors allege Tyler Robert Buchanan and co-conspirators hac",
@@ -53,13 +60,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/uk-retailer-co-op-shuts-down-some-it-systems-after-hack-attempt/",
     "summary": "British supermarket chain Co-op Food has confirmed to BleepingComputer via a statement that it has suffered limited operational disruption as it responds to a cyberattack. [...]",
     "published": "2025-04-30T14:12:54",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Ascension discloses new data breach after third-party hacking incident",
-    "link": "https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/",
-    "summary": "\u200bAscension, one of the largest private healthcare systems in the United States, is notifying patients that their personal and health information was stolen in a December 2024 data theft attack, which affected a former business partner. [...]",
-    "published": "2025-04-30T13:21:31",
     "source": "BleepingComputer"
   }
 ]
