@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Pro-Russia hacktivists bombard Dutch public orgs with DDoS attacks](https://www.bleepingcomputer.com/news/security/pro-russia-hacktivists-bombard-dutch-public-orgs-with-ddos-attacks/) — 2025-04-01
+- **Bleeping Computer**: [Ukrainian extradited to US for Nefilim ransomware attacks](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-to-us-for-nefilim-ransomware-attacks/) — 2025-44-01
 - **Bleeping Computer**: [Harrods the next UK retailer targeted in a cyberattack](https://www.bleepingcomputer.com/news/security/harrods-the-next-uk-retailer-targeted-in-a-cyberattack/) — 2025-33-01
 - **Bleeping Computer**: [Malicious PyPI packages abuse Gmail, websockets to hijack systems](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-abuse-gmail-websockets-to-hijack-systems/) — 2025-25-01
 - **The Hacker News**: [Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers](https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html) — 2025-47-01
@@ -61,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Ascension discloses new data breach after third-party hacking incident](https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/) — 2025-21-30
 - **The Hacker News**: [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html) — 2025-26-30
 - **The Hacker News**: [Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool](https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html) — 2025-05-30
-- **Bleeping Computer**: [Microsoft: Windows 11 24H2 updates fail with 0x80240069 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-updates-fail-with-0x80240069-errors/) — 2025-45-30
 - **The Hacker News**: [Customer Account Takeovers: The Multi-Billion Dollar Problem You Don’t Know About](https://thehackernews.com/2025/04/customer-account-takeovers-multi.html) — 2025-24-30
 - **The Hacker News**: [Nebulous Mantis Targets NATO-Linked Entities with Multi-Stage Malware Attacks](https://thehackernews.com/2025/04/nebulous-mantis-targets-nato-linked.html) — 2025-20-30
 - **The Hacker News**: [RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control](https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html) — 2025-15-30
