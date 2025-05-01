@@ -1,5 +1,19 @@
 [
   {
+    "title": "Pro-Russia hacktivists bombard Dutch public orgs with DDoS attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/pro-russia-hacktivists-bombard-dutch-public-orgs-with-ddos-attacks/",
+    "summary": "Russia-aligned hacktivists persistently target key public and private organizations in the Netherlands with distributed denial of service (DDoS) attacks, causing access problems and service disruptions. [...]",
+    "published": "2025-05-01T20:04:26",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Ukrainian extradited to US for Nefilim ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-extradited-to-us-for-nefilim-ransomware-attacks/",
+    "summary": "A Ukrainian national has been extradited from Spain to the United States to face charges over allegedly conducting Nefilim ransomware attacks against companies. [...]",
+    "published": "2025-05-01T19:44:03",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Harrods the next UK retailer targeted in a cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/harrods-the-next-uk-retailer-targeted-in-a-cyberattack/",
     "summary": "London's iconic department store, Harrods, has confirmed it was targeted in a cyberattack, becoming the third major UK retailer to report cyberattacks in a week following incidents at M&amp;S and the Co-op. [...]",
@@ -46,13 +60,6 @@
     "link": "https://thehackernews.com/2025/05/darkwatchman-sheriff-malware-hit-russia.html",
     "summary": "Russian companies have been targeted as part of a large-scale phishing campaign that's designed to deliver a known malware called DarkWatchman.\nTargets of the attacks include entities in the media, tourism, finance and insurance, manufacturing, retail, energy, telecom, transport, and biotechnology s",
     "published": "2025-05-01T09:27:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Commvault Confirms Hackers Exploited CVE-2025-3928 as Zero-Day in Azure Breach",
-    "link": "https://thehackernews.com/2025/05/commvault-confirms-hackers-exploited.html",
-    "summary": "Enterprise data backup platform Commvault has revealed that an unknown nation-state threat actor breached its Microsoft Azure environment by exploiting CVE-2025-3928 but emphasized there is no evidence of unauthorized data access.\n\"This activity has affected a small number of customers we have in co",
-    "published": "2025-05-01T08:11:00",
     "source": "HackerNews"
   }
 ]
