@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Commvault Confirms Hackers Exploited CVE-2025-3928 as Zero-Day in Azure Breach](https://thehackernews.com/2025/05/commvault-confirms-hackers-exploited.html) — 2025-11-01
 - **The Hacker News**: [SonicWall Confirms Active Exploitation of Flaws Affecting Multiple Appliance Models](https://thehackernews.com/2025/05/sonicwall-confirms-active-exploitation.html) — 2025-22-01
 - **Bleeping Computer**: [Hackers abuse IPv6 networking feature to hijack software updates](https://www.bleepingcomputer.com/news/security/hackers-abuse-ipv6-networking-feature-to-hijack-software-updates/) — 2025-33-01
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Lotus Panda Hacks SE Asian Governments With Browser Stealers and Sideloaded Malware](https://thehackernews.com/2025/04/lotus-panda-hacks-se-asian-governments.html) — 2025-29-22
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **The Hacker News**: [Kimsuky Exploits BlueKeep RDP Vulnerability to Breach Systems in South Korea and Japan](https://thehackernews.com/2025/04/kimsuky-exploits-bluekeep-rdp.html) — 2025-42-21
-- **The Hacker News**: [SuperCard X Android Malware Enables Contactless ATM and PoS Fraud via NFC Relay Attacks](https://thehackernews.com/2025/04/supercard-x-android-malware-enables.html) — 2025-13-21
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
