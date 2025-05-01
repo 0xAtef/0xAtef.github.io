@@ -26,12 +26,5 @@
     "summary": "A 23-year-old Scottish man thought to be a member of the prolific Scattered Spider cybercrime group was extradited last week from Spain to the United States, where he is facing charges of wire fraud, conspiracy and identity theft. U.S. prosecutors allege Tyler Robert Buchanan and co-conspirators hac",
     "published": "2025-04-30T21:54:59",
     "source": "Krebs"
-  },
-  {
-    "title": "WordPress plugin disguised as a security tool injects backdoor",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-disguised-as-a-security-tool-injects-backdoor/",
-    "summary": "A new malware campaign targeting WordPress sites employs a malicious plugin disguised as a security tool to trick users into installing and trusting it. [...]",
-    "published": "2025-04-30T21:05:46",
-    "source": "BleepingComputer"
   }
 ]
