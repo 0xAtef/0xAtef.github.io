@@ -54,12 +54,5 @@
     "summary": "For over a decade, application security teams have faced a brutal irony: the more advanced the detection tools became, the less useful their results proved to be. As alerts from static analysis tools, scanners, and CVE databases surged, the promise of better security grew more distant. In its place,",
     "published": "2025-05-01T09:44:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "DarkWatchman, Sheriff Malware Hit Russia and Ukraine with Stealth and Nation-Grade Tactics",
-    "link": "https://thehackernews.com/2025/05/darkwatchman-sheriff-malware-hit-russia.html",
-    "summary": "Russian companies have been targeted as part of a large-scale phishing campaign that's designed to deliver a known malware called DarkWatchman.\nTargets of the attacks include entities in the media, tourism, finance and insurance, manufacturing, retail, energy, telecom, transport, and biotechnology s",
-    "published": "2025-05-01T09:27:00",
-    "source": "HackerNews"
   }
 ]
