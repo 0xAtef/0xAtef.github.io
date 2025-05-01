@@ -1,5 +1,19 @@
 [
   {
+    "title": "New Research Reveals: 95% of AppSec Fixes Don\u2019t Reduce Risk",
+    "link": "https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html",
+    "summary": "For over a decade, application security teams have faced a brutal irony: the more advanced the detection tools became, the less useful their results proved to be. As alerts from static analysis tools, scanners, and CVE databases surged, the promise of better security grew more distant. In its place,",
+    "published": "2025-05-01T09:44:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "DarkWatchman, Sheriff Malware Hit Russia and Ukraine with Stealth and Nation-Grade Tactics",
+    "link": "https://thehackernews.com/2025/05/darkwatchman-sheriff-malware-hit-russia.html",
+    "summary": "Russian companies have been targeted as part of a large-scale phishing campaign that's designed to deliver a known malware called DarkWatchman.\nTargets of the attacks include entities in the media, tourism, finance and insurance, manufacturing, retail, energy, telecom, transport, and biotechnology s",
+    "published": "2025-05-01T09:27:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Commvault Confirms Hackers Exploited CVE-2025-3928 as Zero-Day in Azure Breach",
     "link": "https://thehackernews.com/2025/05/commvault-confirms-hackers-exploited.html",
     "summary": "Enterprise data backup platform Commvault has revealed that an unknown nation-state threat actor breached its Microsoft Azure environment by exploiting CVE-2025-3928 but emphasized there is no evidence of unauthorized data access.\n\"This activity has affected a small number of customers we have in co",
@@ -19,12 +33,5 @@
     "summary": "A China-aligned APT threat actor named \"TheWizards\" abuses an IPv6 networking feature\u00a0to launch adversary-in-the-middle (AitM) attacks that hijack software updates to install Windows malware. [...]",
     "published": "2025-05-01T00:33:42",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Alleged \u2018Scattered Spider\u2019 Member Extradited to U.S.",
-    "link": "https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/",
-    "summary": "A 23-year-old Scottish man thought to be a member of the prolific Scattered Spider cybercrime group was extradited last week from Spain to the United States, where he is facing charges of wire fraud, conspiracy and identity theft. U.S. prosecutors allege Tyler Robert Buchanan and co-conspirators hac",
-    "published": "2025-04-30T21:54:59",
-    "source": "Krebs"
   }
 ]
