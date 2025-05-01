@@ -40,12 +40,5 @@
     "summary": "Cybersecurity researchers have shed light on a new campaign targeting WordPress sites that disguises the malware as a security plugin.\nThe plugin, which goes by the name \"WP-antymalwary-bot.php,\" comes with a variety of features to maintain access, hide itself from the admin dashboard, and execute r",
     "published": "2025-05-01T15:47:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Why top SOC teams are shifting to Network Detection and Response",
-    "link": "https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html",
-    "summary": "Security Operations Center (SOC) teams are facing a fundamentally new challenge &mdash; traditional cybersecurity tools are failing to detect advanced adversaries who have become experts at evading endpoint-based defenses and signature-based detection systems. The reality of these &ldquo;invisible i",
-    "published": "2025-05-01T11:25:00",
-    "source": "HackerNews"
   }
 ]
