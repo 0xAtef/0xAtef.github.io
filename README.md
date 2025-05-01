@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Why top SOC teams are shifting to Network Detection and Response](https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html) — 2025-25-01
+- **The Hacker News**: [Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign](https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html) — 2025-02-01
 - **The Hacker News**: [New Research Reveals: 95% of AppSec Fixes Don’t Reduce Risk](https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html) — 2025-44-01
 - **The Hacker News**: [DarkWatchman, Sheriff Malware Hit Russia and Ukraine with Stealth and Nation-Grade Tactics](https://thehackernews.com/2025/05/darkwatchman-sheriff-malware-hit-russia.html) — 2025-27-01
 - **The Hacker News**: [Commvault Confirms Hackers Exploited CVE-2025-3928 as Zero-Day in Azure Breach](https://thehackernews.com/2025/05/commvault-confirms-hackers-exploited.html) — 2025-11-01
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Docker Malware Exploits Teneo Web3 Node to Earn Crypto via Fake Heartbeat Signals](https://thehackernews.com/2025/04/docker-malware-exploits-teneo-web3-node.html) — 2025-46-22
 - **The Hacker News**: [GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages](https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html) — 2025-06-22
 - **The Hacker News**: [5 Major Concerns With Employees Using The Browser](https://thehackernews.com/2025/04/5-major-concerns-with-employees-using.html) — 2025-00-22
-- **The Hacker News**: [Phishers Exploit Google Sites and DKIM Replay to Send Signed Emails, Steal Credentials](https://thehackernews.com/2025/04/phishers-exploit-google-sites-and-dkim.html) — 2025-50-22
-- **The Hacker News**: [Microsoft Secures MSA Signing with Azure Confidential VMs Following Storm-0558 Breach](https://thehackernews.com/2025/04/microsoft-secures-msa-signing-with.html) — 2025-38-22
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
