@@ -1,5 +1,12 @@
 [
   {
+    "title": "SonicWall Confirms Active Exploitation of Flaws Affecting Multiple Appliance Models",
+    "link": "https://thehackernews.com/2025/05/sonicwall-confirms-active-exploitation.html",
+    "summary": "SonicWall has revealed that two now-patched security flaws impacting its SMA100 Secure Mobile Access (SMA) appliances have been exploited in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2023-44221 (CVSS score: 7.2) - Improper neutralization of special elements in the SMA100 SSL-",
+    "published": "2025-05-01T06:22:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Hackers abuse IPv6 networking feature to hijack software updates",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ipv6-networking-feature-to-hijack-software-updates/",
     "summary": "A China-aligned APT threat actor named \"TheWizards\" abuses an IPv6 networking feature\u00a0to launch adversary-in-the-middle (AitM) attacks that hijack software updates to install Windows malware. [...]",
@@ -18,13 +25,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-disguised-as-a-security-tool-injects-backdoor/",
     "summary": "A new malware campaign targeting WordPress sites employs a malicious plugin disguised as a security tool to trick users into installing and trusting it. [...]",
     "published": "2025-04-30T21:05:46",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "WhatsApp unveils 'Private Processing' for cloud-based AI features",
-    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-unveils-private-processing-for-cloud-based-ai-features/",
-    "summary": "WhatsApp has announced the introduction of 'Private Processing,' a new technology that enables users to utilize advanced AI features by offloading tasks to privacy-preserving\u00a0cloud servers. [...]",
-    "published": "2025-04-30T19:01:26",
     "source": "BleepingComputer"
   }
 ]
