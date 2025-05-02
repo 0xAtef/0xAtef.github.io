@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft makes all new accounts passwordless by default",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-all-new-accounts-passwordless-by-default/",
+    "summary": "Microsoft has announced that all new Microsoft accounts will be \"passwordless by default\" to secure them against password attacks such as phishing, brute force, and credential stuffing. [...]",
+    "published": "2025-05-02T07:21:24",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs",
     "link": "https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/",
     "summary": "A employee at Elon Musk's artificial intelligence company xAI\u00a0leaked a private key on GitHub that for the past two months could have allowed anyone to query private xAI large language models (LLMs) which appear to have been custom made for working with internal data from Musk's companies, including ",
@@ -25,13 +32,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/ukrainian-extradited-to-us-for-nefilim-ransomware-attacks/",
     "summary": "A Ukrainian national has been extradited from Spain to the United States to face charges over allegedly conducting Nefilim ransomware attacks against companies. [...]",
     "published": "2025-05-01T19:44:03",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Harrods the next UK retailer targeted in a cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/harrods-the-next-uk-retailer-targeted-in-a-cyberattack/",
-    "summary": "London's iconic department store, Harrods, has confirmed it was targeted in a cyberattack, becoming the third major UK retailer to report cyberattacks in a week following incidents at M&amp;S and the Co-op. [...]",
-    "published": "2025-05-01T18:33:25",
     "source": "BleepingComputer"
   }
 ]
