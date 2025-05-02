@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft makes all new accounts passwordless by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-all-new-accounts-passwordless-by-default/) — 2025-21-02
+- **The Hacker News**: [Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support](https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html) — 2025-40-02
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Bleeping Computer**: [Hacker &#39;NullBulge&#39; pleads guilty to stealing Disney&#39;s Slack data](https://www.bleepingcomputer.com/news/security/hacker-nullbulge-pleads-guilty-to-stealing-disneys-slack-data/) — 2025-13-01
 - **Bleeping Computer**: [Pro-Russia hacktivists bombard Dutch public orgs with DDoS attacks](https://www.bleepingcomputer.com/news/security/pro-russia-hacktivists-bombard-dutch-public-orgs-with-ddos-attacks/) — 2025-04-01
@@ -61,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Commvault says recent breach didn&#39;t impact customer backup data](https://www.bleepingcomputer.com/news/security/commvault-says-recent-breach-didnt-impact-customer-backup-data/) — 2025-20-30
 - **Bleeping Computer**: [FBI shares massive list of 42,000 LabHost phishing domains](https://www.bleepingcomputer.com/news/security/fbi-shares-massive-list-of-42-000-labhost-phishing-domains/) — 2025-01-30
 - **The Hacker News**: [Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense](https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html) — 2025-59-30
-- **Bleeping Computer**: [UK retailer Co-op shuts down some IT systems after hack attempt](https://www.bleepingcomputer.com/news/security/uk-retailer-co-op-shuts-down-some-it-systems-after-hack-attempt/) — 2025-12-30
 - **The Hacker News**: [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html) — 2025-26-30
 - **The Hacker News**: [Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool](https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html) — 2025-05-30
 - **The Hacker News**: [Customer Account Takeovers: The Multi-Billion Dollar Problem You Don’t Know About](https://thehackernews.com/2025/04/customer-account-takeovers-multi.html) — 2025-24-30
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Ripple&#39;s xrpl.js npm Package Backdoored to Steal Private Keys in Major Supply Chain Attack](https://thehackernews.com/2025/04/ripples-xrpljs-npm-package-backdoored.html) — 2025-17-23
 - **The Hacker News**: [Google Drops Cookie Prompt in Chrome, Adds IP Protection to Incognito](https://thehackernews.com/2025/04/google-drops-cookie-prompt-in-chrome.html) — 2025-19-23
 - **The Hacker News**: [Docker Malware Exploits Teneo Web3 Node to Earn Crypto via Fake Heartbeat Signals](https://thehackernews.com/2025/04/docker-malware-exploits-teneo-web3-node.html) — 2025-46-22
-- **The Hacker News**: [GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages](https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html) — 2025-06-22
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
