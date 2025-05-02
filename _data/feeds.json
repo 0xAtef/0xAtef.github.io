@@ -40,12 +40,5 @@
     "summary": "The Irish Data Protection Commission (DPC) has fined TikTok \u20ac530 million (over $601 million) for illegally transferring the personal data of users in the European Economic Area (EEA) to China, violating the European Union's GDPR data protection regulations. [...]",
     "published": "2025-05-02T12:14:27",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "How to Automate CVE and Vulnerability Advisory Response with Tines",
-    "link": "https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html",
-    "summary": "Run by the team at workflow orchestration and AI platform Tines, the Tines library features pre-built workflows shared by security practitioners from across the community - all free to import and deploy through the platform\u2019s Community Edition.\nA recent standout is a workflow that automates monitori",
-    "published": "2025-05-02T10:30:00",
-    "source": "HackerNews"
   }
 ]
