@@ -1,5 +1,12 @@
 [
   {
+    "title": "Co-op confirms data theft after DragonForce ransomware claims attack",
+    "link": "https://www.bleepingcomputer.com/news/security/co-op-confirms-data-theft-after-dragonforce-ransomware-claims-attack/",
+    "summary": "The Co-op cyberattack is far worse than initially reported, with the company now confirming that data was stolen for a significant number of current and past customers. [...]",
+    "published": "2025-05-02T19:52:50",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Magento supply chain attack compromises hundreds of e-stores",
     "link": "https://www.bleepingcomputer.com/news/security/magento-supply-chain-attack-compromises-hundreds-of-e-stores/",
     "summary": "A supply chain attack involving 21 backdoored Magento extensions has compromised between 500 and 1,000 e-commerce stores, including one belonging to a $40 billion multinational. [...]",
