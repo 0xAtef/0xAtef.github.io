@@ -40,12 +40,5 @@
     "summary": "Seven malicious PyPi packages were found using Gmail's SMTP servers and WebSockets for data exfiltration and remote command execution. [...]",
     "published": "2025-05-01T16:25:36",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers",
-    "link": "https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html",
-    "summary": "Cybersecurity researchers have shed light on a new campaign targeting WordPress sites that disguises the malware as a security plugin.\nThe plugin, which goes by the name \"WP-antymalwary-bot.php,\" comes with a variety of features to maintain access, hide itself from the admin dashboard, and execute r",
-    "published": "2025-05-01T15:47:00",
-    "source": "HackerNews"
   }
 ]
