@@ -54,12 +54,5 @@
     "summary": "The malware loader known as MintsLoader has been used to deliver a PowerShell-based remote access trojan called GhostWeaver.\n\"MintsLoader operates through a multi-stage infection chain involving obfuscated JavaScript and PowerShell scripts,\" Recorded Future's Insikt Group said in a report shared wit",
     "published": "2025-05-02T08:57:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft makes all new accounts passwordless by default",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-all-new-accounts-passwordless-by-default/",
-    "summary": "Microsoft has announced that all new Microsoft accounts will be \"passwordless by default\" to secure them against password attacks such as phishing, brute force, and credential stuffing. [...]",
-    "published": "2025-05-02T07:21:24",
-    "source": "BleepingComputer"
   }
 ]
