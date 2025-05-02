@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China](https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html) — 2025-25-02
 - **Bleeping Computer**: [TikTok fined €530 million for sending European user data to China](https://www.bleepingcomputer.com/news/security/tiktok-fined-530-million-for-sending-european-user-data-to-china/) — 2025-14-02
 - **The Hacker News**: [How to Automate CVE and Vulnerability Advisory Response with Tines](https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html) — 2025-30-02
 - **Bleeping Computer**: [Microsoft fixes Exchange Online bug flagging Gmail emails as spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-online-bug-flagging-gmail-emails-as-spam/) — 2025-15-02
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Android Spyware Disguised as Alpine Quest App Targets Russian Military Devices](https://thehackernews.com/2025/04/android-spyware-disguised-as-alpine.html) — 2025-22-23
 - **The Hacker News**: [Three Reasons Why the Browser is Best for Stopping Phishing Attacks](https://thehackernews.com/2025/04/three-reasons-why-browser-is-best-for.html) — 2025-00-23
 - **The Hacker News**: [Russian Hackers Exploit Microsoft OAuth to Target Ukraine Allies via Signal and WhatsApp](https://thehackernews.com/2025/04/russian-hackers-exploit-microsoft-oauth.html) — 2025-49-23
-- **The Hacker News**: [Ripple&#39;s xrpl.js npm Package Backdoored to Steal Private Keys in Major Supply Chain Attack](https://thehackernews.com/2025/04/ripples-xrpljs-npm-package-backdoored.html) — 2025-17-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
