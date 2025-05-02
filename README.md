@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [TikTok fined €530 million for sending European user data to China](https://www.bleepingcomputer.com/news/security/tiktok-fined-530-million-for-sending-european-user-data-to-china/) — 2025-14-02
 - **The Hacker News**: [How to Automate CVE and Vulnerability Advisory Response with Tines](https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html) — 2025-30-02
 - **Bleeping Computer**: [Microsoft fixes Exchange Online bug flagging Gmail emails as spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-online-bug-flagging-gmail-emails-as-spam/) — 2025-15-02
 - **The Hacker News**: [MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks](https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html) — 2025-57-02
@@ -62,8 +63,6 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Bleeping Computer**: [WordPress plugin disguised as a security tool injects backdoor](https://www.bleepingcomputer.com/news/security/wordpress-plugin-disguised-as-a-security-tool-injects-backdoor/) — 2025-05-30
 - **Bleeping Computer**: [WhatsApp unveils &#39;Private Processing&#39; for cloud-based AI features](https://www.bleepingcomputer.com/news/security/whatsapp-unveils-private-processing-for-cloud-based-ai-features/) — 2025-01-30
-- **Bleeping Computer**: [SonicWall warns of more VPN flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-sma100-vpn-vulnerabilities-now-exploited-in-attacks/) — 2025-23-30
-- **Bleeping Computer**: [Commvault says recent breach didn&#39;t impact customer backup data](https://www.bleepingcomputer.com/news/security/commvault-says-recent-breach-didnt-impact-customer-backup-data/) — 2025-20-30
 - **The Hacker News**: [Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense](https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html) — 2025-59-30
 - **The Hacker News**: [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html) — 2025-26-30
 - **The Hacker News**: [Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool](https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html) — 2025-05-30
