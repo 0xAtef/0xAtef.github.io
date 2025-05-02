@@ -61,12 +61,5 @@
     "summary": "Microsoft has announced that all new Microsoft accounts will be \"passwordless by default\" to secure them against password attacks such as phishing, brute force, and credential stuffing. [...]",
     "published": "2025-05-02T07:21:24",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support",
-    "link": "https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html",
-    "summary": "A year after Microsoft announced passkeys support for consumer accounts, the tech giant has announced a big change that pushes individuals signing up for new accounts to use the phishing-resistant authentication method by default.\n\"Brand new Microsoft accounts will now be 'passwordless by default,'\"",
-    "published": "2025-05-02T06:40:00",
-    "source": "HackerNews"
   }
 ]
