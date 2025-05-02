@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft fixes Exchange Online bug flagging Gmail emails as spam",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-online-bug-flagging-gmail-emails-as-spam/",
+    "summary": "\u200bMicrosoft has resolved an issue with a machine learning model that mistakenly flagged emails from Gmail accounts as spam in Exchange Online. [...]",
+    "published": "2025-05-02T10:15:10",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "MintsLoader Drops GhostWeaver via Phishing, ClickFix \u2014 Uses DGA, TLS for Stealth Attacks",
     "link": "https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html",
     "summary": "The malware loader known as MintsLoader has been used to deliver a PowerShell-based remote access trojan called GhostWeaver.\n\"MintsLoader operates through a multi-stage infection chain involving obfuscated JavaScript and PowerShell scripts,\" Recorded Future's Insikt Group said in a report shared wit",
