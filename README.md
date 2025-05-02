@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [UK NCSC: Cyberattacks impacting UK retailers are a wake-up call](https://www.bleepingcomputer.com/news/security/uk-ncsc-cyberattacks-impacting-uk-retailers-are-a-wake-up-call/) — 2025-57-02
 - **The Hacker News**: [TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China](https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html) — 2025-25-02
 - **Bleeping Computer**: [TikTok fined €530 million for sending European user data to China](https://www.bleepingcomputer.com/news/security/tiktok-fined-530-million-for-sending-european-user-data-to-china/) — 2025-14-02
 - **The Hacker News**: [How to Automate CVE and Vulnerability Advisory Response with Tines](https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html) — 2025-30-02
