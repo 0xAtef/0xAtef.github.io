@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Bleeping Computer**: [Hacker &#39;NullBulge&#39; pleads guilty to stealing Disney&#39;s Slack data](https://www.bleepingcomputer.com/news/security/hacker-nullbulge-pleads-guilty-to-stealing-disneys-slack-data/) — 2025-13-01
 - **Bleeping Computer**: [Pro-Russia hacktivists bombard Dutch public orgs with DDoS attacks](https://www.bleepingcomputer.com/news/security/pro-russia-hacktivists-bombard-dutch-public-orgs-with-ddos-attacks/) — 2025-04-01
 - **Bleeping Computer**: [Ukrainian extradited to US for Nefilim ransomware attacks](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-to-us-for-nefilim-ransomware-attacks/) — 2025-44-01
@@ -110,5 +111,4 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
 - **Krebs on Security**: [Patch Tuesday, April 2025 Edition](https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/) — 2025-09-09
 - **Krebs on Security**: [Cyber Forensic Expert in 2,000+ Cases Faces FBI Probe](https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/) — 2025-37-04
-- **Krebs on Security**: [How Each Pillar of the 1st Amendment is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/) — 2025-22-31
-- **Krebs on Security**: [When Getting Phished Puts You in Mortal Danger](https://krebsonsecurity.com/2025/03/when-getting-phished-puts-you-in-mortal-danger/) — 2025-39-27<!-- BLOG-POST-LIST:END -->
+- **Krebs on Security**: [How Each Pillar of the 1st Amendment is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/) — 2025-22-31<!-- BLOG-POST-LIST:END -->
