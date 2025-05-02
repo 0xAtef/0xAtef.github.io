@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Hacker &#39;NullBulge&#39; pleads guilty to stealing Disney&#39;s Slack data](https://www.bleepingcomputer.com/news/security/hacker-nullbulge-pleads-guilty-to-stealing-disneys-slack-data/) — 2025-13-01
 - **Bleeping Computer**: [Pro-Russia hacktivists bombard Dutch public orgs with DDoS attacks](https://www.bleepingcomputer.com/news/security/pro-russia-hacktivists-bombard-dutch-public-orgs-with-ddos-attacks/) — 2025-04-01
 - **Bleeping Computer**: [Ukrainian extradited to US for Nefilim ransomware attacks](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-to-us-for-nefilim-ransomware-attacks/) — 2025-44-01
 - **Bleeping Computer**: [Harrods the next UK retailer targeted in a cyberattack](https://www.bleepingcomputer.com/news/security/harrods-the-next-uk-retailer-targeted-in-a-cyberattack/) — 2025-33-01
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [FBI shares massive list of 42,000 LabHost phishing domains](https://www.bleepingcomputer.com/news/security/fbi-shares-massive-list-of-42-000-labhost-phishing-domains/) — 2025-01-30
 - **The Hacker News**: [Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense](https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html) — 2025-59-30
 - **Bleeping Computer**: [UK retailer Co-op shuts down some IT systems after hack attempt](https://www.bleepingcomputer.com/news/security/uk-retailer-co-op-shuts-down-some-it-systems-after-hack-attempt/) — 2025-12-30
-- **Bleeping Computer**: [Ascension discloses new data breach after third-party hacking incident](https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/) — 2025-21-30
 - **The Hacker News**: [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html) — 2025-26-30
 - **The Hacker News**: [Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool](https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html) — 2025-05-30
 - **The Hacker News**: [Customer Account Takeovers: The Multi-Billion Dollar Problem You Don’t Know About](https://thehackernews.com/2025/04/customer-account-takeovers-multi.html) — 2025-24-30
