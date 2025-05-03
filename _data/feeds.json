@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google NotebookLM is now using Gemini 2.5 Flash",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-notebooklm-is-now-using-gemini-25-flash/",
+    "summary": "Google NotebookLM, which is a research and note-taking AI tool, is getting upgraded to Gemini 2.5 Flash. [...]",
+    "published": "2025-05-03T21:21:14",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack",
     "link": "https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html",
     "summary": "Cybersecurity researchers have discovered three malicious Go modules that include obfuscated code to fetch next-stage payloads that can irrevocably overwrite a Linux system's primary disk and render it unbootable.\nThe names of the packages are listed below -\n\ngithub[.]com/truthfulpharm/prototransfor",
@@ -7,10 +14,10 @@
     "source": "HackerNews"
   },
   {
-    "title": "Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and Malware",
-    "link": "https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html",
-    "summary": "An Iranian state-sponsored threat group has been attributed to a long-term cyber intrusion aimed at a critical national infrastructure (CNI) in the Middle East that lasted nearly two years.\nThe activity, which lasted from at least May 2023 to February 2025, entailed \"extensive espionage operations a",
-    "published": "2025-05-03T09:33:00",
-    "source": "HackerNews"
+    "title": "Microsoft ends Authenticator password autofill, moves users to Edge",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-ends-authenticator-password-autofill-moves-users-to-edge/",
+    "summary": "Microsoft has announced that it will discontinue the\u00a0password storage and autofill feature in the Authenticator app starting in July and will complete the deprecation in August 2025. [...]",
+    "published": "2025-05-03T14:16:26",
+    "source": "BleepingComputer"
   }
 ]
