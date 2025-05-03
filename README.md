@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Google NotebookLM is now using Gemini 2.5 Flash](https://www.bleepingcomputer.com/news/artificial-intelligence/google-notebooklm-is-now-using-gemini-25-flash/) — 2025-21-03
 - **The Hacker News**: [Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack](https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html) — 2025-31-03
+- **Bleeping Computer**: [Microsoft ends Authenticator password autofill, moves users to Edge](https://www.bleepingcomputer.com/news/security/microsoft-ends-authenticator-password-autofill-moves-users-to-edge/) — 2025-16-03
 - **The Hacker News**: [Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and Malware](https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html) — 2025-33-03
 - **The Hacker News**: [U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Targeting 1,500 Systems](https://thehackernews.com/2025/05/us-charges-yemeni-hacker-behind-black.html) — 2025-06-03
 - **Bleeping Computer**: [Co-op confirms data theft after DragonForce ransomware claims attack](https://www.bleepingcomputer.com/news/security/co-op-confirms-data-theft-after-dragonforce-ransomware-claims-attack/) — 2025-52-02
@@ -59,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Pro-Russia hacktivists bombard Dutch public orgs with DDoS attacks](https://www.bleepingcomputer.com/news/security/pro-russia-hacktivists-bombard-dutch-public-orgs-with-ddos-attacks/) — 2025-04-01
 - **Bleeping Computer**: [Ukrainian extradited to US for Nefilim ransomware attacks](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-to-us-for-nefilim-ransomware-attacks/) — 2025-44-01
 - **Bleeping Computer**: [Harrods the next UK retailer targeted in a cyberattack](https://www.bleepingcomputer.com/news/security/harrods-the-next-uk-retailer-targeted-in-a-cyberattack/) — 2025-33-01
-- **Bleeping Computer**: [Malicious PyPI packages abuse Gmail, websockets to hijack systems](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-abuse-gmail-websockets-to-hijack-systems/) — 2025-25-01
 - **The Hacker News**: [Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers](https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html) — 2025-47-01
 - **The Hacker News**: [Why top SOC teams are shifting to Network Detection and Response](https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html) — 2025-25-01
 - **The Hacker News**: [Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign](https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html) — 2025-02-01
