@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and Malware](https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html) — 2025-33-03
 - **The Hacker News**: [U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Targeting 1,500 Systems](https://thehackernews.com/2025/05/us-charges-yemeni-hacker-behind-black.html) — 2025-06-03
 - **Bleeping Computer**: [Co-op confirms data theft after DragonForce ransomware claims attack](https://www.bleepingcomputer.com/news/security/co-op-confirms-data-theft-after-dragonforce-ransomware-claims-attack/) — 2025-52-02
 - **Bleeping Computer**: [Magento supply chain attack compromises hundreds of e-stores](https://www.bleepingcomputer.com/news/security/magento-supply-chain-attack-compromises-hundreds-of-e-stores/) — 2025-09-02
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack](https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html) — 2025-09-23
 - **The Hacker News**: [Iran-Linked Hackers Target Israel with MURKYTOUR Malware via Fake Job Campaign](https://thehackernews.com/2025/04/iran-linked-hackers-target-israel-with.html) — 2025-08-23
 - **The Hacker News**: [Android Spyware Disguised as Alpine Quest App Targets Russian Military Devices](https://thehackernews.com/2025/04/android-spyware-disguised-as-alpine.html) — 2025-22-23
-- **The Hacker News**: [Three Reasons Why the Browser is Best for Stopping Phishing Attacks](https://thehackernews.com/2025/04/three-reasons-why-browser-is-best-for.html) — 2025-00-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
