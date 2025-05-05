@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft: Windows 11 24H2 now ready to rollout to everyone](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-now-ready-to-rollout-to-everyone/) — 2025-53-05
 - **The Hacker News**: [Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data](https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html) — 2025-39-05
 - **Bleeping Computer**: [OpenAI document explains when to use each ChatGPT model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-document-explains-when-to-use-each-chatgpt-model/) — 2025-59-04
 - **Bleeping Computer**: [StealC malware enhanced with stealth upgrades and data theft tools](https://www.bleepingcomputer.com/news/security/stealc-malware-enhanced-with-stealth-upgrades-and-data-theft-tools/) — 2025-11-04
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft makes all new accounts passwordless by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-all-new-accounts-passwordless-by-default/) — 2025-21-02
 - **The Hacker News**: [Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support](https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html) — 2025-40-02
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
-- **Bleeping Computer**: [Hacker &#39;NullBulge&#39; pleads guilty to stealing Disney&#39;s Slack data](https://www.bleepingcomputer.com/news/security/hacker-nullbulge-pleads-guilty-to-stealing-disneys-slack-data/) — 2025-13-01
 - **The Hacker News**: [Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers](https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html) — 2025-47-01
 - **The Hacker News**: [Why top SOC teams are shifting to Network Detection and Response](https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html) — 2025-25-01
 - **The Hacker News**: [Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign](https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html) — 2025-02-01
