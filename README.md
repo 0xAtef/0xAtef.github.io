@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data](https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html) — 2025-39-05
 - **Bleeping Computer**: [OpenAI document explains when to use each ChatGPT model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-document-explains-when-to-use-each-chatgpt-model/) — 2025-59-04
 - **Bleeping Computer**: [StealC malware enhanced with stealth upgrades and data theft tools](https://www.bleepingcomputer.com/news/security/stealc-malware-enhanced-with-stealth-upgrades-and-data-theft-tools/) — 2025-11-04
 - **Bleeping Computer**: [Google NotebookLM is now using Gemini 2.5 Flash](https://www.bleepingcomputer.com/news/artificial-intelligence/google-notebooklm-is-now-using-gemini-25-flash/) — 2025-21-03
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [WhatsApp Adds Advanced Chat Privacy to Blocks Chat Exports and Auto-Downloads](https://thehackernews.com/2025/04/whatsapp-adds-advanced-chat-privacy-to.html) — 2025-03-24
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **The Hacker News**: [DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack](https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html) — 2025-09-23
-- **The Hacker News**: [Iran-Linked Hackers Target Israel with MURKYTOUR Malware via Fake Job Campaign](https://thehackernews.com/2025/04/iran-linked-hackers-target-israel-with.html) — 2025-08-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
