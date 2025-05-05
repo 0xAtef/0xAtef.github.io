@@ -41,6 +41,8 @@ Let's connect and share some war stories!
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - **Bleeping Computer**: [Microsoft silently fixes Start menu bug affecting Windows 10 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-silently-fixes-start-menu-bug-affecting-windows-10-pcs/) — 2025-48-05
+- **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
+- **The Hacker News**: [Perfection is a Myth. Leverage Isn&#39;t: How Small Teams Can Secure Their Google Workspace](https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html) — 2025-00-05
 - **Bleeping Computer**: [Microsoft: Windows 11 24H2 now ready to rollout to everyone](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-now-ready-to-rollout-to-everyone/) — 2025-53-05
 - **The Hacker News**: [Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data](https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html) — 2025-39-05
 - **Bleeping Computer**: [OpenAI document explains when to use each ChatGPT model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-document-explains-when-to-use-each-chatgpt-model/) — 2025-59-04
@@ -101,9 +103,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [159 CVEs Exploited in Q1 2025 — 28.3% Within 24 Hours of Disclosure](https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html) — 2025-55-24
 - **The Hacker News**: [Darcula Adds GenAI to Phishing Toolkit, Lowering the Barrier for Cybercriminals](https://thehackernews.com/2025/04/darcula-adds-genai-to-phishing-toolkit.html) — 2025-27-24
 - **The Hacker News**: [Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely](https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html) — 2025-00-24
-- **The Hacker News**: [WhatsApp Adds Advanced Chat Privacy to Blocks Chat Exports and Auto-Downloads](https://thehackernews.com/2025/04/whatsapp-adds-advanced-chat-privacy-to.html) — 2025-03-24
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
-- **The Hacker News**: [DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack](https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html) — 2025-09-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
