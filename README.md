@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Luna Moth extortion hackers pose as IT help desks to breach US firms](https://www.bleepingcomputer.com/news/security/luna-moth-extortion-hackers-pose-as-it-help-desks-to-breach-us-firms/) — 2025-19-05
 - **Bleeping Computer**: [New &quot;Bring Your Own Installer&quot; EDR bypass used in ransomware attack](https://www.bleepingcomputer.com/news/security/new-bring-your-own-installer-edr-bypass-used-in-ransomware-attack/) — 2025-28-05
 - **Bleeping Computer**: [Microsoft finds default Kubernetes Helm charts can expose data](https://www.bleepingcomputer.com/news/security/microsoft-finds-default-kubernetes-helm-charts-can-expose-data/) — 2025-17-05
 - **Bleeping Computer**: [Unofficial Signal app used by Trump officials investigates hack](https://www.bleepingcomputer.com/news/security/unofficial-signal-app-used-by-trump-officials-investigates-hack/) — 2025-11-05
