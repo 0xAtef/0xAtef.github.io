@@ -1,5 +1,12 @@
 [
   {
+    "title": "New \"Bring Your Own Installer\" EDR bypass used in ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/new-bring-your-own-installer-edr-bypass-used-in-ransomware-attack/",
+    "summary": "A new \"Bring Your Own Installer\"\u00a0EDR bypass technique is exploited in attacks to bypass SentinelOne's tamper protection feature, allowing threat actors to disable endpoint detection and response (EDR) agents to install the Babuk ransomware. [...]",
+    "published": "2025-05-05T20:28:34",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft finds default Kubernetes Helm charts can expose data",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-finds-default-kubernetes-helm-charts-can-expose-data/",
     "summary": "Microsoft warns about the security risks posed by default configurations in Kubernetes deployments, particularly those using out-of-the-box Helm charts, which could publicly expose sensitive data. [...]",
