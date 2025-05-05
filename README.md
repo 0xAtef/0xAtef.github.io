@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft is killing Skype today, pushes users to Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-skype-today-pushes-users-to-teams/) — 2025-12-05
+- **Bleeping Computer**: [UK shares security tips after major retail cyberattacks](https://www.bleepingcomputer.com/news/security/uk-shares-security-tips-after-major-retail-cyberattacks/) — 2025-19-05
 - **Bleeping Computer**: [Microsoft silently fixes Start menu bug affecting Windows 10 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-silently-fixes-start-menu-bug-affecting-windows-10-pcs/) — 2025-48-05
 - **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
 - **The Hacker News**: [Perfection is a Myth. Leverage Isn&#39;t: How Small Teams Can Secure Their Google Workspace](https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html) — 2025-00-05
@@ -57,7 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [US indicts Black Kingdom ransomware admin for Microsoft Exchange attacks](https://www.bleepingcomputer.com/news/security/us-indicts-black-kingdom-ransomware-admin-for-microsoft-exchange-attacks/) — 2025-32-02
 - **Bleeping Computer**: [UK NCSC: Cyberattacks impacting UK retailers are a wake-up call](https://www.bleepingcomputer.com/news/security/uk-ncsc-cyberattacks-impacting-uk-retailers-are-a-wake-up-call/) — 2025-57-02
 - **The Hacker News**: [TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China](https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html) — 2025-25-02
-- **Bleeping Computer**: [TikTok fined €530 million for sending European user data to China](https://www.bleepingcomputer.com/news/security/tiktok-fined-530-million-for-sending-european-user-data-to-china/) — 2025-14-02
 - **The Hacker News**: [How to Automate CVE and Vulnerability Advisory Response with Tines](https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html) — 2025-30-02
 - **The Hacker News**: [MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks](https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html) — 2025-57-02
 - **The Hacker News**: [Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support](https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html) — 2025-40-02
