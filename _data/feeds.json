@@ -68,12 +68,5 @@
     "summary": "Microsoft has silently fixed an issue that broke Start Menu jump lists for all apps on systems running Windows 10, version 22H2. [...]",
     "published": "2025-05-05T11:48:57",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors",
-    "link": "https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html",
-    "summary": "What if attackers aren't breaking in\u2014they're already inside, watching, and adapting?\nThis week showed a sharp rise in stealth tactics built for long-term access and silent control. AI is being used to shape opinions. Malware is hiding inside software we trust. And old threats are returning under new",
-    "published": "2025-05-05T11:29:00",
-    "source": "HackerNews"
   }
 ]
