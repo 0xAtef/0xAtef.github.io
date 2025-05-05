@@ -1,5 +1,12 @@
 [
   {
+    "title": "Darcula PhaaS steals 884,000 credit cards via SMS phishing texts",
+    "link": "https://www.bleepingcomputer.com/news/security/darcula-phaas-steals-884-000-credit-cards-via-sms-phishing-texts/",
+    "summary": "The Darcula phishing-as-a-service (PhaaS) platform stole 884,000 credit cards from 13 million clicks on malicious links sent via text messages to targets worldwide. [...]",
+    "published": "2025-05-05T17:31:32",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft is killing Skype today, pushes users to Teams",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-skype-today-pushes-users-to-teams/",
     "summary": "The Skype video call and messaging service is shutting down today, 14 years after replacing Microsoft's Windows Live Messenger. [...]",
@@ -40,12 +47,5 @@
     "summary": "\u200bMicrosoft announced over the weekend that the Windows 11 24H2 update is ready to roll out to all compatible PCs, excluding those with safeguard holds. [...]",
     "published": "2025-05-05T10:53:38",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data",
-    "link": "https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html",
-    "summary": "The threat actors known as Golden Chickens have been attributed to two new malware families dubbed TerraStealerV2 and TerraLogger, suggesting continued development efforts to fine-tune and diversify their arsenal.\n\"TerraStealerV2 is designed to collect browser credentials, cryptocurrency wallet data",
-    "published": "2025-05-05T05:39:00",
-    "source": "HackerNews"
   }
 ]
