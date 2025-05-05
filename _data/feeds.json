@@ -1,5 +1,12 @@
 [
   {
+    "title": "Luna Moth extortion hackers pose as IT help desks to breach US firms",
+    "link": "https://www.bleepingcomputer.com/news/security/luna-moth-extortion-hackers-pose-as-it-help-desks-to-breach-us-firms/",
+    "summary": "The data-theft extortion group known as Luna Moth, aka Silent Ransom Group, has ramped up callback phishing campaigns in attacks on legal and financial institutions in the United States. [...]",
+    "published": "2025-05-05T22:19:42",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New \"Bring Your Own Installer\" EDR bypass used in ransomware attack",
     "link": "https://www.bleepingcomputer.com/news/security/new-bring-your-own-installer-edr-bypass-used-in-ransomware-attack/",
     "summary": "A new \"Bring Your Own Installer\"\u00a0EDR bypass technique is exploited in attacks to bypass SentinelOne's tamper protection feature, allowing threat actors to disable endpoint detection and response (EDR) agents to install the Babuk ransomware. [...]",
