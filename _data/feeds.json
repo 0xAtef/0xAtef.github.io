@@ -1,5 +1,26 @@
 [
   {
+    "title": "Microsoft silently fixes Start menu bug affecting Windows 10 PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-silently-fixes-start-menu-bug-affecting-windows-10-pcs/",
+    "summary": "Microsoft has silently fixed an issue that broke Start Menu jump lists for all apps on systems running Windows 10, version 22H2. [...]",
+    "published": "2025-05-05T11:48:57",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors",
+    "link": "https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html",
+    "summary": "What if attackers aren't breaking in\u2014they're already inside, watching, and adapting?\nThis week showed a sharp rise in stealth tactics built for long-term access and silent control. AI is being used to shape opinions. Malware is hiding inside software we trust. And old threats are returning under new",
+    "published": "2025-05-05T11:29:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Perfection is a Myth. Leverage Isn't: How Small Teams Can Secure Their Google Workspace",
+    "link": "https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html",
+    "summary": "Let\u2019s be honest: if you're one of the first (or the first) security hires at a small or midsize business, chances are you're also the unofficial CISO, SOC, IT Help Desk, and whatever additional roles need filling. You\u2019re not running a security department. You are THE security department. You're gett",
+    "published": "2025-05-05T11:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft: Windows 11 24H2 now ready to rollout to everyone",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-now-ready-to-rollout-to-everyone/",
     "summary": "\u200bMicrosoft announced over the weekend that the Windows 11 24H2 update is ready to roll out to all compatible PCs, excluding those with safeguard holds. [...]",
