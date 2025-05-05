@@ -1,5 +1,12 @@
 [
   {
+    "title": "UK shares security tips after major retail cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-shares-security-tips-after-major-retail-cyberattacks/",
+    "summary": "Following three high-profile cyberattacks impacting major UK retailers, the country's National Cyber Security Centre (NCSC) has published guidance that all companies are advised to follow to strengthen their cybersecurity defenses. [...]",
+    "published": "2025-05-05T15:19:18",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft silently fixes Start menu bug affecting Windows 10 PCs",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-silently-fixes-start-menu-bug-affecting-windows-10-pcs/",
     "summary": "Microsoft has silently fixed an issue that broke Start Menu jump lists for all apps on systems running Windows 10, version 22H2. [...]",
