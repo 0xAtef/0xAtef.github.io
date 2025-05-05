@@ -1,7 +1,14 @@
 [
   {
-    "title": "Darcula PhaaS steals 884,000 credit cards via SMS phishing texts",
-    "link": "https://www.bleepingcomputer.com/news/security/darcula-phaas-steals-884-000-credit-cards-via-sms-phishing-texts/",
+    "title": "Unofficial Signal app used by Trump officials investigates hack",
+    "link": "https://www.bleepingcomputer.com/news/security/unofficial-signal-app-used-by-trump-officials-investigates-hack/",
+    "summary": "TeleMessage, an Israeli company that sells an unofficial Signal message archiving tool used by some U.S. government officials, has suspended all services after reportedly being hacked. [...]",
+    "published": "2025-05-05T19:11:17",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Darcula PhaaS steals 884,000 credit cards via phishing texts",
+    "link": "https://www.bleepingcomputer.com/news/security/darcula-phaas-steals-884-000-credit-cards-via-phishing-texts/",
     "summary": "The Darcula phishing-as-a-service (PhaaS) platform stole 884,000 credit cards from 13 million clicks on malicious links sent via text messages to targets worldwide. [...]",
     "published": "2025-05-05T17:31:32",
     "source": "BleepingComputer"
