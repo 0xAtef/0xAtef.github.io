@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft unveils new AI agents that can modify Windows settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-new-ai-agents-that-can-modify-windows-settings/) — 2025-00-06
 - **The Hacker News**: [Third Parties and Machine Credentials: The Silent Drivers Behind 2025&#39;s Worst Breaches](https://thehackernews.com/2025/05/third-parties-and-machine-credentials.html) — 2025-25-06
 - **The Hacker News**: [Microsoft Warns Default Helm Charts Could Leave Kubernetes Apps Exposed to Data Leaks](https://thehackernews.com/2025/05/microsoft-warns-default-helm-charts-for.html) — 2025-05-06
 - **The Hacker News**: [Entra ID Data Protection: Essential or Overkill?](https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html) — 2025-00-06
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft: Windows 11 24H2 now ready to rollout to everyone](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-now-ready-to-rollout-to-everyone/) — 2025-53-05
 - **The Hacker News**: [Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data](https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html) — 2025-39-05
 - **Bleeping Computer**: [OpenAI document explains when to use each ChatGPT model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-document-explains-when-to-use-each-chatgpt-model/) — 2025-59-04
-- **Bleeping Computer**: [StealC malware enhanced with stealth upgrades and data theft tools](https://www.bleepingcomputer.com/news/security/stealc-malware-enhanced-with-stealth-upgrades-and-data-theft-tools/) — 2025-11-04
 - **The Hacker News**: [Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack](https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html) — 2025-31-03
 - **The Hacker News**: [Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and Malware](https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html) — 2025-33-03
 - **The Hacker News**: [U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Targeting 1,500 Systems](https://thehackernews.com/2025/05/us-charges-yemeni-hacker-behind-black.html) — 2025-06-03
