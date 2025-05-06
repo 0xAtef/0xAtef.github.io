@@ -1,5 +1,12 @@
 [
   {
+    "title": "Entra ID Data Protection:\u00a0Essential or Overkill?",
+    "link": "https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html",
+    "summary": "Microsoft Entra ID (formerly Azure Active Directory) is the backbone of modern identity management, enabling secure access to the applications, data, and services your business relies on. As hybrid work and cloud adoption accelerate, Entra ID plays an even more central role \u2014 managing authentication",
+    "published": "2025-05-06T10:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Linux wiper malware hidden in malicious Go modules on GitHub",
     "link": "https://www.bleepingcomputer.com/news/security/linux-wiper-malware-hidden-in-malicious-go-modules-on-github/",
     "summary": "A supply-chain attack targets Linux servers with disk-wiping malware hidden in Golang modules published on GitHub. [...]",
@@ -26,12 +33,5 @@
     "summary": "A recently disclosed critical security flaw impacting the open-source Langflow platform has been added to the Known Exploited Vulnerabilities (KEV) catalog by the U.S. Cybersecurity and Infrastructure Security Agency (CISA), citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2",
     "published": "2025-05-06T04:24:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Luna Moth extortion hackers pose as IT help desks to breach US firms",
-    "link": "https://www.bleepingcomputer.com/news/security/luna-moth-extortion-hackers-pose-as-it-help-desks-to-breach-us-firms/",
-    "summary": "The data-theft extortion group known as Luna Moth, aka Silent Ransom Group, has ramped up callback phishing campaigns in attacks on legal and financial institutions in the United States. [...]",
-    "published": "2025-05-05T22:19:42",
-    "source": "BleepingComputer"
   }
 ]
