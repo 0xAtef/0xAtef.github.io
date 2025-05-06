@@ -33,12 +33,5 @@
     "summary": "The Darcula phishing-as-a-service (PhaaS) platform stole 884,000 credit cards from 13 million clicks on malicious links sent via text messages to targets worldwide. [...]",
     "published": "2025-05-05T17:31:32",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi",
-    "link": "https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html",
-    "summary": "Cybersecurity researchers have disclosed a series of now-patched security vulnerabilities in Apple's AirPlay protocol that, if successfully exploited, could enable an attacker to take over susceptible devices supporting the proprietary wireless technology.\nThe shortcomings have been collectively cod",
-    "published": "2025-05-05T17:06:00",
-    "source": "HackerNews"
   }
 ]
