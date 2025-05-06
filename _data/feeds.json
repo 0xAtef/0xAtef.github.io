@@ -2,7 +2,7 @@
   {
     "title": "Apache Parquet exploit tool detect servers vulnerable to critical flaw",
     "link": "https://www.bleepingcomputer.com/news/security/apache-parquet-exploit-tool-detect-servers-vulnerable-to-critical-flaw/",
-    "summary": "A proof-of-concept exploit has been publicly released for a maximum severity Apache Parquet vulnerability, tracked as CVE-2025-30065, making it easy to find vulnerable servers. [...]",
+    "summary": "A proof-of-concept exploit tool has been publicly released for a maximum severity Apache Parquet vulnerability, tracked as CVE-2025-30065, making it easy to find vulnerable servers. [...]",
     "published": "2025-05-06T18:16:00",
     "source": "BleepingComputer"
   },
