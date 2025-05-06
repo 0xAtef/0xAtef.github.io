@@ -89,12 +89,5 @@
     "summary": "Microsoft Entra ID (formerly Azure Active Directory) is the backbone of modern identity management, enabling secure access to the applications, data, and services your business relies on. As hybrid work and cloud adoption accelerate, Entra ID plays an even more central role \u2014 managing authentication",
     "published": "2025-05-06T10:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Linux wiper malware hidden in malicious Go modules on GitHub",
-    "link": "https://www.bleepingcomputer.com/news/security/linux-wiper-malware-hidden-in-malicious-go-modules-on-github/",
-    "summary": "A supply-chain attack targets Linux servers with disk-wiping malware hidden in Golang modules published on GitHub. [...]",
-    "published": "2025-05-06T09:13:16",
-    "source": "BleepingComputer"
   }
 ]
