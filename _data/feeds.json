@@ -14,7 +14,7 @@
     "source": "BleepingComputer"
   },
   {
-    "title": "Microsoft pushes fix for Windows 11 update 0x80240069 errors",
+    "title": "Microsoft pushes fix for Windows 11 24H2 update failures",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-fix-for-windows-11-update-0x80240069-errors/",
     "summary": "\u200bMicrosoft has fixed a known issue preventing Windows 11 24H2 feature updates from being delivered via Windows Server Update Services (WSUS) after installing the April 2025 security updates. [...]",
     "published": "2025-05-06T08:17:40",
