@@ -1,5 +1,19 @@
 [
   {
+    "title": "Why EASM is vital to modern digital risk protection",
+    "link": "https://www.bleepingcomputer.com/news/security/why-easm-is-vital-to-modern-digital-risk-protection/",
+    "summary": "You can't protect what you can't see. From shadow IT to supplier risk, modern attack surfaces are sprawling fast \u2014 and External Attack Surface Management (EASM) is how security teams take back control. Learn from Outpost24 how EASM powers proactive digital risk protection. [...]",
+    "published": "2025-05-06T14:01:11",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims",
+    "link": "https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html",
+    "summary": "Cybersecurity researchers have lifted the lid on two threat actors that orchestrate investment scams through spoofed celebrity endorsements and conceal their activity through traffic distribution systems (TDSes).\nThe activity clusters have been codenamed Reckless Rabbit and Ruthless Rabbit by DNS th",
+    "published": "2025-05-06T13:36:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Google fixes actively exploited FreeType flaw on Android",
     "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-freetype-flaw-on-android/",
     "summary": "Google has released the May 2025 security updates for Android with fixes for 45 security flaws, including an actively exploited zero-click FreeType 2 code execution vulnerability. [...]",
