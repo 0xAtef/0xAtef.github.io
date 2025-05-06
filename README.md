@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Why EASM is vital to modern digital risk protection](https://www.bleepingcomputer.com/news/security/why-easm-is-vital-to-modern-digital-risk-protection/) — 2025-01-06
+- **The Hacker News**: [New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims](https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html) — 2025-36-06
+- **Bleeping Computer**: [Google fixes actively exploited FreeType flaw on Android](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-freetype-flaw-on-android/) — 2025-33-06
 - **Bleeping Computer**: [Microsoft unveils new AI agents that can modify Windows settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-new-ai-agents-that-can-modify-windows-settings/) — 2025-00-06
 - **The Hacker News**: [Third Parties and Machine Credentials: The Silent Drivers Behind 2025&#39;s Worst Breaches](https://thehackernews.com/2025/05/third-parties-and-machine-credentials.html) — 2025-25-06
 - **The Hacker News**: [Microsoft Warns Default Helm Charts Could Leave Kubernetes Apps Exposed to Data Leaks](https://thehackernews.com/2025/05/microsoft-warns-default-helm-charts-for.html) — 2025-05-06
@@ -60,9 +63,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft silently fixes Start menu bug affecting Windows 10 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-silently-fixes-start-menu-bug-affecting-windows-10-pcs/) — 2025-48-05
 - **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
 - **The Hacker News**: [Perfection is a Myth. Leverage Isn&#39;t: How Small Teams Can Secure Their Google Workspace](https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html) — 2025-00-05
-- **Bleeping Computer**: [Microsoft: Windows 11 24H2 now ready to rollout to everyone](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-now-ready-to-rollout-to-everyone/) — 2025-53-05
 - **The Hacker News**: [Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data](https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html) — 2025-39-05
-- **Bleeping Computer**: [OpenAI document explains when to use each ChatGPT model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-document-explains-when-to-use-each-chatgpt-model/) — 2025-59-04
 - **The Hacker News**: [Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack](https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html) — 2025-31-03
 - **The Hacker News**: [Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and Malware](https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html) — 2025-33-03
 - **The Hacker News**: [U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Targeting 1,500 Systems](https://thehackernews.com/2025/05/us-charges-yemeni-hacker-behind-black.html) — 2025-06-03
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures](https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html) — 2025-05-25
 - **The Hacker News**: [New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html) — 2025-41-25
 - **The Hacker News**: [Why NHIs Are Security&#39;s Most Dangerous Blind Spot](https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html) — 2025-30-25
-- **The Hacker News**: [Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers](https://thehackernews.com/2025/04/researchers-identify-rackstatic.html) — 2025-57-25
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
