@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Critical Langflow RCE flaw exploited to hack AI app servers](https://www.bleepingcomputer.com/news/security/critical-langflow-rce-flaw-exploited-to-hack-ai-app-servers/) — 2025-05-06
+- **The Hacker News**: [Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet](https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html) — 2025-33-06
+- **Bleeping Computer**: [New Microsoft 365 outage impacts Teams and other services](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-365-outage-impacts-teams-and-other-services/) — 2025-31-06
 - **Bleeping Computer**: [Why EASM is vital to modern digital risk protection](https://www.bleepingcomputer.com/news/security/why-easm-is-vital-to-modern-digital-risk-protection/) — 2025-01-06
 - **The Hacker News**: [New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims](https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html) — 2025-36-06
 - **Bleeping Computer**: [Google fixes actively exploited FreeType flaw on Android](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-freetype-flaw-on-android/) — 2025-33-06
@@ -60,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft is killing Skype today, pushes users to Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-skype-today-pushes-users-to-teams/) — 2025-12-05
 - **The Hacker News**: [Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed](https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html) — 2025-01-05
 - **Bleeping Computer**: [UK shares security tips after major retail cyberattacks](https://www.bleepingcomputer.com/news/security/uk-shares-security-tips-after-major-retail-cyberattacks/) — 2025-19-05
-- **Bleeping Computer**: [Microsoft silently fixes Start menu bug affecting Windows 10 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-silently-fixes-start-menu-bug-affecting-windows-10-pcs/) — 2025-48-05
 - **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
 - **The Hacker News**: [Perfection is a Myth. Leverage Isn&#39;t: How Small Teams Can Secure Their Google Workspace](https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html) — 2025-00-05
 - **The Hacker News**: [Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data](https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html) — 2025-39-05
@@ -104,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [ToyMaker Uses LAGTOY to Sell Access to CACTUS Ransomware Gangs for Double Extortion](https://thehackernews.com/2025/04/toymaker-uses-lagtoy-to-sell-access-to.html) — 2025-38-26
 - **The Hacker News**: [North Korean Hackers Spread Malware via Fake Crypto Firms and Job Interview Lures](https://thehackernews.com/2025/04/north-korean-hackers-spread-malware-via.html) — 2025-05-25
 - **The Hacker News**: [New Critical SAP NetWeaver Flaw Exploited to Drop Web Shell, Brute Ratel Framework](https://thehackernews.com/2025/04/sap-confirms-critical-netweaver-flaw.html) — 2025-41-25
-- **The Hacker News**: [Why NHIs Are Security&#39;s Most Dangerous Blind Spot](https://thehackernews.com/2025/04/why-nhis-are-securitys-most-dangerous.html) — 2025-30-25
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
