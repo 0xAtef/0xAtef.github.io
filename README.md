@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Samsung MagicINFO 9 Server RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/samsung-magicinfo-9-server-rce-flaw-now-exploited-in-attacks/) — 2025-10-06
 - **Bleeping Computer**: [UK Legal Aid Agency investigates cybersecurity incident](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-investigates-cybersecurity-incident/) — 2025-20-06
 - **Bleeping Computer**: [Critical Langflow RCE flaw exploited to hack AI app servers](https://www.bleepingcomputer.com/news/security/critical-langflow-rce-flaw-exploited-to-hack-ai-app-servers/) — 2025-05-06
 - **The Hacker News**: [Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet](https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html) — 2025-33-06
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Unofficial Signal app used by Trump officials investigates hack](https://www.bleepingcomputer.com/news/security/unofficial-signal-app-used-by-trump-officials-investigates-hack/) — 2025-11-05
 - **Bleeping Computer**: [Darcula PhaaS steals 884,000 credit cards via phishing texts](https://www.bleepingcomputer.com/news/security/darcula-phaas-steals-884-000-credit-cards-via-phishing-texts/) — 2025-31-05
 - **The Hacker News**: [Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi](https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html) — 2025-06-05
-- **Bleeping Computer**: [Microsoft is killing Skype today, pushes users to Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-skype-today-pushes-users-to-teams/) — 2025-12-05
 - **The Hacker News**: [Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed](https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html) — 2025-01-05
 - **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
 - **The Hacker News**: [Perfection is a Myth. Leverage Isn&#39;t: How Small Teams Can Secure Their Google Workspace](https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html) — 2025-00-05
