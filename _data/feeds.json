@@ -1,5 +1,12 @@
 [
   {
+    "title": "Apache Parquet exploit tool detect servers vulnerable to critical flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/apache-parquet-exploit-tool-detect-servers-vulnerable-to-critical-flaw/",
+    "summary": "A proof-of-concept exploit has been publicly released for a maximum severity Apache Parquet vulnerability, tracked as CVE-2025-30065, making it easy to find vulnerable servers. [...]",
+    "published": "2025-05-06T18:16:00",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Samsung MagicINFO 9 Server RCE flaw now exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/samsung-magicinfo-9-server-rce-flaw-now-exploited-in-attacks/",
     "summary": "Hackers are exploiting an unauthenticated remote code execution (RCE) vulnerability in the Samsung MagicINFO 9 Server to hijack devices and deploy malware. [...]",
@@ -96,12 +103,5 @@
     "summary": "\u200bMicrosoft has fixed a known issue preventing Windows 11 24H2 feature updates from being delivered via Windows Server Update Services (WSUS) after installing the April 2025 security updates. [...]",
     "published": "2025-05-06T08:17:40",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Update ASAP: Google Fixes Android Flaw (CVE-2025-27363) Exploited by Attackers",
-    "link": "https://thehackernews.com/2025/05/google-fixes-actively-exploited-android.html",
-    "summary": "Google has released its monthly security updates for Android with fixes for 46 security flaws, including one vulnerability that it said has been exploited in the wild.\nThe vulnerability in question is CVE-2025-27363 (CVSS score: 8.1), a high-severity flaw in the System component that could lead to l",
-    "published": "2025-05-06T05:46:00",
-    "source": "HackerNews"
   }
 ]
