@@ -1,6 +1,13 @@
 [
   {
-    "title": "Google Fixes Actively Exploited Android System Flaw in May 2025 Security Update",
+    "title": "Microsoft pushes fix for Windows 11 update 0x80240069 errors",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-fix-for-windows-11-update-0x80240069-errors/",
+    "summary": "\u200bMicrosoft has fixed a known issue preventing Windows 11 24H2 feature updates from being delivered via Windows Server Update Services (WSUS) after installing the April 2025 security updates. [...]",
+    "published": "2025-05-06T08:17:40",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Update ASAP: Google Fixes Android Flaw (CVE-2025-27363) Exploited by Attackers",
     "link": "https://thehackernews.com/2025/05/google-fixes-actively-exploited-android.html",
     "summary": "Google has released its monthly security updates for Android with fixes for 46 security flaws, including one vulnerability that it said has been exploited in the wild.\nThe vulnerability in question is CVE-2025-27363 (CVSS score: 8.1), a high-severity flaw in the System component that could lead to l",
     "published": "2025-05-06T05:46:00",
@@ -18,13 +25,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/luna-moth-extortion-hackers-pose-as-it-help-desks-to-breach-us-firms/",
     "summary": "The data-theft extortion group known as Luna Moth, aka Silent Ransom Group, has ramped up callback phishing campaigns in attacks on legal and financial institutions in the United States. [...]",
     "published": "2025-05-05T22:19:42",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "New \"Bring Your Own Installer\" EDR bypass used in ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/new-bring-your-own-installer-edr-bypass-used-in-ransomware-attack/",
-    "summary": "A new \"Bring Your Own Installer\"\u00a0EDR bypass technique is exploited in attacks to bypass SentinelOne's tamper protection feature, allowing threat actors to disable endpoint detection and response (EDR) agents to install the Babuk ransomware. [...]",
-    "published": "2025-05-05T20:28:34",
     "source": "BleepingComputer"
   }
 ]
