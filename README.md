@@ -40,8 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Entra ID Data Protection: Essential or Overkill?](https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html) — 2025-00-06
 - **Bleeping Computer**: [Linux wiper malware hidden in malicious Go modules on GitHub](https://www.bleepingcomputer.com/news/security/linux-wiper-malware-hidden-in-malicious-go-modules-on-github/) — 2025-13-06
-- **Bleeping Computer**: [Microsoft pushes fix for Windows 11 update 0x80240069 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-fix-for-windows-11-update-0x80240069-errors/) — 2025-17-06
+- **Bleeping Computer**: [Microsoft pushes fix for Windows 11 24H2 update failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-fix-for-windows-11-update-0x80240069-errors/) — 2025-17-06
 - **The Hacker News**: [Update ASAP: Google Fixes Android Flaw &lpar;CVE-2025-27363&rpar; Exploited by Attackers](https://thehackernews.com/2025/05/google-fixes-actively-exploited-android.html) — 2025-46-06
 - **The Hacker News**: [Critical Langflow Flaw Added to CISA KEV List Amid Ongoing Exploitation Evidence](https://thehackernews.com/2025/05/critical-langflow-flaw-added-to-cisa.html) — 2025-24-06
 - **Bleeping Computer**: [Luna Moth extortion hackers pose as IT help desks to breach US firms](https://www.bleepingcomputer.com/news/security/luna-moth-extortion-hackers-pose-as-it-help-desks-to-breach-us-firms/) — 2025-19-05
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Researchers Identify Rack::Static Vulnerability Enabling Data Breaches in Ruby Servers](https://thehackernews.com/2025/04/researchers-identify-rackstatic.html) — 2025-57-25
 - **The Hacker News**: [DslogdRAT Malware Deployed via Ivanti ICS Zero-Day CVE-2025-0282 in Japan Attacks](https://thehackernews.com/2025/04/dslogdrat-malware-deployed-via-ivanti.html) — 2025-43-25
 - **The Hacker News**: [Lazarus Hits 6 South Korean Firms via Cross EX, Innorix Flaws and ThreatNeedle Malware](https://thehackernews.com/2025/04/lazarus-hits-6-south-korean-firms-via.html) — 2025-11-24
-- **The Hacker News**: [Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools](https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html) — 2025-58-24
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
