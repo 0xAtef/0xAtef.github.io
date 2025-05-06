@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Apache Parquet exploit tool detect servers vulnerable to critical flaw](https://www.bleepingcomputer.com/news/security/apache-parquet-exploit-tool-detect-servers-vulnerable-to-critical-flaw/) — 2025-16-06
 - **Bleeping Computer**: [Samsung MagicINFO 9 Server RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/samsung-magicinfo-9-server-rce-flaw-now-exploited-in-attacks/) — 2025-10-06
 - **Bleeping Computer**: [UK Legal Aid Agency investigates cybersecurity incident](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-investigates-cybersecurity-incident/) — 2025-20-06
 - **Bleeping Computer**: [Critical Langflow RCE flaw exploited to hack AI app servers](https://www.bleepingcomputer.com/news/security/critical-langflow-rce-flaw-exploited-to-hack-ai-app-servers/) — 2025-05-06
@@ -59,8 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Luna Moth extortion hackers pose as IT help desks to breach US firms](https://www.bleepingcomputer.com/news/security/luna-moth-extortion-hackers-pose-as-it-help-desks-to-breach-us-firms/) — 2025-19-05
 - **Bleeping Computer**: [New &quot;Bring Your Own Installer&quot; EDR bypass used in ransomware attack](https://www.bleepingcomputer.com/news/security/new-bring-your-own-installer-edr-bypass-used-in-ransomware-attack/) — 2025-28-05
 - **Bleeping Computer**: [Microsoft finds default Kubernetes Helm charts can expose data](https://www.bleepingcomputer.com/news/security/microsoft-finds-default-kubernetes-helm-charts-can-expose-data/) — 2025-17-05
-- **Bleeping Computer**: [Unofficial Signal app used by Trump officials investigates hack](https://www.bleepingcomputer.com/news/security/unofficial-signal-app-used-by-trump-officials-investigates-hack/) — 2025-11-05
-- **Bleeping Computer**: [Darcula PhaaS steals 884,000 credit cards via phishing texts](https://www.bleepingcomputer.com/news/security/darcula-phaas-steals-884-000-credit-cards-via-phishing-texts/) — 2025-31-05
 - **The Hacker News**: [Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi](https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html) — 2025-06-05
 - **The Hacker News**: [Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed](https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html) — 2025-01-05
 - **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
