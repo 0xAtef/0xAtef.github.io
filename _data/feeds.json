@@ -1,5 +1,12 @@
 [
   {
+    "title": "Samsung MagicINFO 9 Server RCE flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/samsung-magicinfo-9-server-rce-flaw-now-exploited-in-attacks/",
+    "summary": "Hackers are exploiting an unauthenticated remote code execution (RCE) vulnerability in the Samsung MagicINFO 9 Server to hijack devices and deploy malware. [...]",
+    "published": "2025-05-06T17:10:23",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "UK Legal Aid Agency investigates cybersecurity incident",
     "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-investigates-cybersecurity-incident/",
     "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that oversees billions in legal funding, warned law firms of a security incident and said the attackers might have accessed financial information. [...]",
