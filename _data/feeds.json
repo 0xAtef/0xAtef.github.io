@@ -5,12 +5,5 @@
     "summary": "A proof-of-concept exploit tool has been publicly released for a maximum severity Apache Parquet vulnerability, tracked as CVE-2025-30065, making it easy to find vulnerable servers. [...]",
     "published": "2025-05-06T18:16:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Samsung MagicINFO 9 Server RCE flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/samsung-magicinfo-9-server-rce-flaw-now-exploited-in-attacks/",
-    "summary": "Hackers are exploiting an unauthenticated remote code execution (RCE) vulnerability in the Samsung MagicINFO 9 Server to hijack devices and deploy malware. [...]",
-    "published": "2025-05-06T17:10:23",
-    "source": "BleepingComputer"
   }
 ]
