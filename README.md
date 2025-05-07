@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version](https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html) — 2025-31-07
+- **Bleeping Computer**: [Police takes down six DDoS-for-hire services, arrests admins](https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/) — 2025-23-07
+- **The Hacker News**: [Reevaluating SSEs: A Technical Gap Analysis of Last-Mile Protection](https://thehackernews.com/2025/05/reevaluating-sses-technical-gap.html) — 2025-56-07
 - **The Hacker News**: [Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization](https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html) — 2025-44-07
 - **Bleeping Computer**: [Microsoft: April updates cause Windows Server auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-updates-cause-windows-server-auth-issues/) — 2025-55-07
 - **The Hacker News**: [Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times](https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html) — 2025-37-07
@@ -61,8 +64,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft pushes fix for Windows 11 24H2 update failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-fix-for-windows-11-update-0x80240069-errors/) — 2025-17-06
 - **The Hacker News**: [Update ASAP: Google Fixes Android Flaw &lpar;CVE-2025-27363&rpar; Exploited by Attackers](https://thehackernews.com/2025/05/google-fixes-actively-exploited-android.html) — 2025-46-06
 - **The Hacker News**: [Critical Langflow Flaw Added to CISA KEV List Amid Ongoing Exploitation Evidence](https://thehackernews.com/2025/05/critical-langflow-flaw-added-to-cisa.html) — 2025-24-06
-- **Bleeping Computer**: [New &quot;Bring Your Own Installer&quot; EDR bypass used in ransomware attack](https://www.bleepingcomputer.com/news/security/new-bring-your-own-installer-edr-bypass-used-in-ransomware-attack/) — 2025-28-05
-- **Bleeping Computer**: [Microsoft finds default Kubernetes Helm charts can expose data](https://www.bleepingcomputer.com/news/security/microsoft-finds-default-kubernetes-helm-charts-can-expose-data/) — 2025-17-05
 - **The Hacker News**: [Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi](https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html) — 2025-06-05
 - **The Hacker News**: [Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed](https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html) — 2025-01-05
 - **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
@@ -103,8 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [How Breaches Start: Breaking Down 5 Real Vulns](https://thehackernews.com/2025/04/how-breaches-start-breaking-down-5-real.html) — 2025-00-28
 - **The Hacker News**: [Earth Kurma Targets Southeast Asia With Rootkits and Cloud-Based Data Theft Tools](https://thehackernews.com/2025/04/earth-kurma-targets-southeast-asia-with.html) — 2025-07-28
 - **The Hacker News**: [WooCommerce Users Targeted by Fake Patch Phishing Campaign Deploying Site Backdoors](https://thehackernews.com/2025/04/woocommerce-users-targeted-by-fake.html) — 2025-06-28
-- **The Hacker News**: [Hackers Exploit Critical Craft CMS Flaws; Hundreds of Servers Likely Compromised](https://thehackernews.com/2025/04/hackers-exploit-critical-craft-cms.html) — 2025-13-28
-- **The Hacker News**: [Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers](https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html) — 2025-02-27
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
