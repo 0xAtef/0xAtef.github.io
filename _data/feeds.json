@@ -1,5 +1,26 @@
 [
   {
+    "title": "PowerSchool hacker now extorting individual school districts",
+    "link": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/",
+    "summary": "PowerSchool is\u00a0warning that the hacker behind its December cyberattack is now\u00a0individually extorting schools, threatening to release the previously stolen student and teacher\u00a0data if a ransom is not paid. [...]",
+    "published": "2025-05-07T18:25:39",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "CoGUI phishing platform sent 580 million emails to steal credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/",
+    "summary": "A new phishing kit named 'CoGUI' sent over 580 million emails to targets between January and April 2025, aiming to steal account credentials and payment data. [...]",
+    "published": "2025-05-07T18:02:16",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Hackers exploit OttoKit WordPress plugin flaw to add admin accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-ottokit-wordpress-plugin-flaw-to-add-admin-accounts/",
+    "summary": "Hackers are exploiting a critical unauthenticated privilege escalation vulnerability in the OttoKit WordPress plugin to create rogue admin accounts on targeted sites. [...]",
+    "published": "2025-05-07T15:37:48",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Play ransomware exploited Windows logging flaw in zero-day attacks",
     "link": "https://www.bleepingcomputer.com/news/security/play-ransomware-exploited-windows-logging-flaw-in-zero-day-attacks/",
     "summary": "The Play ransomware gang\u00a0has exploited a high-severity Windows Common Log File System flaw in zero-day attacks to gain SYSTEM privileges and deploy malware on compromised systems. [...]",
@@ -88,13 +109,6 @@
     "link": "https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html",
     "summary": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that masquerades as a seemingly harmless Discord-related utility but incorporates a remote access trojan.\nThe package in question is discordpydebug, which was uploaded to PyPI on March 21, 202",
     "published": "2025-05-07T07:37:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware",
-    "link": "https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html",
-    "summary": "A federal jury on Tuesday decided that NSO Group must pay Meta-owned WhatsApp WhatsApp approximately $168 million in monetary damages, more than four months after a federal judge ruled that the Israeli company violated U.S. laws by exploiting WhatsApp servers to deploy Pegasus spyware, targeting ove",
-    "published": "2025-05-07T06:22:00",
     "source": "HackerNews"
   }
 ]
