@@ -1,5 +1,12 @@
 [
   {
+    "title": "Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times",
+    "link": "https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html",
+    "summary": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that masquerades as a seemingly harmless Discord-related utility but incorporates a remote access trojan.\nThe package in question is discordpydebug, which was uploaded to PyPI on March 21, 202",
+    "published": "2025-05-07T07:37:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware",
     "link": "https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html",
     "summary": "A federal jury on Tuesday decided that NSO Group must pay Meta-owned WhatsApp WhatsApp approximately $168 million in monetary damages, more than four months after a federal judge ruled that the Israeli company violated U.S. laws by exploiting WhatsApp servers to deploy Pegasus spyware, targeting ove",
