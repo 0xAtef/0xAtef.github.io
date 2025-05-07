@@ -1,5 +1,12 @@
 [
   {
+    "title": "Play ransomware exploited Windows logging flaw in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/play-ransomware-exploited-windows-logging-flaw-in-zero-day-attacks/",
+    "summary": "The Play ransomware gang\u00a0has exploited a high-severity Windows Common Log File System flaw in zero-day attacks to gain SYSTEM privileges and deploy malware on compromised systems. [...]",
+    "published": "2025-05-07T14:45:19",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "NSO Group fined $167M for spyware attacks on 1,400 WhatsApp users",
     "link": "https://www.bleepingcomputer.com/news/legal/nso-group-fined-167m-for-spyware-attacks-on-1-400-whatsapp-users/",
     "summary": "A U.S. federal jury has ordered Israeli spyware vendor NSO Group to pay WhatsApp $167,254,000 in punitive damages and $444,719 in compensatory damages for a 2019 campaign that targeted 1,400 users of the communication app. [...]",
