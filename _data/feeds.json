@@ -75,19 +75,5 @@
     "summary": "CISA warned\u00a0critical infrastructure organizations of \"unsophisticated\" threat actors actively targeting\u00a0the\u00a0U.S. oil and natural gas\u00a0sectors. [...]",
     "published": "2025-05-07T13:17:39",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version",
-    "link": "https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html",
-    "summary": "Cybersecurity researchers have disclosed multiple security flaw in the on-premise version of SysAid IT support software that could be exploited to achieve pre-authenticated remote code execution with elevated privileges.\nThe vulnerabilities, tracked as CVE-2025-2775, CVE-2025-2776, and CVE-2025-2777",
-    "published": "2025-05-07T11:31:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Police takes down six DDoS-for-hire services, arrests admins",
-    "link": "https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/",
-    "summary": "\u200bPolish authorities have detained four suspects linked to six DDoS-for-hire platforms, believed to have facilitated thousands of attacks targeting schools, government services, businesses, and gaming platforms worldwide since 2022. [...]",
-    "published": "2025-05-07T11:23:37",
-    "source": "BleepingComputer"
   }
 ]
