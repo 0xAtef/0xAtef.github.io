@@ -96,12 +96,5 @@
     "summary": "Threat actors with links to the Play ransomware family exploited a recently patched security flaw in Microsoft Windows as a zero-day as part of an attack targeting an unnamed organization in the United States.\nThe attack, per the Symantec Threat Hunter Team, part of Broadcom, leveraged CVE-2025-2982",
     "published": "2025-05-07T10:44:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft: April updates cause Windows Server auth issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-updates-cause-windows-server-auth-issues/",
-    "summary": "Microsoft says the April 2025 security updates are causing authentication issues on some Windows Server 2025 domain controllers. [...]",
-    "published": "2025-05-07T09:55:25",
-    "source": "BleepingComputer"
   }
 ]
