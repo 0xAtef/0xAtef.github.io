@@ -26,19 +26,5 @@
     "summary": "The U.S. Cybersecurity & Infrastructure Security Agency (CISA) has tagged a Langflow remote code execution vulnerability as actively exploited,\u00a0urging organizations to apply security updates and mitigations as soon as possible. [...]",
     "published": "2025-05-06T16:05:10",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet",
-    "link": "https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html",
-    "summary": "Threat actors have been observed actively exploiting security flaws in GeoVision end-of-life (EoL) Internet of Things (IoT) devices to corral them into a Mirai botnet for conducting distributed denial-of-service (DDoS) attacks.\nThe activity, first observed by the Akamai Security Intelligence and Res",
-    "published": "2025-05-06T15:33:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "New Microsoft 365 outage impacts Teams and other services",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-365-outage-impacts-teams-and-other-services/",
-    "summary": "Microsoft is investigating a new Microsoft 365 outage affecting multiple services across North America, including the company's Teams collaboration platform. [...]",
-    "published": "2025-05-06T15:31:00",
-    "source": "BleepingComputer"
   }
 ]
