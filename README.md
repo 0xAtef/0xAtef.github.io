@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Play ransomware exploited Windows logging flaw in zero-day attacks](https://www.bleepingcomputer.com/news/security/play-ransomware-exploited-windows-logging-flaw-in-zero-day-attacks/) — 2025-45-07
 - **Bleeping Computer**: [NSO Group fined $167M for spyware attacks on 1,400 WhatsApp users](https://www.bleepingcomputer.com/news/legal/nso-group-fined-167m-for-spyware-attacks-on-1-400-whatsapp-users/) — 2025-09-07
 - **Bleeping Computer**: [Doubling down: How Universal 2nd Factor &lpar;U2F&rpar; boosts online security](https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/) — 2025-02-07
 - **The Hacker News**: [Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks](https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html) — 2025-54-07
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [New Microsoft 365 outage impacts Teams and other services](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-365-outage-impacts-teams-and-other-services/) — 2025-31-06
 - **Bleeping Computer**: [Why EASM is vital to modern digital risk protection](https://www.bleepingcomputer.com/news/security/why-easm-is-vital-to-modern-digital-risk-protection/) — 2025-01-06
 - **The Hacker News**: [New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims](https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html) — 2025-36-06
-- **Bleeping Computer**: [Google fixes actively exploited FreeType flaw on Android](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-freetype-flaw-on-android/) — 2025-33-06
 - **The Hacker News**: [Third Parties and Machine Credentials: The Silent Drivers Behind 2025&#39;s Worst Breaches](https://thehackernews.com/2025/05/third-parties-and-machine-credentials.html) — 2025-25-06
 - **The Hacker News**: [Microsoft Warns Default Helm Charts Could Leave Kubernetes Apps Exposed to Data Leaks](https://thehackernews.com/2025/05/microsoft-warns-default-helm-charts-for.html) — 2025-05-06
 - **The Hacker News**: [Entra ID Data Protection: Essential or Overkill?](https://thehackernews.com/2025/05/entra-id-data-protectionessential-or.html) — 2025-00-06
