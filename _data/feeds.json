@@ -12,19 +12,5 @@
     "summary": "Hackers are exploiting an unauthenticated remote code execution (RCE) vulnerability in the Samsung MagicINFO 9 Server to hijack devices and deploy malware. [...]",
     "published": "2025-05-06T17:10:23",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "UK Legal Aid Agency investigates cybersecurity incident",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-investigates-cybersecurity-incident/",
-    "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that oversees billions in legal funding, warned law firms of a security incident and said the attackers might have accessed financial information. [...]",
-    "published": "2025-05-06T16:20:30",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Critical Langflow RCE flaw exploited to hack AI app servers",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-rce-flaw-exploited-to-hack-ai-app-servers/",
-    "summary": "The U.S. Cybersecurity & Infrastructure Security Agency (CISA) has tagged a Langflow remote code execution vulnerability as actively exploited,\u00a0urging organizations to apply security updates and mitigations as soon as possible. [...]",
-    "published": "2025-05-06T16:05:10",
-    "source": "BleepingComputer"
   }
 ]
