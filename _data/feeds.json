@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft: April updates cause Windows Server auth issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-updates-cause-windows-server-auth-issues/",
+    "summary": "Microsoft says the April 2025 security updates are causing authentication issues on some Windows Server 2025 domain controllers. [...]",
+    "published": "2025-05-07T09:55:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times",
     "link": "https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html",
     "summary": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that masquerades as a seemingly harmless Discord-related utility but incorporates a remote access trojan.\nThe package in question is discordpydebug, which was uploaded to PyPI on March 21, 202",
