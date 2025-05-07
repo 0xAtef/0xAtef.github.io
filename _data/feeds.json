@@ -1,5 +1,12 @@
 [
   {
+    "title": "Police takes down six DDoS-for-hire services, arrests admins",
+    "link": "https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/",
+    "summary": "\u200bPolish authorities have detained four suspects linked to six DDoS-for-hire platforms, believed to have facilitated thousands of attacks targeting schools, government services, businesses, and gaming platforms worldwide since 2022. [...]",
+    "published": "2025-05-07T11:23:37",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization",
     "link": "https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html",
     "summary": "Threat actors with links to the Play ransomware family exploited a recently patched security flaw in Microsoft Windows as a zero-day as part of an attack targeting an unnamed organization in the United States.\nThe attack, per the Symantec Threat Hunter Team, part of Broadcom, leveraged CVE-2025-2982",
