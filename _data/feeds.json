@@ -1,5 +1,40 @@
 [
   {
+    "title": "NSO Group fined $167M for spyware attacks on 1,400 WhatsApp users",
+    "link": "https://www.bleepingcomputer.com/news/legal/nso-group-fined-167m-for-spyware-attacks-on-1-400-whatsapp-users/",
+    "summary": "A U.S. federal jury has ordered Israeli spyware vendor NSO Group to pay WhatsApp $167,254,000 in punitive damages and $444,719 in compensatory damages for a 2019 campaign that targeted 1,400 users of the communication app. [...]",
+    "published": "2025-05-07T14:09:33",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Doubling down: How Universal 2nd Factor (U2F) boosts online security",
+    "link": "https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/",
+    "summary": "Passwords alone aren't cutting it\u201431% of breaches involve stolen credentials. Learn from Specops Software about how Universal 2nd Factor (U2F) and strong password policies can work together to keep your organization secure. [...]",
+    "published": "2025-05-07T14:02:12",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks",
+    "link": "https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html",
+    "summary": "Europol has announced the takedown of distributed denial of service (DDoS)-for-hire services that were used to launch thousands of cyber-attacks across the world.\nIn connection with the operation, Polish authorities have arrested four individuals and the United States has seized nine domains that ar",
+    "published": "2025-05-07T13:54:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws",
+    "link": "https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html",
+    "summary": "A second security flaw impacting the OttoKit (formerly SureTriggers) WordPress plugin has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2025-27007 (CVSS score: 9.8), is a privilege escalation bug impacting all versions of the plugin prior to and including version 1.0.",
+    "published": "2025-05-07T13:44:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Medical device maker Masimo warns of cyberattack, manufacturing delays",
+    "link": "https://www.bleepingcomputer.com/news/security/medical-device-maker-masimo-warns-of-cyberattack-manufacturing-delays/",
+    "summary": "Medical device company Masimo Corporation warns that a cyberattack is impacting production operations and causing delays in fulfilling customers' orders. [...]",
+    "published": "2025-05-07T13:39:33",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "CISA warns of hackers targeting critical oil infrastructure",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-targeting-critical-oil-infrastructure/",
     "summary": "CISA warned\u00a0critical infrastructure organizations of \"unsophisticated\" threat actors actively targeting\u00a0the\u00a0U.S. oil and natural gas\u00a0sectors. [...]",
