@@ -26,12 +26,5 @@
     "summary": "A new phishing kit named 'CoGUI' sent over 580 million emails to targets between January and April 2025, aiming to steal account credentials and payment data. [...]",
     "published": "2025-05-07T18:02:16",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers exploit OttoKit WordPress plugin flaw to add admin accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-ottokit-wordpress-plugin-flaw-to-add-admin-accounts/",
-    "summary": "Hackers are exploiting a critical unauthenticated privilege escalation vulnerability in the OttoKit WordPress plugin to create rogue admin accounts on targeted sites. [...]",
-    "published": "2025-05-07T15:37:48",
-    "source": "BleepingComputer"
   }
 ]
