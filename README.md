@@ -41,12 +41,13 @@ Let's connect and share some war stories!
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - **Bleeping Computer**: [Kickidler employee monitoring software abused in ransomware attacks](https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/) — 2025-05-08
+- **The Hacker News**: [38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases](https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html) — 2025-23-08
 - **Bleeping Computer**: [VC giant Insight Partners confirms investor data stolen in breach](https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/) — 2025-01-08
+- **The Hacker News**: [Security Tools Alone Don&#39;t Protect You — Control Effectiveness Does](https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html) — 2025-00-08
 - **The Hacker News**: [SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root](https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html) — 2025-56-08
 - **The Hacker News**: [Qilin Ransomware Ranked Highest in April 2025 with Over 45 Data Leak Disclosures](https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html) — 2025-47-08
 - **Bleeping Computer**: [Google links new LostKeys data theft malware to Russian cyberspies](https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/) — 2025-39-08
 - **Bleeping Computer**: [SonicWall urges admins to patch VPN flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/) — 2025-19-08
-- **The Hacker News**: [Security Tools Alone Don&#39;t Protect You — Control Effectiveness Does](https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html) — 2025-00-08
 - **The Hacker News**: [MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware](https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html) — 2025-32-08
 - **The Hacker News**: [Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware](https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html) — 2025-57-08
 - **The Hacker News**: [Cisco Patches CVE-2025-20188 &lpar;10.0 CVSS&rpar; in IOS XE That Enables Root Exploits via JWT](https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html) — 2025-57-08
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Indian Court Orders Action to Block Proton Mail Over AI Deepfake Abuse Allegations](https://thehackernews.com/2025/04/indian-court-orders-action-to-block.html) — 2025-45-30
 - **The Hacker News**: [WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy](https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html) — 2025-22-29
 - **The Hacker News**: [New Reports Uncover Jailbreaks, Unsafe Code, and Data Theft Risks in Leading AI Systems](https://thehackernews.com/2025/04/new-reports-uncover-jailbreaks-unsafe.html) — 2025-18-29
-- **The Hacker News**: [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html) — 2025-07-29
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
