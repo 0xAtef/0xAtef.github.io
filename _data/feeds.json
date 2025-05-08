@@ -7,6 +7,20 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "Security Tools Alone Don't Protect You \u2014 Control Effectiveness Does",
+    "link": "https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html",
+    "summary": "61% of security leaders reported suffering a breach due to failed or misconfigured controls over the past 12 months. This is despite having an average of 43 cybersecurity tools in place.\nThis massive rate of security failure is clearly not a security investment problem. It is a configuration problem",
+    "published": "2025-05-08T11:00:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware",
+    "link": "https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html",
+    "summary": "The nation-state threat actor known as MirrorFace has been observed deploying malware dubbed ROAMINGMOUSE as part of a cyber espionage campaign directed against government agencies and public institutions in Japan and Taiwan.\nThe activity, detected by Trend Micro in March 2025, involved the use of s",
+    "published": "2025-05-08T10:32:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware",
     "link": "https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html",
     "summary": "The Russia-linked threat actor known as COLDRIVER has been observed distributing a new malware called LOSTKEYS as part of an espionage-focused campaign using ClickFix-like social engineering lures.\n\"LOSTKEYS is capable of stealing files from a hard-coded list of extensions and directories, along wit",
@@ -19,12 +33,5 @@
     "summary": "Cisco has released software fixes to address a maximum-severity security flaw in its IOS XE Wireless Controller that could enable an unauthenticated, remote attacker to upload arbitrary files to a susceptible system.\nThe vulnerability, tracked as CVE-2025-20188, has been rated 10.0 on the CVSS scori",
     "published": "2025-05-08T04:57:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "LockBit ransomware gang hacked, victim negotiations exposed",
-    "link": "https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/",
-    "summary": "The LockBit ransomware gang has suffered a data breach after its dark web affiliate panels were defaced and replaced with a message linking to a MySQL database dump. [...]",
-    "published": "2025-05-08T00:06:32",
-    "source": "BleepingComputer"
   }
 ]
