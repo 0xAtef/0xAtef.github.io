@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [LockBit ransomware gang hacked, victim negotiations exposed](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/) — 2025-06-08
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Bleeping Computer**: [PowerSchool hacker now extorting individual school districts](https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/) — 2025-25-07
 - **Bleeping Computer**: [CoGUI phishing platform sent 580 million emails to steal credentials](https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/) — 2025-02-07
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times](https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html) — 2025-37-07
 - **The Hacker News**: [NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware](https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html) — 2025-22-07
 - **Bleeping Computer**: [Apache Parquet exploit tool detect servers vulnerable to critical flaw](https://www.bleepingcomputer.com/news/security/apache-parquet-exploit-tool-detect-servers-vulnerable-to-critical-flaw/) — 2025-16-06
-- **Bleeping Computer**: [Samsung MagicINFO 9 Server RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/samsung-magicinfo-9-server-rce-flaw-now-exploited-in-attacks/) — 2025-10-06
 - **The Hacker News**: [Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet](https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html) — 2025-33-06
 - **The Hacker News**: [New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims](https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html) — 2025-36-06
 - **The Hacker News**: [Third Parties and Machine Credentials: The Silent Drivers Behind 2025&#39;s Worst Breaches](https://thehackernews.com/2025/05/third-parties-and-machine-credentials.html) — 2025-25-06
