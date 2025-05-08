@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [FBI: End-of-life routers hacked for cybercrime proxy networks](https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/) — 2025-15-08
 - **Bleeping Computer**: [Cisco fixes max severity IOS XE flaw letting attackers hijack devices](https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/) — 2025-53-08
 - **Bleeping Computer**: [Education giant Pearson hit by cyberattack exposing customer data](https://www.bleepingcomputer.com/news/security/education-giant-pearson-hit-by-cyberattack-exposing-customer-data/) — 2025-14-08
 - **Bleeping Computer**: [Supply chain attack hits npm package with 45,000 weekly downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/) — 2025-03-08
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Bleeping Computer**: [PowerSchool hacker now extorting individual school districts](https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/) — 2025-25-07
 - **Bleeping Computer**: [CoGUI phishing platform sent 580 million emails to steal credentials](https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/) — 2025-02-07
-- **Bleeping Computer**: [Hackers exploit OttoKit WordPress plugin flaw to add admin accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-ottokit-wordpress-plugin-flaw-to-add-admin-accounts/) — 2025-37-07
 - **The Hacker News**: [Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks](https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html) — 2025-54-07
 - **The Hacker News**: [OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws](https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html) — 2025-44-07
 - **The Hacker News**: [SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version](https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html) — 2025-31-07
