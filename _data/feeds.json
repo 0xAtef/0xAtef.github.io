@@ -1,6 +1,20 @@
 [
   {
-    "title": "Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware",
+    "title": "VC giant Insight Partners confirms investor data stolen in breach",
+    "link": "https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/",
+    "summary": "Venture capital firm Insight Partners has confirmed that sensitive data for employees and limited partners was stolen in a January 2025 cyberattack. [...]",
+    "published": "2025-05-08T15:01:39",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root",
+    "link": "https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html",
+    "summary": "SonicWall has released patches to address three security flaws affecting SMA 100 Secure Mobile Access (SMA) appliances that could be fashioned to result in remote code execution.\nThe vulnerabilities are listed below -\n\nCVE-2025-32819 (CVSS score: 8.8) - A vulnerability in SMA100 allows a remote auth",
+    "published": "2025-05-08T13:56:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Qilin Ransomware Ranked Highest in April 2025 with Over 45 Data Leak Disclosures",
     "link": "https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html",
     "summary": "Threat actors with ties to the Qilin ransomware family have leveraged malware known as SmokeLoader along with a previously undocumented .NET compiled loader codenamed NETXLOADER as part of a campaign observed in November 2024.\n\"NETXLOADER is a new .NET-based loader that plays a critical role in cybe",
     "published": "2025-05-08T13:47:00",
