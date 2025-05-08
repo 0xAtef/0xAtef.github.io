@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cisco Patches CVE-2025-20188 (10.0 CVSS) in IOS XE That Enables Root Exploits via JWT",
+    "link": "https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html",
+    "summary": "Cisco has released software fixes to address a maximum-severity security flaw in its IOS XE Wireless Controller that could enable an unauthenticated, remote attacker to upload arbitrary files to a susceptible system.\nThe vulnerability, tracked as CVE-2025-20188, has been rated 10.0 on the CVSS scori",
+    "published": "2025-05-08T04:57:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "LockBit ransomware gang hacked, victim negotiations exposed",
     "link": "https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/",
     "summary": "The LockBit ransomware gang has suffered a data breach after its dark web affiliate panels were defaced and replaced with a message linking to a MySQL database dump. [...]",
@@ -12,19 +19,5 @@
     "summary": "A Texas firm recently charged with conspiring to distribute synthetic opioids in the United States is at the center of a vast network of companies in the U.S. and Pakistan whose employees are accused of using online ads to scam westerners seeking help with trademarks, book writing, mobile app develo",
     "published": "2025-05-07T22:22:48",
     "source": "Krebs"
-  },
-  {
-    "title": "PowerSchool hacker now extorting individual school districts",
-    "link": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/",
-    "summary": "PowerSchool is\u00a0warning that the hacker behind its December cyberattack is now\u00a0individually extorting schools, threatening to release the previously stolen student and teacher\u00a0data if a ransom is not paid. [...]",
-    "published": "2025-05-07T18:25:39",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "CoGUI phishing platform sent 580 million emails to steal credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/",
-    "summary": "A new phishing kit named 'CoGUI' sent over 580 million emails to targets between January and April 2025, aiming to steal account credentials and payment data. [...]",
-    "published": "2025-05-07T18:02:16",
-    "source": "BleepingComputer"
   }
 ]
