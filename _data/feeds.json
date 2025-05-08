@@ -1,5 +1,12 @@
 [
   {
+    "title": "Kickidler employee monitoring software abused in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/",
+    "summary": "Ransomware operations are using legitimate Kickidler employee monitoring software for reconnaissance, tracking their victims' activity, and harvesting credentials after breaching their networks. [...]",
+    "published": "2025-05-08T16:05:18",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "VC giant Insight Partners confirms investor data stolen in breach",
     "link": "https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/",
     "summary": "Venture capital firm Insight Partners has confirmed that sensitive data for employees and limited partners was stolen in a January 2025 cyberattack. [...]",
