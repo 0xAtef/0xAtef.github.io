@@ -1,5 +1,12 @@
 [
   {
+    "title": "SonicWall urges admins to patch VPN flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/",
+    "summary": "SonicWall has urged its customers to patch three security vulnerabilities affecting its Secure Mobile Access (SMA) appliances, one of them\u00a0tagged as exploited in attacks [...]",
+    "published": "2025-05-08T11:19:58",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware",
     "link": "https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html",
     "summary": "The Russia-linked threat actor known as COLDRIVER has been observed distributing a new malware called LOSTKEYS as part of an espionage-focused campaign using ClickFix-like social engineering lures.\n\"LOSTKEYS is capable of stealing files from a hard-coded list of extensions and directories, along wit",
