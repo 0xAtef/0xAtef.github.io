@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cisco fixes max severity IOS XE flaw letting attackers hijack devices",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/",
+    "summary": "Cisco has fixed a maximum severity flaw in\u00a0IOS XE Software for Wireless LAN Controllers by a hard-coded JSON Web Token (JWT) that allows an unauthenticated remote attacker to take over devices. [...]",
+    "published": "2025-05-08T20:53:18",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Education giant Pearson hit by cyberattack exposing customer data",
     "link": "https://www.bleepingcomputer.com/news/security/education-giant-pearson-hit-by-cyberattack-exposing-customer-data/",
     "summary": "Education giant Pearson suffered a cyberattack, allowing threat actors to steal corporate data and customer information, BleepingComputer has learned. [...]",
