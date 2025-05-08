@@ -1,5 +1,12 @@
 [
   {
+    "title": "LockBit ransomware gang hacked, victim negotiations exposed",
+    "link": "https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/",
+    "summary": "The LockBit ransomware gang has suffered a data breach after its dark web affiliate panels were defaced and replaced with a message linking to a MySQL database dump. [...]",
+    "published": "2025-05-08T00:06:32",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Pakistani Firm Shipped Fentanyl Analogs, Scams to US",
     "link": "https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/",
     "summary": "A Texas firm recently charged with conspiring to distribute synthetic opioids in the United States is at the center of a vast network of companies in the U.S. and Pakistan whose employees are accused of using online ads to scam westerners seeking help with trademarks, book writing, mobile app develo",
@@ -54,26 +61,5 @@
     "summary": "Europol has announced the takedown of distributed denial of service (DDoS)-for-hire services that were used to launch thousands of cyber-attacks across the world.\nIn connection with the operation, Polish authorities have arrested four individuals and the United States has seized nine domains that ar",
     "published": "2025-05-07T13:54:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws",
-    "link": "https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html",
-    "summary": "A second security flaw impacting the OttoKit (formerly SureTriggers) WordPress plugin has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2025-27007 (CVSS score: 9.8), is a privilege escalation bug impacting all versions of the plugin prior to and including version 1.0.",
-    "published": "2025-05-07T13:44:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Medical device maker Masimo warns of cyberattack, manufacturing delays",
-    "link": "https://www.bleepingcomputer.com/news/security/medical-device-maker-masimo-warns-of-cyberattack-manufacturing-delays/",
-    "summary": "Medical device company Masimo Corporation warns that a cyberattack is impacting production operations and causing delays in fulfilling customers' orders. [...]",
-    "published": "2025-05-07T13:39:33",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "CISA warns of hackers targeting critical oil infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-targeting-critical-oil-infrastructure/",
-    "summary": "CISA warned\u00a0critical infrastructure organizations of \"unsophisticated\" threat actors actively targeting\u00a0the\u00a0U.S. oil and natural gas\u00a0sectors. [...]",
-    "published": "2025-05-07T13:17:39",
-    "source": "BleepingComputer"
   }
 ]
