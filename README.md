@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [VC giant Insight Partners confirms investor data stolen in breach](https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/) — 2025-01-08
 - **The Hacker News**: [Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware](https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html) — 2025-47-08
 - **Bleeping Computer**: [Google links new LostKeys data theft malware to Russian cyberspies](https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/) — 2025-39-08
 - **Bleeping Computer**: [SonicWall urges admins to patch VPN flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/) — 2025-19-08
