@@ -1,5 +1,19 @@
 [
   {
+    "title": "Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware",
+    "link": "https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html",
+    "summary": "Threat actors with ties to the Qilin ransomware family have leveraged malware known as SmokeLoader along with a previously undocumented .NET compiled loader codenamed NETXLOADER as part of a campaign observed in November 2024.\n\"NETXLOADER is a new .NET-based loader that plays a critical role in cybe",
+    "published": "2025-05-08T13:47:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Google links new LostKeys data theft malware to Russian cyberspies",
+    "link": "https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/",
+    "summary": "Since the start of the year, the Russian state-backed ColdRiver hacking group has been using new LostKeys malware to steal files in espionage attacks targeting Western governments, journalists, think tanks, and non-governmental organizations. [...]",
+    "published": "2025-05-08T13:39:15",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "SonicWall urges admins to patch VPN flaw exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/",
     "summary": "SonicWall has urged its customers to patch three security vulnerabilities affecting its Secure Mobile Access (SMA) appliances, one of them\u00a0tagged as exploited in attacks [...]",
