@@ -1,5 +1,12 @@
 [
   {
+    "title": "Malicious PyPi package hides RAT malware, targets Discord devs since 2022",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/",
+    "summary": "A malicious Python package targeting Discord developers with remote access trojan (RAT) malware was spotted on the Python Package Index (PyPI) after more than three years. [...]",
+    "published": "2025-05-08T18:51:14",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Kickidler employee monitoring software abused in ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/",
     "summary": "Ransomware operations are using legitimate Kickidler employee monitoring software for reconnaissance, tracking their victims' activity, and harvesting credentials after breaching their networks. [...]",
@@ -60,13 +67,6 @@
     "link": "https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html",
     "summary": "The nation-state threat actor known as MirrorFace has been observed deploying malware dubbed ROAMINGMOUSE as part of a cyber espionage campaign directed against government agencies and public institutions in Japan and Taiwan.\nThe activity, detected by Trend Micro in March 2025, involved the use of s",
     "published": "2025-05-08T10:32:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware",
-    "link": "https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html",
-    "summary": "The Russia-linked threat actor known as COLDRIVER has been observed distributing a new malware called LOSTKEYS as part of an espionage-focused campaign using ClickFix-like social engineering lures.\n\"LOSTKEYS is capable of stealing files from a hard-coded list of extensions and directories, along wit",
-    "published": "2025-05-08T06:57:00",
     "source": "HackerNews"
   }
 ]
