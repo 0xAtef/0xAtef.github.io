@@ -89,12 +89,5 @@
     "summary": "SonicWall has urged its customers to patch three security vulnerabilities affecting its Secure Mobile Access (SMA) appliances, one of them\u00a0tagged as exploited in attacks [...]",
     "published": "2025-05-08T11:19:58",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware",
-    "link": "https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html",
-    "summary": "The nation-state threat actor known as MirrorFace has been observed deploying malware dubbed ROAMINGMOUSE as part of a cyber espionage campaign directed against government agencies and public institutions in Japan and Taiwan.\nThe activity, detected by Trend Micro in March 2025, involved the use of s",
-    "published": "2025-05-08T10:32:00",
-    "source": "HackerNews"
   }
 ]
