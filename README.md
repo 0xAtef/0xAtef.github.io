@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Cisco fixes max severity IOS XE flaw letting attackers hijack devices](https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/) — 2025-53-08
+- **Bleeping Computer**: [Education giant Pearson hit by cyberattack exposing customer data](https://www.bleepingcomputer.com/news/security/education-giant-pearson-hit-by-cyberattack-exposing-customer-data/) — 2025-14-08
+- **Bleeping Computer**: [Supply chain attack hits npm package with 45,000 weekly downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/) — 2025-03-08
 - **Bleeping Computer**: [Malicious PyPi package hides RAT malware, targets Discord devs since 2022](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/) — 2025-51-08
 - **Bleeping Computer**: [Kickidler employee monitoring software abused in ransomware attacks](https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/) — 2025-05-08
 - **The Hacker News**: [38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases](https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html) — 2025-23-08
@@ -57,9 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [PowerSchool hacker now extorting individual school districts](https://www.bleepingcomputer.com/news/security/powerschool-hacker-now-extorting-individual-school-districts/) — 2025-25-07
 - **Bleeping Computer**: [CoGUI phishing platform sent 580 million emails to steal credentials](https://www.bleepingcomputer.com/news/security/cogui-phishing-platform-sent-580-million-emails-to-steal-credentials/) — 2025-02-07
 - **Bleeping Computer**: [Hackers exploit OttoKit WordPress plugin flaw to add admin accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-ottokit-wordpress-plugin-flaw-to-add-admin-accounts/) — 2025-37-07
-- **Bleeping Computer**: [Play ransomware exploited Windows logging flaw in zero-day attacks](https://www.bleepingcomputer.com/news/security/play-ransomware-exploited-windows-logging-flaw-in-zero-day-attacks/) — 2025-45-07
-- **Bleeping Computer**: [NSO Group fined $167M for spyware attacks on 1,400 WhatsApp users](https://www.bleepingcomputer.com/news/legal/nso-group-fined-167m-for-spyware-attacks-on-1-400-whatsapp-users/) — 2025-09-07
-- **Bleeping Computer**: [Doubling down: How Universal 2nd Factor &lpar;U2F&rpar; boosts online security](https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/) — 2025-02-07
 - **The Hacker News**: [Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks](https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html) — 2025-54-07
 - **The Hacker News**: [OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws](https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html) — 2025-44-07
 - **The Hacker News**: [SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version](https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html) — 2025-31-07
