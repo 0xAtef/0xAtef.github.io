@@ -33,33 +33,5 @@
     "summary": "Hackers are exploiting a critical unauthenticated privilege escalation vulnerability in the OttoKit WordPress plugin to create rogue admin accounts on targeted sites. [...]",
     "published": "2025-05-07T15:37:48",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Play ransomware exploited Windows logging flaw in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/play-ransomware-exploited-windows-logging-flaw-in-zero-day-attacks/",
-    "summary": "The Play ransomware gang\u00a0has exploited a high-severity Windows Common Log File System flaw in zero-day attacks to gain SYSTEM privileges and deploy malware on compromised systems. [...]",
-    "published": "2025-05-07T14:45:19",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "NSO Group fined $167M for spyware attacks on 1,400 WhatsApp users",
-    "link": "https://www.bleepingcomputer.com/news/legal/nso-group-fined-167m-for-spyware-attacks-on-1-400-whatsapp-users/",
-    "summary": "A U.S. federal jury has ordered Israeli spyware vendor NSO Group to pay WhatsApp $167,254,000 in punitive damages and $444,719 in compensatory damages for a 2019 campaign that targeted 1,400 users of the communication app. [...]",
-    "published": "2025-05-07T14:09:33",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Doubling down: How Universal 2nd Factor (U2F) boosts online security",
-    "link": "https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/",
-    "summary": "Passwords alone aren't cutting it\u201431% of breaches involve stolen credentials. Learn from Specops Software about how Universal 2nd Factor (U2F) and strong password policies can work together to keep your organization secure. [...]",
-    "published": "2025-05-07T14:02:12",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks",
-    "link": "https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html",
-    "summary": "Europol has announced the takedown of distributed denial of service (DDoS)-for-hire services that were used to launch thousands of cyber-attacks across the world.\nIn connection with the operation, Polish authorities have arrested four individuals and the United States has seized nine domains that ar",
-    "published": "2025-05-07T13:54:00",
-    "source": "HackerNews"
   }
 ]
