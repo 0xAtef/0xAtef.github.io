@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Malicious PyPi package hides RAT malware, targets Discord devs since 2022](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/) — 2025-51-08
 - **Bleeping Computer**: [Kickidler employee monitoring software abused in ransomware attacks](https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/) — 2025-05-08
 - **The Hacker News**: [38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases](https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html) — 2025-23-08
 - **Bleeping Computer**: [VC giant Insight Partners confirms investor data stolen in breach](https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/) — 2025-01-08
@@ -61,8 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Doubling down: How Universal 2nd Factor &lpar;U2F&rpar; boosts online security](https://www.bleepingcomputer.com/news/security/doubling-down-how-universal-2nd-factor-u2f-boosts-online-security/) — 2025-02-07
 - **The Hacker News**: [Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks](https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html) — 2025-54-07
 - **The Hacker News**: [OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws](https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html) — 2025-44-07
-- **Bleeping Computer**: [Medical device maker Masimo warns of cyberattack, manufacturing delays](https://www.bleepingcomputer.com/news/security/medical-device-maker-masimo-warns-of-cyberattack-manufacturing-delays/) — 2025-39-07
-- **Bleeping Computer**: [CISA warns of hackers targeting critical oil infrastructure](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-targeting-critical-oil-infrastructure/) — 2025-17-07
 - **The Hacker News**: [SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version](https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html) — 2025-31-07
 - **The Hacker News**: [Reevaluating SSEs: A Technical Gap Analysis of Last-Mile Protection](https://thehackernews.com/2025/05/reevaluating-sses-technical-gap.html) — 2025-56-07
 - **The Hacker News**: [Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization](https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html) — 2025-44-07
