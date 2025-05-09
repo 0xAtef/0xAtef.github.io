@@ -50,7 +50,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [VC giant Insight Partners confirms investor data stolen in breach](https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/) — 2025-01-08
 - **The Hacker News**: [Security Tools Alone Don&#39;t Protect You — Control Effectiveness Does](https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html) — 2025-00-08
 - **The Hacker News**: [SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root](https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html) — 2025-56-08
-- **The Hacker News**: [Qilin Ransomware Ranked Highest in April 2025 with Over 45 Data Leak Disclosures](https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html) — 2025-47-08
+- **The Hacker News**: [Qilin Ransomware Ranked Highest in April 2025 with 72 Data Leak Disclosures](https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html) — 2025-47-08
 - **Bleeping Computer**: [Google links new LostKeys data theft malware to Russian cyberspies](https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/) — 2025-39-08
 - **Bleeping Computer**: [SonicWall urges admins to patch VPN flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/) — 2025-19-08
 - **The Hacker News**: [MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware](https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html) — 2025-32-08
