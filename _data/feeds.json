@@ -47,26 +47,5 @@
     "summary": "Cybersecurity researchers have exposed what they say is an \"industrial-scale, global cryptocurrency phishing operation\" engineered to steal digital assets from cryptocurrency wallets for several years.\nThe campaign has been codenamed FreeDrain by threat intelligence firms SentinelOne and Validin.\n\"F",
     "published": "2025-05-08T15:23:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "VC giant Insight Partners confirms investor data stolen in breach",
-    "link": "https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-confirms-investor-data-stolen-in-breach/",
-    "summary": "Venture capital firm Insight Partners has confirmed that sensitive data for employees and limited partners was stolen in a January 2025 cyberattack. [...]",
-    "published": "2025-05-08T15:01:39",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Security Tools Alone Don't Protect You \u2014 Control Effectiveness Does",
-    "link": "https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html",
-    "summary": "61% of security leaders reported suffering a breach due to failed or misconfigured controls over the past 12 months. This is despite having an average of 43 cybersecurity tools in place.\nThis massive rate of security failure is clearly not a security investment problem. It is a configuration problem",
-    "published": "2025-05-08T14:00:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root",
-    "link": "https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html",
-    "summary": "SonicWall has released patches to address three security flaws affecting SMA 100 Secure Mobile Access (SMA) appliances that could be fashioned to result in remote code execution.\nThe vulnerabilities are listed below -\n\nCVE-2025-32819 (CVSS score: 8.8) - A vulnerability in SMA100 allows a remote auth",
-    "published": "2025-05-08T13:56:00",
-    "source": "HackerNews"
   }
 ]
