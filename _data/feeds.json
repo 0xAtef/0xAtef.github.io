@@ -47,12 +47,5 @@
     "summary": "Google on Thursday announced it's rolling out new artificial intelligence (AI)-powered countermeasures to combat scams across Chrome, Search, and Android.\nThe tech giant said it will begin using Gemini Nano, its on-device large language model (LLM), to improve Safe Browsing in Chrome 137 on desktops",
     "published": "2025-05-09T07:13:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell",
-    "link": "https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html",
-    "summary": "A China-linked unnamed threat actor dubbed Chaya_004 has been observed exploiting a recently disclosed security flaw in SAP NetWeaver.\nForescout Vedere Labs, in a report published Thursday, said it uncovered a malicious infrastructure likely associated with the hacking group weaponizing CVE-2025-313",
-    "published": "2025-05-09T04:29:00",
-    "source": "HackerNews"
   }
 ]
