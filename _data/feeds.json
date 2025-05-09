@@ -33,12 +33,5 @@
     "summary": "A malicious Python package targeting Discord developers with remote access trojan (RAT) malware was spotted on the Python Package Index (PyPI) after more than three years. [...]",
     "published": "2025-05-08T18:51:14",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Kickidler employee monitoring software abused in ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/kickidler-employee-monitoring-software-abused-in-ransomware-attacks/",
-    "summary": "Ransomware operations are using legitimate Kickidler employee monitoring software for reconnaissance, tracking their victims' activity, and harvesting credentials after breaching their networks. [...]",
-    "published": "2025-05-08T16:05:18",
-    "source": "BleepingComputer"
   }
 ]
