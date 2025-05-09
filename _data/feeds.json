@@ -68,19 +68,5 @@
     "summary": "SonicWall has released patches to address three security flaws affecting SMA 100 Secure Mobile Access (SMA) appliances that could be fashioned to result in remote code execution.\nThe vulnerabilities are listed below -\n\nCVE-2025-32819 (CVSS score: 8.8) - A vulnerability in SMA100 allows a remote auth",
     "published": "2025-05-08T13:56:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Qilin Ransomware Ranked Highest in April 2025 with Over 45 Data Leak Disclosures",
-    "link": "https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html",
-    "summary": "Threat actors with ties to the Qilin ransomware family have leveraged malware known as SmokeLoader along with a previously undocumented .NET compiled loader codenamed NETXLOADER as part of a campaign observed in November 2024.\n\"NETXLOADER is a new .NET-based loader that plays a critical role in cybe",
-    "published": "2025-05-08T13:47:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Google links new LostKeys data theft malware to Russian cyberspies",
-    "link": "https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/",
-    "summary": "Since the start of the year, the Russian state-backed ColdRiver hacking group has been using new LostKeys malware to steal files in espionage attacks targeting Western governments, journalists, think tanks, and non-governmental organizations. [...]",
-    "published": "2025-05-08T13:39:15",
-    "source": "BleepingComputer"
   }
 ]
