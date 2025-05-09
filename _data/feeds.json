@@ -26,19 +26,5 @@
     "summary": "Education giant Pearson suffered a cyberattack, allowing threat actors to steal corporate data and customer information, BleepingComputer has learned. [...]",
     "published": "2025-05-08T20:14:09",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Supply chain attack hits npm package with 45,000 weekly downloads",
-    "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-npm-package-with-45-000-weekly-downloads/",
-    "summary": "An npm package named 'rand-user-agent' has been compromised in a supply chain attack to inject obfuscated code that activates a remote access trojan (RAT) on the user's system. [...]",
-    "published": "2025-05-08T19:03:24",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Malicious PyPi package hides RAT malware, targets Discord devs since 2022",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-package-hides-rat-malware-targets-discord-devs-since-2022/",
-    "summary": "A malicious Python package targeting Discord developers with remote access trojan (RAT) malware was spotted on the Python Package Index (PyPI) after more than three years. [...]",
-    "published": "2025-05-08T18:51:14",
-    "source": "BleepingComputer"
   }
 ]
