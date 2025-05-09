@@ -40,6 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Google Chrome to use on-device AI to detect tech support scams](https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/) — 2025-49-09
+- **Bleeping Computer**: [Police dismantles botnet selling hacked routers as residential proxies](https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/) — 2025-47-09
+- **The Hacker News**: [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html) — 2025-28-09
+- **The Hacker News**: [OtterCookie v4 Adds VM Detection and Chrome, MetaMask Credential Theft Capabilities](https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html) — 2025-25-09
 - **Bleeping Computer**: [Chinese hackers behind attacks targeting SAP NetWeaver servers](https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-attacks-targeting-sap-netweaver-servers/) — 2025-23-09
 - **Bleeping Computer**: [Germany takes down eXch cryptocurrency exchange, seizes servers](https://www.bleepingcomputer.com/news/security/germany-takes-down-exch-cryptocurrency-exchange-seizes-servers/) — 2025-07-09
 - **The Hacker News**: [Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials](https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html) — 2025-40-09
@@ -64,7 +68,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware](https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html) — 2025-32-08
 - **The Hacker News**: [Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware](https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html) — 2025-57-08
 - **The Hacker News**: [Cisco Patches CVE-2025-20188 &lpar;10.0 CVSS&rpar; in IOS XE That Enables Root Exploits via JWT](https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html) — 2025-57-08
-- **Bleeping Computer**: [LockBit ransomware gang hacked, victim negotiations exposed](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-hacked-victim-negotiations-exposed/) — 2025-06-08
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **The Hacker News**: [Europol Shuts Down Six DDoS-for-Hire Services Used in Global Attacks](https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html) — 2025-54-07
 - **The Hacker News**: [OttoKit WordPress Plugin with 100K+ Installs Hit by Exploits Targeting Multiple Flaws](https://thehackernews.com/2025/05/ottokit-wordpress-plugin-with-100k.html) — 2025-44-07
@@ -103,8 +106,6 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **The Hacker News**: [Researchers Demonstrate How MCP Prompt Injection Can Be Used for Both Attack and Defense](https://thehackernews.com/2025/04/experts-uncover-critical-mcp-and-a2a.html) — 2025-59-30
 - **The Hacker News**: [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html) — 2025-26-30
-- **The Hacker News**: [Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool](https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html) — 2025-05-30
-- **The Hacker News**: [Customer Account Takeovers: The Multi-Billion Dollar Problem You Don’t Know About](https://thehackernews.com/2025/04/customer-account-takeovers-multi.html) — 2025-24-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
