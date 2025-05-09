@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chinese hackers behind attacks targeting SAP NetWeaver servers",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-attacks-targeting-sap-netweaver-servers/",
+    "summary": "Forescout Vedere Labs security researchers have linked ongoing attacks targeting a maximum severity vulnerability impacting SAP NetWeaver instances to a Chinese threat actor. [...]",
+    "published": "2025-05-09T16:23:08",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Germany takes down eXch cryptocurrency exchange, seizes servers",
     "link": "https://www.bleepingcomputer.com/news/security/germany-takes-down-exch-cryptocurrency-exchange-seizes-servers/",
     "summary": "The Federal police in Germany (BKA) seized the server infrastructure and shut down the 'eXch' cryptocurrency exchange platform for alleged\u00a0money laundering cybercrime proceeds. [...]",
