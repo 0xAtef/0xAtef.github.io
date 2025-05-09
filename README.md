@@ -40,7 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- **The Hacker News**: [Beyond Vulnerability Management – Can You CVE What I CVE?](https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html) — 2025-00-09
+- **The Hacker News**: [Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials](https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html) — 2025-40-09
+- **The Hacker News**: [Deploying AI Agents? Learn to Secure Them Before Hackers Strike Your Business](https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html) — 2025-11-09
+- **The Hacker News**: [Beyond Vulnerability Management – Can You CVE What I CVE?](https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html) — 2025-57-09
+- **The Hacker News**: [Malicious npm Packages Infect 3,200+ Cursor Users With Backdoor, Steal Credentials](https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html) — 2025-57-09
 - **The Hacker News**: [Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android](https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html) — 2025-13-09
 - **The Hacker News**: [Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell](https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html) — 2025-29-09
 - **Bleeping Computer**: [FBI: End-of-life routers hacked for cybercrime proxy networks](https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/) — 2025-15-08
@@ -102,9 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [[Free Webinar] Guide to Securing Your Entire Identity Lifecycle Against AI-Powered Threats](https://thehackernews.com/2025/04/free-webinar-guide-to-securing-your.html) — 2025-26-30
 - **The Hacker News**: [Chinese Hackers Abuse IPv6 SLAAC for AitM Attacks via Spellbinder Lateral Movement Tool](https://thehackernews.com/2025/04/chinese-hackers-abuse-ipv6-slaac-for.html) — 2025-05-30
 - **The Hacker News**: [Customer Account Takeovers: The Multi-Billion Dollar Problem You Don’t Know About](https://thehackernews.com/2025/04/customer-account-takeovers-multi.html) — 2025-24-30
-- **The Hacker News**: [Nebulous Mantis Targets NATO-Linked Entities with Multi-Stage Malware Attacks](https://thehackernews.com/2025/04/nebulous-mantis-targets-nato-linked.html) — 2025-20-30
-- **The Hacker News**: [RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control](https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html) — 2025-15-30
-- **The Hacker News**: [Meta Launches LlamaFirewall Framework to Stop AI Jailbreaks, Injections, and Insecure Code](https://thehackernews.com/2025/04/meta-launches-llamafirewall-framework.html) — 2025-08-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
