@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Ascension says recent data breach affects over 430,000 patients](https://www.bleepingcomputer.com/news/security/ascension-says-recent-data-breach-affects-over-430-000-patients/) — 2025-48-09
 - **Bleeping Computer**: [Google Chrome to use on-device AI to detect tech support scams](https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/) — 2025-49-09
 - **Bleeping Computer**: [Police dismantles botnet selling hacked routers as residential proxies](https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/) — 2025-47-09
 - **The Hacker News**: [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html) — 2025-28-09
@@ -64,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root](https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html) — 2025-56-08
 - **The Hacker News**: [Qilin Ransomware Ranked Highest in April 2025 with 72 Data Leak Disclosures](https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html) — 2025-47-08
 - **Bleeping Computer**: [Google links new LostKeys data theft malware to Russian cyberspies](https://www.bleepingcomputer.com/news/security/google-links-new-lostkeys-data-theft-malware-to-russian-cyberspies/) — 2025-39-08
-- **Bleeping Computer**: [SonicWall urges admins to patch VPN flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/) — 2025-19-08
 - **The Hacker News**: [MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware](https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html) — 2025-32-08
 - **The Hacker News**: [Russian Hackers Using ClickFix Fake CAPTCHA to Deploy New LOSTKEYS Malware](https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html) — 2025-57-08
 - **The Hacker News**: [Cisco Patches CVE-2025-20188 &lpar;10.0 CVSS&rpar; in IOS XE That Enables Root Exploits via JWT](https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html) — 2025-57-08
