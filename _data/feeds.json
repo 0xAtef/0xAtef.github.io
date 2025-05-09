@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell",
+    "link": "https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html",
+    "summary": "A China-linked unnamed threat actor dubbed Chaya_004 has been observed exploiting a recently disclosed security flaw in SAP NetWeaver.\nForescout Vedere Labs, in a report published today, said it uncovered a malicious infrastructure likely associated with the hacking group weaponizing CVE-2025-31324 ",
+    "published": "2025-05-09T04:29:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "FBI: End-of-life routers hacked for cybercrime proxy networks",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/",
     "summary": "The FBI warns that threat actors are deploying malware on end-of-life (EoL) routers to convert them into proxies\u00a0sold on the 5Socks and Anyproxy networks. [...]",
