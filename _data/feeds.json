@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ascension says recent data breach affects over 430,000 patients",
+    "link": "https://www.bleepingcomputer.com/news/security/ascension-says-recent-data-breach-affects-over-430-000-patients/",
+    "summary": "Ascension, one of the largest private healthcare systems in the United States, has revealed that a data breach disclosed last month affects the personal and healthcare information of over 430,000 patients. [...]",
+    "published": "2025-05-09T18:48:15",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google Chrome to use on-device AI to detect tech support scams",
     "link": "https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/",
     "summary": "Google is implementing\u00a0a new Chrome security feature that uses the built-in 'Gemini Nano' large-language model (LLM) to detect and block tech support scams while browsing the web. [...]",
@@ -67,13 +74,6 @@
     "link": "https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html",
     "summary": "Cybersecurity researchers have flagged three malicious npm packages that are designed to target the Apple macOS version of Cursor, a popular artificial intelligence (AI)-powered source code editor.\n\"Disguised as developer tools offering 'the cheapest Cursor API,' these packages steal user credential",
     "published": "2025-05-09T10:57:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android",
-    "link": "https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html",
-    "summary": "Google on Thursday announced it's rolling out new artificial intelligence (AI)-powered countermeasures to combat scams across Chrome, Search, and Android.\nThe tech giant said it will begin using Gemini Nano, its on-device large language model (LLM), to improve Safe Browsing in Chrome 137 on desktops",
-    "published": "2025-05-09T07:13:00",
     "source": "HackerNews"
   }
 ]
