@@ -40,12 +40,5 @@
     "summary": "Ransomware operations are using legitimate Kickidler employee monitoring software for reconnaissance, tracking their victims' activity, and harvesting credentials after breaching their networks. [...]",
     "published": "2025-05-08T16:05:18",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases",
-    "link": "https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html",
-    "summary": "Cybersecurity researchers have exposed what they say is an \"industrial-scale, global cryptocurrency phishing operation\" engineered to steal digital assets from cryptocurrency wallets for several years.\nThe campaign has been codenamed FreeDrain by threat intelligence firms SentinelOne and Validin.\n\"F",
-    "published": "2025-05-08T15:23:00",
-    "source": "HackerNews"
   }
 ]
