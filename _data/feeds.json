@@ -54,26 +54,5 @@
     "summary": "Cybersecurity researchers are warning of a new campaign that's targeting Portuguese-speaking users in Brazil with trial versions of commercial remote monitoring and management (RMM) software since January 2025.\n\"The spam message uses the Brazilian electronic invoice system, NF-e, as a lure to entice",
     "published": "2025-05-09T11:40:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Deploying AI Agents? Learn to Secure Them Before Hackers Strike Your Business",
-    "link": "https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html",
-    "summary": "AI agents are changing the way businesses work. They can answer questions, automate tasks, and create better user experiences. But with this power comes new risks \u2014 like data leaks, identity theft, and malicious misuse.\nIf your company is exploring or already using AI agents, you need to ask:&nbsp;A",
-    "published": "2025-05-09T11:11:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Beyond Vulnerability Management \u2013 Can You CVE What I CVE?",
-    "link": "https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html",
-    "summary": "The Vulnerability Treadmill\nThe reactive nature of vulnerability management, combined with delays from policy and process, strains security teams. Capacity is limited and patching everything immediately is a struggle. Our Vulnerability Operation Center (VOC) dataset analysis identified 1,337,797 uni",
-    "published": "2025-05-09T10:57:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Malicious npm Packages Infect 3,200+ Cursor Users With Backdoor, Steal Credentials",
-    "link": "https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html",
-    "summary": "Cybersecurity researchers have flagged three malicious npm packages that are designed to target the Apple macOS version of Cursor, a popular artificial intelligence (AI)-powered source code editor.\n\"Disguised as developer tools offering 'the cheapest Cursor API,' these packages steal user credential",
-    "published": "2025-05-09T10:57:00",
-    "source": "HackerNews"
   }
 ]
