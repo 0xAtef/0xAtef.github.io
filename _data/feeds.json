@@ -19,12 +19,5 @@
     "summary": "The FBI warns that threat actors are deploying malware on end-of-life (EoL) routers to convert them into proxies\u00a0sold on the 5Socks and Anyproxy networks. [...]",
     "published": "2025-05-08T22:15:39",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Cisco fixes max severity IOS XE flaw letting attackers hijack devices",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/",
-    "summary": "Cisco has fixed a maximum severity flaw in\u00a0IOS XE Software for Wireless LAN Controllers by a hard-coded JSON Web Token (JWT) that allows an unauthenticated remote attacker to take over devices. [...]",
-    "published": "2025-05-08T20:53:18",
-    "source": "BleepingComputer"
   }
 ]
