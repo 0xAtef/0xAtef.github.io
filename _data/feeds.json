@@ -1,5 +1,12 @@
 [
   {
+    "title": "Beyond Vulnerability Management \u2013 Can You CVE What I CVE?",
+    "link": "https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html",
+    "summary": "The Vulnerability Treadmill\nThe reactive nature of vulnerability management, combined with delays from policy and process, strains security teams. Capacity is limited and patching everything immediately is a struggle. Our Vulnerability Operation Center (VOC) dataset analysis identified 1,337,797 uni",
+    "published": "2025-05-09T10:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android",
     "link": "https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html",
     "summary": "Google on Thursday announced it's rolling out new artificial intelligence (AI)-powered countermeasures to combat scams across Chrome, Search, and Android.\nThe tech giant said it will begin using Gemini Nano, its on-device large language model (LLM), to improve Safe Browsing in Chrome 137 on desktops",
