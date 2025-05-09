@@ -12,12 +12,5 @@
     "summary": "A China-linked unnamed threat actor dubbed Chaya_004 has been observed exploiting a recently disclosed security flaw in SAP NetWeaver.\nForescout Vedere Labs, in a report published Thursday, said it uncovered a malicious infrastructure likely associated with the hacking group weaponizing CVE-2025-313",
     "published": "2025-05-09T04:29:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "FBI: End-of-life routers hacked for cybercrime proxy networks",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/",
-    "summary": "The FBI warns that threat actors are deploying malware on end-of-life (EoL) routers to convert them into proxies\u00a0sold on the 5Socks and Anyproxy networks. [...]",
-    "published": "2025-05-08T22:15:39",
-    "source": "BleepingComputer"
   }
 ]
