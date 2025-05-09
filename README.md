@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android](https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html) — 2025-13-09
 - **The Hacker News**: [Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell](https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html) — 2025-29-09
 - **Bleeping Computer**: [FBI: End-of-life routers hacked for cybercrime proxy networks](https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/) — 2025-15-08
 - **Bleeping Computer**: [Cisco fixes max severity IOS XE flaw letting attackers hijack devices](https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/) — 2025-53-08
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [RansomHub Went Dark April 1; Affiliates Fled to Qilin, DragonForce Claimed Control](https://thehackernews.com/2025/04/ransomhub-went-dark-april-1-affiliates.html) — 2025-15-30
 - **The Hacker News**: [Meta Launches LlamaFirewall Framework to Stop AI Jailbreaks, Injections, and Insecure Code](https://thehackernews.com/2025/04/meta-launches-llamafirewall-framework.html) — 2025-08-30
 - **The Hacker News**: [Indian Court Orders Action to Block Proton Mail Over AI Deepfake Abuse Allegations](https://thehackernews.com/2025/04/indian-court-orders-action-to-block.html) — 2025-45-30
-- **The Hacker News**: [WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy](https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html) — 2025-22-29
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
