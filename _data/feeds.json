@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft Teams will soon block screen capture during meetings",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/",
+    "summary": "Microsoft is working on adding a new Teams feature\u00a0that will prevent users from capturing screenshots of sensitive information shared during meetings. [...]",
+    "published": "2025-05-10T15:22:44",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Fake AI video generators drop new Noodlophile infostealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-drop-new-noodlophile-infostealer-malware/",
+    "summary": "Fake AI-powered video generation tools are being used to distribute a new information-stealing malware family called 'Noodlophile,' under the guise of generated media content. [...]",
+    "published": "2025-05-10T14:17:27",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection",
     "link": "https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html",
     "summary": "Google has agreed to pay the U.S. state of Texas nearly $1.4 billion to settle two lawsuits that accused the company of tracking users' personal location and maintaining their facial recognition data without consent.\nThe $1.375 billion payment dwarfs the fines the tech giant has paid to settle simil",
