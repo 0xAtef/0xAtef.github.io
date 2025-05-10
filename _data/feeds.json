@@ -5,19 +5,5 @@
     "summary": "Ascension, one of the largest private healthcare systems in the United States, has revealed that the personal and healthcare information of over 430,000 patients was exposed in a data breach disclosed last month. [...]",
     "published": "2025-05-09T18:48:15",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Google Chrome to use on-device AI to detect tech support scams",
-    "link": "https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/",
-    "summary": "Google is implementing\u00a0a new Chrome security feature that uses the built-in 'Gemini Nano' large-language model (LLM) to detect and block tech support scams while browsing the web. [...]",
-    "published": "2025-05-09T17:49:59",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Police dismantles botnet selling hacked routers as residential proxies",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/",
-    "summary": "Law enforcement authorities have dismantled a botnet that infected thousands of routers over the last 20 years to build two networks of residential proxies known as Anyproxy and 5socks. [...]",
-    "published": "2025-05-09T17:47:08",
-    "source": "BleepingComputer"
   }
 ]
