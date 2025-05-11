@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bluetooth 6.1 enhances privacy with randomized RPA timing",
+    "link": "https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/",
+    "summary": "The Bluetooth Special Interest Group (SIG) has announced Bluetooth Core Specification 6.1, bringing important improvements to the popular wireless communication protocol. [...]",
+    "published": "2025-05-11T15:21:32",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "ChatGPT is finally adding Download as PDF for Deep Research",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-finally-adding-download-as-pdf-for-deep-research/",
     "summary": "ChatGPT's\u00a0Deep Research, which allows you to conduct\u00a0multi-step research for complex tasks, is\u00a0finally getting an option to save the report as a PDF. [...]",
@@ -7,7 +14,7 @@
     "source": "BleepingComputer"
   },
   {
-    "title": "iClicker hack targeted students with malware via fake CAPTCHA",
+    "title": "iClicker site hack targeted students with malware via fake CAPTCHA",
     "link": "https://www.bleepingcomputer.com/news/security/iclicker-hack-targeted-students-with-malware-via-fake-captcha/",
     "summary": "The website of iClicker, a popular student engagement platform, was compromised in a ClickFix attack that used a fake CAPTCHA prompt to trick students and instructors into installing malware on their devices. [...]",
     "published": "2025-05-11T14:16:26",
