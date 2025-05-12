@@ -54,12 +54,5 @@
     "summary": "Detecting leaked credentials is only half the battle. The real challenge\u2014and often the neglected half of the equation\u2014is what happens after detection. New research from GitGuardian's State of Secrets Sprawl 2025 report reveals a disturbing trend: the vast majority of exposed company secrets discover",
     "published": "2025-05-12T11:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures",
-    "link": "https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html",
-    "summary": "Threat actors have been observed leveraging fake artificial intelligence (AI)-powered tools as a lure to entice users into downloading an information stealer malware dubbed Noodlophile.\n\"Instead of relying on traditional phishing or cracked software sites, they build convincing AI-themed platforms \u2013",
-    "published": "2025-05-12T07:26:00",
-    "source": "HackerNews"
   }
 ]
