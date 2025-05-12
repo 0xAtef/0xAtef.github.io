@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Google to pay $1.375 billion to settle Texas data privacy violations](https://www.bleepingcomputer.com/news/legal/google-to-pay-1375-billion-to-settle-texas-data-privacy-violations/) — 2025-02-12
+- **Bleeping Computer**: [Majority of Browser Extensions Pose Critical Security Risk, A New Report Reveals](https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/) — 2025-36-12
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html) — 2025-10-12
 - **The Hacker News**: [The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That](https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html) — 2025-00-12
 - **The Hacker News**: [Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures](https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html) — 2025-26-12
@@ -63,8 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Beyond Vulnerability Management – Can You CVE What I CVE?](https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html) — 2025-57-09
 - **The Hacker News**: [Google Rolls Out On-Device AI Protections to Detect Scams in Chrome and Android](https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html) — 2025-13-09
 - **The Hacker News**: [Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell](https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html) — 2025-29-09
-- **Bleeping Computer**: [FBI: End-of-life routers hacked for cybercrime proxy networks](https://www.bleepingcomputer.com/news/security/fbi-end-of-life-routers-hacked-for-cybercrime-proxy-networks/) — 2025-15-08
-- **Bleeping Computer**: [Cisco fixes max severity IOS XE flaw letting attackers hijack devices](https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/) — 2025-53-08
 - **The Hacker News**: [38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases](https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html) — 2025-23-08
 - **The Hacker News**: [Security Tools Alone Don&#39;t Protect You — Control Effectiveness Does](https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html) — 2025-00-08
 - **The Hacker News**: [SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root](https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html) — 2025-56-08
