@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That](https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html) — 2025-00-12
 - **The Hacker News**: [Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures](https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html) — 2025-26-12
 - **Bleeping Computer**: [Bluetooth 6.1 enhances privacy with randomized RPA timing](https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/) — 2025-21-11
 - **Bleeping Computer**: [ChatGPT is finally adding Download as PDF for Deep Research](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-finally-adding-download-as-pdf-for-deep-research/) — 2025-17-11
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Claude AI Exploited to Operate 100+ Fake Political Personas in Global Influence Campaign](https://thehackernews.com/2025/05/claude-ai-exploited-to-operate-100-fake.html) — 2025-02-01
 - **The Hacker News**: [New Research Reveals: 95% of AppSec Fixes Don’t Reduce Risk](https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html) — 2025-44-01
 - **The Hacker News**: [DarkWatchman, Sheriff Malware Hit Russia and Ukraine with Stealth and Nation-Grade Tactics](https://thehackernews.com/2025/05/darkwatchman-sheriff-malware-hit-russia.html) — 2025-27-01
-- **The Hacker News**: [Commvault Confirms Hackers Exploited CVE-2025-3928 as Zero-Day in Azure Breach](https://thehackernews.com/2025/05/commvault-confirms-hackers-exploited.html) — 2025-11-01
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
