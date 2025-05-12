@@ -1,5 +1,12 @@
 [
   {
+    "title": "Majority of Browser Extensions Pose Critical Security Risk, A New Report Reveals",
+    "link": "https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/",
+    "summary": "99% of enterprise users have browser extensions but over half carry high-risk permissions. LayerX's 2025 report reveals how everyday extensions expose sensitive data, and what security teams must do now. [...]",
+    "published": "2025-05-12T14:36:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "\u26a1 Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams",
     "link": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html",
     "summary": "What do a source code editor, a smart billboard, and a web server have in common? They\u2019ve all become launchpads for attacks\u2014because cybercriminals are rethinking what counts as \u201cinfrastructure.\u201d Instead of chasing high-value targets directly, threat actors are now quietly taking over the overlooked:",
