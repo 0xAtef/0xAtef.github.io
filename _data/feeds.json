@@ -1,5 +1,12 @@
 [
   {
+    "title": "ASUS DriverHub flaw let malicious sites run commands with admin rights",
+    "link": "https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/",
+    "summary": "The ASUS DriverHub driver management utility was vulnerable to a critical remote code execution flaw that allowed malicious sites to execute commands on devices with the software installed. [...]",
+    "published": "2025-05-12T21:26:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Windows 11 upgrade block lifted after Safe Exam Browser fix",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-upgrade-block-lifted-after-safe-exam-browser-fix/",
     "summary": "Microsoft has removed an upgrade block that prevented some Safe Exam Browser users from installing the Windows 11 2024 Update due to incompatibility issues. [...]",
