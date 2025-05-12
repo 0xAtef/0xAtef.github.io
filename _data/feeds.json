@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackers now testing ClickFix attacks against Linux targets",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/",
+    "summary": "A new campaign employing ClickFix attacks has been spotted targeting both Windows and Linux systems using instructions that make infections on either operating system possible. [...]",
+    "published": "2025-05-12T18:10:29",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Output Messenger flaw exploited as zero-day in espionage attacks",
     "link": "https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/",
     "summary": "A T\u00fcrkiye-backed cyberespionage group exploited a zero-day vulnerability to attack Output Messenger users linked to the Kurdish military in Iraq. [...]",
