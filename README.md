@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Hackers now testing ClickFix attacks against Linux targets](https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/) — 2025-10-12
+- **Bleeping Computer**: [Output Messenger flaw exploited as zero-day in espionage attacks](https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/) — 2025-34-12
 - **Bleeping Computer**: [Moldova arrests suspect linked to DoppelPaymer ransomware attacks](https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/) — 2025-18-12
 - **Bleeping Computer**: [Google to pay $1.375 billion to settle Texas data privacy violations](https://www.bleepingcomputer.com/news/legal/google-to-pay-1375-billion-to-settle-texas-data-privacy-violations/) — 2025-02-12
 - **Bleeping Computer**: [Majority of Browser Extensions Pose Critical Security Risk, A New Report Reveals](https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/) — 2025-36-12
@@ -56,10 +58,8 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data](https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html) — 2025-47-10
 - **Bleeping Computer**: [Ascension says recent data breach affects over 430,000 patients](https://www.bleepingcomputer.com/news/security/ascension-says-recent-data-breach-affects-over-430-000-patients/) — 2025-48-09
 - **Bleeping Computer**: [Google Chrome to use on-device AI to detect tech support scams](https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/) — 2025-49-09
-- **Bleeping Computer**: [Police dismantles botnet selling hacked routers as residential proxies](https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/) — 2025-47-09
 - **The Hacker News**: [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html) — 2025-28-09
 - **The Hacker News**: [OtterCookie v4 Adds VM Detection and Chrome, MetaMask Credential Theft Capabilities](https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html) — 2025-25-09
-- **Bleeping Computer**: [Chinese hackers behind attacks targeting SAP NetWeaver servers](https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-attacks-targeting-sap-netweaver-servers/) — 2025-23-09
 - **The Hacker News**: [Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials](https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html) — 2025-40-09
 - **The Hacker News**: [Deploying AI Agents? Learn to Secure Them Before Hackers Strike Your Business](https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html) — 2025-11-09
 - **The Hacker News**: [Malicious npm Packages Infect 3,200+ Cursor Users With Backdoor, Steal Credentials](https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html) — 2025-57-09
