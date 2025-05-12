@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [ASUS DriverHub flaw let malicious sites run commands with admin rights](https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/) — 2025-26-12
 - **Bleeping Computer**: [Windows 11 upgrade block lifted after Safe Exam Browser fix](https://www.bleepingcomputer.com/news/microsoft/windows-11-upgrade-block-lifted-after-safe-exam-browser-fix/) — 2025-42-12
 - **Bleeping Computer**: [Hackers now testing ClickFix attacks against Linux targets](https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/) — 2025-10-12
 - **Bleeping Computer**: [Output Messenger flaw exploited as zero-day in espionage attacks](https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/) — 2025-34-12
@@ -57,7 +58,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Fake AI video generators drop new Noodlophile infostealer malware](https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-drop-new-noodlophile-infostealer-malware/) — 2025-17-10
 - **The Hacker News**: [Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection](https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html) — 2025-54-10
 - **The Hacker News**: [Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data](https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html) — 2025-47-10
-- **Bleeping Computer**: [Ascension says recent data breach affects over 430,000 patients](https://www.bleepingcomputer.com/news/security/ascension-says-recent-data-breach-affects-over-430-000-patients/) — 2025-48-09
 - **The Hacker News**: [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html) — 2025-28-09
 - **The Hacker News**: [OtterCookie v4 Adds VM Detection and Chrome, MetaMask Credential Theft Capabilities](https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html) — 2025-25-09
 - **The Hacker News**: [Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials](https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html) — 2025-40-09
