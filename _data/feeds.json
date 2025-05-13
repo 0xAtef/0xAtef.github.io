@@ -1,5 +1,12 @@
 [
   {
+    "title": "T\u00fcrkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers",
+    "link": "https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html",
+    "summary": "A T\u00fcrkiye-affiliated threat actor exploited a zero-day security flaw in an Indian enterprise communication platform called Output Messenger as part of a cyber espionage attack campaign since April 2024.\n\"These exploits have resulted in a collection of related user data from targets in Iraq,\" the Mic",
+    "published": "2025-05-13T05:08:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "ASUS DriverHub flaw let malicious sites run commands with admin rights",
     "link": "https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/",
     "summary": "The ASUS DriverHub driver management utility was vulnerable to a critical remote code execution flaw that allowed malicious sites to execute commands on devices with the software installed. [...]",
@@ -11,13 +18,6 @@
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-upgrade-block-lifted-after-safe-exam-browser-fix/",
     "summary": "Microsoft has removed an upgrade block that prevented some Safe Exam Browser users from installing the Windows 11 2024 Update due to incompatibility issues. [...]",
     "published": "2025-05-12T20:42:32",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers now testing ClickFix attacks against Linux targets",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/",
-    "summary": "A new campaign employing ClickFix attacks has been spotted targeting both Windows and Linux systems using instructions that make infections on either operating system possible. [...]",
-    "published": "2025-05-12T18:10:29",
     "source": "BleepingComputer"
   }
 ]
