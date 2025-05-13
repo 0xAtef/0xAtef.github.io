@@ -1,5 +1,26 @@
 [
   {
+    "title": "China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide",
+    "link": "https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html",
+    "summary": "A recently disclosed critical security flaw impacting SAP NetWeaver is being exploited by multiple China-nexus nation-state actors to target critical infrastructure networks.\n\"Actors leveraged CVE-2025-31324, an unauthenticated file upload vulnerability that enables remote code execution (RCE),\" Ecl",
+    "published": "2025-05-13T15:13:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "New Intel CPU flaws leak sensitive data from privileged memory",
+    "link": "https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/",
+    "summary": "A new \"Branch Privilege Injection\" flaw in all modern Intel CPUs allows attackers to leak\u00a0sensitive data from memory regions allocated to privileged software like the operating system kernel. [...]",
+    "published": "2025-05-13T15:00:00",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads",
+    "link": "https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html",
+    "summary": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that purports to be an application related to the Solana blockchain, but contains malicious functionality to steal source code and developer secrets.\nThe package, named solana-token, is no lon",
+    "published": "2025-05-13T14:47:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft will update Office apps on Windows 10 until 2028",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/",
     "summary": "Microsoft has backtracked on its plan to end support for Office apps on Windows 10 later this year and announced that it will continue providing security updates for three more years, until 2028. [...]",
