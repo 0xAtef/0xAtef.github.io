@@ -1,5 +1,12 @@
 [
   {
+    "title": "Twilio denies breach following leak of alleged Steam 2FA codes",
+    "link": "https://www.bleepingcomputer.com/news/security/twilio-denies-breach-following-leak-of-alleged-steam-2fa-codes/",
+    "summary": "Twilio has denied in a statement for BleepingComputer that it was breached after a threat actor\u00a0claimed\u00a0to be holding over 89 million Steam user records with one-time access codes. [...]",
+    "published": "2025-05-13T19:16:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Ivanti fixes EPMM zero-days chained in code execution attacks",
     "link": "https://www.bleepingcomputer.com/news/security/ivanti-fixes-epmm-zero-days-chained-in-code-execution-attacks/",
     "summary": "Ivanti warned customers today to patch their Ivanti Endpoint Manager Mobile (EPMM) software against two security vulnerabilities chained in attacks to gain remote code execution. [...]",
@@ -102,13 +109,6 @@
     "link": "https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html",
     "summary": "The North Korea-linked threat actor known as Konni APT has been attributed to a phishing campaign targeting government entities in Ukraine, indicating the threat actor's targeting beyond Russia.\nEnterprise security firm Proofpoint said the end goal of the campaign is to collect intelligence on the \"",
     "published": "2025-05-13T10:57:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Moldovan Police Arrest Suspect in \u20ac4.5M Ransomware Attack on Dutch Research Agency",
-    "link": "https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html",
-    "summary": "Moldovan law enforcement authorities have arrested a 45-year-old foreign man suspected of involvement in a series of ransomware attacks targeting Dutch companies in 2021.\n\"He is wanted internationally for committing several cybercrimes (ransomware attacks, blackmail, and money laundering) against co",
-    "published": "2025-05-13T06:33:00",
     "source": "HackerNews"
   }
 ]
