@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows 10 KB5058379 update fixes SgrmBroker errors in Event Viewer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/",
+    "summary": "Microsoft has released the KB5058379 cumulative update for Windows 10 22H2 and Windows 10 21H2, with four fixes and changes, including one for an SGRMBroker bug. [...]",
+    "published": "2025-05-13T17:18:16",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Fortinet fixes critical zero-day exploited in FortiVoice attacks",
     "link": "https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/",
     "summary": "Fortinet released security updates to patch a critical remote code execution vulnerability exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems. [...]",
@@ -74,13 +81,6 @@
     "link": "https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html",
     "summary": "Moldovan law enforcement authorities have arrested a 45-year-old foreign man suspected of involvement in a series of ransomware attacks targeting Dutch companies in 2021.\n\"He is wanted internationally for committing several cybercrimes (ransomware attacks, blackmail, and money laundering) against co",
     "published": "2025-05-13T06:33:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "T\u00fcrkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers",
-    "link": "https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html",
-    "summary": "A T\u00fcrkiye-affiliated threat actor exploited a zero-day security flaw in an Indian enterprise communication platform called Output Messenger as part of a cyber espionage attack campaign since April 2024.\n\"These exploits have resulted in a collection of related user data from targets in Iraq,\" the Mic",
-    "published": "2025-05-13T05:08:00",
     "source": "HackerNews"
   }
 ]
