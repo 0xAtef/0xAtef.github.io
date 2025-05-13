@@ -12,12 +12,5 @@
     "summary": "A T\u00fcrkiye-affiliated threat actor exploited a zero-day security flaw in an Indian enterprise communication platform called Output Messenger as part of a cyber espionage attack campaign since April 2024.\n\"These exploits have resulted in a collection of related user data from targets in Iraq,\" the Mic",
     "published": "2025-05-13T05:08:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "ASUS DriverHub flaw let malicious sites run commands with admin rights",
-    "link": "https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/",
-    "summary": "The ASUS DriverHub driver management utility was vulnerable to a critical remote code execution flaw that allowed malicious sites to execute commands on devices with the software installed. [...]",
-    "published": "2025-05-12T21:26:46",
-    "source": "BleepingComputer"
   }
 ]
