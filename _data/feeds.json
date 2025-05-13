@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ivanti warns of critical Neurons for ITSM auth bypass flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/",
+    "summary": "\u200bIvanti has released security updates for its Neurons for ITSM IT service management solution that mitigate a critical authentication bypass vulnerability. [...]",
+    "published": "2025-05-13T15:54:41",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide",
     "link": "https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html",
     "summary": "A recently disclosed critical security flaw impacting SAP NetWeaver is being exploited by multiple China-nexus nation-state actors to target critical infrastructure networks.\n\"Actors leveraged CVE-2025-31324, an unauthenticated file upload vulnerability that enables remote code execution (RCE),\" Ecl",
