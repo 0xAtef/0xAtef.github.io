@@ -1,5 +1,19 @@
 [
   {
+    "title": "Windows 11 KB5058411 and KB5058405 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/",
+    "summary": "Microsoft has released Windows 11\u00a0KB5058411\u00a0and\u00a0KB5058405\u00a0cumulative updates for versions 24H2 and 23H2 to fix security vulnerabilities and\u00a0issues. [...]",
+    "published": "2025-05-13T17:31:33",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Android 16 expands 'Advanced Protection' with device-level security",
+    "link": "https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/",
+    "summary": "Google is announcing\u00a0improvements for the  Advanced Protection\u00a0feature in Android 16 that strengthen defenses against sophisticated spyware attacks. [...]",
+    "published": "2025-05-13T17:20:42",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Windows 10 KB5058379 update fixes SgrmBroker errors in Event Viewer",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/",
     "summary": "Microsoft has released the KB5058379 cumulative update for Windows 10 22H2 and Windows 10 21H2, with four fixes and changes, including one for an SGRMBroker bug. [...]",
