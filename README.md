@@ -40,6 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft May 2025 Patch Tuesday fixes 5 exploited zero-days, 72 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/) — 2025-56-13
+- **Bleeping Computer**: [Windows 11 KB5058411 and KB5058405 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/) — 2025-31-13
+- **Bleeping Computer**: [Android 16 expands &#39;Advanced Protection&#39; with device-level security](https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/) — 2025-20-13
+- **Bleeping Computer**: [Windows 10 KB5058379 update fixes SgrmBroker errors in Event Viewer](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/) — 2025-18-13
 - **Bleeping Computer**: [Fortinet fixes critical zero-day exploited in FortiVoice attacks](https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/) — 2025-46-13
 - **Bleeping Computer**: [Ivanti warns of critical Neurons for ITSM auth bypass flaw](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/) — 2025-54-13
 - **The Hacker News**: [China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide](https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html) — 2025-13-13
@@ -56,9 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Windows 11 upgrade block lifted after Safe Exam Browser fix](https://www.bleepingcomputer.com/news/microsoft/windows-11-upgrade-block-lifted-after-safe-exam-browser-fix/) — 2025-42-12
 - **Bleeping Computer**: [Hackers now testing ClickFix attacks against Linux targets](https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/) — 2025-10-12
 - **Bleeping Computer**: [Output Messenger flaw exploited as zero-day in espionage attacks](https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/) — 2025-34-12
-- **Bleeping Computer**: [Moldova arrests suspect linked to DoppelPaymer ransomware attacks](https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/) — 2025-18-12
-- **Bleeping Computer**: [Google to pay $1.375 billion to settle Texas data privacy violations](https://www.bleepingcomputer.com/news/legal/google-to-pay-1375-billion-to-settle-texas-data-privacy-violations/) — 2025-02-12
-- **Bleeping Computer**: [Majority of Browser Extensions Pose Critical Security Risk, A New Report Reveals](https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/) — 2025-36-12
 - **The Hacker News**: [ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files](https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html) — 2025-03-12
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html) — 2025-10-12
 - **The Hacker News**: [The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That](https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html) — 2025-00-12
