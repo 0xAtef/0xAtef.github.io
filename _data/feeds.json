@@ -1,5 +1,12 @@
 [
   {
+    "title": "M&S says customer data stolen in cyberattack, forces password resets",
+    "link": "https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/",
+    "summary": "Marks and Spencer (M&amp;S) confirms that customer data was stolen in a cyberattack last month, when ransomware was used to encrypt servers. [...]",
+    "published": "2025-05-13T13:35:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Deepfake Defense in the Age of AI",
     "link": "https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html",
     "summary": "The cybersecurity landscape has been dramatically reshaped by the advent of generative AI. Attackers now leverage large language models (LLMs) to impersonate trusted individuals and automate these social engineering tactics at scale.&nbsp;\nLet\u2019s review the status of these rising attacks, what\u2019s fuel",
