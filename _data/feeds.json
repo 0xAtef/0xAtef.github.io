@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fortinet fixes critical zero-day exploited in FortiVoice attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/",
+    "summary": "Fortinet released security updates to patch a critical remote code execution vulnerability exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems. [...]",
+    "published": "2025-05-13T16:46:39",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Ivanti warns of critical Neurons for ITSM auth bypass flaw",
     "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/",
     "summary": "\u200bIvanti has released security updates for its Neurons for ITSM IT service management solution that mitigate a critical authentication bypass vulnerability. [...]",
