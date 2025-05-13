@@ -54,12 +54,5 @@
     "summary": "ASUS has released updates to address two security flaws impacting ASUS DriverHub that, if successfully exploited, could enable an attacker to leverage the software in order to achieve remote code execution.\nDriverHub is a tool that's designed to automatically detect the motherboard model of a comput",
     "published": "2025-05-12T14:03:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams",
-    "link": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html",
-    "summary": "What do a source code editor, a smart billboard, and a web server have in common? They\u2019ve all become launchpads for attacks\u2014because cybercriminals are rethinking what counts as \u201cinfrastructure.\u201d Instead of chasing high-value targets directly, threat actors are now quietly taking over the overlooked:",
-    "published": "2025-05-12T12:10:00",
-    "source": "HackerNews"
   }
 ]
