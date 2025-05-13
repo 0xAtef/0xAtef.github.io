@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency](https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html) — 2025-33-13
 - **The Hacker News**: [Türkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers](https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html) — 2025-08-13
 - **Bleeping Computer**: [ASUS DriverHub flaw let malicious sites run commands with admin rights](https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/) — 2025-26-12
 - **Bleeping Computer**: [Windows 11 upgrade block lifted after Safe Exam Browser fix](https://www.bleepingcomputer.com/news/microsoft/windows-11-upgrade-block-lifted-after-safe-exam-browser-fix/) — 2025-42-12
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support](https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html) — 2025-40-02
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **The Hacker News**: [Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers](https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html) — 2025-47-01
-- **The Hacker News**: [Why top SOC teams are shifting to Network Detection and Response](https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html) — 2025-25-01
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
