@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Fortinet fixes critical zero-day exploited in FortiVoice attacks](https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/) — 2025-46-13
 - **Bleeping Computer**: [Ivanti warns of critical Neurons for ITSM auth bypass flaw](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/) — 2025-54-13
 - **The Hacker News**: [China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide](https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html) — 2025-13-13
 - **Bleeping Computer**: [New Intel CPU flaws leak sensitive data from privileged memory](https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/) — 2025-00-13
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html) — 2025-10-12
 - **The Hacker News**: [The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That](https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html) — 2025-00-12
 - **The Hacker News**: [Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures](https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html) — 2025-26-12
-- **Bleeping Computer**: [Bluetooth 6.1 enhances privacy with randomized RPA timing](https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/) — 2025-21-11
 - **The Hacker News**: [Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection](https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html) — 2025-54-10
 - **The Hacker News**: [Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data](https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html) — 2025-47-10
 - **The Hacker News**: [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html) — 2025-28-09
