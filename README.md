@@ -40,6 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Ivanti warns of critical Neurons for ITSM auth bypass flaw](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/) — 2025-54-13
+- **The Hacker News**: [China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide](https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html) — 2025-13-13
+- **Bleeping Computer**: [New Intel CPU flaws leak sensitive data from privileged memory](https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/) — 2025-00-13
+- **The Hacker News**: [Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads](https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html) — 2025-47-13
 - **Bleeping Computer**: [Microsoft will update Office apps on Windows 10 until 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/) — 2025-44-13
 - **Bleeping Computer**: [Increase Red Team Operations 10X with Adversarial Exposure Validation](https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/) — 2025-01-13
 - **Bleeping Computer**: [M&amp;S says customer data stolen in cyberattack, forces password resets](https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/) — 2025-35-13
@@ -59,8 +63,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That](https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html) — 2025-00-12
 - **The Hacker News**: [Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures](https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html) — 2025-26-12
 - **Bleeping Computer**: [Bluetooth 6.1 enhances privacy with randomized RPA timing](https://www.bleepingcomputer.com/news/security/bluetooth-61-enhances-privacy-with-randomized-rpa-timing/) — 2025-21-11
-- **Bleeping Computer**: [ChatGPT is finally adding Download as PDF for Deep Research](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-finally-adding-download-as-pdf-for-deep-research/) — 2025-17-11
-- **Bleeping Computer**: [iClicker site hack targeted students with malware via fake CAPTCHA](https://www.bleepingcomputer.com/news/security/iclicker-hack-targeted-students-with-malware-via-fake-captcha/) — 2025-16-11
 - **The Hacker News**: [Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection](https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html) — 2025-54-10
 - **The Hacker News**: [Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data](https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html) — 2025-47-10
 - **The Hacker News**: [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html) — 2025-28-09
@@ -102,8 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and Malware](https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html) — 2025-33-03
 - **The Hacker News**: [U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Targeting 1,500 Systems](https://thehackernews.com/2025/05/us-charges-yemeni-hacker-behind-black.html) — 2025-06-03
 - **The Hacker News**: [TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China](https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html) — 2025-25-02
-- **The Hacker News**: [How to Automate CVE and Vulnerability Advisory Response with Tines](https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html) — 2025-30-02
-- **The Hacker News**: [MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks](https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html) — 2025-57-02
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
