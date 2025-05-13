@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft will update Office apps on Windows 10 until 2028",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/",
+    "summary": "Microsoft has backtracked on its plan to end support for Office apps on Windows 10 later this year and announced that it will continue providing security updates for three more years, until 2028. [...]",
+    "published": "2025-05-13T14:44:47",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Increase Red Team Operations 10X with Adversarial Exposure Validation",
+    "link": "https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/",
+    "summary": "Red teams uncover what others miss \u2014 but they can't be everywhere, all the time. Adversarial Exposure Validation combines BAS + Automated Pentesting to extend red team impact, uncover real attack paths, and validate defenses continuously. Learn more from Picus Security on how AEV can help protect yo",
+    "published": "2025-05-13T14:01:11",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "M&S says customer data stolen in cyberattack, forces password resets",
     "link": "https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/",
     "summary": "Marks and Spencer (M&amp;S) confirms that customer data was stolen in a cyberattack last month, when ransomware was used to encrypt servers. [...]",
