@@ -33,26 +33,5 @@
     "summary": "Moldovan authorities have detained a 45-year-old suspect linked to DoppelPaymer ransomware attacks targeting Dutch organizations in 2021. [...]",
     "published": "2025-05-12T15:18:57",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Google to pay $1.375 billion to settle Texas data privacy violations",
-    "link": "https://www.bleepingcomputer.com/news/legal/google-to-pay-1375-billion-to-settle-texas-data-privacy-violations/",
-    "summary": "Google has agreed to a $1.375 billion settlement with the state of Texas over a 2022 lawsuit that alleged it had been collecting and using biometric data of millions of Texans without properly acquiring their consent. [...]",
-    "published": "2025-05-12T15:02:54",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Majority of Browser Extensions Pose Critical Security Risk, A New Report Reveals",
-    "link": "https://www.bleepingcomputer.com/news/security/majority-of-browser-extensions-pose-critical-security-risk-a-new-report-reveals/",
-    "summary": "99% of enterprise users have browser extensions but over half carry high-risk permissions. LayerX's 2025 report reveals how everyday extensions expose sensitive data, and what security teams must do now. [...]",
-    "published": "2025-05-12T14:36:25",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files",
-    "link": "https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html",
-    "summary": "ASUS has released updates to address two security flaws impacting ASUS DriverHub that, if successfully exploited, could enable an attacker to leverage the software in order to achieve remote code execution.\nDriverHub is a tool that's designed to automatically detect the motherboard model of a comput",
-    "published": "2025-05-12T14:03:00",
-    "source": "HackerNews"
   }
 ]
