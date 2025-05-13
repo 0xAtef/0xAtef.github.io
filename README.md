@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Deepfake Defense in the Age of AI](https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html) — 2025-00-13
+- **The Hacker News**: [North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress](https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html) — 2025-57-13
 - **The Hacker News**: [Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency](https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html) — 2025-33-13
 - **The Hacker News**: [Türkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers](https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html) — 2025-08-13
 - **Bleeping Computer**: [ASUS DriverHub flaw let malicious sites run commands with admin rights](https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/) — 2025-26-12
@@ -101,9 +103,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [TikTok Slammed With €530 Million GDPR Fine for Sending E.U. Data to China](https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html) — 2025-25-02
 - **The Hacker News**: [How to Automate CVE and Vulnerability Advisory Response with Tines](https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html) — 2025-30-02
 - **The Hacker News**: [MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks](https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html) — 2025-57-02
-- **The Hacker News**: [Microsoft Sets Passkeys Default for New Accounts; 15 Billion Users Gain Passwordless Support](https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html) — 2025-40-02
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
-- **The Hacker News**: [Fake Security Plugin on WordPress Enables Remote Admin Access for Attackers](https://thehackernews.com/2025/05/fake-security-plugin-on-wordpress.html) — 2025-47-01
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
