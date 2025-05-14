@@ -96,26 +96,5 @@
     "summary": "Microsoft on Tuesday released software updates to fix at least 70 vulnerabilities in Windows and related products, including five zero-day flaws that are already seeing active exploitation. Adding to the sense of urgency with this month's patch batch from Redmond are fixes for two other weaknesses t",
     "published": "2025-05-14T11:57:48",
     "source": "Krebs"
-  },
-  {
-    "title": "Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns",
-    "link": "https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html",
-    "summary": "A cyber espionage group known as Earth Ammit has been linked to two related but distinct campaigns from 2023 to 2024 targeting various entities in Taiwan and South Korea, including military, satellite, heavy industry, media, technology, software services, and healthcare sectors.\nCybersecurity firm T",
-    "published": "2025-05-14T11:11:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team",
-    "link": "https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html",
-    "summary": "Organizations across industries are experiencing significant escalations in cyberattacks, particularly targeting critical infrastructure providers and cloud-based enterprises. Verizon\u2019s recently released 2025 Data Breach Investigations Report found an 18% YoY increase in confirmed breaches, with the",
-    "published": "2025-05-14T10:54:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails",
-    "link": "https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html",
-    "summary": "Cybersecurity researchers have discovered a new phishing campaign that's being used to distribute malware called Horabot targeting Windows users in Latin American countries like Mexico, Guatemala, Colombia, Peru, Chile, and Argentina.\nThe campaign is \"using crafted emails that impersonate invoices o",
-    "published": "2025-05-14T10:40:00",
-    "source": "HackerNews"
   }
 ]
