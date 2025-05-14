@@ -1,10 +1,24 @@
 [
   {
+    "title": "Steel giant Nucor Corporation facing disruptions after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/steel-giant-nucor-corporation-facing-disruptions-after-cyberattack/",
+    "summary": "A cybersecurity incident\u00a0on Nucor Corporation's systems forced the company to take offline\u00a0parts of its networks and implement containment measures. [...]",
+    "published": "2025-05-14T14:39:20",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users",
     "link": "https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html",
     "summary": "A new global phishing threat called \"Meta Mirage\" has been uncovered, targeting businesses using Meta's Business Suite. This campaign specifically aims at hijacking high-value accounts, including those managing advertising and official brand pages.\nCybersecurity researchers at CTM360 revealed that a",
     "published": "2025-05-14T14:05:00",
     "source": "HackerNews"
+  },
+  {
+    "title": "Focused Phishing: Attack Targets Victims With Trusted Sites and Live Validation",
+    "link": "https://www.bleepingcomputer.com/news/security/focused-phishing-attack-targets-victims-with-trusted-sites-and-live-validation/",
+    "summary": "New phishing tactics are abusing trusted domains, real CAPTCHAs, and server-side email validation to selectively target victims with customized fake login pages. Keep Aware's latest research breaks down the full attack chain and how these zero-day phish operate. [...]",
+    "published": "2025-05-14T14:02:12",
+    "source": "BleepingComputer"
   },
   {
     "title": "Fashion giant Dior discloses cyberattack, warns of data breach",
