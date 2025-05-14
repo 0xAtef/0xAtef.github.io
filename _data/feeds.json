@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ransomware gangs join ongoing SAP NetWeaver attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-ongoing-sap-netweaver-attacks/",
+    "summary": "Ransomware gangs have joined ongoing SAP NetWeaver attacks, exploiting a maximum-severity vulnerability that allows threat actors to\u00a0gain remote code execution on vulnerable servers. [...]",
+    "published": "2025-05-14T17:39:41",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Australian Human Rights Commission leaks docs to search engines",
     "link": "https://www.bleepingcomputer.com/news/security/australian-human-rights-commission-leaks-docs-to-search-engines/",
     "summary": "The Australian Human Rights Commission (AHRC) disclosed a data breach incident where private documents leaked online and were indexed by major search engines. [...]",
