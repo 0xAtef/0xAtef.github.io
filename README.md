@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Kosovo extradites BlackDB admin to face US cybercrime charges](https://www.bleepingcomputer.com/news/security/kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges/) — 2025-22-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **The Hacker News**: [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html) — 2025-11-14
 - **The Hacker News**: [Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team](https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html) — 2025-54-14
@@ -61,8 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [New Intel CPU flaws leak sensitive data from privileged memory](https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/) — 2025-00-13
 - **The Hacker News**: [Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads](https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html) — 2025-47-13
 - **Bleeping Computer**: [Microsoft will update Office apps on Windows 10 until 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/) — 2025-44-13
-- **Bleeping Computer**: [Increase Red Team Operations 10X with Adversarial Exposure Validation](https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/) — 2025-01-13
-- **Bleeping Computer**: [M&amp;S says customer data stolen in cyberattack, forces password resets](https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/) — 2025-35-13
 - **The Hacker News**: [Deepfake Defense in the Age of AI](https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html) — 2025-00-13
 - **The Hacker News**: [North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress](https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html) — 2025-57-13
 - **The Hacker News**: [Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency](https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html) — 2025-33-13
