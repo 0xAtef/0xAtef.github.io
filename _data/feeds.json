@@ -110,12 +110,5 @@
     "summary": "Cybersecurity researchers have discovered a new phishing campaign that's being used to distribute malware called Horabot targeting Windows users in Latin American countries like Mexico, Guatemala, Colombia, Peru, Chile, and Argentina.\nThe campaign is \"using crafted emails that impersonate invoices o",
     "published": "2025-05-14T10:40:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server",
-    "link": "https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html",
-    "summary": "Microsoft on Tuesday shipped fixes to address a total of 78 security flaws across its software lineup, including a set of five zero-days that have come under active exploitation in the wild.\nOf the 78 flaws resolved by the tech giant, 11 are rated Critical, 66 are rated Important, and one is rated L",
-    "published": "2025-05-14T08:14:00",
-    "source": "HackerNews"
   }
 ]
