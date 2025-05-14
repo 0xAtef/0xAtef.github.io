@@ -1,5 +1,12 @@
 [
   {
+    "title": "Patch Tuesday, May 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/",
+    "summary": "Microsoft on Tuesday released software updates to fix at least 70 vulnerabilities in Windows and related products, including five zero-day flaws that are already seeing active exploitation. Adding to the sense of urgency with this month's patch batch from Redmond are fixes for two other weaknesses t",
+    "published": "2025-05-14T11:57:48",
+    "source": "Krebs"
+  },
+  {
     "title": "Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns",
     "link": "https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html",
     "summary": "A cyber espionage group known as Earth Ammit has been linked to two related but distinct campaigns from 2023 to 2024 targeting various entities in Taiwan and South Korea, including military, satellite, heavy industry, media, technology, software services, and healthcare sectors.\nCybersecurity firm T",
