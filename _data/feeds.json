@@ -1,5 +1,19 @@
 [
   {
+    "title": "Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems",
+    "link": "https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html",
+    "summary": "Fortinet has patched a critical security flaw that it said has been exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems.\nThe vulnerability, tracked as CVE-2025-32756, carries a CVSS score of 9.6 out of 10.0.\n\"A stack-based overflow vulnerability [CWE-121] in FortiVoice, ",
+    "published": "2025-05-14T04:21:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks",
+    "link": "https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html",
+    "summary": "Ivanti has released security updates to address two security flaws in Endpoint Manager Mobile (EPMM) software that have been chained in attacks to gain remote code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-4427 (CVSS score: 5.3) - An authentication bypass in Ivanti Endp",
+    "published": "2025-05-14T04:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "SAP patches second zero-day flaw exploited in recent attacks",
     "link": "https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/",
     "summary": "SAP has released patches to address a second vulnerability exploited in recent attacks targeting SAP NetWeaver servers as a zero-day. [...]",
@@ -39,20 +53,6 @@
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/",
     "summary": "Microsoft has released Windows 11\u00a0KB5058411\u00a0and\u00a0KB5058405\u00a0cumulative updates for versions 24H2 and 23H2 to fix security vulnerabilities and\u00a0issues. [...]",
     "published": "2025-05-13T17:31:33",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Android 16 expands 'Advanced Protection' with device-level security",
-    "link": "https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/",
-    "summary": "Google is announcing\u00a0improvements for the  Advanced Protection\u00a0feature in Android 16 that strengthen defenses against sophisticated spyware attacks. [...]",
-    "published": "2025-05-13T17:20:42",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Windows 10 KB5058379 update fixes SgrmBroker errors in Event Viewer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/",
-    "summary": "Microsoft has released the KB5058379 cumulative update for Windows 10 22H2 and Windows 10 21H2, with four fixes and changes, including one for an SGRMBroker bug. [...]",
-    "published": "2025-05-13T17:18:16",
     "source": "BleepingComputer"
   }
 ]
