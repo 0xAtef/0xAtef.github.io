@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft fixes Linux boot issues on dual-boot Windows systems",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-linux-boot-issues-on-dual-boot-windows-systems/",
+    "summary": "\u200bMicrosoft has fixed a known issue preventing\u00a0Linux from booting on dual-boot systems with Secure Boot enabled after installing\u00a0the August 2024 Windows security updates. [...]",
+    "published": "2025-05-14T14:50:45",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Steel giant Nucor Corporation facing disruptions after cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/steel-giant-nucor-corporation-facing-disruptions-after-cyberattack/",
     "summary": "A cybersecurity incident\u00a0on Nucor Corporation's systems forced the company to take offline\u00a0parts of its networks and implement containment measures. [...]",
