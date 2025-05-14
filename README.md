@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users](https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html) — 2025-05-14
+- **Bleeping Computer**: [Fashion giant Dior discloses cyberattack, warns of data breach](https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/) — 2025-37-14
 - **Bleeping Computer**: [Kosovo extradites BlackDB admin to face US cybercrime charges](https://www.bleepingcomputer.com/news/security/kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges/) — 2025-22-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **The Hacker News**: [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html) — 2025-11-14
@@ -61,7 +63,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide](https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html) — 2025-13-13
 - **Bleeping Computer**: [New Intel CPU flaws leak sensitive data from privileged memory](https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/) — 2025-00-13
 - **The Hacker News**: [Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads](https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html) — 2025-47-13
-- **Bleeping Computer**: [Microsoft will update Office apps on Windows 10 until 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/) — 2025-44-13
 - **The Hacker News**: [Deepfake Defense in the Age of AI](https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html) — 2025-00-13
 - **The Hacker News**: [North Korean Konni APT Targets Ukraine with Malware to track Russian Invasion Progress](https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html) — 2025-57-13
 - **The Hacker News**: [Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency](https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html) — 2025-33-13
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Langflow Flaw Added to CISA KEV List Amid Ongoing Exploitation Evidence](https://thehackernews.com/2025/05/critical-langflow-flaw-added-to-cisa.html) — 2025-24-06
 - **The Hacker News**: [Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi](https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html) — 2025-06-05
 - **The Hacker News**: [Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed](https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html) — 2025-01-05
-- **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
