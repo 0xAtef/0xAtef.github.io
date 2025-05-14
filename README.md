@@ -40,6 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
+- **The Hacker News**: [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html) — 2025-11-14
+- **The Hacker News**: [Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team](https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html) — 2025-54-14
+- **The Hacker News**: [Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails](https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html) — 2025-40-14
 - **The Hacker News**: [Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server](https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html) — 2025-14-14
 - **The Hacker News**: [Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems](https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html) — 2025-21-14
 - **The Hacker News**: [Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks](https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html) — 2025-00-14
@@ -102,9 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Wormable AirPlay Flaws Enable Zero-Click RCE on Apple Devices via Public Wi-Fi](https://thehackernews.com/2025/05/wormable-airplay-flaws-enable-zero.html) — 2025-06-05
 - **The Hacker News**: [Commvault CVE-2025-34028 Added to CISA KEV After Active Exploitation Confirmed](https://thehackernews.com/2025/05/commvault-cve-2025-34028-added-to-cisa.html) — 2025-01-05
 - **The Hacker News**: [⚡ Weekly Recap: Nation-State Hacks, Spyware Alerts, Deepfake Malware, Supply Chain Backdoors](https://thehackernews.com/2025/05/weekly-recap-nation-state-hacks-spyware.html) — 2025-29-05
-- **The Hacker News**: [Perfection is a Myth. Leverage Isn&#39;t: How Small Teams Can Secure Their Google Workspace](https://thehackernews.com/2025/05/perfection-is-myth-leverage-isnt-how.html) — 2025-00-05
-- **The Hacker News**: [Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto Wallet Data](https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html) — 2025-39-05
-- **The Hacker News**: [Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack](https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html) — 2025-31-03
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
@@ -112,5 +113,4 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
 - **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
-- **Krebs on Security**: [Patch Tuesday, April 2025 Edition](https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/) — 2025-09-09
-- **Krebs on Security**: [Cyber Forensic Expert in 2,000+ Cases Faces FBI Probe](https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/) — 2025-37-04<!-- BLOG-POST-LIST:END -->
+- **Krebs on Security**: [Patch Tuesday, April 2025 Edition](https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/) — 2025-09-09<!-- BLOG-POST-LIST:END -->
