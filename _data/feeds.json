@@ -1,5 +1,19 @@
 [
   {
+    "title": "Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit",
+    "link": "https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html",
+    "summary": "Samsung has released software updates to address a critical security flaw in MagicINFO 9 Server that has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-4632 (CVSS score: 9.8), has been described as a path traversal flaw.\n\"Improper limitation of a pathname to a restricted",
+    "published": "2025-05-14T17:57:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan",
+    "link": "https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html",
+    "summary": "At least two different cybercrime groups BianLian and RansomExx are said to have exploited a recently disclosed security flaw in SAP NetWeaver, indicating that multiple threat actors are taking advantage of the bug.\nCybersecurity firm ReliaQuest, in a new update published today, said it uncovered ev",
+    "published": "2025-05-14T17:50:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Ransomware gangs join ongoing SAP NetWeaver attacks",
     "link": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-ongoing-sap-netweaver-attacks/",
     "summary": "Ransomware gangs have joined ongoing SAP NetWeaver attacks, exploiting a maximum-severity vulnerability that allows threat actors to\u00a0gain remote code execution on vulnerable servers. [...]",
