@@ -33,19 +33,5 @@
     "summary": "Twilio has denied in a statement for BleepingComputer that it was breached after a threat actor\u00a0claimed\u00a0to be holding over 89 million Steam user records with one-time access codes. [...]",
     "published": "2025-05-13T19:16:46",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Ivanti fixes EPMM zero-days chained in code execution attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/ivanti-fixes-epmm-zero-days-chained-in-code-execution-attacks/",
-    "summary": "Ivanti warned customers today to patch their Ivanti Endpoint Manager Mobile (EPMM) software against two security vulnerabilities chained in attacks to gain remote code execution. [...]",
-    "published": "2025-05-13T18:26:00",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft May 2025 Patch Tuesday fixes 5 exploited zero-days, 72 flaws",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/",
-    "summary": "Today is Microsoft's May 2025 Patch Tuesday, which includes security updates for 72 flaws, including five actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-    "published": "2025-05-13T17:56:57",
-    "source": "BleepingComputer"
   }
 ]
