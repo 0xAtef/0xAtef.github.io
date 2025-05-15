@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails](https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html) — 2025-28-15
 - **Bleeping Computer**: [Malicious NPM package uses Unicode steganography to evade detection](https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/) — 2025-31-15
 - **Bleeping Computer**: [Coinbase data breach exposes customer info and government IDs](https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/) — 2025-28-15
 - **The Hacker News**: [Pen Testing for Compliance Only? It&#39;s Time to Change Your Approach](https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html) — 2025-25-15
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization](https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html) — 2025-44-07
 - **The Hacker News**: [Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times](https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html) — 2025-37-07
 - **The Hacker News**: [NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware](https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html) — 2025-22-07
-- **The Hacker News**: [Hackers Exploit Samsung MagicINFO, GeoVision IoT Flaws to Deploy Mirai Botnet](https://thehackernews.com/2025/05/hackers-exploit-samsung-magicinfo.html) — 2025-33-06
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
 - **Krebs on Security**: [DOGE Worker’s Code Supports NLRB Whistleblower](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/) — 2025-45-23
