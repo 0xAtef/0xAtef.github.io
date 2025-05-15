@@ -1,5 +1,12 @@
 [
   {
+    "title": "FBI: US officials targeted in voice deepfake attacks since April",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/",
+    "summary": "The FBI warned that cybercriminals using AI-generated audio deepfakes to target\u00a0U.S. officials in voice phishing attacks\u00a0that started in April. [...]",
+    "published": "2025-05-15T18:22:08",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Meta to Train AI on E.U. User Data From May 27 Without Consent; Noyb Threatens Lawsuit",
     "link": "https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html",
     "summary": "Austrian privacy non-profit noyb (none of your business) has sent Meta's Irish headquarters a cease-and-desist letter, threatening the company with a class action lawsuit if it proceeds with its plans to train users' data for training its artificial intelligence (AI) models without an explicit opt-i",
