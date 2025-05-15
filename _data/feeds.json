@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows 11 and Red Hat Linux hacked on first day of Pwn2Own",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/",
+    "summary": "On the first day of Pwn2Own Berlin 2025, security researchers were awarded $260,000 after successfully demonstrating zero-day exploits for Windows 11, Red Hat Linux, Docker Desktop, and Oracle VirtualBox. [...]",
+    "published": "2025-05-15T15:48:44",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New Tor Oniux tool anonymizes any Linux app's network traffic",
     "link": "https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/",
     "summary": "Tor has announced Oniux, a new command-line tool for routing any Linux application securely through the Tor network for anonymized network connections. [...]",
