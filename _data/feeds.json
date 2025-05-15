@@ -1,5 +1,12 @@
 [
   {
+    "title": "Breachforums Boss to Pay $700k in Healthcare Breach",
+    "link": "https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/",
+    "summary": "In what experts are calling a novel legal outcome, the 22-year-old former administrator of the cybercrime community Breachforums will forfeit nearly $700,000 to settle a civil lawsuit from a health insurance company whose customer data was posted for sale on the forum in 2023. Conor Brian Fitzpatric",
+    "published": "2025-05-15T19:56:51",
+    "source": "Krebs"
+  },
+  {
     "title": "Government webmail hacked via XSS bugs in global spy campaign",
     "link": "https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/",
     "summary": "Hackers are running a worldwide cyberespionage campaign dubbed 'RoundPress,' leveraging zero-day and n-day flaws in webmail servers to steal email from high-value government organizations. [...]",
@@ -96,12 +103,5 @@
     "summary": "Cybersecurity researchers have discovered a malicious package named \"os-info-checker-es6\" that disguises itself as an operating system information utility to stealthily drop a next-stage payload onto compromised systems.\n\"This campaign employs clever Unicode-based steganography to hide its initial m",
     "published": "2025-05-15T10:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Google fixes high severity Chrome flaw with public exploit",
-    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-high-severity-chrome-flaw-with-public-exploit/",
-    "summary": "Google has released emergency security updates to patch a high-severity Chrome vulnerability that has a public exploit and can let attackers hijack accounts. [...]",
-    "published": "2025-05-15T08:25:44",
-    "source": "BleepingComputer"
   }
 ]
