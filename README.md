@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [FBI: US officials targeted in voice deepfake attacks since April](https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/) — 2025-22-15
 - **The Hacker News**: [Meta to Train AI on E.U. User Data From May 27 Without Consent; Noyb Threatens Lawsuit](https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html) — 2025-45-15
 - **Bleeping Computer**: [Nova Scotia Power confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/nova-scotia-power-confirms-hackers-stole-customer-data-in-cyberattack/) — 2025-38-15
 - **Bleeping Computer**: [Windows 11 and Red Hat Linux hacked on first day of Pwn2Own](https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/) — 2025-48-15
@@ -63,7 +64,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft fixes Linux boot issues on dual-boot Windows systems](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-linux-boot-issues-on-dual-boot-windows-systems/) — 2025-50-14
 - **Bleeping Computer**: [Steel giant Nucor Corporation facing disruptions after cyberattack](https://www.bleepingcomputer.com/news/security/steel-giant-nucor-corporation-facing-disruptions-after-cyberattack/) — 2025-39-14
 - **The Hacker News**: [CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users](https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html) — 2025-05-14
-- **Bleeping Computer**: [Focused Phishing: Attack Targets Victims With Trusted Sites and Live Validation](https://www.bleepingcomputer.com/news/security/focused-phishing-attack-targets-victims-with-trusted-sites-and-live-validation/) — 2025-02-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **The Hacker News**: [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html) — 2025-11-14
 - **The Hacker News**: [Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team](https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html) — 2025-54-14
