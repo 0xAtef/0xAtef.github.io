@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
+- **Bleeping Computer**: [Government webmail hacked via XSS bugs in global spy campaign](https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/) — 2025-14-15
 - **Bleeping Computer**: [FBI: US officials targeted in voice deepfake attacks since April](https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/) — 2025-22-15
 - **The Hacker News**: [Meta to Train AI on E.U. User Data From May 27 Without Consent; Noyb Threatens Lawsuit](https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html) — 2025-45-15
 - **Bleeping Computer**: [Nova Scotia Power confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/nova-scotia-power-confirms-hackers-stole-customer-data-in-cyberattack/) — 2025-38-15
@@ -62,7 +64,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Australian Human Rights Commission leaks docs to search engines](https://www.bleepingcomputer.com/news/security/australian-human-rights-commission-leaks-docs-to-search-engines/) — 2025-28-14
 - **The Hacker News**: [Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering](https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html) — 2025-27-14
 - **Bleeping Computer**: [Microsoft fixes Linux boot issues on dual-boot Windows systems](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-linux-boot-issues-on-dual-boot-windows-systems/) — 2025-50-14
-- **Bleeping Computer**: [Steel giant Nucor Corporation facing disruptions after cyberattack](https://www.bleepingcomputer.com/news/security/steel-giant-nucor-corporation-facing-disruptions-after-cyberattack/) — 2025-39-14
 - **The Hacker News**: [CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users](https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html) — 2025-05-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **The Hacker News**: [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html) — 2025-11-14
@@ -111,5 +112,4 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/) — 2025-48-22
 - **Krebs on Security**: [Funding Expires for Key Cyber Vulnerability Database](https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/) — 2025-59-16
 - **Krebs on Security**: [Trump Revenge Tour Targets Cyber Leaders, Elections](https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/) — 2025-27-15
-- **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10
-- **Krebs on Security**: [Patch Tuesday, April 2025 Edition](https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/) — 2025-09-09<!-- BLOG-POST-LIST:END -->
+- **Krebs on Security**: [China-based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/) — 2025-31-10<!-- BLOG-POST-LIST:END -->
