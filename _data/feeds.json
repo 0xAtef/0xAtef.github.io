@@ -1,5 +1,19 @@
 [
   {
+    "title": "Malicious npm package using steganography downloaded by hundreds",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-using-steganography-downloaded-by-hundreds/",
+    "summary": "A malicious package in the\u00a0Node Package Manager index uses invisible Unicode characters to hide malicious code and Google Calendar links to host the URL for the command-and-control location. [...]",
+    "published": "2025-05-15T13:31:47",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Coinbase data breach exposes customer info and government IDs",
+    "link": "https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/",
+    "summary": "Coinbase, a cryptocurrency exchange with over 100 million customers, has disclosed that cybercriminals working with rogue support agents stole customer data and demanded a $20 million ransom not to publish the stolen information. [...]",
+    "published": "2025-05-15T13:28:17",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Pen Testing for Compliance Only? It's Time to Change Your Approach",
     "link": "https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html",
     "summary": "Imagine this: Your organization completed its annual penetration test in January, earning high marks for security compliance. In February, your development team deployed a routine software update. By April, attackers had already exploited a vulnerability introduced in that February update, gaining a",
