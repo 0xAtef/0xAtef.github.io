@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows 10 KB5058379 update triggering BitLocker Recovery after install",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/",
+    "summary": "The Windows 10 KB5058379 cumulative update is triggering unexpected BitLocker recovery prompts on some devices afters it's installed and the computer restarted. [...]",
+    "published": "2025-05-15T21:38:27",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Breachforums Boss to Pay $700k in Healthcare Breach",
     "link": "https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/",
     "summary": "In what experts are calling a novel legal outcome, the 22-year-old former administrator of the cybercrime community Breachforums will forfeit nearly $700,000 to settle a civil lawsuit from a health insurance company whose customer data was posted for sale on the forum in 2023. Conor Brian Fitzpatric",
