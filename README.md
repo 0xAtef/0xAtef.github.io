@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Malicious NPM package uses Unicode steganography to evade detection](https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/) — 2025-31-15
+- **Bleeping Computer**: [Coinbase data breach exposes customer info and government IDs](https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/) — 2025-28-15
 - **The Hacker News**: [Pen Testing for Compliance Only? It&#39;s Time to Change Your Approach](https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html) — 2025-25-15
 - **The Hacker News**: [New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy](https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html) — 2025-43-15
 - **The Hacker News**: [5 BCDR Essentials for Effective Ransomware Defense](https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html) — 2025-30-15
@@ -66,9 +68,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server](https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html) — 2025-14-14
 - **The Hacker News**: [Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems](https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html) — 2025-21-14
 - **The Hacker News**: [Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks](https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html) — 2025-00-14
-- **Bleeping Computer**: [SAP patches second zero-day flaw exploited in recent attacks](https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/) — 2025-48-13
-- **Bleeping Computer**: [North Korea ramps up cyberspying in Ukraine to assess war risk](https://www.bleepingcomputer.com/news/security/north-korea-ramps-up-cyberspying-in-ukraine-to-assess-war-risk/) — 2025-14-13
-- **Bleeping Computer**: [Twilio denies breach following leak of alleged Steam 2FA codes](https://www.bleepingcomputer.com/news/security/twilio-denies-breach-following-leak-of-alleged-steam-2fa-codes/) — 2025-16-13
 - **The Hacker News**: [China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide](https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html) — 2025-13-13
 - **The Hacker News**: [Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads](https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html) — 2025-47-13
 - **The Hacker News**: [Deepfake Defense in the Age of AI](https://thehackernews.com/2025/05/deepfake-defense-in-age-of-ai.html) — 2025-00-13
