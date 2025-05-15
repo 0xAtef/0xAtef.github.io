@@ -1,5 +1,12 @@
 [
   {
+    "title": "Government webmail hacked via XSS bugs in global spy campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/",
+    "summary": "Hackers are running a worldwide cyberespionage campaign dubbed 'RoundPress,' leveraging zero-day and n-day flaws in webmail servers to steal email from high-value government organizations. [...]",
+    "published": "2025-05-15T19:14:39",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "FBI: US officials targeted in voice deepfake attacks since April",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/",
     "summary": "The FBI warned that cybercriminals using AI-generated audio deepfakes to target\u00a0U.S. officials in voice phishing attacks\u00a0that started in April. [...]",
