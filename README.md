@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Windows 11 and Red Hat Linux hacked on first day of Pwn2Own](https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/) — 2025-48-15
+- **Bleeping Computer**: [New Tor Oniux tool anonymizes any Linux app&#39;s network traffic](https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/) — 2025-20-15
 - **The Hacker News**: [Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails](https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html) — 2025-28-15
 - **Bleeping Computer**: [Malicious NPM package uses Unicode steganography to evade detection](https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/) — 2025-31-15
 - **Bleeping Computer**: [Coinbase data breach exposes customer info and government IDs](https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/) — 2025-28-15
@@ -61,7 +63,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users](https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html) — 2025-05-14
 - **Bleeping Computer**: [Focused Phishing: Attack Targets Victims With Trusted Sites and Live Validation](https://www.bleepingcomputer.com/news/security/focused-phishing-attack-targets-victims-with-trusted-sites-and-live-validation/) — 2025-02-14
 - **Bleeping Computer**: [Fashion giant Dior discloses cyberattack, warns of data breach](https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/) — 2025-37-14
-- **Bleeping Computer**: [Kosovo extradites BlackDB admin to face US cybercrime charges](https://www.bleepingcomputer.com/news/security/kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges/) — 2025-22-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **The Hacker News**: [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html) — 2025-11-14
 - **The Hacker News**: [Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team](https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html) — 2025-54-14
