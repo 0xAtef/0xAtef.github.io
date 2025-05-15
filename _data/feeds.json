@@ -1,5 +1,12 @@
 [
   {
+    "title": "ChatGPT will soon record, transcribe, and summarize your meetings",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/",
+    "summary": "OpenAI may be planning to challenge Microsoft Teams Copilot integration with a new \"Record\" feature in ChatGPT. [...]",
+    "published": "2025-05-15T23:09:40",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Windows 10 KB5058379 update triggers BitLocker recovery on some devices",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/",
     "summary": "The Windows 10 KB5058379 cumulative update is triggering unexpected BitLocker recovery prompts on some devices afters it's installed and the computer restarted. [...]",
