@@ -1,5 +1,19 @@
 [
   {
+    "title": "New Tor Oniux tool anonymizes any Linux app's network traffic",
+    "link": "https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/",
+    "summary": "Tor has announced Oniux, a new command-line tool for routing any Linux application securely through the Tor network for anonymized network connections. [...]",
+    "published": "2025-05-15T15:20:06",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails",
+    "link": "https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html",
+    "summary": "Cryptocurrency exchange Coinbase has disclosed that unknown cyber actors broke into its systems and stole account data for a small subset of its customers.\n\"Criminals targeted our customer support agents overseas,\" the company said in a statement. \"They used cash offers to convince a small group of ",
+    "published": "2025-05-15T14:28:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Malicious NPM package uses Unicode steganography to evade detection",
     "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/",
     "summary": "A malicious package in the\u00a0Node Package Manager index uses invisible Unicode characters to hide malicious code and Google Calendar links to host the URL for the command-and-control location. [...]",
