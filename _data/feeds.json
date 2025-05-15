@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy",
+    "link": "https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html",
+    "summary": "Google on Wednesday released updates to address four security issues in its Chrome web browser, including one for which it said there exists an exploit in the wild.\nThe high-severity vulnerability, tracked as CVE-2025-4664 (CVSS score: 4.3), has been characterized as a case of insufficient policy en",
+    "published": "2025-05-15T06:15:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Google Chrome to block admin-level browser launches for better security",
     "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-block-admin-level-browser-launches-for-better-security/",
     "summary": "Google is rolling out a change to Chromium that \"de-elevates\" Google Chrome so it does not run as an administrator to increase security in Windows. [...]",
