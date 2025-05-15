@@ -1,6 +1,6 @@
 [
   {
-    "title": "Windows 10 KB5058379 update triggering BitLocker Recovery after install",
+    "title": "Windows 10 KB5058379 update triggers BitLocker recovery on some devices",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/",
     "summary": "The Windows 10 KB5058379 cumulative update is triggering unexpected BitLocker recovery prompts on some devices afters it's installed and the computer restarted. [...]",
     "published": "2025-05-15T21:38:27",
@@ -95,20 +95,6 @@
     "link": "https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html",
     "summary": "Ransomware has evolved into a deceptive, highly coordinated and dangerously sophisticated threat capable of crippling organizations of any size. Cybercriminals now exploit even legitimate IT tools to infiltrate networks and launch ransomware attacks. In a chilling example, Microsoft recently disclos",
     "published": "2025-05-15T10:30:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers",
-    "link": "https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html",
-    "summary": "A Russia-linked threat actor has been attributed to a cyber espionage operation targeting webmail servers such as Roundcube, Horde, MDaemon, and Zimbra via cross-site scripting (XSS) vulnerabilities, including a then-zero-day in MDaemon, according to new findings from ESET.\nThe activity, which comme",
-    "published": "2025-05-15T10:05:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper",
-    "link": "https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html",
-    "summary": "Cybersecurity researchers have discovered a malicious package named \"os-info-checker-es6\" that disguises itself as an operating system information utility to stealthily drop a next-stage payload onto compromised systems.\n\"This campaign employs clever Unicode-based steganography to hide its initial m",
-    "published": "2025-05-15T10:00:00",
     "source": "HackerNews"
   }
 ]
