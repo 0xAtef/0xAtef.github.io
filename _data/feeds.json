@@ -1,7 +1,7 @@
 [
   {
-    "title": "Malicious npm package using steganography downloaded by hundreds",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-using-steganography-downloaded-by-hundreds/",
+    "title": "Malicious NPM package uses Unicode steganography to evade detection",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/",
     "summary": "A malicious package in the\u00a0Node Package Manager index uses invisible Unicode characters to hide malicious code and Google Calendar links to host the URL for the command-and-control location. [...]",
     "published": "2025-05-15T13:31:47",
     "source": "BleepingComputer"
