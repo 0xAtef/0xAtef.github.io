@@ -68,19 +68,5 @@
     "summary": "Twelve more suspects were charged in a RICO conspiracy for their alleged involvement in the theft of over $230 million in cryptocurrency and laundering the funds using crypto exchanges and mixing services. [...]",
     "published": "2025-05-16T09:06:41",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "CISA tags recently patched Chrome bug as actively exploited",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-recently-patched-chrome-bug-as-actively-exploited-zero-day/",
-    "summary": "On Thursday, CISA warned U.S. federal agencies to secure their systems against ongoing attacks exploiting a high-severity vulnerability in the Chrome web browser. [...]",
-    "published": "2025-05-16T08:13:19",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks",
-    "link": "https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html",
-    "summary": "Cybersecurity researchers have shed light on a new malware campaign that makes use of a PowerShell-based shellcode loader to deploy a remote access trojan called Remcos RAT.\n\"Threat actors delivered malicious LNK files embedded within ZIP archives, often disguised as Office documents,\" Qualys securi",
-    "published": "2025-05-16T07:56:00",
-    "source": "HackerNews"
   }
 ]
