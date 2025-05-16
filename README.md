@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Printer maker Procolored offered malware-laced drivers for months](https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/) — 2025-56-16
+- **Bleeping Computer**: [Ransomware gangs increasingly use Skitnet post-exploitation malware](https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/) — 2025-00-16
 - **The Hacker News**: [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html) — 2025-37-16
 - **The Hacker News**: [Top 10 Best Practices for Effective Data Protection](https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html) — 2025-30-16
 - **The Hacker News**: [Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks](https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html) — 2025-08-16
@@ -65,8 +67,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [5 BCDR Essentials for Effective Ransomware Defense](https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html) — 2025-30-15
 - **The Hacker News**: [Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers](https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html) — 2025-05-15
 - **The Hacker News**: [Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper](https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html) — 2025-00-15
-- **Bleeping Computer**: [Google fixes high severity Chrome flaw with public exploit](https://www.bleepingcomputer.com/news/security/google-fixes-high-severity-chrome-flaw-with-public-exploit/) — 2025-25-15
-- **Bleeping Computer**: [Google Chrome to block admin-level browser launches for better security](https://www.bleepingcomputer.com/news/google/google-chrome-to-block-admin-level-browser-launches-for-better-security/) — 2025-25-14
 - **The Hacker News**: [Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit](https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html) — 2025-57-14
 - **The Hacker News**: [BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan](https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html) — 2025-50-14
 - **The Hacker News**: [Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering](https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html) — 2025-27-14
