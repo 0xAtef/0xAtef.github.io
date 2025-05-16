@@ -1,5 +1,12 @@
 [
   {
+    "title": "Printer maker Procolored offered malware-laced drivers for months",
+    "link": "https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/",
+    "summary": "For at least half a year, the official software supplied with Procolored printers included malware in the form of a remote access trojan and a cryptocurrency stealer. [...]",
+    "published": "2025-05-16T14:56:51",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Ransomware gangs increasingly use Skitnet post-exploitation malware",
     "link": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/",
     "summary": "Ransomware gang members increasingly use a new malware called Skitnet (\"Bossnet\") to perform stealthy post-exploitation activities on breached networks. [...]",
