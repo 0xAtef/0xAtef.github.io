@@ -26,12 +26,5 @@
     "summary": "In what experts are calling a novel legal outcome, the 22-year-old former administrator of the cybercrime community Breachforums will forfeit nearly $700,000 to settle a civil lawsuit from a health insurance company whose customer data was posted for sale on the forum in 2023. Conor Brian Fitzpatric",
     "published": "2025-05-15T19:56:51",
     "source": "Krebs"
-  },
-  {
-    "title": "Government webmail hacked via XSS bugs in global spy campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/",
-    "summary": "Hackers are running a worldwide cyberespionage campaign dubbed 'RoundPress,' leveraging zero-day and n-day flaws in webmail servers to steal email from high-value government organizations. [...]",
-    "published": "2025-05-15T19:14:39",
-    "source": "BleepingComputer"
   }
 ]
