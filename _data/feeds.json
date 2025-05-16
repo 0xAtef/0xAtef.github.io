@@ -1,5 +1,12 @@
 [
   {
+    "title": "New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors",
+    "link": "https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html",
+    "summary": "Cybersecurity researchers are calling attention to a new botnet malware called HTTPBot that has been used to primarily single out the gaming industry, as well as technology companies and educational institutions in China.\n\"Over the past few months, it has expanded aggressively, continuously leveragi",
+    "published": "2025-05-16T11:37:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Top 10 Best Practices for Effective Data Protection",
     "link": "https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html",
     "summary": "Data is the lifeblood of productivity, and protecting sensitive data is more critical than ever. With cyber threats evolving rapidly and data privacy regulations tightening, organizations must stay vigilant and proactive to safeguard their most valuable assets. But how do you build an effective data",
@@ -40,12 +47,5 @@
     "summary": "Modern apps move fast\u2014faster than most security teams can keep up. As businesses rush to build in the cloud, security often lags behind. Teams scan code in isolation, react late to cloud threats, and monitor SOC alerts only after damage is done.\nAttackers don\u2019t wait. They exploit vulnerabilities wit",
     "published": "2025-05-16T07:27:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Leak confirms OpenAI's ChatGPT will integrate MCP",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/",
-    "summary": "ChatGPT is testing support for\u00a0Model Context Protocol (MCP), which will allow the AI to connect to third-party services and use them as context. [...]",
-    "published": "2025-05-15T23:53:37",
-    "source": "BleepingComputer"
   }
 ]
