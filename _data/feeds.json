@@ -40,12 +40,5 @@
     "summary": "Ransomware gang members increasingly use a new malware called Skitnet (\"Bossnet\") to perform stealthy post-exploitation activities on breached networks. [...]",
     "published": "2025-05-16T14:00:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors",
-    "link": "https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html",
-    "summary": "Cybersecurity researchers are calling attention to a new botnet malware called HTTPBot that has been used to primarily single out the gaming industry, as well as technology companies and educational institutions in China.\n\"Over the past few months, it has expanded aggressively, continuously leveragi",
-    "published": "2025-05-16T11:37:00",
-    "source": "HackerNews"
   }
 ]
