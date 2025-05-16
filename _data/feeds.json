@@ -1,5 +1,12 @@
 [
   {
+    "title": "CISA tags recently patched Chrome bug as actively exploited",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-recently-patched-chrome-bug-as-actively-exploited-zero-day/",
+    "summary": "On Thursday, CISA warned U.S. federal agencies to secure their systems against ongoing attacks exploiting a high-severity vulnerability in the Chrome web browser. [...]",
+    "published": "2025-05-16T08:13:19",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications",
     "link": "https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html",
     "summary": "Modern apps move fast\u2014faster than most security teams can keep up. As businesses rush to build in the cloud, security often lags behind. Teams scan code in isolation, react late to cloud threats, and monitor SOC alerts only after damage is done.\nAttackers don\u2019t wait. They exploit vulnerabilities wit",
@@ -26,12 +33,5 @@
     "summary": "The Windows 10 KB5058379 cumulative update is triggering unexpected BitLocker recovery prompts on some devices afters it's installed and the computer restarted. [...]",
     "published": "2025-05-15T21:38:27",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Breachforums Boss to Pay $700k in Healthcare Breach",
-    "link": "https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/",
-    "summary": "In what experts are calling a novel legal outcome, the 22-year-old former administrator of the cybercrime community Breachforums will forfeit nearly $700,000 to settle a civil lawsuit from a health insurance company whose customer data was posted for sale on the forum in 2023. Conor Brian Fitzpatric",
-    "published": "2025-05-15T19:56:51",
-    "source": "Krebs"
   }
 ]
