@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackers exploit VMware ESXi, Microsoft SharePoint zero-days at Pwn2Own",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/",
+    "summary": "During the second day of Pwn2Own Berlin 2025, competitors earned $435,000 after exploiting zero-day bugs in multiple products, including Microsoft SharePoint, VMware ESXi, Oracle VirtualBox, Red Hat Enterprise Linux, and Mozilla Firefox. [...]",
+    "published": "2025-05-16T15:23:22",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Printer maker Procolored offered malware-laced drivers for months",
     "link": "https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/",
     "summary": "For at least half a year, the official software supplied with Procolored printers included malware in the form of a remote access trojan and a cryptocurrency stealer. [...]",
