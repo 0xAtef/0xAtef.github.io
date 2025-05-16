@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [ChatGPT rolls out Codex, an AI tool for software programming](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/) — 2025-49-16
+- **Bleeping Computer**: [Hackers exploit VMware ESXi, Microsoft SharePoint zero-days at Pwn2Own](https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/) — 2025-23-16
 - **Bleeping Computer**: [Printer maker Procolored offered malware-laced drivers for months](https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/) — 2025-56-16
 - **Bleeping Computer**: [Ransomware gangs increasingly use Skitnet post-exploitation malware](https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/) — 2025-00-16
 - **The Hacker News**: [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html) — 2025-37-16
@@ -60,8 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Windows 11 and Red Hat Linux hacked on first day of Pwn2Own](https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/) — 2025-48-15
 - **Bleeping Computer**: [New Tor Oniux tool anonymizes any Linux app&#39;s network traffic](https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/) — 2025-20-15
 - **The Hacker News**: [Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails](https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html) — 2025-28-15
-- **Bleeping Computer**: [Malicious NPM package uses Unicode steganography to evade detection](https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/) — 2025-31-15
-- **Bleeping Computer**: [Coinbase data breach exposes customer info and government IDs](https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/) — 2025-28-15
 - **The Hacker News**: [Pen Testing for Compliance Only? It&#39;s Time to Change Your Approach](https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html) — 2025-25-15
 - **The Hacker News**: [New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy](https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html) — 2025-43-15
 - **The Hacker News**: [5 BCDR Essentials for Effective Ransomware Defense](https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html) — 2025-30-15
