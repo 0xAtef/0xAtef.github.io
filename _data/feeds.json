@@ -1,5 +1,12 @@
 [
   {
+    "title": "Leak confirms OpenAI's ChatGPT will integrate MCP",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/",
+    "summary": "ChatGPT is testing support for\u00a0Model Context Protocol (MCP), which will allow the AI to connect to third-party services and use them as context. [...]",
+    "published": "2025-05-15T23:53:37",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "ChatGPT will soon record, transcribe, and summarize your meetings",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/",
     "summary": "OpenAI may be planning to challenge Microsoft Teams Copilot integration with a new \"Record\" feature in ChatGPT. [...]",
@@ -68,19 +75,5 @@
     "summary": "Cryptocurrency exchange Coinbase has disclosed that unknown cyber actors broke into its systems and stole account data for a small subset of its customers.\n\"Criminals targeted our customer support agents overseas,\" the company said in a statement. \"They used cash offers to convince a small group of ",
     "published": "2025-05-15T14:28:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Malicious NPM package uses Unicode steganography to evade detection",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/",
-    "summary": "A malicious package in the\u00a0Node Package Manager index uses invisible Unicode characters to hide malicious code and Google Calendar links to host the URL for the command-and-control location. [...]",
-    "published": "2025-05-15T13:31:47",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Coinbase data breach exposes customer info and government IDs",
-    "link": "https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/",
-    "summary": "Coinbase, a cryptocurrency exchange with over 100 million customers, has disclosed that cybercriminals working with rogue support agents stole customer data and demanded a $20 million ransom not to publish the stolen information. [...]",
-    "published": "2025-05-15T13:28:17",
-    "source": "BleepingComputer"
   }
 ]
