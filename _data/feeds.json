@@ -1,5 +1,12 @@
 [
   {
+    "title": "Top 10 Best Practices for Effective Data Protection",
+    "link": "https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html",
+    "summary": "Data is the lifeblood of productivity, and protecting sensitive data is more critical than ever. With cyber threats evolving rapidly and data privacy regulations tightening, organizations must stay vigilant and proactive to safeguard their most valuable assets. But how do you build an effective data",
+    "published": "2025-05-16T10:30:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks",
     "link": "https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html",
     "summary": "Researchers at ETH Z\u00fcrich have discovered yet another security flaw that they say impacts all modern Intel CPUs and causes them to leak sensitive data from memory, showing that the vulnerability known as Spectre continues to haunt computer systems after more than seven years.\nThe vulnerability, refe",
@@ -39,13 +46,6 @@
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/",
     "summary": "ChatGPT is testing support for\u00a0Model Context Protocol (MCP), which will allow the AI to connect to third-party services and use them as context. [...]",
     "published": "2025-05-15T23:53:37",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "ChatGPT will soon record, transcribe, and summarize your meetings",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/",
-    "summary": "OpenAI may be planning to challenge Microsoft Teams Copilot integration with a new \"Record\" feature in ChatGPT. [...]",
-    "published": "2025-05-15T23:09:40",
     "source": "BleepingComputer"
   }
 ]
