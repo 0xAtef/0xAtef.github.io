@@ -54,19 +54,5 @@
     "summary": "Data is the lifeblood of productivity, and protecting sensitive data is more critical than ever. With cyber threats evolving rapidly and data privacy regulations tightening, organizations must stay vigilant and proactive to safeguard their most valuable assets. But how do you build an effective data",
     "published": "2025-05-16T10:30:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks",
-    "link": "https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html",
-    "summary": "Researchers at ETH Z\u00fcrich have discovered yet another security flaw that they say impacts all modern Intel CPUs and causes them to leak sensitive data from memory, showing that the vulnerability known as Spectre continues to haunt computer systems after more than seven years.\nThe vulnerability, refe",
-    "published": "2025-05-16T09:08:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "US charges 12 more suspects linked to $230 million crypto theft",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-12-more-suspects-linked-to-230-million-crypto-theft/",
-    "summary": "Twelve more suspects were charged in a RICO conspiracy for their alleged involvement in the theft of over $230 million in cryptocurrency and laundering the funds using crypto exchanges and mixing services. [...]",
-    "published": "2025-05-16T09:06:41",
-    "source": "BleepingComputer"
   }
 ]
