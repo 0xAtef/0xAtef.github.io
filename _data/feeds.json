@@ -1,5 +1,12 @@
 [
   {
+    "title": "New 'Defendnot' tool tricks Windows into disabling Microsoft Defender",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/",
+    "summary": "A new tool called 'Defendnot' can disable Microsoft Defender on Windows devices by\u00a0registering a fake antivirus product, even when no real AV is installed. [...]",
+    "published": "2025-05-17T14:09:19",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications",
     "link": "https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html",
     "summary": "Modern apps move fast\u2014faster than most security teams can keep up. As businesses rush to build in the cloud, security often lags behind. Teams scan code in isolation, react late to cloud threats, and monitor SOC alerts only after damage is done.\nAttackers don\u2019t wait. They exploit vulnerabilities wit",
