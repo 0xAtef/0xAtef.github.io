@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [New &#39;Defendnot&#39; tool tricks Windows into disabling Microsoft Defender](https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/) — 2025-09-17
 - **The Hacker News**: [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html) — 2025-07-17
 - **Bleeping Computer**: [Microsoft confirms May Windows 10 updates trigger BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/) — 2025-36-16
 - **Bleeping Computer**: [Israel arrests new suspect behind Nomad Bridge $190M crypto hack](https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/) — 2025-25-16
@@ -58,7 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Windows 10 KB5058379 update triggers BitLocker recovery on some devices](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/) — 2025-38-15
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Bleeping Computer**: [Government webmail hacked via XSS bugs in global spy campaign](https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/) — 2025-14-15
-- **Bleeping Computer**: [FBI: US officials targeted in voice deepfake attacks since April](https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/) — 2025-22-15
 - **The Hacker News**: [Meta to Train AI on E.U. User Data From May 27 Without Consent; Noyb Threatens Lawsuit](https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html) — 2025-45-15
 - **The Hacker News**: [Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails](https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html) — 2025-28-15
 - **The Hacker News**: [Pen Testing for Compliance Only? It&#39;s Time to Change Your Approach](https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html) — 2025-25-15
