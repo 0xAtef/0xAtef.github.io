@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html) — 2025-07-17
 - **Bleeping Computer**: [Microsoft confirms May Windows 10 updates trigger BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/) — 2025-36-16
 - **Bleeping Computer**: [Israel arrests new suspect behind Nomad Bridge $190M crypto hack](https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/) — 2025-25-16
 - **Bleeping Computer**: [ChatGPT rolls out Codex, an AI tool for software programming](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/) — 2025-49-16
@@ -52,7 +53,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [US charges 12 more suspects linked to $230 million crypto theft](https://www.bleepingcomputer.com/news/security/us-charges-12-more-suspects-linked-to-230-million-crypto-theft/) — 2025-06-16
 - **Bleeping Computer**: [CISA tags recently patched Chrome bug as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-recently-patched-chrome-bug-as-actively-exploited-zero-day/) — 2025-13-16
 - **The Hacker News**: [Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks](https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html) — 2025-56-16
-- **The Hacker News**: [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html) — 2025-27-16
 - **Bleeping Computer**: [Leak confirms OpenAI&#39;s ChatGPT will integrate MCP](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/) — 2025-53-15
 - **Bleeping Computer**: [ChatGPT will soon record, transcribe, and summarize your meetings](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/) — 2025-09-15
 - **Bleeping Computer**: [Windows 10 KB5058379 update triggers BitLocker recovery on some devices](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/) — 2025-38-15
