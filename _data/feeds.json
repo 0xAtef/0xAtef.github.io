@@ -5,12 +5,5 @@
     "summary": "Modern apps move fast\u2014faster than most security teams can keep up. As businesses rush to build in the cloud, security often lags behind. Teams scan code in isolation, react late to cloud threats, and monitor SOC alerts only after damage is done.\nAttackers don\u2019t wait. They exploit vulnerabilities wit",
     "published": "2025-05-17T04:07:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft confirms May Windows 10 updates trigger BitLocker recovery",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/",
-    "summary": "\u200bMicrosoft has confirmed that some Windows 10 and Windows 10 Enterprise LTSC 2021 systems will boot into BitLocker recovery after installing the May 2025 security updates. [...]",
-    "published": "2025-05-16T18:36:04",
-    "source": "BleepingComputer"
   }
 ]
