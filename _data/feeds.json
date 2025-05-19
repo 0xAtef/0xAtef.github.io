@@ -1,5 +1,19 @@
 [
   {
+    "title": "Windows 10 emergency updates fix BitLocker recovery issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/",
+    "summary": "Microsoft has released out-of-band updates to fix a known issue causing Windows 10 systems to boot into BitLocker recovery after installing the May 2025 security updates. [...]",
+    "published": "2025-05-19T17:59:51",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Arla Foods confirms cyberattack disrupts production, causes delays",
+    "link": "https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/",
+    "summary": "Arla Foods has confirmed to BleepingComputer that it was targeted by a cyberattack that has disrupted its production operations. [...]",
+    "published": "2025-05-19T17:53:27",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft unveils Windows AI Foundry for AI-powered PC apps",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/",
     "summary": "Microsoft is replacing 'Copilot Runtime' with Windows AI Foundry to help developers build, experiment, and reach users with AI experiences in their apps. [...]",
