@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [OpenAI plans to combine multiple models into GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/) — 2025-11-19
 - **Bleeping Computer**: [Fake KeePass password manager leads to ESXi ransomware attack](https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/) — 2025-17-19
 - **Bleeping Computer**: [O2 UK patches bug leaking mobile user location from call metadata](https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/) — 2025-20-19
 - **Bleeping Computer**: [Windows 10 emergency updates fix BitLocker recovery issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/) — 2025-59-19
@@ -57,7 +58,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html) — 2025-00-19
 - **Bleeping Computer**: [New &#39;Defendnot&#39; tool tricks Windows into disabling Microsoft Defender](https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/) — 2025-09-17
 - **The Hacker News**: [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html) — 2025-07-17
-- **Bleeping Computer**: [Microsoft confirms May Windows 10 updates trigger BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/) — 2025-36-16
 - **The Hacker News**: [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html) — 2025-37-16
 - **The Hacker News**: [Top 10 Best Practices for Effective Data Protection](https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html) — 2025-30-16
 - **The Hacker News**: [Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks](https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html) — 2025-08-16
