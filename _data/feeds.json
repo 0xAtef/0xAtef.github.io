@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fake KeePass password manager leads to ESXi ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/",
+    "summary": "Threat actors have been distributing trojanized versions of the KeePass password manager for at least eight months to install Cobalt Strike beacons, steal credentials, and ultimately, deploy ransomware on the breached network. [...]",
+    "published": "2025-05-19T21:17:33",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "O2 UK patches bug leaking mobile user location from call metadata",
     "link": "https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/",
     "summary": "A flaw in O2 UK's implementation of VoLTE and WiFi Calling technologies could allow anyone to expose the general location of a person and other identifiers by calling the target. [...]",
