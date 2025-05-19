@@ -1,5 +1,12 @@
 [
   {
+    "title": "O2 UK patches bug leaking mobile user location from call metadata",
+    "link": "https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/",
+    "summary": "A flaw in O2 UK's implementation of VoLTE and WiFi Calling technologies could allow anyone to expose the general location of a person and other identifiers by calling the target. [...]",
+    "published": "2025-05-19T19:20:04",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Windows 10 emergency updates fix BitLocker recovery issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/",
     "summary": "Microsoft has released out-of-band updates to fix a known issue causing Windows 10 systems to boot into BitLocker recovery after installing the May 2025 security updates. [...]",
