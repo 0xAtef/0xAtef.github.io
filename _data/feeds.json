@@ -1,5 +1,19 @@
 [
   {
+    "title": "Mozilla fixes Firefox zero-days exploited at hacking contest",
+    "link": "https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/",
+    "summary": "Mozilla\u00a0released emergency security updates to address two Firefox zero-day vulnerabilities demonstrated in the recent Pwn2Own Berlin 2025 hacking competition. [...]",
+    "published": "2025-05-19T14:10:56",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Hackers earn $1,078,750 for 28 zero-days at Pwn2Own Berlin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/",
+    "summary": "The Pwn2Own Berlin 2025 hacking competition has concluded, with security researchers earning $1,078,750 after exploiting 29 zero-day vulnerabilities and encountering some bug collisions. [...]",
+    "published": "2025-05-19T14:03:43",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Why CTEM is the Winning Bet for CISOs in 2025",
     "link": "https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html",
     "summary": "Continuous Threat Exposure Management (CTEM) has moved from concept to cornerstone, solidifying its role as a strategic enabler for CISOs. No longer a theoretical framework, CTEM now anchors today\u2019s cybersecurity programs by continuously aligning security efforts with real-world risk.\nAt the heart o",
