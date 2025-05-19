@@ -40,8 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft unveils Windows AI Foundry for AI-powered PC apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/) — 2025-18-19
 - **Bleeping Computer**: [Microsoft confirms new &quot;Advanced&quot; Settings for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/) — 2025-06-19
 - **Bleeping Computer**: [Microsoft open-sources Windows Subsystem for Linux at Build 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/) — 2025-00-19
+- **The Hacker News**: [RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer](https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html) — 2025-48-19
 - **Bleeping Computer**: [UK Legal Aid Agency confirms applicant data stolen in data breach](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/) — 2025-10-19
 - **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **Bleeping Computer**: [Mozilla fixes Firefox zero-days exploited at hacking contest](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/) — 2025-10-19
@@ -56,7 +58,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [ChatGPT rolls out Codex, an AI tool for software programming](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/) — 2025-49-16
 - **Bleeping Computer**: [Hackers exploit VMware ESXi, Microsoft SharePoint zero-days at Pwn2Own](https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/) — 2025-23-16
 - **Bleeping Computer**: [Printer maker Procolored offered malware-laced drivers for months](https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/) — 2025-56-16
-- **Bleeping Computer**: [Ransomware gangs increasingly use Skitnet post-exploitation malware](https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/) — 2025-00-16
 - **The Hacker News**: [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html) — 2025-37-16
 - **The Hacker News**: [Top 10 Best Practices for Effective Data Protection](https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html) — 2025-30-16
 - **The Hacker News**: [Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks](https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html) — 2025-08-16
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [38,000+ FreeDrain Subdomains Found Exploiting SEO to Steal Crypto Wallet Seed Phrases](https://thehackernews.com/2025/05/38000-freedrain-subdomains-found.html) — 2025-23-08
 - **The Hacker News**: [Security Tools Alone Don&#39;t Protect You — Control Effectiveness Does](https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html) — 2025-00-08
 - **The Hacker News**: [SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root](https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html) — 2025-56-08
-- **The Hacker News**: [Qilin Ransomware Ranked Highest in April 2025 with 72 Data Leak Disclosures](https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html) — 2025-47-08
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
