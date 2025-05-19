@@ -96,12 +96,5 @@
     "summary": "Continuous Threat Exposure Management (CTEM) has moved from concept to cornerstone, solidifying its role as a strategic enabler for CISOs. No longer a theoretical framework, CTEM now anchors today\u2019s cybersecurity programs by continuously aligning security efforts with real-world risk.\nAt the heart o",
     "published": "2025-05-19T11:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards",
-    "link": "https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html",
-    "summary": "Mozilla has released security updates to address two critical security flaws in its Firefox browser that could be potentially exploited to access sensitive data or achieve code execution.\nThe vulnerabilities, both of which were exploited as a zero-day at Pwn2Own Berlin, are listed below -\n\nCVE-2025-",
-    "published": "2025-05-19T10:37:00",
-    "source": "HackerNews"
   }
 ]
