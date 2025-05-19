@@ -40,7 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft confirms new &quot;Advanced&quot; Settings for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/) — 2025-06-19
+- **Bleeping Computer**: [Microsoft open-sources Windows Subsystem for Linux at Build 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/) — 2025-00-19
 - **Bleeping Computer**: [UK Legal Aid Agency confirms applicant data stolen in data breach](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/) — 2025-10-19
+- **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **Bleeping Computer**: [Mozilla fixes Firefox zero-days exploited at hacking contest](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/) — 2025-10-19
 - **Bleeping Computer**: [Hackers earn $1,078,750 for 28 zero-days at Pwn2Own Berlin](https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/) — 2025-03-19
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
@@ -57,7 +60,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html) — 2025-37-16
 - **The Hacker News**: [Top 10 Best Practices for Effective Data Protection](https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html) — 2025-30-16
 - **The Hacker News**: [Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks](https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html) — 2025-08-16
-- **Bleeping Computer**: [US charges 12 more suspects linked to $230 million crypto theft](https://www.bleepingcomputer.com/news/security/us-charges-12-more-suspects-linked-to-230-million-crypto-theft/) — 2025-06-16
 - **The Hacker News**: [Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks](https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html) — 2025-56-16
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **The Hacker News**: [Meta to Train AI on E.U. User Data From May 27 Without Consent; Noyb Threatens Lawsuit](https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html) — 2025-45-15
@@ -102,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Security Tools Alone Don&#39;t Protect You — Control Effectiveness Does](https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html) — 2025-00-08
 - **The Hacker News**: [SonicWall Patches 3 Flaws in SMA 100 Devices Allowing Attackers to Run Code as Root](https://thehackernews.com/2025/05/sonicwall-patches-3-flaws-in-sma-100.html) — 2025-56-08
 - **The Hacker News**: [Qilin Ransomware Ranked Highest in April 2025 with 72 Data Leak Disclosures](https://thehackernews.com/2025/05/qilin-leads-april-2025-ransomware-spike.html) — 2025-47-08
-- **The Hacker News**: [MirrorFace Targets Japan and Taiwan with ROAMINGMOUSE and Upgraded ANEL Malware](https://thehackernews.com/2025/05/mirrorface-targets-japan-and-taiwan.html) — 2025-32-08
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
