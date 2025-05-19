@@ -1,5 +1,26 @@
 [
   {
+    "title": "Microsoft unveils Windows AI Foundry for AI-powered PC apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/",
+    "summary": "Microsoft is replacing 'Copilot Runtime' with Windows AI Foundry to help developers build, experiment, and reach users with AI experiences in their apps. [...]",
+    "published": "2025-05-19T16:18:26",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Microsoft confirms new \"Advanced\" Settings for Windows 11",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/",
+    "summary": "At the Build 2025 developer conference, Microsoft announced a new 'Advanced Settings' feature to help users and developers personalize the OS experience. [...]",
+    "published": "2025-05-19T16:06:46",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Microsoft open-sources Windows Subsystem for Linux at Build 2025",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/",
+    "summary": "Microsoft has open-sourced the Windows Subsystem for Linux (WSL), making its source code available on GitHub, except for a few components that are part of Windows. [...]",
+    "published": "2025-05-19T16:00:00",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "UK Legal Aid Agency confirms applicant data stolen in data breach",
     "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/",
     "summary": "The United Kingdom's Legal Aid Agency (LAA) has confirmed that a recent cyberattack is more serious than first believed, with hackers stealing a large trove of sensitive applicant data in a data breach. [...]",
