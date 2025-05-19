@@ -7,6 +7,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access",
+    "link": "https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html",
+    "summary": "Several ransomware actors are using a malware called Skitnet as part of their post-exploitation efforts to steal sensitive data and establish remote control over compromised hosts.\n\"Skitnet has been sold on underground forums like RAMP since April 2024,\" Swiss cybersecurity company PRODAFT told The ",
+    "published": "2025-05-19T14:38:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Mozilla fixes Firefox zero-days exploited at hacking contest",
     "link": "https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/",
     "summary": "Mozilla\u00a0released emergency security updates to address two Firefox zero-day vulnerabilities demonstrated in the recent Pwn2Own Berlin 2025 hacking competition. [...]",
