@@ -1,5 +1,12 @@
 [
   {
+    "title": "UK Legal Aid Agency confirms applicant data stolen in data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/",
+    "summary": "The United Kingdom's Legal Aid Agency (LAA) has confirmed that a recent cyberattack is more serious than first believed, with hackers stealing a large trove of sensitive applicant data in a data breach. [...]",
+    "published": "2025-05-19T15:10:44",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Mozilla fixes Firefox zero-days exploited at hacking contest",
     "link": "https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/",
     "summary": "Mozilla\u00a0released emergency security updates to address two Firefox zero-day vulnerabilities demonstrated in the recent Pwn2Own Berlin 2025 hacking competition. [...]",
