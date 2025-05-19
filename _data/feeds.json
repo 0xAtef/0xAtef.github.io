@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "title": "Why CTEM is the Winning Bet for CISOs in 2025",
+    "link": "https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html",
+    "summary": "Continuous Threat Exposure Management (CTEM) has moved from concept to cornerstone, solidifying its role as a strategic enabler for CISOs. No longer a theoretical framework, CTEM now anchors today\u2019s cybersecurity programs by continuously aligning security efforts with real-world risk.\nAt the heart o",
+    "published": "2025-05-19T11:00:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards",
+    "link": "https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html",
+    "summary": "Mozilla has released security updates to address two critical security flaws in its Firefox browser that could be potentially exploited to access sensitive data or achieve code execution.\nThe vulnerabilities, both of which were exploited as a zero-day at Pwn2Own Berlin, are listed below -\n\nCVE-2025-",
+    "published": "2025-05-19T10:37:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More",
+    "link": "https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html",
+    "summary": "Cybersecurity leaders aren\u2019t just dealing with attacks\u2014they\u2019re also protecting trust, keeping systems running, and maintaining their organization\u2019s reputation. This week\u2019s developments highlight a bigger issue: as we rely more on digital tools, hidden weaknesses can quietly grow.&nbsp;\nJust fixing p",
+    "published": "2025-05-19T10:00:00",
+    "source": "HackerNews"
+  }
+]
