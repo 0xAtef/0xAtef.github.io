@@ -1,5 +1,12 @@
 [
   {
+    "title": "VanHelsing ransomware builder leaked on hacking forum",
+    "link": "https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/",
+    "summary": "The VanHelsing ransomware-as-a-service operation published the\u00a0source code for its affiliate panel, data leak blog, and Windows encryptor builder after an old developer tried to sell it on the RAMP cybercrime forum. [...]",
+    "published": "2025-05-20T19:06:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "SK Telecom says malware breach lasted 3 years, impacted 27 million numbers",
     "link": "https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/",
     "summary": "SK Telecom says that a recently disclosed cybersecurity incident in April, first occurred all the way back in 2022, ultimately exposing\u00a0the USIM data of 27 million subscribers. [...]",
