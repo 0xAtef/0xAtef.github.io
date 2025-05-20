@@ -1,5 +1,12 @@
 [
   {
+    "title": "KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS",
+    "link": "https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/",
+    "summary": "KrebsOnSecurity last week was hit by a near record distributed denial-of-service (DDoS) attack that clocked in at more than 6.3 terabits of data per second (a terabit is one trillion bits of data). The brief attack appears to have been a test run for a massive new Internet of Things (IoT) botnet cap",
+    "published": "2025-05-20T21:30:30",
+    "source": "Krebs"
+  },
+  {
     "title": "Mobile carrier Cellcom confirms cyberattack behind extended outages",
     "link": "https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/",
     "summary": "Wisconsin wireless provider Cellcom has confirmed that a cyberattack is responsible for the widespread service outage and disruptions that began on the evening of May 14, 2025. [...]",
@@ -81,13 +88,6 @@
     "link": "https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html",
     "summary": "High-level government institutions in Sri Lanka, Bangladesh, and Pakistan have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder.\n\"The attackers used spear phishing emails paired with geofenced payloads to ensure that only victims in specific countries receiv",
     "published": "2025-05-20T10:57:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization",
-    "link": "https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html",
-    "summary": "Threat hunters have exposed the tactics of a China-aligned threat actor called UnsolicitedBooker that targeted an unnamed international organization in Saudi Arabia with a previously undocumented backdoor dubbed MarsSnake.\nESET, which first discovered the hacking group's intrusions targeting the ent",
-    "published": "2025-05-20T09:32:00",
     "source": "HackerNews"
   }
 ]
