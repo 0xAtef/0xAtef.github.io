@@ -1,5 +1,19 @@
 [
   {
+    "title": "Mobile carrier Cellcom confirms cyberattack behind extended outages",
+    "link": "https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/",
+    "summary": "Wisconsin wireless provider Cellcom has confirmed that a cyberattack is responsible for the widespread service outage and disruptions that began on the evening of May 14, 2025. [...]",
+    "published": "2025-05-20T20:19:34",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Premium WordPress 'Motors' theme vulnerable to admin takeover attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/",
+    "summary": "A critical privilege escalation vulnerability has been discovered in the premium WordPress theme Motors, which allows unauthenticated attackers to hijack administrator accounts and take complete control of websites. [...]",
+    "published": "2025-05-20T19:46:18",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "VanHelsing ransomware builder leaked on hacking forum",
     "link": "https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/",
     "summary": "The VanHelsing ransomware-as-a-service operation published the\u00a0source code for its affiliate panel, data leak blog, and Windows encryptor builder after an old developer tried to sell it on the RAMP cybercrime forum. [...]",
@@ -74,13 +88,6 @@
     "link": "https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html",
     "summary": "Threat hunters have exposed the tactics of a China-aligned threat actor called UnsolicitedBooker that targeted an unnamed international organization in Saudi Arabia with a previously undocumented backdoor dubbed MarsSnake.\nESET, which first discovered the hacking group's intrusions targeting the ent",
     "published": "2025-05-20T09:32:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse",
-    "link": "https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html",
-    "summary": "Cybersecurity researchers are calling attention to a new Linux cryptojacking campaign that's targeting publicly accessible Redis servers.\nThe malicious activity has been codenamed RedisRaider by Datadog Security Labs.\n\"RedisRaider aggressively scans randomized portions of the IPv4 space and uses leg",
-    "published": "2025-05-20T08:25:00",
     "source": "HackerNews"
   }
 ]
