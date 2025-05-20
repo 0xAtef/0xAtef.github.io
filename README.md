@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Mobile carrier Cellcom confirms cyberattack behind extended outages](https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/) — 2025-19-20
 - **Bleeping Computer**: [Premium WordPress &#39;Motors&#39; theme vulnerable to admin takeover attacks](https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/) — 2025-46-20
 - **Bleeping Computer**: [VanHelsing ransomware builder leaked on hacking forum](https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/) — 2025-06-20
 - **Bleeping Computer**: [SK Telecom says malware breach lasted 3 years, impacted 27 million numbers](https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/) — 2025-07-20
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Arla Foods confirms cyberattack disrupts production, causes delays](https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/) — 2025-53-19
 - **Bleeping Computer**: [Microsoft unveils Windows AI Foundry for AI-powered PC apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/) — 2025-18-19
 - **Bleeping Computer**: [Microsoft confirms new &quot;Advanced&quot; Settings for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/) — 2025-06-19
-- **Bleeping Computer**: [Microsoft open-sources Windows Subsystem for Linux at Build 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/) — 2025-00-19
 - **The Hacker News**: [RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer](https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html) — 2025-48-19
 - **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
