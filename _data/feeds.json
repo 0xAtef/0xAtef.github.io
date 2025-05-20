@@ -1,5 +1,19 @@
 [
   {
+    "title": "RVTools hit in supply chain attack to deliver Bumblebee malware",
+    "link": "https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/",
+    "summary": "The official website for the RVTools VMware management tool was taken offline in what appears to be a supply chain attack where hackers replaced a DLL in the distributed installer to drop\u00a0the Bumblebee malware loader on users' machines. [...]",
+    "published": "2025-05-20T14:39:17",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Service desks are under attack: What can you do about it?",
+    "link": "https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/",
+    "summary": "Service desks are on the front lines of defense\u2014and attackers know it. Attackers are using social engineering attacks to trick agents into changing passwords, disabling MFA, and granting access. Learn more from Specops Software on how to secure your service desk. [...]",
+    "published": "2025-05-20T14:01:11",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware",
     "link": "https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html",
     "summary": "High-level government institutions in Sri Lanka, Bangladesh, and Pakistan have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder.\n\"The attackers used spear phishing emails paired with geofenced payloads to ensure that only victims in specific countries receiv",
