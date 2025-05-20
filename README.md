@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [RVTools hit in supply chain attack to deliver Bumblebee malware](https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/) — 2025-39-20
+- **Bleeping Computer**: [Service desks are under attack: What can you do about it?](https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/) — 2025-01-20
 - **The Hacker News**: [South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware](https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html) — 2025-57-20
 - **The Hacker News**: [AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation](https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html) — 2025-42-20
 - **The Hacker News**: [The Crowded Battle: Key Insights from the 2025 State of Pentesting Report](https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html) — 2025-00-20
@@ -62,7 +64,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
 - **The Hacker News**: [Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards](https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html) — 2025-37-19
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html) — 2025-00-19
-- **Bleeping Computer**: [New &#39;Defendnot&#39; tool tricks Windows into disabling Microsoft Defender](https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/) — 2025-09-17
 - **The Hacker News**: [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html) — 2025-07-17
 - **The Hacker News**: [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html) — 2025-37-16
 - **The Hacker News**: [Top 10 Best Practices for Effective Data Protection](https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html) — 2025-30-16
