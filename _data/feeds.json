@@ -1,5 +1,12 @@
 [
   {
+    "title": "Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse",
+    "link": "https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html",
+    "summary": "Cybersecurity researchers are calling attention to a new Linux cryptojacking campaign that's targeting publicly accessible Redis servers.\nThe malicious activity has been codenamed RedisRaider by Datadog Security Labs.\n\"RedisRaider aggressively scans randomized portions of the IPv4 space and uses leg",
+    "published": "2025-05-20T08:25:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts",
     "link": "https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html",
     "summary": "Cybersecurity researchers have uncovered malicious packages uploaded to the Python Package Index (PyPI) repository that act as checker tools to validate stolen email addresses against TikTok and Instagram APIs.\nAll three packages are no longer available on PyPI. The names of the Python packages are ",
@@ -11,13 +18,6 @@
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/",
     "summary": "OpenAI is planning to combine multiple products (features or models) into its next foundational model, which is called GPT-5. [...]",
     "published": "2025-05-19T22:11:51",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Fake KeePass password manager leads to ESXi ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/",
-    "summary": "Threat actors have been distributing trojanized versions of the KeePass password manager for at least eight months to install Cobalt Strike beacons, steal credentials, and ultimately, deploy ransomware on the breached network. [...]",
-    "published": "2025-05-19T21:17:33",
     "source": "BleepingComputer"
   }
 ]
