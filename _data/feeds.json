@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization",
+    "link": "https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html",
+    "summary": "Threat hunters have exposed the tactics of a China-aligned threat actor called UnsolicitedBooker that targeted an unnamed international organization in Saudi Arabia with a previously undocumented backdoor dubbed MarsSnake.\nESET, which first discovered the hacking group's intrusions targeting the ent",
+    "published": "2025-05-20T09:32:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse",
     "link": "https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html",
     "summary": "Cybersecurity researchers are calling attention to a new Linux cryptojacking campaign that's targeting publicly accessible Redis servers.\nThe malicious activity has been codenamed RedisRaider by Datadog Security Labs.\n\"RedisRaider aggressively scans randomized portions of the IPv4 space and uses leg",
@@ -12,12 +19,5 @@
     "summary": "Cybersecurity researchers have uncovered malicious packages uploaded to the Python Package Index (PyPI) repository that act as checker tools to validate stolen email addresses against TikTok and Instagram APIs.\nAll three packages are no longer available on PyPI. The names of the Python packages are ",
     "published": "2025-05-20T05:49:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "OpenAI plans to combine multiple models into GPT-5",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/",
-    "summary": "OpenAI is planning to combine multiple products (features or models) into its next foundational model, which is called GPT-5. [...]",
-    "published": "2025-05-19T22:11:51",
-    "source": "BleepingComputer"
   }
 ]
