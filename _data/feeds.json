@@ -1,10 +1,24 @@
 [
   {
+    "title": "SK Telecom says malware breach lasted 3 years, impacted 27 million numbers",
+    "link": "https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/",
+    "summary": "SK Telecom says that a recently disclosed cybersecurity incident in April, first occurred all the way back in 2022, ultimately exposing\u00a0the USIM data of 27 million subscribers. [...]",
+    "published": "2025-05-20T17:07:40",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains",
     "link": "https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/",
     "summary": "A threat actor named 'Hazy Hawk' has been using DNS CNAME hijacking to hijack abandoned cloud endpoints of domains belonging to trusted organizations and incorporate them in large-scale scam delivery and traffic distribution systems (TDS). [...]",
     "published": "2025-05-20T15:57:09",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery",
+    "link": "https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html",
+    "summary": "A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources of high-profile organizations, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in the Domain Name System (DNS) records.\nThe hijacked domains are then used to host URLs t",
+    "published": "2025-05-20T15:53:00",
+    "source": "HackerNews"
   },
   {
     "title": "100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads",
