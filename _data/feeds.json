@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains",
+    "link": "https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/",
+    "summary": "A threat actor named 'Hazy Hawk' has been using DNS CNAME hijacking to hijack abandoned cloud endpoints of domains belonging to trusted organizations and incorporate them in large-scale scam delivery and traffic distribution systems (TDS). [...]",
+    "published": "2025-05-20T15:57:09",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads",
     "link": "https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html",
     "summary": "An unknown threat actor has been attributed to creating several malicious Chrome Browser extensions since February 2024 that masquerade as seemingly benign utilities but incorporate covert functionality to exfiltrate data, receive commands, and execute arbitrary code.\n\"The actor creates websites tha",
