@@ -33,26 +33,5 @@
     "summary": "Arla Foods has confirmed to BleepingComputer that it was targeted by a cyberattack that has disrupted its production operations. [...]",
     "published": "2025-05-19T17:53:27",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft unveils Windows AI Foundry for AI-powered PC apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/",
-    "summary": "Microsoft is replacing 'Copilot Runtime' with Windows AI Foundry to help developers build, experiment, and reach users with AI experiences in their apps. [...]",
-    "published": "2025-05-19T16:18:26",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft confirms new \"Advanced\" Settings for Windows 11",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/",
-    "summary": "At the Build 2025 developer conference, Microsoft announced a new 'Advanced Settings' feature to help users and developers personalize the OS experience. [...]",
-    "published": "2025-05-19T16:06:46",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft open-sources Windows Subsystem for Linux at Build 2025",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/",
-    "summary": "Microsoft has open-sourced the Windows Subsystem for Linux (WSL), making its source code available on GitHub, except for a few components that are part of Windows. [...]",
-    "published": "2025-05-19T16:00:00",
-    "source": "BleepingComputer"
   }
 ]
