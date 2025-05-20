@@ -1,5 +1,12 @@
 [
   {
+    "title": "Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts",
+    "link": "https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html",
+    "summary": "Cybersecurity researchers have uncovered malicious packages uploaded to the Python Package Index (PyPI) repository that act as checker tools to validate stolen email addresses against TikTok and Instagram APIs.\nAll three packages are no longer available on PyPI. The names of the Python packages are ",
+    "published": "2025-05-20T05:49:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "OpenAI plans to combine multiple models into GPT-5",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/",
     "summary": "OpenAI is planning to combine multiple products (features or models) into its next foundational model, which is called GPT-5. [...]",
@@ -11,13 +18,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/",
     "summary": "Threat actors have been distributing trojanized versions of the KeePass password manager for at least eight months to install Cobalt Strike beacons, steal credentials, and ultimately, deploy ransomware on the breached network. [...]",
     "published": "2025-05-19T21:17:33",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "O2 UK patches bug leaking mobile user location from call metadata",
-    "link": "https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/",
-    "summary": "A flaw in O2 UK's implementation of VoLTE and WiFi Calling technologies could allow anyone to expose the general location of a person and other identifiers by calling the target. [...]",
-    "published": "2025-05-19T19:20:04",
     "source": "BleepingComputer"
   }
 ]
