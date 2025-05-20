@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [SK Telecom says malware breach lasted 3 years, impacted 27 million numbers](https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/) — 2025-07-20
 - **Bleeping Computer**: [Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains](https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/) — 2025-57-20
+- **The Hacker News**: [Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery](https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html) — 2025-53-20
 - **The Hacker News**: [100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads](https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html) — 2025-01-20
 - **Bleeping Computer**: [RVTools hit in supply chain attack to deliver Bumblebee malware](https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/) — 2025-39-20
 - **Bleeping Computer**: [Service desks are under attack: What can you do about it?](https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/) — 2025-01-20
@@ -62,7 +64,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [UK Legal Aid Agency confirms applicant data stolen in data breach](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/) — 2025-10-19
 - **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **Bleeping Computer**: [Mozilla fixes Firefox zero-days exploited at hacking contest](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/) — 2025-10-19
-- **Bleeping Computer**: [Hackers earn $1,078,750 for 28 zero-days at Pwn2Own Berlin](https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/) — 2025-03-19
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
 - **The Hacker News**: [Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards](https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html) — 2025-37-19
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html) — 2025-00-19
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html) — 2025-28-09
 - **The Hacker News**: [OtterCookie v4 Adds VM Detection and Chrome, MetaMask Credential Theft Capabilities](https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html) — 2025-25-09
 - **The Hacker News**: [Initial Access Brokers Target Brazil Execs via NF-e Spam and Legit RMM Trials](https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html) — 2025-40-09
-- **The Hacker News**: [Deploying AI Agents? Learn to Secure Them Before Hackers Strike Your Business](https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html) — 2025-11-09
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
