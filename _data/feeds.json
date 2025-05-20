@@ -1,5 +1,19 @@
 [
   {
+    "title": "South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware",
+    "link": "https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html",
+    "summary": "High-level government institutions in Sri Lanka, Bangladesh, and Pakistan have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder.\n\"The attackers used spear phishing emails paired with geofenced payloads to ensure that only victims in specific countries receiv",
+    "published": "2025-05-20T12:57:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation",
+    "link": "https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html",
+    "summary": "Cybersecurity researchers have discovered risky default identity and access management (IAM) roles impacting Amazon Web Services that could open the door for attackers to escalate privileges, manipulate other AWS services, and, in some cases, even fully compromise AWS accounts.\n\"These roles, often c",
+    "published": "2025-05-20T12:42:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "The Crowded Battle: Key Insights from the 2025 State of Pentesting Report",
     "link": "https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html",
     "summary": "In the newly released 2025 State of Pentesting Report, Pentera surveyed 500 CISOs from global enterprises (200 from within the USA) to understand the strategies, tactics, and tools they use to cope with the thousands of security alerts, the persisting breaches and the growing cyber risks they have t",
