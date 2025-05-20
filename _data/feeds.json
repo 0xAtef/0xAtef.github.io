@@ -1,8 +1,15 @@
 [
   {
+    "title": "100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads",
+    "link": "https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html",
+    "summary": "An unknown threat actor has been attributed to creating several malicious Chrome Browser extensions since February 2024 that masquerade as seemingly benign utilities but incorporate covert functionality to exfiltrate data, receive commands, and execute arbitrary code.\n\"The actor creates websites tha",
+    "published": "2025-05-20T15:01:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "RVTools hit in supply chain attack to deliver Bumblebee malware",
     "link": "https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/",
-    "summary": "The official website for the RVTools VMware management tool was taken offline in what appears to be a supply chain attack where hackers replaced a DLL in the distributed installer to drop\u00a0the Bumblebee malware loader on users' machines. [...]",
+    "summary": "The official website for the RVTools VMware management tool was taken offline in what appears to be a supply chain attack that distributed a trojanized installer to drop\u00a0the Bumblebee malware loader on users' machines. [...]",
     "published": "2025-05-20T14:39:17",
     "source": "BleepingComputer"
   },
@@ -12,13 +19,6 @@
     "summary": "Service desks are on the front lines of defense\u2014and attackers know it. Attackers are using social engineering attacks to trick agents into changing passwords, disabling MFA, and granting access. Learn more from Specops Software on how to secure your service desk. [...]",
     "published": "2025-05-20T14:01:11",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware",
-    "link": "https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html",
-    "summary": "High-level government institutions in Sri Lanka, Bangladesh, and Pakistan have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder.\n\"The attackers used spear phishing emails paired with geofenced payloads to ensure that only victims in specific countries receiv",
-    "published": "2025-05-20T12:57:00",
-    "source": "HackerNews"
   },
   {
     "title": "AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation",
@@ -32,6 +32,13 @@
     "link": "https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html",
     "summary": "In the newly released 2025 State of Pentesting Report, Pentera surveyed 500 CISOs from global enterprises (200 from within the USA) to understand the strategies, tactics, and tools they use to cope with the thousands of security alerts, the persisting breaches and the growing cyber risks they have t",
     "published": "2025-05-20T11:00:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware",
+    "link": "https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html",
+    "summary": "High-level government institutions in Sri Lanka, Bangladesh, and Pakistan have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder.\n\"The attackers used spear phishing emails paired with geofenced payloads to ensure that only victims in specific countries receiv",
+    "published": "2025-05-20T10:57:00",
     "source": "HackerNews"
   },
   {
