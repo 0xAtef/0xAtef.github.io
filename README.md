@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Premium WordPress &#39;Motors&#39; theme vulnerable to admin takeover attacks](https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/) — 2025-46-20
 - **Bleeping Computer**: [VanHelsing ransomware builder leaked on hacking forum](https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/) — 2025-06-20
 - **Bleeping Computer**: [SK Telecom says malware breach lasted 3 years, impacted 27 million numbers](https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/) — 2025-07-20
 - **Bleeping Computer**: [Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains](https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/) — 2025-57-20
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft confirms new &quot;Advanced&quot; Settings for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/) — 2025-06-19
 - **Bleeping Computer**: [Microsoft open-sources Windows Subsystem for Linux at Build 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/) — 2025-00-19
 - **The Hacker News**: [RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer](https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html) — 2025-48-19
-- **Bleeping Computer**: [UK Legal Aid Agency confirms applicant data stolen in data breach](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/) — 2025-10-19
 - **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
 - **The Hacker News**: [Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards](https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html) — 2025-37-19
