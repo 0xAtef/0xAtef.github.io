@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows](https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/) — 2025-02-21
 - **Bleeping Computer**: [European Union sanctions Stark Industries for enabling cyberattacks](https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/) — 2025-37-21
 - **The Hacker News**: [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html) — 2025-10-21
 - **The Hacker News**: [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html) — 2025-15-21
@@ -67,7 +68,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization](https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html) — 2025-32-20
 - **The Hacker News**: [Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse](https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html) — 2025-25-20
 - **The Hacker News**: [Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts](https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html) — 2025-49-20
-- **Bleeping Computer**: [OpenAI plans to combine multiple models into GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/) — 2025-11-19
 - **The Hacker News**: [RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer](https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html) — 2025-48-19
 - **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
