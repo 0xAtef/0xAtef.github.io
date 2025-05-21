@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Russian hackers breach orgs to track aid routes to Ukraine](https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/) — 2025-21-21
 - **Bleeping Computer**: [Russia to enforce location tracking app on all foreigners in Moscow](https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/) — 2025-24-21
 - **The Hacker News**: [Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics](https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html) — 2025-06-21
 - **Bleeping Computer**: [3AM ransomware uses spoofed IT calls, email bombing to breach networks](https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/) — 2025-27-21
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Bleeping Computer**: [Mobile carrier Cellcom confirms cyberattack behind extended outages](https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/) — 2025-19-20
 - **Bleeping Computer**: [Premium WordPress &#39;Motors&#39; theme vulnerable to admin takeover attacks](https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/) — 2025-46-20
-- **Bleeping Computer**: [VanHelsing ransomware builder leaked on hacking forum](https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/) — 2025-06-20
 - **The Hacker News**: [Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery](https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html) — 2025-53-20
 - **The Hacker News**: [100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads](https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html) — 2025-01-20
 - **The Hacker News**: [AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation](https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html) — 2025-42-20
