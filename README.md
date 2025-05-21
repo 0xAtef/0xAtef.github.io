@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html) — 2025-15-21
 - **Bleeping Computer**: [Kettering Health hit by system-wide outage after ransomware attack](https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/) — 2025-45-21
+- **The Hacker News**: [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html) — 2025-25-21
 - **The Hacker News**: [How to Detect Phishing Attacks Faster: Tycoon2FA Example](https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html) — 2025-30-21
 - **Bleeping Computer**: [Marks &amp; Spencer faces $402 million profit hit after cyberattack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/) — 2025-10-21
 - **Bleeping Computer**: [Coinbase says recent data breach impacts 69,461 customers](https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/) — 2025-33-21
@@ -104,8 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html) — 2025-10-12
 - **The Hacker News**: [The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That](https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html) — 2025-00-12
 - **The Hacker News**: [Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures](https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html) — 2025-26-12
-- **The Hacker News**: [Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection](https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html) — 2025-54-10
-- **The Hacker News**: [Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data](https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html) — 2025-47-10
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
