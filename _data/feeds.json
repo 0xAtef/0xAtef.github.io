@@ -1,5 +1,12 @@
 [
   {
+    "title": "Coinbase says recent data breach impacts 69,461 customers",
+    "link": "https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/",
+    "summary": "Coinbase, a cryptocurrency exchange with over 100 million customers, revealed that\u00a0a recent data breach in which cybercriminals stole customer and corporate data affected 69,461 individuals [...]",
+    "published": "2025-05-21T09:33:06",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager",
     "link": "https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html",
     "summary": "Google has announced a new feature in its Chrome browser that lets its built-in Password Manager automatically change a user's password when it detects the credentials to be compromised.\n\"When Chrome detects a compromised password during sign in, Google Password Manager prompts the user with an opti",
@@ -12,12 +19,5 @@
     "summary": "A 19-year-old college student from Worcester, Massachusetts, has agreed to plead guilty to\u00a0a massive cyberattack on PowerSchool that extorted millions of dollars in exchange for not leaking the personal data of millions of students and teachers. [...]",
     "published": "2025-05-20T23:27:17",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS",
-    "link": "https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/",
-    "summary": "KrebsOnSecurity last week was hit by a near record distributed denial-of-service (DDoS) attack that clocked in at more than 6.3 terabits of data per second (a terabit is one trillion bits of data). The brief attack appears to have been a test run for a massive new Internet of Things (IoT) botnet cap",
-    "published": "2025-05-20T21:30:30",
-    "source": "Krebs"
   }
 ]
