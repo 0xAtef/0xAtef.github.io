@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Lumma infostealer malware operation disrupted, 2,300 domains seized](https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/) — 2025-00-21
 - **Bleeping Computer**: [Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs](https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/) — 2025-13-21
 - **Bleeping Computer**: [ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows](https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/) — 2025-02-21
 - **Bleeping Computer**: [European Union sanctions Stark Industries for enabling cyberattacks](https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/) — 2025-37-21
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery](https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html) — 2025-53-20
 - **The Hacker News**: [100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads](https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html) — 2025-01-20
 - **Bleeping Computer**: [Trojanized RVTools push Bumblebee malware in SEO poisoning campaign](https://www.bleepingcomputer.com/news/security/trojanized-rvtools-push-bumblebee-malware-in-seo-poisoning-campaign/) — 2025-39-20
-- **Bleeping Computer**: [Service desks are under attack: What can you do about it?](https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/) — 2025-01-20
 - **The Hacker News**: [AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation](https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html) — 2025-42-20
 - **The Hacker News**: [The Crowded Battle: Key Insights from the 2025 State of Pentesting Report](https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html) — 2025-00-20
 - **The Hacker News**: [South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware](https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html) — 2025-57-20
