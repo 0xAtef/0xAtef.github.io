@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Anthropic web config hints at Claude Sonnet 4 and Opus 4](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/) — 2025-01-21
+- **Bleeping Computer**: [OpenAI hints at a big upgrade for ChatGPT Operator Agent](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hints-at-a-big-upgrade-for-chatgpt-operator-agent/) — 2025-33-21
+- **Bleeping Computer**: [Critical Samlify SSO flaw lets attackers log in as admin](https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/) — 2025-11-21
 - **Bleeping Computer**: [Russian hackers breach orgs to track aid routes to Ukraine](https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/) — 2025-21-21
 - **Bleeping Computer**: [Russia to enforce location tracking app on all foreigners in Moscow](https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/) — 2025-24-21
 - **The Hacker News**: [Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics](https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html) — 2025-06-21
@@ -57,10 +60,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Coinbase says recent data breach impacts 69,461 customers](https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/) — 2025-33-21
 - **The Hacker News**: [Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps](https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html) — 2025-01-21
 - **The Hacker News**: [Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager](https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html) — 2025-11-21
-- **Bleeping Computer**: [PowerSchool hacker pleads guilty to student data extortion scheme](https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/) — 2025-27-20
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
-- **Bleeping Computer**: [Mobile carrier Cellcom confirms cyberattack behind extended outages](https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/) — 2025-19-20
-- **Bleeping Computer**: [Premium WordPress &#39;Motors&#39; theme vulnerable to admin takeover attacks](https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/) — 2025-46-20
 - **The Hacker News**: [Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery](https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html) — 2025-53-20
 - **The Hacker News**: [100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads](https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html) — 2025-01-20
 - **The Hacker News**: [AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation](https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html) — 2025-42-20
