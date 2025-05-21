@@ -40,12 +40,5 @@
     "summary": "SK Telecom says that a recently disclosed cybersecurity incident in April, first occurred all the way back in 2022, ultimately exposing\u00a0the USIM data of 27 million subscribers. [...]",
     "published": "2025-05-20T17:07:40",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains",
-    "link": "https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/",
-    "summary": "A threat actor named 'Hazy Hawk' has been using DNS CNAME hijacking to hijack abandoned cloud endpoints of domains belonging to trusted organizations and incorporate them in large-scale scam delivery and traffic distribution systems (TDS). [...]",
-    "published": "2025-05-20T15:57:09",
-    "source": "BleepingComputer"
   }
 ]
