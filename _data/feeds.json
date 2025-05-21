@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager",
+    "link": "https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html",
+    "summary": "Google has announced a new feature in its Chrome browser that lets its built-in Password Manager automatically change a user's password when it detects the credentials to be compromised.\n\"When Chrome detects a compromised password during sign in, Google Password Manager prompts the user with an opti",
+    "published": "2025-05-21T07:11:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "PowerSchool hacker pleads guilty to student data extortion scheme",
     "link": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/",
     "summary": "A 19-year-old college student from Worcester, Massachusetts, has agreed to plead guilty to\u00a0a massive cyberattack on PowerSchool that extorted millions of dollars in exchange for not leaking the personal data of millions of students and teachers. [...]",
@@ -12,19 +19,5 @@
     "summary": "KrebsOnSecurity last week was hit by a near record distributed denial-of-service (DDoS) attack that clocked in at more than 6.3 terabits of data per second (a terabit is one trillion bits of data). The brief attack appears to have been a test run for a massive new Internet of Things (IoT) botnet cap",
     "published": "2025-05-20T21:30:30",
     "source": "Krebs"
-  },
-  {
-    "title": "Mobile carrier Cellcom confirms cyberattack behind extended outages",
-    "link": "https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/",
-    "summary": "Wisconsin wireless provider Cellcom has confirmed that a cyberattack is responsible for the widespread service outage and disruptions that began on the evening of May 14, 2025. [...]",
-    "published": "2025-05-20T20:19:34",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Premium WordPress 'Motors' theme vulnerable to admin takeover attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/",
-    "summary": "A critical privilege escalation vulnerability has been discovered in the premium WordPress theme Motors, which allows unauthenticated attackers to hijack administrator accounts and take complete control of websites. [...]",
-    "published": "2025-05-20T19:46:18",
-    "source": "BleepingComputer"
   }
 ]
