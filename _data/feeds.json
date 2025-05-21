@@ -54,26 +54,5 @@
     "summary": "A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources of high-profile organizations, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in the Domain Name System (DNS) records.\nThe hijacked domains are then used to host URLs t",
     "published": "2025-05-20T15:53:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads",
-    "link": "https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html",
-    "summary": "An unknown threat actor has been attributed to creating several malicious Chrome Browser extensions since February 2024 that masquerade as seemingly benign utilities but incorporate covert functionality to exfiltrate data, receive commands, and execute arbitrary code.\n\"The actor creates websites tha",
-    "published": "2025-05-20T15:01:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "RVTools hit in supply chain attack to deliver Bumblebee malware",
-    "link": "https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/",
-    "summary": "The official website for the RVTools VMware management tool was taken offline in what appears to be a supply chain attack that distributed a trojanized installer to drop\u00a0the Bumblebee malware loader on users' machines. [...]",
-    "published": "2025-05-20T14:39:17",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Service desks are under attack: What can you do about it?",
-    "link": "https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/",
-    "summary": "Service desks are on the front lines of defense\u2014and attackers know it. Attackers are using social engineering attacks to trick agents into changing passwords, disabling MFA, and granting access. Learn more from Specops Software on how to secure your service desk. [...]",
-    "published": "2025-05-20T14:01:11",
-    "source": "BleepingComputer"
   }
 ]
