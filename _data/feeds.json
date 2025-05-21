@@ -96,12 +96,5 @@
     "summary": "Coinbase, a cryptocurrency exchange with over 100 million customers, revealed that\u00a0a recent data breach in which cybercriminals stole customer and corporate data affected 69,461 individuals [...]",
     "published": "2025-05-21T09:33:06",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps",
-    "link": "https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html",
-    "summary": "Cybersecurity researchers have discovered a new campaign that employs malicious JavaScript injections to redirect site visitors on mobile devices to a Chinese adult-content Progressive Web App (PWA) scam.\n\"While the payload itself is nothing new (yet another adult gambling scam), the delivery method",
-    "published": "2025-05-21T09:01:00",
-    "source": "HackerNews"
   }
 ]
