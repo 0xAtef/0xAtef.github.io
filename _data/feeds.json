@@ -1,5 +1,12 @@
 [
   {
+    "title": "Critical Samlify SSO flaw lets attackers log in as admin",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/",
+    "summary": "A critical Samlify authentication bypass vulnerability has been discovered that allows\u00a0attackers to impersonate admin users by injecting unsigned malicious assertions into legitimately signed SAML responses. [...]",
+    "published": "2025-05-21T22:11:28",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Russian hackers breach orgs to track aid routes to Ukraine",
     "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/",
     "summary": "A Russian state-sponsored cyberespionage campaign attributed to APT28 (Fancy Bear/Forest Blizzard) hackers has been targeting and compromising international organizations since 2022 to disrupt aid efforts to Ukraine. [...]",
@@ -89,12 +96,5 @@
     "summary": "It takes just one email to compromise an entire system. A single well-crafted message can bypass filters, trick employees, and give attackers the access they need. Left undetected, these threats can lead to credential theft, unauthorized access, and even full-scale breaches. As phishing techniques b",
     "published": "2025-05-21T10:30:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Marks & Spencer faces $402 million profit hit after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/",
-    "summary": "British retailer giant Marks & Spencer (M&amp;S) is bracing for a potential profit hit of up to \u00a3300 million \u00a3300 million ($402 million) following a recent cyberattack that led to widespread operational and sales disruptions. [...]",
-    "published": "2025-05-21T10:10:22",
-    "source": "BleepingComputer"
   }
 ]
