@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs](https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/) — 2025-13-21
 - **Bleeping Computer**: [ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows](https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/) — 2025-02-21
 - **Bleeping Computer**: [European Union sanctions Stark Industries for enabling cyberattacks](https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/) — 2025-37-21
 - **The Hacker News**: [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html) — 2025-10-21
