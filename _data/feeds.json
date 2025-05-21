@@ -96,12 +96,5 @@
     "summary": "Kettering Health, a healthcare network that operates 14 medical centers in Ohio, was forced to cancel inpatient and outpatient procedures following a cyberattack that caused a system-wide technology outage. [...]",
     "published": "2025-05-21T11:45:08",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Securing CI/CD workflows with Wazuh",
-    "link": "https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html",
-    "summary": "Continuous Integration and Continuous Delivery/Deployment (CI/CD) refers to practices that automate how code is developed and released to different environments. CI/CD pipelines are fundamental in modern software development, ensuring code is consistently tested, built, and deployed quickly and effi",
-    "published": "2025-05-21T11:25:00",
-    "source": "HackerNews"
   }
 ]
