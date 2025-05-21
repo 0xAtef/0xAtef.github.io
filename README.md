@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [European Union sanctions Stark Industries for enabling cyberattacks](https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/) — 2025-37-21
+- **The Hacker News**: [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html) — 2025-10-21
 - **The Hacker News**: [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html) — 2025-15-21
 - **Bleeping Computer**: [Kettering Health hit by system-wide outage after ransomware attack](https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/) — 2025-45-21
 - **The Hacker News**: [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html) — 2025-25-21
@@ -57,7 +59,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains](https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/) — 2025-57-20
 - **The Hacker News**: [Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery](https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html) — 2025-53-20
 - **The Hacker News**: [100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads](https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html) — 2025-01-20
-- **Bleeping Computer**: [RVTools hit in supply chain attack to deliver Bumblebee malware](https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/) — 2025-39-20
+- **Bleeping Computer**: [Trojanized RVTools push Bumblebee malware in SEO poisoning campaign](https://www.bleepingcomputer.com/news/security/trojanized-rvtools-push-bumblebee-malware-in-seo-poisoning-campaign/) — 2025-39-20
 - **Bleeping Computer**: [Service desks are under attack: What can you do about it?](https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/) — 2025-01-20
 - **The Hacker News**: [AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation](https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html) — 2025-42-20
 - **The Hacker News**: [The Crowded Battle: Key Insights from the 2025 State of Pentesting Report](https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html) — 2025-00-20
@@ -66,7 +68,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse](https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html) — 2025-25-20
 - **The Hacker News**: [Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts](https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html) — 2025-49-20
 - **Bleeping Computer**: [OpenAI plans to combine multiple models into GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/) — 2025-11-19
-- **Bleeping Computer**: [Fake KeePass password manager leads to ESXi ransomware attack](https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/) — 2025-17-19
 - **The Hacker News**: [RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer](https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html) — 2025-48-19
 - **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files](https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html) — 2025-03-12
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html) — 2025-10-12
 - **The Hacker News**: [The Persistence Problem: Why Exposed Credentials Remain Unfixed—and How to Change That](https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html) — 2025-00-12
-- **The Hacker News**: [Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures](https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html) — 2025-26-12
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
