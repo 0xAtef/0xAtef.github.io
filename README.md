@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Kettering Health hit by system-wide outage after ransomware attack](https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/) — 2025-45-21
+- **The Hacker News**: [How to Detect Phishing Attacks Faster: Tycoon2FA Example](https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html) — 2025-30-21
 - **Bleeping Computer**: [Marks &amp; Spencer faces $402 million profit hit after cyberattack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/) — 2025-10-21
 - **Bleeping Computer**: [Coinbase says recent data breach impacts 69,461 customers](https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/) — 2025-33-21
 - **The Hacker News**: [Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps](https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html) — 2025-01-21
@@ -63,8 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Malicious PyPI Packages Exploit Instagram and TikTok APIs to Validate User Accounts](https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html) — 2025-49-20
 - **Bleeping Computer**: [OpenAI plans to combine multiple models into GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/) — 2025-11-19
 - **Bleeping Computer**: [Fake KeePass password manager leads to ESXi ransomware attack](https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/) — 2025-17-19
-- **Bleeping Computer**: [O2 UK patches bug leaking mobile user location from call metadata](https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/) — 2025-20-19
-- **Bleeping Computer**: [Windows 10 emergency updates fix BitLocker recovery issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/) — 2025-59-19
 - **The Hacker News**: [RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer](https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html) — 2025-48-19
 - **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
@@ -106,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Fake AI Tools Used to Spread Noodlophile Malware, Targeting 62,000+ via Facebook Lures](https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html) — 2025-26-12
 - **The Hacker News**: [Google Pays $1.375 Billion to Texas Over Unauthorized Tracking and Biometric Data Collection](https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html) — 2025-54-10
 - **The Hacker News**: [Germany Shuts Down eXch Over $1.9B Laundering, Seizes €34M in Crypto and 8TB of Data](https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html) — 2025-47-10
-- **The Hacker News**: [BREAKING: 7,000-Device Proxy Botnet Using IoT, EoL Systems Dismantled in U.S. - Dutch Operation](https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html) — 2025-28-09
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
