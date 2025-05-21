@@ -7,6 +7,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics",
+    "link": "https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html",
+    "summary": "Russian cyber threat actors have been attributed to a state-sponsored campaign targeting Western logistics entities and technology companies since 2022.\nThe activity has been assessed to be orchestrated by APT28 (aka BlueDelta, Fancy Bear, or Forest Blizzard), which is linked to the Russian General ",
+    "published": "2025-05-21T18:06:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "3AM ransomware uses spoofed IT calls, email bombing to breach networks",
     "link": "https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/",
     "summary": "A 3AM ransomware affiliate is conducting highly targeted attacks using email bombing and spoofed IT support calls to socially engineer employees into giving credentials for remote access to corporate systems. [...]",
@@ -95,13 +102,6 @@
     "link": "https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html",
     "summary": "Cybersecurity researchers have discovered a new campaign that employs malicious JavaScript injections to redirect site visitors on mobile devices to a Chinese adult-content Progressive Web App (PWA) scam.\n\"While the payload itself is nothing new (yet another adult gambling scam), the delivery method",
     "published": "2025-05-21T09:01:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager",
-    "link": "https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html",
-    "summary": "Google has announced a new feature in its Chrome browser that lets its built-in Password Manager automatically change a user's password when it detects the credentials to be compromised.\n\"When Chrome detects a compromised password during sign in, Google Password Manager prompts the user with an opti",
-    "published": "2025-05-21T07:11:00",
     "source": "HackerNews"
   }
 ]
