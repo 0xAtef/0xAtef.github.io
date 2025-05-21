@@ -26,12 +26,5 @@
     "summary": "A critical privilege escalation vulnerability has been discovered in the premium WordPress theme Motors, which allows unauthenticated attackers to hijack administrator accounts and take complete control of websites. [...]",
     "published": "2025-05-20T19:46:18",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "VanHelsing ransomware builder leaked on hacking forum",
-    "link": "https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/",
-    "summary": "The VanHelsing ransomware-as-a-service operation published the\u00a0source code for its affiliate panel, data leak blog, and Windows encryptor builder after an old developer tried to sell it on the RAMP cybercrime forum. [...]",
-    "published": "2025-05-20T19:06:25",
-    "source": "BleepingComputer"
   }
 ]
