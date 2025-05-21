@@ -1,5 +1,12 @@
 [
   {
+    "title": "Lumma infostealer malware operation disrupted, 2,300 domains seized",
+    "link": "https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/",
+    "summary": "Earlier this month, a coordinated disruption action targeting the Lumma malware-as-a-service (MaaS) information stealer operation seized thousands of domains, part of its infrastructure backbone worldwide. [...]",
+    "published": "2025-05-21T16:00:00",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs",
     "link": "https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/",
     "summary": "A Google Chrome Web Store campaign uses over 100 malicious browser extensions that mimic legitimate tools, such as VPNs, AI assistants, and crypto utilities, to steal browser cookies and execute remote scripts secretly. [...]",
