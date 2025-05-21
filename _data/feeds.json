@@ -1,5 +1,26 @@
 [
   {
+    "title": "Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims",
+    "link": "https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html",
+    "summary": "Counterfeit Facebook pages and sponsored ads on the social media platform are being employed to direct users to fake websites masquerading as Kling AI with the goal of tricking victims into downloading malware.\nKling AI is an artificial intelligence (AI)-powered platform to synthesize images and vid",
+    "published": "2025-05-21T12:15:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Kettering Health hit by system-wide outage after ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/",
+    "summary": "Kettering Health, a healthcare network that operates 14 medical centers in Ohio, was forced to cancel inpatient and outpatient procedures following a cyberattack that caused a system-wide technology outage. [...]",
+    "published": "2025-05-21T11:45:08",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Securing CI/CD workflows with Wazuh",
+    "link": "https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html",
+    "summary": "Continuous Integration and Continuous Delivery/Deployment (CI/CD) refers to practices that automate how code is developed and released to different environments. CI/CD pipelines are fundamental in modern software development, ensuring code is consistently tested, built, and deployed quickly and effi",
+    "published": "2025-05-21T11:25:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "How to Detect Phishing Attacks Faster: Tycoon2FA Example",
     "link": "https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html",
     "summary": "It takes just one email to compromise an entire system. A single well-crafted message can bypass filters, trick employees, and give attackers the access they need. Left undetected, these threats can lead to credential theft, unauthorized access, and even full-scale breaches. As phishing techniques b",
