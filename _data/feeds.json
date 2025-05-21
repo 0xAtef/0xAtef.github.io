@@ -1,5 +1,12 @@
 [
   {
+    "title": "Russian hackers breach orgs to track aid routes to Ukraine",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/",
+    "summary": "A Russian state-sponsored cyberespionage campaign attributed to APT28 (Fancy Bear/Forest Blizzard) hackers has been targeting and compromising international organizations since 2022 to disrupt aid efforts to Ukraine. [...]",
+    "published": "2025-05-21T21:21:32",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Russia to enforce location tracking app on all foreigners in Moscow",
     "link": "https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/",
     "summary": "The Russian government has introduced a new law that makes installing a tracking app mandatory for all foreign nationals in the Moscow region. [...]",
@@ -88,13 +95,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/",
     "summary": "British retailer giant Marks & Spencer (M&amp;S) is bracing for a potential profit hit of up to \u00a3300 million \u00a3300 million ($402 million) following a recent cyberattack that led to widespread operational and sales disruptions. [...]",
     "published": "2025-05-21T10:10:22",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Coinbase says recent data breach impacts 69,461 customers",
-    "link": "https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/",
-    "summary": "Coinbase, a cryptocurrency exchange with over 100 million customers, revealed that\u00a0a recent data breach in which cybercriminals stole customer and corporate data affected 69,461 individuals [...]",
-    "published": "2025-05-21T09:33:06",
     "source": "BleepingComputer"
   }
 ]
