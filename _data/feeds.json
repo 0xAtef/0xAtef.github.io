@@ -33,12 +33,5 @@
     "summary": "Google has announced a new feature in its Chrome browser that lets its built-in Password Manager automatically change a user's password when it detects the credentials to be compromised.\n\"When Chrome detects a compromised password during sign in, Google Password Manager prompts the user with an opti",
     "published": "2025-05-21T07:11:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "PowerSchool hacker pleads guilty to student data extortion scheme",
-    "link": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/",
-    "summary": "A 19-year-old college student from Worcester, Massachusetts, has agreed to plead guilty to\u00a0a massive cyberattack on PowerSchool that extorted millions of dollars in exchange for not leaking the personal data of millions of students and teachers. [...]",
-    "published": "2025-05-20T23:27:17",
-    "source": "BleepingComputer"
   }
 ]
