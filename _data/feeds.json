@@ -75,12 +75,5 @@
     "summary": "Service desks are on the front lines of defense\u2014and attackers know it. Attackers are using social engineering attacks to trick agents into changing passwords, disabling MFA, and granting access. Learn more from Specops Software on how to secure your service desk. [...]",
     "published": "2025-05-20T14:01:11",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation",
-    "link": "https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html",
-    "summary": "Cybersecurity researchers have discovered risky default identity and access management (IAM) roles impacting Amazon Web Services that could open the door for attackers to escalate privileges, manipulate other AWS services, and, in some cases, even fully compromise AWS accounts.\n\"These roles, often c",
-    "published": "2025-05-20T12:42:00",
-    "source": "HackerNews"
   }
 ]
