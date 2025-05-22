@@ -89,12 +89,5 @@
     "summary": "\u200bSignal has updated its Windows app to protect users' privacy by blocking Microsoft's AI-powered Recall feature from taking screenshots of their conversations. [...]",
     "published": "2025-05-22T10:32:23",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Unpatched critical bugs in Versa Concerto lead to auth bypass, RCE",
-    "link": "https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/",
-    "summary": "Critical vulnerabilities in Versa Concerto that are still unpatched could allow remote attackers to bypass authentication and execute arbitrary code on affected systems. [...]",
-    "published": "2025-05-22T09:18:18",
-    "source": "BleepingComputer"
   }
 ]
