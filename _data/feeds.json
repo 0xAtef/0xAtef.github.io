@@ -7,6 +7,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "Identity Security Has an Automation Problem\u2014And It's Bigger Than You Think",
+    "link": "https://thehackernews.com/2025/05/identity-security-has-automation.html",
+    "summary": "For many organizations, identity security appears to be under control. On paper, everything checks out. But new research from Cerby, based on insights from over 500 IT and security leaders, reveals a different reality: too much still depends on people\u2014not systems\u2014to function. In fact, fewer than 4% ",
+    "published": "2025-05-22T10:30:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Unpatched critical bugs in Versa Concerto lead to auth bypass, RCE",
     "link": "https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/",
     "summary": "Critical vulnerabilities in Versa Concerto that are still unpatched could allow remote attackers to bypass authentication and execute arbitrary code on affected systems. [...]",
@@ -19,12 +26,5 @@
     "summary": "A sprawling operation undertaken by global law enforcement agencies and a consortium of private sector firms has disrupted the online infrastructure associated with a commodity information stealer known as Lumma (aka LummaC or LummaC2), seizing 2,300 domains that acted as the command-and-control (C2",
     "published": "2025-05-22T08:24:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Anthropic web config hints at Claude Sonnet 4 and Opus 4",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/",
-    "summary": "Anthropic is secretly working on two new models called\u00a0Claude Sonnet 4 and Opus 4, which are believed to be the company's most advanced AI models. [...]",
-    "published": "2025-05-21T23:01:06",
-    "source": "BleepingComputer"
   }
 ]
