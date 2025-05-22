@@ -89,12 +89,5 @@
     "summary": "Cybersecurity researchers have uncovered multiple critical security vulnerabilities impacting the Versa Concerto network security and SD-WAN orchestration platform that could be exploited to take control of susceptible instances.\nIt's worth noting that the identified shortcomings remain unpatched de",
     "published": "2025-05-22T11:06:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Signal now blocks Microsoft Recall screenshots on Windows 11",
-    "link": "https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/",
-    "summary": "\u200bSignal has updated its Windows app to protect users' privacy by blocking Microsoft's AI-powered Recall feature from taking screenshots of their conversations. [...]",
-    "published": "2025-05-22T10:32:23",
-    "source": "BleepingComputer"
   }
 ]
