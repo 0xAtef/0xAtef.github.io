@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Ivanti EPMM flaw exploited by Chinese hackers to breach govt agencies](https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/) — 2025-23-22
 - **Bleeping Computer**: [Chinese hackers breach US local governments using Cityworks zero-day](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/) — 2025-58-22
 - **The Hacker News**: [Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise](https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html) — 2025-35-22
 - **Bleeping Computer**: [FTC finalizes order requiring GoDaddy to secure hosting services](https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/) — 2025-28-22
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [3AM ransomware uses spoofed IT calls, email bombing to breach networks](https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/) — 2025-27-21
 - **Bleeping Computer**: [Lumma infostealer malware operation disrupted, 2,300 domains seized](https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/) — 2025-00-21
 - **Bleeping Computer**: [Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs](https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/) — 2025-13-21
-- **Bleeping Computer**: [ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows](https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/) — 2025-02-21
 - **The Hacker News**: [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html) — 2025-10-21
 - **The Hacker News**: [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html) — 2025-15-21
 - **The Hacker News**: [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html) — 2025-25-21
