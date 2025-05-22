@@ -47,12 +47,5 @@
     "summary": "A 3AM ransomware affiliate is conducting highly targeted attacks using email bombing and spoofed IT support calls to socially engineer employees into giving credentials for remote access to corporate systems. [...]",
     "published": "2025-05-21T17:27:21",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Lumma infostealer malware operation disrupted, 2,300 domains seized",
-    "link": "https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/",
-    "summary": "Earlier this month, a coordinated disruption action targeting the Lumma malware-as-a-service (MaaS) information stealer operation seized thousands of domains, part of its infrastructure backbone worldwide. [...]",
-    "published": "2025-05-21T16:00:00",
-    "source": "BleepingComputer"
   }
 ]
