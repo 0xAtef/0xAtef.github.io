@@ -1,5 +1,12 @@
 [
   {
+    "title": "Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise",
+    "link": "https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html",
+    "summary": "A privilege escalation flaw has been demonstrated in Windows Server 2025 that makes it possible for attackers to compromise any user in Active Directory (AD).\n\"The attack exploits the delegated Managed Service Account (dMSA) feature that was introduced in Windows Server 2025, works with the default ",
+    "published": "2025-05-22T12:35:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "FTC finalizes order requiring GoDaddy to secure hosting services",
     "link": "https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/",
     "summary": "The Federal Trade Commission (FTC) has finalized an order requiring web hosting giant GoDaddy to secure its services to settle charges of data security failures that led to several data breaches since 2018. [...]",
