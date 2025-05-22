@@ -1,5 +1,12 @@
 [
   {
+    "title": "US indicts leader of Qakbot botnet linked to ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/",
+    "summary": "The U.S. government has indicted Russian national Rustam Rafailevich Gallyamov, the leader of the Qakbot botnet malware operation that compromised over 700,000 computers and enabled ransomware attacks. [...]",
+    "published": "2025-05-22T20:16:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hackers use fake Ledger apps to steal Mac users\u2019 seed phrases",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/",
     "summary": "Cybercriminal campaigns are using fake Ledger apps to target macOS users and their digital assets by deploying malware that attempts to steal seed phrases that protect access to digital cryptocurrency wallets. [...]",
@@ -89,12 +96,5 @@
     "summary": "Critical vulnerabilities in Versa Concerto that are still unpatched could allow remote attackers to bypass authentication and execute arbitrary code on affected systems. [...]",
     "published": "2025-05-22T09:18:18",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections",
-    "link": "https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html",
-    "summary": "A sprawling operation undertaken by global law enforcement agencies and a consortium of private sector firms has disrupted the online infrastructure associated with a commodity information stealer known as Lumma (aka LummaC or LummaC2), seizing 2,300 domains that acted as the command-and-control (C2",
-    "published": "2025-05-22T08:24:00",
-    "source": "HackerNews"
   }
 ]
