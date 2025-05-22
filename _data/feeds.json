@@ -1,5 +1,12 @@
 [
   {
+    "title": "Oops: DanaBot Malware Devs Infected Their Own PCs",
+    "link": "https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/",
+    "summary": "The U.S. government today unsealed criminal charges against 16 individuals accused of operating and selling DanaBot, a prolific strain of information-stealing malware that has been sold on Russian cybercrime forums since 2018. The FBI says a newer version of DanaBot was used for espionage, and that ",
+    "published": "2025-05-22T21:53:21",
+    "source": "Krebs"
+  },
+  {
     "title": "US indicts leader of Qakbot botnet linked to ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/",
     "summary": "The U.S. government has indicted Russian national Rustam Rafailevich Gallyamov, the leader of the Qakbot botnet malware operation that compromised over 700,000 computers and enabled ransomware attacks. [...]",
