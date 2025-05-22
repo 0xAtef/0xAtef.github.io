@@ -40,12 +40,5 @@
     "summary": "Russian cyber threat actors have been attributed to a state-sponsored campaign targeting Western logistics entities and technology companies since 2022.\nThe activity has been assessed to be orchestrated by APT28 (aka BlueDelta, Fancy Bear, or Forest Blizzard), which is linked to the Russian General ",
     "published": "2025-05-21T18:06:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "3AM ransomware uses spoofed IT calls, email bombing to breach networks",
-    "link": "https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/",
-    "summary": "A 3AM ransomware affiliate is conducting highly targeted attacks using email bombing and spoofed IT support calls to socially engineer employees into giving credentials for remote access to corporate systems. [...]",
-    "published": "2025-05-21T17:27:21",
-    "source": "BleepingComputer"
   }
 ]
