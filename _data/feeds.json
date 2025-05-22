@@ -68,33 +68,5 @@
     "summary": "Patching is basic cyber hygiene \u2014 but executing it at scale, securely, and fast? That's the real challenge. ThreatLocker's Patch Management flips the script with control, visibility, and Zero Trust workflows built for today's threat landscape. [...]",
     "published": "2025-05-21T14:02:12",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "European Union sanctions Stark Industries for enabling cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/",
-    "summary": "The European Union has imposed strict sanctions against web-hosting provider Stark Industries and the two individuals running it, CEO Iurie Neculiti and owner Ivan Neculiti, for enabling \"destabilising activities\" against the Union. [...]",
-    "published": "2025-05-21T13:37:18",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms",
-    "link": "https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html",
-    "summary": "Russian organizations have become the target of a phishing campaign that distributes malware called PureRAT, according to new findings from Kaspersky.\n\"The campaign aimed at Russian business began back in March 2023, but in the first third of 2025 the number of attacks quadrupled compared to the sam",
-    "published": "2025-05-21T13:10:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims",
-    "link": "https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html",
-    "summary": "Counterfeit Facebook pages and sponsored ads on the social media platform are being employed to direct users to fake websites masquerading as Kling AI with the goal of tricking victims into downloading malware.\nKling AI is an artificial intelligence (AI)-powered platform to synthesize images and vid",
-    "published": "2025-05-21T12:15:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Kettering Health hit by system-wide outage after ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/",
-    "summary": "Kettering Health, a healthcare network that operates 14 medical centers in Ohio, was forced to cancel inpatient and outpatient procedures following a cyberattack that caused a system-wide technology outage. [...]",
-    "published": "2025-05-21T11:45:08",
-    "source": "BleepingComputer"
   }
 ]
