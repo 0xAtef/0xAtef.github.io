@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ivanti EPMM flaw exploited by Chinese hackers to breach govt agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/",
+    "summary": "Chinese hackers have been exploiting a remote code execution flaw in Ivanti Endpoint Manager Mobile (EPMM) to breach high-profile organizations worldwide. [...]",
+    "published": "2025-05-22T14:23:08",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Chinese hackers breach US local governments using Cityworks zero-day",
     "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/",
     "summary": "Chinese-speaking hackers have exploited a now-patched Trimble Cityworks zero-day to breach multiple local governing bodies across the United States. [...]",
