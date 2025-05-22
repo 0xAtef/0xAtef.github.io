@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Unpatched critical bugs in Versa Concerto lead to auth bypass, RCE](https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/) — 2025-18-22
+- **The Hacker News**: [FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections](https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html) — 2025-24-22
 - **Bleeping Computer**: [Anthropic web config hints at Claude Sonnet 4 and Opus 4](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/) — 2025-01-21
 - **Bleeping Computer**: [OpenAI hints at a big upgrade for ChatGPT Operator Agent](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hints-at-a-big-upgrade-for-chatgpt-operator-agent/) — 2025-33-21
 - **Bleeping Computer**: [Critical Samlify SSO flaw lets attackers log in as admin](https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/) — 2025-11-21
@@ -57,7 +59,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html) — 2025-25-21
 - **The Hacker News**: [How to Detect Phishing Attacks Faster: Tycoon2FA Example](https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html) — 2025-30-21
 - **Bleeping Computer**: [Marks &amp; Spencer faces $402 million profit hit after cyberattack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/) — 2025-10-21
-- **Bleeping Computer**: [Coinbase says recent data breach impacts 69,461 customers](https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/) — 2025-33-21
 - **The Hacker News**: [Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps](https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html) — 2025-01-21
 - **The Hacker News**: [Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager](https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html) — 2025-11-21
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Moldovan Police Arrest Suspect in €4.5M Ransomware Attack on Dutch Research Agency](https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html) — 2025-33-13
 - **The Hacker News**: [Türkiye Hackers Exploited Output Messenger Zero-Day to Drop Golang Backdoors on Kurdish Servers](https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html) — 2025-08-13
 - **The Hacker News**: [ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files](https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html) — 2025-03-12
-- **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Developer Malware, IoT Botnets, and AI-Powered Scams](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html) — 2025-10-12
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
