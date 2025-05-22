@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chinese hackers breach US local governments using Cityworks zero-day",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/",
+    "summary": "Chinese-speaking hackers have exploited a now-patched Trimble Cityworks zero-day to breach multiple local governing bodies across the United States. [...]",
+    "published": "2025-05-22T13:58:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise",
     "link": "https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html",
     "summary": "A privilege escalation flaw has been demonstrated in Windows Server 2025 that makes it possible for attackers to compromise any user in Active Directory (AD).\n\"The attack exploits the delegated Managed Service Account (dMSA) feature that was introduced in Windows Server 2025, works with the default ",
