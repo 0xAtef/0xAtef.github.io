@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [US indicts leader of Qakbot botnet linked to ransomware attacks](https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/) — 2025-16-22
 - **Bleeping Computer**: [Hackers use fake Ledger apps to steal Mac users’ seed phrases](https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/) — 2025-45-22
 - **Bleeping Computer**: [Police arrests 270 dark web vendors, buyers in global crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-270-dark-web-vendors-buyers-in-global-crackdown/) — 2025-42-22
 - **The Hacker News**: [Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks](https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html) — 2025-06-22
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Russian hackers breach orgs to track aid routes to Ukraine](https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/) — 2025-21-21
 - **Bleeping Computer**: [Russia to enforce location tracking app on all foreigners in Moscow](https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/) — 2025-24-21
 - **The Hacker News**: [Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics](https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html) — 2025-06-21
-- **Bleeping Computer**: [3AM ransomware uses spoofed IT calls, email bombing to breach networks](https://www.bleepingcomputer.com/news/security/3am-ransomware-uses-spoofed-it-calls-email-bombing-to-breach-networks/) — 2025-27-21
 - **The Hacker News**: [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html) — 2025-10-21
 - **The Hacker News**: [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html) — 2025-15-21
 - **The Hacker News**: [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html) — 2025-25-21
