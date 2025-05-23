@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs](https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html) — 2025-16-23
+- **The Hacker News**: [GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts](https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html) — 2025-34-23
 - **Bleeping Computer**: [Claude 4 benchmarks show improvements, but context is still 200K](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/) — 2025-17-22
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Bleeping Computer**: [US indicts leader of Qakbot botnet linked to ransomware attacks](https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/) — 2025-16-22
@@ -67,7 +69,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html) — 2025-25-21
 - **The Hacker News**: [How to Detect Phishing Attacks Faster: Tycoon2FA Example](https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html) — 2025-30-21
 - **The Hacker News**: [Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps](https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html) — 2025-01-21
-- **The Hacker News**: [Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager](https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html) — 2025-11-21
+- **The Hacker News**: [Google Chrome&#39;s Built-in Manager Lets Users Update Breached Passwords with One Click](https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html) — 2025-11-21
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **The Hacker News**: [Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery](https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html) — 2025-53-20
 - **The Hacker News**: [100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads](https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html) — 2025-01-20
@@ -105,8 +107,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Horabot Malware Targets 6 Latin American Nations Using Invoice-Themed Phishing Emails](https://thehackernews.com/2025/05/horabot-malware-targets-6-latin.html) — 2025-40-14
 - **The Hacker News**: [Microsoft Fixes 78 Flaws, 5 Zero-Days Exploited; CVSS 10 Bug Impacts Azure DevOps Server](https://thehackernews.com/2025/05/microsoft-fixes-78-flaws-5-zero-days.html) — 2025-14-14
 - **The Hacker News**: [Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems](https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html) — 2025-21-14
-- **The Hacker News**: [Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks](https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html) — 2025-00-14
-- **The Hacker News**: [China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide](https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html) — 2025-13-13
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
