@@ -1,5 +1,12 @@
 [
   {
+    "title": "Police takes down 300 servers in ransomware supply-chain crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-takes-down-300-servers-in-ransomware-supply-chain-crackdown/",
+    "summary": "In the latest phase of Operation Endgame, an international law enforcement operation, national authorities from seven countries seized\u00a0300 servers and 650 domains used to launch ransomware attacks. [...]",
+    "published": "2025-05-23T06:58:13",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs",
     "link": "https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday revealed that Commvault is monitoring cyber threat activity targeting applications hosted in their Microsoft Azure cloud environment.\n\"Threat actors may have accessed client secrets for Commvault's (Metallic) Microsoft 365 ",
