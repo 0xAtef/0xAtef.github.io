@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Dozens of malicious packages on NPM collect host and network data](https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/) — 2025-37-23
+- **Bleeping Computer**: [Hacker steals $223 million in Cetus Protocol cryptocurrency heist](https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/) — 2025-46-23
 - **Bleeping Computer**: [FBI warns of Luna Moth extortion attacks targeting law firms](https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/) — 2025-26-23
 - **The Hacker News**: [ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices](https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html) — 2025-49-23
 - **The Hacker News**: [300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide](https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html) — 2025-45-23
@@ -64,7 +66,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program](https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html) — 2025-25-22
 - **The Hacker News**: [Identity Security Has an Automation Problem—And It&#39;s Bigger Than You Think](https://thehackernews.com/2025/05/identity-security-has-automation.html) — 2025-11-22
 - **The Hacker News**: [Critical Versa Concerto Flaws Let Attackers Escape Docker and Compromise Hosts](https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html) — 2025-06-22
-- **Bleeping Computer**: [Signal now blocks Microsoft Recall screenshots on Windows 11](https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/) — 2025-32-22
 - **The Hacker News**: [FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections](https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html) — 2025-24-22
 - **The Hacker News**: [Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics](https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html) — 2025-06-21
 - **The Hacker News**: [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html) — 2025-10-21
