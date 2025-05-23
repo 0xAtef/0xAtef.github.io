@@ -47,12 +47,5 @@
     "summary": "Cybersecurity researchers have discovered an indirect prompt injection flaw in GitLab's artificial intelligence (AI) assistant Duo that could have allowed attackers to steal source code and inject untrusted HTML into its responses, which could then be used to direct victims to malicious websites.\nGi",
     "published": "2025-05-23T04:34:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Claude 4 benchmarks show improvements, but context is still 200K",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/",
-    "summary": "Today, OpenAI rival Anthropic announced Claude 4 models, which are significantly better than Claude 3 in benchmarks, but we're left disappointed with the same 200,000 context window limit. [...]",
-    "published": "2025-05-22T23:17:10",
-    "source": "BleepingComputer"
   }
 ]
