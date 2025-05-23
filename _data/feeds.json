@@ -19,12 +19,5 @@
     "summary": "The U.S. government has indicted Russian national Rustam Rafailevich Gallyamov, the leader of the Qakbot botnet malware operation that compromised over 700,000 computers and enabled ransomware attacks. [...]",
     "published": "2025-05-22T20:16:25",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers use fake Ledger apps to steal Mac users\u2019 seed phrases",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/",
-    "summary": "Cybercriminal campaigns are using fake Ledger apps to target macOS users and their digital assets by deploying malware that attempts to steal seed phrases that protect access to digital cryptocurrency wallets. [...]",
-    "published": "2025-05-22T16:45:56",
-    "source": "BleepingComputer"
   }
 ]
