@@ -1,5 +1,19 @@
 [
   {
+    "title": "Windows 11 Notepad gets AI-powered text writing capabilities",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/",
+    "summary": "Microsoft is testing a new AI-powered text generation feature in Notepad that can let Windows Insiders create content based on custom prompts. [...]",
+    "published": "2025-05-23T08:26:55",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation",
+    "link": "https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html",
+    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of the online infrastructure associated with DanaBot (aka DanaTools) and unsealed charges against 16 individuals for their alleged involvement in the development and deployment of the malware, which it said was controlled by a",
+    "published": "2025-05-23T07:03:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Police takes down 300 servers in ransomware supply-chain crackdown",
     "link": "https://www.bleepingcomputer.com/news/security/police-takes-down-300-servers-in-ransomware-supply-chain-crackdown/",
     "summary": "In the latest phase of Operation Endgame, an international law enforcement operation, national authorities from seven countries seized\u00a0300 servers and 650 domains used to launch ransomware attacks. [...]",
@@ -33,12 +47,5 @@
     "summary": "The U.S. government today unsealed criminal charges against 16 individuals accused of operating and selling DanaBot, a prolific strain of information-stealing malware that has been sold on Russian cybercrime forums since 2018. The FBI says a newer version of DanaBot was used for espionage, and that ",
     "published": "2025-05-22T21:53:21",
     "source": "Krebs"
-  },
-  {
-    "title": "US indicts leader of Qakbot botnet linked to ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/",
-    "summary": "The U.S. government has indicted Russian national Rustam Rafailevich Gallyamov, the leader of the Qakbot botnet malware operation that compromised over 700,000 computers and enabled ransomware attacks. [...]",
-    "published": "2025-05-22T20:16:25",
-    "source": "BleepingComputer"
   }
 ]
