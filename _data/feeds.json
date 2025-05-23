@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI confirms Operator Agent is now more accurate with o3",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/",
+    "summary": "OpenAI says Operator Agent now uses the o3 model, which means it's now significantly better at reasoning capabilities. [...]",
+    "published": "2025-05-23T23:10:35",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Dozens of malicious packages on NPM collect host and network data",
     "link": "https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/",
     "summary": "60 packages have been discovered in the NPM index that attempt to\u00a0collect sensitive host and network data and send it to a Discord webhook controlled by the threat actor. [...]",
@@ -32,13 +39,6 @@
     "link": "https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html",
     "summary": "Cybersecurity researchers have disclosed that a threat actor codenamed ViciousTrap has compromised nearly 5,300 unique network edge devices across 84 countries and turned them into a honeypot-like network.\nThe threat actor has been observed exploiting a critical security flaw impacting Cisco Small B",
     "published": "2025-05-23T12:49:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "300 Servers and \u20ac3.5M Seized as Europol Strikes Ransomware Networks Worldwide",
-    "link": "https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html",
-    "summary": "As part of the latest \"season\" of Operation Endgame, a coalition of law enforcement agencies have taken down about 300 servers worldwide, neutralized 650 domains, and issued arrest warrants against 20 targets.\nOperation Endgame, first launched in May 2024, is an ongoing law enforcement operation tar",
-    "published": "2025-05-23T10:45:00",
     "source": "HackerNews"
   }
 ]
