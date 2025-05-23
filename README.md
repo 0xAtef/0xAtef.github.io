@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [OpenAI confirms Operator Agent is now more accurate with o3](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/) — 2025-10-23
 - **Bleeping Computer**: [Dozens of malicious packages on NPM collect host and network data](https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/) — 2025-37-23
 - **The Hacker News**: [Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique](https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html) — 2025-24-23
 - **Bleeping Computer**: [Hacker steals $223 million in Cetus Protocol cryptocurrency heist](https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/) — 2025-46-23
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Ivanti EPMM flaw exploited by Chinese hackers to breach govt agencies](https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/) — 2025-23-22
 - **Bleeping Computer**: [Chinese hackers breach US local governments using Cityworks zero-day](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/) — 2025-58-22
 - **The Hacker News**: [Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise](https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html) — 2025-35-22
-- **Bleeping Computer**: [FTC finalizes order requiring GoDaddy to secure hosting services](https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/) — 2025-28-22
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks](https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html) — 2025-07-22
 - **The Hacker News**: [Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program](https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html) — 2025-25-22
 - **The Hacker News**: [Identity Security Has an Automation Problem—And It&#39;s Bigger Than You Think](https://thehackernews.com/2025/05/identity-security-has-automation.html) — 2025-11-22
