@@ -33,26 +33,5 @@
     "summary": "Police arrested 270 suspects following an international law enforcement action codenamed 'Operation RapTor' that targeted dark web vendors and customers from ten countries. [...]",
     "published": "2025-05-22T15:42:29",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks",
-    "link": "https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html",
-    "summary": "A Chinese-speaking threat actor tracked as UAT-6382 has been linked to the exploitation of a now-patched remote-code-execution vulnerability in Trimble Cityworks to deliver Cobalt Strike and VShell.\n\"UAT-6382 successfully exploited CVE-2025-0944, conducted reconnaissance, and rapidly deployed a vari",
-    "published": "2025-05-22T15:06:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Ivanti EPMM flaw exploited by Chinese hackers to breach govt agencies",
-    "link": "https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/",
-    "summary": "Chinese hackers have been exploiting a remote code execution flaw in Ivanti Endpoint Manager Mobile (EPMM) to breach high-profile organizations worldwide. [...]",
-    "published": "2025-05-22T14:23:08",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Chinese hackers breach US local governments using Cityworks zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/",
-    "summary": "Chinese-speaking hackers have exploited a now-patched Trimble Cityworks zero-day to breach multiple local governing bodies across the United States. [...]",
-    "published": "2025-05-22T13:58:46",
-    "source": "BleepingComputer"
   }
 ]
