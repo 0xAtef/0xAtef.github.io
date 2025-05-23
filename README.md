@@ -53,7 +53,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks](https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html) — 2025-07-22
 - **The Hacker News**: [Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program](https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html) — 2025-25-22
 - **The Hacker News**: [Identity Security Has an Automation Problem—And It&#39;s Bigger Than You Think](https://thehackernews.com/2025/05/identity-security-has-automation.html) — 2025-11-22
-- **The Hacker News**: [Unpatched Versa Concerto Flaws Let Attackers Escape Docker and Compromise Host](https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html) — 2025-06-22
+- **The Hacker News**: [Critical Versa Concerto Flaws Let Attackers Escape Docker and Compromise Hosts](https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html) — 2025-06-22
 - **Bleeping Computer**: [Signal now blocks Microsoft Recall screenshots on Windows 11](https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/) — 2025-32-22
 - **Bleeping Computer**: [Unpatched critical bugs in Versa Concerto lead to auth bypass, RCE](https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/) — 2025-18-22
 - **The Hacker News**: [FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections](https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html) — 2025-24-22
