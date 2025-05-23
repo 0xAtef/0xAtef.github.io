@@ -54,26 +54,5 @@
     "summary": "Chinese-speaking hackers have exploited a now-patched Trimble Cityworks zero-day to breach multiple local governing bodies across the United States. [...]",
     "published": "2025-05-22T13:58:46",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise",
-    "link": "https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html",
-    "summary": "A privilege escalation flaw has been demonstrated in Windows Server 2025 that makes it possible for attackers to compromise any user in Active Directory (AD).\n\"The attack exploits the delegated Managed Service Account (dMSA) feature that was introduced in Windows Server 2025, works with the default ",
-    "published": "2025-05-22T12:35:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "FTC finalizes order requiring GoDaddy to secure hosting services",
-    "link": "https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/",
-    "summary": "The Federal Trade Commission (FTC) has finalized an order requiring web hosting giant GoDaddy to secure its services to settle charges of data security failures that led to several data breaches since 2018. [...]",
-    "published": "2025-05-22T12:28:02",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks",
-    "link": "https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html",
-    "summary": "A recently patched pair of security flaws affecting Ivanti Endpoint Manager Mobile (EPMM) software has been exploited by a China-nexus threat actor to target a wide range of sectors across Europe, North America, and the Asia-Pacific region.\nThe vulnerabilities, tracked as CVE-2025-4427 (CVSS score: ",
-    "published": "2025-05-22T12:07:00",
-    "source": "HackerNews"
   }
 ]
