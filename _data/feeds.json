@@ -1,5 +1,12 @@
 [
   {
+    "title": "TikTok videos now push infostealer malware in ClickFix attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/",
+    "summary": "Cybercriminals are using TikTok videos to trick users into infecting themselves with Vidar and StealC information-stealing malware in ClickFix attacks. [...]",
+    "published": "2025-05-23T09:50:34",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Windows 11 Notepad gets AI-powered text writing capabilities",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/",
     "summary": "Microsoft is testing a new AI-powered text generation feature in Notepad that can let Windows Insiders create content based on custom prompts. [...]",
@@ -40,12 +47,5 @@
     "summary": "Today, OpenAI rival Anthropic announced Claude 4 models, which are significantly better than Claude 3 in benchmarks, but we're left disappointed with the same 200,000 context window limit. [...]",
     "published": "2025-05-22T23:17:10",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Oops: DanaBot Malware Devs Infected Their Own PCs",
-    "link": "https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/",
-    "summary": "The U.S. government today unsealed criminal charges against 16 individuals accused of operating and selling DanaBot, a prolific strain of information-stealing malware that has been sold on Russian cybercrime forums since 2018. The FBI says a newer version of DanaBot was used for espionage, and that ",
-    "published": "2025-05-22T21:53:21",
-    "source": "Krebs"
   }
 ]
