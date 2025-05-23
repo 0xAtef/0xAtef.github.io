@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices](https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html) — 2025-49-23
 - **The Hacker News**: [300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide](https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html) — 2025-45-23
 - **The Hacker News**: [SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection](https://thehackernews.com/2025/05/safeline-waf-open-source-web.html) — 2025-30-23
 - **Bleeping Computer**: [TikTok videos now push infostealer malware in ClickFix attacks](https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/) — 2025-50-23
@@ -106,7 +107,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users](https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html) — 2025-05-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **The Hacker News**: [Earth Ammit Breached Drone Supply Chains via ERP in VENOM, TIDRONE Campaigns](https://thehackernews.com/2025/05/earth-ammit-breached-drone-supply.html) — 2025-11-14
-- **The Hacker News**: [Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team](https://thehackernews.com/2025/05/learning-how-to-hack-why-offensive.html) — 2025-54-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
 - **Krebs on Security**: [Alleged ‘Scattered Spider’ Member Extradited to U.S.](https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/) — 2025-54-30
