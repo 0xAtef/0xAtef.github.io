@@ -33,12 +33,5 @@
     "summary": "The FBI warned that an extortion gang known as the Silent Ransom Group has been targeting U.S. law firms over the last two years in callback phishing and social engineering attacks. [...]",
     "published": "2025-05-23T15:26:44",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices",
-    "link": "https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html",
-    "summary": "Cybersecurity researchers have disclosed that a threat actor codenamed ViciousTrap has compromised nearly 5,300 unique network edge devices across 84 countries and turned them into a honeypot-like network.\nThe threat actor has been observed exploiting a critical security flaw impacting Cisco Small B",
-    "published": "2025-05-23T12:49:00",
-    "source": "HackerNews"
   }
 ]
