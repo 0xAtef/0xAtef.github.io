@@ -5,19 +5,5 @@
     "summary": "OpenAI says Operator Agent now uses the o3 model, which means it's now significantly better at reasoning capabilities. [...]",
     "published": "2025-05-23T23:10:35",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Dozens of malicious packages on NPM collect host and network data",
-    "link": "https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/",
-    "summary": "60 packages have been discovered in the NPM index that attempt to\u00a0collect sensitive host and network data and send it to a Discord webhook controlled by the threat actor. [...]",
-    "published": "2025-05-23T17:37:41",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique",
-    "link": "https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html",
-    "summary": "The malware known as Latrodectus has become the latest to embrace the widely-used social engineering technique called ClickFix as a distribution vector.\n\"The ClickFix technique is particularly risky because it allows the malware to execute in memory rather than being written to disk,\" Expel said in ",
-    "published": "2025-05-23T17:24:00",
-    "source": "HackerNews"
   }
 ]
