@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Researchers claim ChatGPT o3 bypassed shutdown in controlled test](https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/) — 2025-24-25
 - **Bleeping Computer**: [Glitch to end app hosting and user profiles on July 8](https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/) — 2025-36-25
 - **The Hacker News**: [Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware](https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html) — 2025-36-25
 - **Bleeping Computer**: [Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware](https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/) — 2025-26-24
