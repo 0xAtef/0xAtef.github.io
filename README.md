@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware](https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html) — 2025-36-25
 - **Bleeping Computer**: [OpenAI confirms Operator Agent is now more accurate with o3](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/) — 2025-10-23
 - **Bleeping Computer**: [Dozens of malicious packages on NPM collect host and network data](https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/) — 2025-37-23
 - **The Hacker News**: [Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique](https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html) — 2025-24-23
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit](https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html) — 2025-57-14
 - **The Hacker News**: [BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan](https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html) — 2025-50-14
 - **The Hacker News**: [Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering](https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html) — 2025-27-14
-- **The Hacker News**: [CTM360 Identifies Surge in Phishing Attacks Targeting Meta Business Users](https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html) — 2025-05-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
