@@ -1,5 +1,12 @@
 [
   {
+    "title": "ChatGPT Deep Research can now pull data from Dropbox and Box",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-can-now-pull-data-from-dropbox-and-box/",
+    "summary": "You can now connect your Box and Dropbox accounts to Deep Research on ChatGPT and pull data, which will be used by the AI to conduct research. [...]",
+    "published": "2025-05-25T21:09:54",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Researchers claim ChatGPT o3 bypassed shutdown in controlled test",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/",
     "summary": "A new\u00a0report claims that\u00a0OpenAI's o3 model altered a shutdown script to avoid being turned off, even when explicitly instructed to allow shutdown [...]",
