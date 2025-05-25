@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Glitch to end app hosting and user profiles on July 8](https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/) — 2025-36-25
 - **The Hacker News**: [Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware](https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html) — 2025-36-25
+- **Bleeping Computer**: [Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware](https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/) — 2025-26-24
 - **Bleeping Computer**: [OpenAI confirms Operator Agent is now more accurate with o3](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/) — 2025-10-23
 - **Bleeping Computer**: [Dozens of malicious packages on NPM collect host and network data](https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/) — 2025-37-23
 - **The Hacker News**: [Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique](https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html) — 2025-24-23
@@ -58,11 +60,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Claude 4 benchmarks show improvements, but context is still 200K](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/) — 2025-17-22
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Bleeping Computer**: [US indicts leader of Qakbot botnet linked to ransomware attacks](https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/) — 2025-16-22
-- **Bleeping Computer**: [Hackers use fake Ledger apps to steal Mac users’ seed phrases](https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/) — 2025-45-22
-- **Bleeping Computer**: [Police arrests 270 dark web vendors, buyers in global crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-270-dark-web-vendors-buyers-in-global-crackdown/) — 2025-42-22
 - **The Hacker News**: [Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks](https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html) — 2025-06-22
-- **Bleeping Computer**: [Ivanti EPMM flaw exploited by Chinese hackers to breach govt agencies](https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/) — 2025-23-22
-- **Bleeping Computer**: [Chinese hackers breach US local governments using Cityworks zero-day](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/) — 2025-58-22
 - **The Hacker News**: [Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise](https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html) — 2025-35-22
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks](https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html) — 2025-07-22
 - **The Hacker News**: [Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program](https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html) — 2025-25-22
