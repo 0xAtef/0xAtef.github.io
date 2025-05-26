@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto](https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html) — 2025-17-26
 - **Bleeping Computer**: [Google claims users find ads in AI search &#39;helpful&#39;](https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/) — 2025-45-26
 - **Bleeping Computer**: [OpenAI plans to ship an interesting ChatGPT product by 2026](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/) — 2025-02-26
 - **The Hacker News**: [CISO&#39;s Guide To Web Privacy Validation And Why It&#39;s Important](https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html) — 2025-25-26
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [5 BCDR Essentials for Effective Ransomware Defense](https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html) — 2025-30-15
 - **The Hacker News**: [Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers](https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html) — 2025-05-15
 - **The Hacker News**: [Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper](https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html) — 2025-00-15
-- **The Hacker News**: [Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit](https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html) — 2025-57-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
