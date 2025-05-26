@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [⚡ Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches and Critical CVEs](https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html) — 2025-23-26
 - **Bleeping Computer**: [Vibe coding company says Claude 4 reduced syntax errors by 25%](https://www.bleepingcomputer.com/news/artificial-intelligence/vibe-coding-company-says-claude-4-reduced-syntax-errors-by-25-percent/) — 2025-04-25
 - **Bleeping Computer**: [Leak suggests xAI is getting ready to ship Grok 3.5](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-suggests-xai-is-getting-ready-to-ship-grok-35/) — 2025-51-25
 - **Bleeping Computer**: [ChatGPT Deep Research can now pull data from Dropbox and Box](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-can-now-pull-data-from-dropbox-and-box/) — 2025-09-25
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper](https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html) — 2025-00-15
 - **The Hacker News**: [Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit](https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html) — 2025-57-14
 - **The Hacker News**: [BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan](https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html) — 2025-50-14
-- **The Hacker News**: [Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering](https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html) — 2025-27-14
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
