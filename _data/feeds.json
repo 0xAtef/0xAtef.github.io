@@ -1,9 +1,1 @@
-[
-  {
-    "title": "Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto",
-    "link": "https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html",
-    "summary": "As many as 60 malicious npm packages have been discovered in the package registry with malicious functionality to harvest hostnames, IP addresses, DNS servers, and user directories to a Discord-controlled endpoint.\nThe packages, published under three different accounts, come with an install\u2011time scr",
-    "published": "2025-05-26T14:17:00",
-    "source": "HackerNews"
-  }
-]
+[]
