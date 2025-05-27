@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency",
+    "link": "https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html",
+    "summary": "Misconfigured Docker API instances have become the target of a new malware campaign that transforms them into a cryptocurrency mining botnet.\nThe attacks, designed to mine for Dero currency, is notable for its worm-like capabilities to propagate the malware to other exposed Docker instances and rope",
+    "published": "2025-05-27T16:23:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Not Every CVE Deserves a Fire Drill: Focus on What\u2019s Exploitable",
     "link": "https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/",
     "summary": "Not every \"critical\" vulnerability is a critical risk. Picus Exposure Validation cuts through the noise by testing what's actually exploitable in your environment \u2014 so you can patch what matters. [...]",
@@ -16,7 +23,7 @@
   {
     "title": "Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages",
     "link": "https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html",
-    "summary": "Microsoft has shed light on a previously undocumented cluster of threat activity originating from a Russia-affiliated threat actor dubbed Void Blizzard (aka Laundry Bear) that it said is attributed to \"worldwide cloud abuse.\"\nActive since at least April 2024, the hacking group is linked to espionage",
+    "summary": "Microsoft has shed light on a previously undocumented cluster of malicious activity originating from a Russia-affiliated threat actor dubbed Void Blizzard (aka Laundry Bear) that it said is attributed to \"worldwide cloud abuse.\"\nActive since at least April 2024, the hacking group is linked to espion",
     "published": "2025-05-27T11:51:00",
     "source": "HackerNews"
   },
