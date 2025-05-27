@@ -1,5 +1,12 @@
 [
   {
+    "title": "Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years",
+    "link": "https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/",
+    "summary": "An Iranian national has pleaded guilty to participating in the Robbinhood ransomware operation, which was used to breach the networks, steal data, and encrypt devices\u00a0of\u00a0U.S. cities and organizations in an attempt to extort millions of dollars over a five-year span. [...]",
+    "published": "2025-05-27T19:14:56",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency",
     "link": "https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html",
     "summary": "Misconfigured Docker API instances have become the target of a new malware campaign that transforms them into a cryptocurrency mining botnet.\nThe attacks, designed to mine for Dero currency, is notable for its worm-like capabilities to propagate the malware to other exposed Docker instances and rope",
@@ -61,19 +68,5 @@
     "summary": "German sportswear giant Adidas disclosed a data breach after attackers hacked a customer service provider and stole some customers' data. [...]",
     "published": "2025-05-27T08:29:49",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth\u2019s Stealth Phishing Campaign",
-    "link": "https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of social engineering attacks mounted by a criminal extortion actor known as Luna Moth targeting law firms over the past two years.\nThe campaign leverages \"information technology (IT) themed social engineering calls, and callback phishing ema",
-    "published": "2025-05-27T07:11:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents",
-    "link": "https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html",
-    "summary": "The Russia-aligned threat actor known as TAG-110 has been observed conducting a spear-phishing campaign targeting Tajikistan using macro-enabled Word templates as an initial payload.\nThe attack chain is a departure from the threat actor's previously documented use of an HTML Application (.HTA) loade",
-    "published": "2025-05-27T06:54:00",
-    "source": "HackerNews"
   }
 ]
