@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable](https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/) — 2025-25-27
 - **Bleeping Computer**: [MATLAB dev confirms ransomware attack behind service outage](https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/) — 2025-37-27
 - **The Hacker News**: [Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages](https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html) — 2025-51-27
 - **Bleeping Computer**: [Russian Laundry Bear cyberspies linked to Dutch Police hack](https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/) — 2025-16-27
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Researchers claim ChatGPT o3 bypassed shutdown in controlled test](https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/) — 2025-24-25
 - **Bleeping Computer**: [Glitch to end app hosting and user profiles on July 8](https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/) — 2025-36-25
 - **The Hacker News**: [Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware](https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html) — 2025-36-25
-- **Bleeping Computer**: [Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware](https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/) — 2025-26-24
 - **The Hacker News**: [Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique](https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html) — 2025-24-23
 - **The Hacker News**: [ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices](https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html) — 2025-49-23
 - **The Hacker News**: [300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide](https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html) — 2025-45-23
