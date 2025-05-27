@@ -40,8 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years](https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/) — 2025-14-27
 - **The Hacker News**: [New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency](https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html) — 2025-23-27
 - **Bleeping Computer**: [Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable](https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/) — 2025-25-27
+- **The Hacker News**: [Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets](https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html) — 2025-10-27
 - **Bleeping Computer**: [MATLAB dev confirms ransomware attack behind service outage](https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/) — 2025-37-27
 - **The Hacker News**: [Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages](https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html) — 2025-51-27
 - **Bleeping Computer**: [Russian Laundry Bear cyberspies linked to Dutch Police hack](https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/) — 2025-16-27
@@ -60,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Leak suggests xAI is getting ready to ship Grok 3.5](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-suggests-xai-is-getting-ready-to-ship-grok-35/) — 2025-51-25
 - **Bleeping Computer**: [ChatGPT Deep Research can now pull data from Dropbox and Box](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-can-now-pull-data-from-dropbox-and-box/) — 2025-09-25
 - **Bleeping Computer**: [Researchers claim ChatGPT o3 bypassed shutdown in controlled test](https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/) — 2025-24-25
-- **Bleeping Computer**: [Glitch to end app hosting and user profiles on July 8](https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/) — 2025-36-25
 - **The Hacker News**: [Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware](https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html) — 2025-36-25
 - **The Hacker News**: [Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique](https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html) — 2025-24-23
 - **The Hacker News**: [ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices](https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html) — 2025-49-23
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks](https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html) — 2025-08-16
 - **The Hacker News**: [Fileless Remcos RAT Delivered via LNK Files and MSHTA in PowerShell-Based Attacks](https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html) — 2025-56-16
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
-- **The Hacker News**: [Noyb Threatens Meta with Lawsuit for Violating GDPR to Train AI on E.U. User Data From May 27](https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html) — 2025-45-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
