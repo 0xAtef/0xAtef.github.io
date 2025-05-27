@@ -5,19 +5,5 @@
     "summary": "As many as 60 malicious npm packages have been discovered in the package registry with malicious functionality to harvest hostnames, IP addresses, DNS servers, and user directories to a Discord-controlled endpoint.\nThe packages, published under three different accounts, come with an install\u2011time scr",
     "published": "2025-05-26T14:17:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Google claims users find ads in AI search 'helpful'",
-    "link": "https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/",
-    "summary": "Google AI mode and AI Overviews now have ads, which, according to the search engine giant, are \"helpful.\" [...]",
-    "published": "2025-05-26T12:45:09",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "OpenAI plans to ship an interesting ChatGPT product by 2026",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/",
-    "summary": "OpenAI is planning to ship a new ChatGPT-powered product by 2026, but we aren't looking at yet another model. [...]",
-    "published": "2025-05-26T12:02:23",
-    "source": "BleepingComputer"
   }
 ]
