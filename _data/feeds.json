@@ -21,6 +21,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets",
+    "link": "https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html",
+    "summary": "Cybersecurity researchers have disclosed a new malicious campaign that uses a fake website advertising antivirus software from Bitdefender to dupe victims into downloading a remote access trojan called Venom RAT.\nThe campaign indicates a \"clear intent to target individuals for financial gain by comp",
+    "published": "2025-05-27T14:10:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "MATLAB dev confirms ransomware attack behind service outage",
     "link": "https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/",
     "summary": "MathWorks, a leading developer of mathematical computing and simulation software, has revealed that a recent ransomware attack is behind an ongoing service outage. [...]",
