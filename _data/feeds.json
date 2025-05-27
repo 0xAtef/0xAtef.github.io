@@ -1,5 +1,12 @@
 [
   {
+    "title": "MATLAB dev confirms ransomware attack behind service outage",
+    "link": "https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/",
+    "summary": "MathWorks, a leading developer of mathematical computing and simulation software, has revealed that a recent ransomware attack is behind an ongoing service outage. [...]",
+    "published": "2025-05-27T13:37:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages",
     "link": "https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html",
     "summary": "Microsoft has shed light on a previously undocumented cluster of threat activity originating from a Russia-affiliated threat actor dubbed Void Blizzard (aka Laundry Bear) that it said is attributed to \"worldwide cloud abuse.\"\nActive since at least April 2024, the hacking group is linked to espionage",
