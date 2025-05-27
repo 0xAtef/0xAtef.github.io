@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "title": "Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents",
+    "link": "https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html",
+    "summary": "The Russia-aligned threat actor known as TAG-110 has been observed conducting a spear-phishing campaign targeting Tajikistan using macro-enabled Word templates as an initial payload.\nThe attack chain is a departure from the threat actor's previously documented use of an HTML Application (.HTA) loade",
+    "published": "2025-05-27T06:54:00",
+    "source": "HackerNews"
+  }
+]
