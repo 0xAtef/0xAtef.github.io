@@ -1,5 +1,12 @@
 [
   {
+    "title": "Not Every CVE Deserves a Fire Drill: Focus on What\u2019s Exploitable",
+    "link": "https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/",
+    "summary": "Not every \"critical\" vulnerability is a critical risk. Picus Exposure Validation cuts through the noise by testing what's actually exploitable in your environment \u2014 so you can patch what matters. [...]",
+    "published": "2025-05-27T14:25:31",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "MATLAB dev confirms ransomware attack behind service outage",
     "link": "https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/",
     "summary": "MathWorks, a leading developer of mathematical computing and simulation software, has revealed that a recent ransomware attack is behind an ongoing service outage. [...]",
