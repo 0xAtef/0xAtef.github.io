@@ -1,10 +1,24 @@
 [
   {
-    "title": "Russian Void Blizzard cyberspies linked to Dutch police breach",
+    "title": "Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages",
+    "link": "https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html",
+    "summary": "Microsoft has shed light on a previously undocumented cluster of threat activity originating from a Russia-affiliated threat actor dubbed Void Blizzard (aka Laundry Bear) that it said is attributed to \"worldwide cloud abuse.\"\nActive since at least April 2024, the hacking group is linked to espionage",
+    "published": "2025-05-27T11:51:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Russian Laundry Bear cyberspies linked to Dutch Police hack",
     "link": "https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/",
-    "summary": "A previously unknown Russian-backed cyberespionage\u00a0group now tracked as\u00a0Void Blizzard has been linked to a September 2024 Dutch police security breach. [...]",
+    "summary": "A previously unknown Russian-backed cyberespionage\u00a0group now tracked as\u00a0Laundry Bear has been linked to a September 2024 Dutch police security breach. [...]",
     "published": "2025-05-27T11:16:03",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "AI Agents and the Non\u2011Human Identity Crisis: How to Deploy AI\u202fMore Securely\u202fat\u202fScale",
+    "link": "https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html",
+    "summary": "Artificial intelligence is driving a massive shift in enterprise productivity, from GitHub\u202fCopilot\u2019s code completions to chatbots that mine internal knowledge bases for instant answers. Each new agent must authenticate to other services, quietly swelling the population of non\u2011human identities (NHIs)",
+    "published": "2025-05-27T11:00:00",
+    "source": "HackerNews"
   },
   {
     "title": "Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers",
