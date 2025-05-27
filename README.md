@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers](https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html) — 2025-52-27
 - **Bleeping Computer**: [Windows Server emergency update fixes Hyper-V VM freezes, restart issues](https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/) — 2025-25-27
 - **Bleeping Computer**: [Adidas warns of data breach after customer service provider hack](https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/) — 2025-29-27
 - **The Hacker News**: [Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth’s Stealth Phishing Campaign](https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html) — 2025-11-27
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Coinbase Agents Bribed, Data of ~1% Users Leaked; $20M Extortion Attempt Fails](https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html) — 2025-28-15
 - **The Hacker News**: [Pen Testing for Compliance Only? It&#39;s Time to Change Your Approach](https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html) — 2025-25-15
 - **The Hacker News**: [New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy](https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html) — 2025-43-15
-- **The Hacker News**: [5 BCDR Essentials for Effective Ransomware Defense](https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html) — 2025-30-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
 - **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02
