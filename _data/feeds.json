@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows Server emergency update fixes Hyper-V VM freezes, restart issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/",
+    "summary": "Microsoft has released an emergency update to address a known issue causing some Hyper-V virtual machines with Windows Server 2022 to freeze or restart unexpectedly. [...]",
+    "published": "2025-05-27T09:25:12",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Adidas warns of data breach after customer service provider hack",
     "link": "https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/",
     "summary": "German sportswear giant Adidas disclosed a data breach after attackers hacked a customer service provider and stole some customers' data. [...]",
