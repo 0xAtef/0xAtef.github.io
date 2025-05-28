@@ -40,7 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- **Bleeping Computer**: [DragonForce ransomware abuses MSP’s SimpleHelp RMM to encrypt customers](https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-msps-simplehelp-rmm-to-encrypt-customers/) — 2025-44-27
+- **Bleeping Computer**: [DragonForce ransomware abuses SimpleHelp in MSP supply chain attack](https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/) — 2025-44-27
 - **Bleeping Computer**: [Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years](https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/) — 2025-14-27
 - **The Hacker News**: [New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency](https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html) — 2025-23-27
 - **Bleeping Computer**: [Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable](https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/) — 2025-25-27
