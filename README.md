@@ -40,7 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft introduces new Windows backup tool for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/) — 2025-09-28
+- **The Hacker News**: [New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto](https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html) — 2025-30-28
 - **Bleeping Computer**: [Microsoft wants Windows to update all software on your PC](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/) — 2025-15-28
+- **The Hacker News**: [From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign](https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html) — 2025-25-28
 - **The Hacker News**: [Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware](https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html) — 2025-00-28
 - **Bleeping Computer**: [Apple blocked over $9 billion in App Store fraud in five years](https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/) — 2025-18-28
 - **The Hacker News**: [How &#39;Browser-in-the-Middle&#39; Attacks Steal Sessions in Seconds](https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html) — 2025-32-28
@@ -62,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents](https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html) — 2025-54-27
 - **The Hacker News**: [Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto](https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html) — 2025-17-26
 - **Bleeping Computer**: [Google claims users find ads in AI search &#39;helpful&#39;](https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/) — 2025-45-26
-- **Bleeping Computer**: [OpenAI plans to ship an interesting ChatGPT product by 2026](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/) — 2025-02-26
 - **The Hacker News**: [CISO&#39;s Guide To Web Privacy Validation And Why It&#39;s Important](https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html) — 2025-25-26
 - **The Hacker News**: [⚡ Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches and Critical CVEs](https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html) — 2025-23-26
 - **The Hacker News**: [Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware](https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html) — 2025-36-25
@@ -101,8 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access](https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html) — 2025-38-19
 - **The Hacker News**: [Why CTEM is the Winning Bet for CISOs in 2025](https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html) — 2025-00-19
 - **The Hacker News**: [Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards](https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html) — 2025-37-19
-- **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html) — 2025-00-19
-- **The Hacker News**: [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html) — 2025-07-17
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
