@@ -1,5 +1,12 @@
 [
   {
+    "title": "Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware",
+    "link": "https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html",
+    "summary": "A financially motivated threat actor has been observed exploiting a recently disclosed remote code execution flaw affecting the Craft Content Management System (CMS) to deploy multiple payloads, including a cryptocurrency miner, a loader dubbed Mimo Loader, and residential proxyware.\nThe vulnerabili",
+    "published": "2025-05-28T11:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Apple blocked over $9 billion in App Store fraud in five years",
     "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/",
     "summary": "Apple says it blocked over $9 billion in fraudulent App Store transactions over the last five years, with over $2 billion in potentially fraudulent sanctions prevented in 2024 alone. [...]",
