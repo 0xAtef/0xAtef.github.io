@@ -103,12 +103,5 @@
     "summary": "Microsoft has introduced a new update orchestration platform built on the existing Windows Update infrastructure, which aims to unify the updating system for all apps, drivers, and system components on Windows systems. [...]",
     "published": "2025-05-28T12:15:03",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign",
-    "link": "https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html",
-    "summary": "Stealer malware no longer just steals passwords. In 2025, it steals live sessions\u2014and attackers are moving faster and more efficiently than ever.\nWhile many associate account takeovers with personal services, the real threat is unfolding in the enterprise. Flare\u2019s latest research, The Account and Se",
-    "published": "2025-05-28T11:25:00",
-    "source": "HackerNews"
   }
 ]
