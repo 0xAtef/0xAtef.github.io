@@ -1,5 +1,19 @@
 [
   {
+    "title": "Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor",
+    "link": "https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/",
+    "summary": "Over 9,000 ASUS routers are compromised by a novel botnet dubbed \"AyySSHush\" that was also observed targeting SOHO routers from Cisco, D-Link, and Linksys. [...]",
+    "published": "2025-05-28T16:44:36",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Dark Partners cybercrime gang fuels large-scale crypto heists",
+    "link": "https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/",
+    "summary": "A sprawling network of fake AI, VPN, and crypto software download sites is being used by the \"Dark Partner\" threat actors to conduct a crypto theft attacks worldwide. [...]",
+    "published": "2025-05-28T16:39:13",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Czechia blames China for Ministry of Foreign Affairs cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/",
     "summary": "The Czech Republic says the Chinese-backed APT31 hacking group was behind cyberattacks targeting the country's Ministry of Foreign Affairs and critical infrastructure organizations. [...]",
