@@ -7,6 +7,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access \u2014 Even When Uploading Just One File",
+    "link": "https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html",
+    "summary": "Cybersecurity researchers have discovered a security flaw in Microsoft's OneDrive File Picker that, if successfully exploited, could allow websites to access a user's entire cloud storage content, as opposed to just the files selected for upload via the tool.\n\"This stems from overly broad OAuth scop",
+    "published": "2025-05-28T13:41:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft introduces new Windows backup tool for businesses",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/",
     "summary": "Microsoft has introduced Windows Backup for Organizations, a new backup tool for enterprises that simplifies backups and makes the transition to Windows 11 easier. [...]",
