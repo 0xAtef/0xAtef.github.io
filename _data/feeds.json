@@ -1,5 +1,12 @@
 [
   {
+    "title": "New PumaBot botnet brute forces SSH credentials to breach devices",
+    "link": "https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/",
+    "summary": "A newly discovered Go-based Linux botnet malware named PumaBot is brute-forcing\u00a0SSH credentials on embedded IoT devices to deploy malicious payloads. [...]",
+    "published": "2025-05-28T19:59:38",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Interlock ransomware gang deploys new NodeSnake RAT on universities",
     "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/",
     "summary": "The Interlock ransomware gang is deploying a previously undocumented remote access trojan (RAT) named NodeSnake against educational institutes for persistent access to corporate networks. [...]",
