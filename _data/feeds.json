@@ -12,12 +12,5 @@
     "summary": "An Iranian national has pleaded guilty to participating in the Robbinhood ransomware operation, which was used to breach the networks, steal data, and encrypt devices\u00a0of\u00a0U.S. cities and organizations in an attempt to extort millions of dollars over a five-year span. [...]",
     "published": "2025-05-27T19:14:56",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency",
-    "link": "https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html",
-    "summary": "Misconfigured Docker API instances have become the target of a new malware campaign that transforms them into a cryptocurrency mining botnet.\nThe attacks, designed to mine for Dero currency, is notable for its worm-like capabilities to propagate the malware to other exposed Docker instances and rope",
-    "published": "2025-05-27T16:23:00",
-    "source": "HackerNews"
   }
 ]
