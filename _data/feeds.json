@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft wants Windows to update all software on your PC",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/",
+    "summary": "Microsoft has introduced a new update orchestration platform built on the existing Windows Update infrastructure, which aims to unify the updating system for all apps, drivers, and system components on Windows systems. [...]",
+    "published": "2025-05-28T12:15:03",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware",
     "link": "https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html",
     "summary": "A financially motivated threat actor has been observed exploiting a recently disclosed remote code execution flaw affecting the Craft Content Management System (CMS) to deploy multiple payloads, including a cryptocurrency miner, a loader dubbed Mimo Loader, and residential proxyware.\nThe vulnerabili",
