@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Interlock ransomware gang deploys new NodeSnake RAT on universities](https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/) — 2025-14-28
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **The Hacker News**: [Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore](https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html) — 2025-20-28
 - **Bleeping Computer**: [Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor](https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/) — 2025-44-28
@@ -66,7 +67,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Russian Laundry Bear cyberspies linked to Dutch Police hack](https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/) — 2025-16-27
 - **The Hacker News**: [AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale](https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html) — 2025-00-27
 - **The Hacker News**: [Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers](https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html) — 2025-52-27
-- **Bleeping Computer**: [Windows Server emergency update fixes Hyper-V VM freezes, restart issues](https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/) — 2025-25-27
 - **The Hacker News**: [Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth’s Stealth Phishing Campaign](https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html) — 2025-11-27
 - **The Hacker News**: [Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents](https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html) — 2025-54-27
 - **The Hacker News**: [Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto](https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html) — 2025-17-26
