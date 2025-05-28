@@ -1,16 +1,30 @@
 [
   {
+    "title": "Apple blocked over $9 billion in App Store fraud in five years",
+    "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/",
+    "summary": "Apple says it blocked over $9 billion in fraudulent App Store transactions over the last five years, with over $2 billion in potentially fraudulent sanctions prevented in 2024 alone. [...]",
+    "published": "2025-05-28T10:18:34",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "How 'Browser-in-the-Middle' Attacks Steal Sessions in Seconds",
+    "link": "https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html",
+    "summary": "Would you expect an end user to log on to a cybercriminal\u2019s computer, open their browser, and type in their usernames and passwords? Hopefully not! But that\u2019s essentially what happens if they fall victim to a Browser-in-the-Middle (BitM) attack.\nLike Man-in-the-Middle (MitM) attacks, BiTM sees crimi",
+    "published": "2025-05-28T09:32:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch",
+    "link": "https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html",
+    "summary": "Cybersecurity researchers have disclosed details of a coordinated cloud-based scanning activity that targeted 75 distinct \"exposure points\" earlier this month.\nThe activity, observed by GreyNoise on May 8, 2025, involved as many as 251 malicious IP addresses that are all geolocated to Japan and host",
+    "published": "2025-05-28T09:23:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats",
     "link": "https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html",
     "summary": "Apple on Tuesday revealed that it prevented over $9 billion in fraudulent transactions in the last five years, including more than $2 billion in 2024 alone.\nThe company said the App Store is confronted by a wide range of threats that seek to defraud users in various ways, ranging from \"deceptive app",
     "published": "2025-05-28T06:11:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "DragonForce ransomware abuses SimpleHelp in MSP supply chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/",
-    "summary": "The DragonForce ransomware operation successfully breached a\u00a0managed service provider and used its\u00a0SimpleHelp remote monitoring and management (RMM) platform to steal data and deploy encryptors on downstream customers' systems. [...]",
-    "published": "2025-05-27T21:44:15",
-    "source": "BleepingComputer"
   }
 ]
