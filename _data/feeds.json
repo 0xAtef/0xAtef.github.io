@@ -103,19 +103,5 @@
     "summary": "Apple says it blocked over $9 billion in fraudulent App Store transactions over the last five years, with over $2 billion in potentially fraudulent sanctions prevented in 2024 alone. [...]",
     "published": "2025-05-28T10:18:34",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "How 'Browser-in-the-Middle' Attacks Steal Sessions in Seconds",
-    "link": "https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html",
-    "summary": "Would you expect an end user to log on to a cybercriminal\u2019s computer, open their browser, and type in their usernames and passwords? Hopefully not! But that\u2019s essentially what happens if they fall victim to a Browser-in-the-Middle (BitM) attack.\nLike Man-in-the-Middle (MitM) attacks, BiTM sees crimi",
-    "published": "2025-05-28T09:32:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch",
-    "link": "https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html",
-    "summary": "Cybersecurity researchers have disclosed details of a coordinated cloud-based scanning activity that targeted 75 distinct \"exposure points\" earlier this month.\nThe activity, observed by GreyNoise on May 8, 2025, involved as many as 251 malicious IP addresses that are all geolocated to Japan and host",
-    "published": "2025-05-28T09:23:00",
-    "source": "HackerNews"
   }
 ]
