@@ -1,5 +1,19 @@
 [
   {
+    "title": "Windows 11 KB5058499 update rolls out new Share and Click to Do features",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/",
+    "summary": "\u200b\u200bMicrosoft has released the KB5058499 preview cumulative update for Windows 11 24H2\u00a0with forty-eight\u00a0new features or changes, with many gradually rolling out, such as the new Windows Share feature and tje Click to Do Preview. [...]",
+    "published": "2025-05-28T22:19:54",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "APT41 malware abuses Google Calendar for stealthy C2 communication",
+    "link": "https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/",
+    "summary": "The Chinese APT41 hacking group uses a new malware named 'ToughProgress' that abuses Google Calendar for command-and-control (C2) operations, hiding malicious activity behind a trusted cloud service. [...]",
+    "published": "2025-05-28T22:04:04",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New PumaBot botnet brute forces SSH credentials to breach devices",
     "link": "https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/",
     "summary": "A newly discovered Go-based Linux botnet malware named PumaBot is brute-forcing\u00a0SSH credentials on embedded IoT devices to deploy malicious payloads. [...]",
@@ -96,12 +110,5 @@
     "summary": "A financially motivated threat actor has been observed exploiting a recently disclosed remote code execution flaw affecting the Craft Content Management System (CMS) to deploy multiple payloads, including a cryptocurrency miner, a loader dubbed Mimo Loader, and residential proxyware.\nThe vulnerabili",
     "published": "2025-05-28T11:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Apple blocked over $9 billion in App Store fraud in five years",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/",
-    "summary": "Apple says it blocked over $9 billion in fraudulent App Store transactions over the last five years, with over $2 billion in potentially fraudulent sanctions prevented in 2024 alone. [...]",
-    "published": "2025-05-28T10:18:34",
-    "source": "BleepingComputer"
   }
 ]
