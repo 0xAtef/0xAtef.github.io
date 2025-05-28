@@ -1,5 +1,26 @@
 [
   {
+    "title": "Interlock ransomware gang deploys new NodeSnake RAT on universities",
+    "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/",
+    "summary": "The Interlock ransomware gang is deploying a previously undocumented remote access trojan (RAT) named NodeSnake against educational institutes for persistent access to corporate networks. [...]",
+    "published": "2025-05-28T18:14:01",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Pakistan Arrests 21 in \u2018Heartsender\u2019 Malware Service",
+    "link": "https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/",
+    "summary": "Authorities in Pakistan have arrested 21 individuals accused of operating \"Heartsender,\" a once popular spam and malware dissemination service that operated for more than a decade. The main clientele for HeartSender were organized crime groups that tried to trick victim companies into making payment",
+    "published": "2025-05-28T17:41:47",
+    "source": "Krebs"
+  },
+  {
+    "title": "Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore",
+    "link": "https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html",
+    "summary": "An Iranian national has pleaded guilty in the U.S. over his involvement in an international ransomware and extortion scheme involving the Robbinhood ransomware.\nSina Gholinejad (aka Sina Ghaaf), 37, and his co-conspirators are said to have breached the computer networks of various organizations in t",
+    "published": "2025-05-28T17:20:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor",
     "link": "https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/",
     "summary": "Over 9,000 ASUS routers are compromised by a novel botnet dubbed \"AyySSHush\" that was also observed targeting SOHO routers from Cisco, D-Link, and Linksys. [...]",
@@ -12,6 +33,13 @@
     "summary": "A sprawling network of fake AI, VPN, and crypto software download sites is being used by the \"Dark Partner\" threat actors to conduct a crypto theft attacks worldwide. [...]",
     "published": "2025-05-28T16:39:13",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack",
+    "link": "https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html",
+    "summary": "The Czech Republic on Wednesday formally accused a threat actor associated with the People's Republic of China (PRC) of targeting its Ministry of Foreign Affairs.\nIn a public statement, the government said it identified China as the culprit behind a malicious campaign targeting one of the unclassifi",
+    "published": "2025-05-28T16:01:00",
+    "source": "HackerNews"
   },
   {
     "title": "Czechia blames China for Ministry of Foreign Affairs cyberattack",
@@ -81,13 +109,6 @@
     "link": "https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html",
     "summary": "Cybersecurity researchers have disclosed details of a coordinated cloud-based scanning activity that targeted 75 distinct \"exposure points\" earlier this month.\nThe activity, observed by GreyNoise on May 8, 2025, involved as many as 251 malicious IP addresses that are all geolocated to Japan and host",
     "published": "2025-05-28T09:23:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats",
-    "link": "https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html",
-    "summary": "Apple on Tuesday revealed that it prevented over $9 billion in fraudulent transactions in the last five years, including more than $2 billion in 2024 alone.\nThe company said the App Store is confronted by a wide range of threats that seek to defraud users in various ways, ranging from \"deceptive app",
-    "published": "2025-05-28T06:11:00",
     "source": "HackerNews"
   }
 ]
