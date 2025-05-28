@@ -1,10 +1,31 @@
 [
   {
+    "title": "Microsoft introduces new Windows backup tool for businesses",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/",
+    "summary": "Microsoft has introduced Windows Backup for Organizations, a new backup tool for enterprises that simplifies backups and makes the transition to Windows 11 easier. [...]",
+    "published": "2025-05-28T13:09:15",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto",
+    "link": "https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html",
+    "summary": "Embedded Linux-based Internet of Things (IoT) devices have become the target of a new botnet dubbed PumaBot.\nWritten in Go, the botnet is designed to conduct brute-force attacks against SSH instances to expand in size and scale and deliver additional malware to the infected hosts.\n\"Rather than scann",
+    "published": "2025-05-28T12:30:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft wants Windows to update all software on your PC",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/",
     "summary": "Microsoft has introduced a new update orchestration platform built on the existing Windows Update infrastructure, which aims to unify the updating system for all apps, drivers, and system components on Windows systems. [...]",
     "published": "2025-05-28T12:15:03",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign",
+    "link": "https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html",
+    "summary": "Stealer malware no longer just steals passwords. In 2025, it steals live sessions\u2014and attackers are moving faster and more efficiently than ever.\nWhile many associate account takeovers with personal services, the real threat is unfolding in the enterprise. Flare\u2019s latest research, The Account and Se",
+    "published": "2025-05-28T11:25:00",
+    "source": "HackerNews"
   },
   {
     "title": "Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware",
