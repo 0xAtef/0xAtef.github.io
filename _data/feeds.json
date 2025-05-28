@@ -19,19 +19,5 @@
     "summary": "Misconfigured Docker API instances have become the target of a new malware campaign that transforms them into a cryptocurrency mining botnet.\nThe attacks, designed to mine for Dero currency, is notable for its worm-like capabilities to propagate the malware to other exposed Docker instances and rope",
     "published": "2025-05-27T16:23:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Not Every CVE Deserves a Fire Drill: Focus on What\u2019s Exploitable",
-    "link": "https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/",
-    "summary": "Not every \"critical\" vulnerability is a critical risk. Picus Exposure Validation cuts through the noise by testing what's actually exploitable in your environment \u2014 so you can patch what matters. [...]",
-    "published": "2025-05-27T14:25:31",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets",
-    "link": "https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html",
-    "summary": "Cybersecurity researchers have disclosed a new malicious campaign that uses a fake website advertising antivirus software from Bitdefender to dupe victims into downloading a remote access trojan called Venom RAT.\nThe campaign indicates a \"clear intent to target individuals for financial gain by comp",
-    "published": "2025-05-27T14:10:00",
-    "source": "HackerNews"
   }
 ]
