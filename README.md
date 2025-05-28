@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor](https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/) — 2025-44-28
+- **Bleeping Computer**: [Dark Partners cybercrime gang fuels large-scale crypto heists](https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/) — 2025-39-28
 - **Bleeping Computer**: [Czechia blames China for Ministry of Foreign Affairs cyberattack](https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/) — 2025-39-28
 - **The Hacker News**: [Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File](https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html) — 2025-41-28
 - **Bleeping Computer**: [Microsoft introduces new Windows backup tool for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/) — 2025-09-28
@@ -62,11 +64,9 @@ Let's connect and share some war stories!
 - **The Hacker News**: [AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale](https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html) — 2025-00-27
 - **The Hacker News**: [Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers](https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html) — 2025-52-27
 - **Bleeping Computer**: [Windows Server emergency update fixes Hyper-V VM freezes, restart issues](https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/) — 2025-25-27
-- **Bleeping Computer**: [Adidas warns of data breach after customer service provider hack](https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/) — 2025-29-27
 - **The Hacker News**: [Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth’s Stealth Phishing Campaign](https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html) — 2025-11-27
 - **The Hacker News**: [Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents](https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html) — 2025-54-27
 - **The Hacker News**: [Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto](https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html) — 2025-17-26
-- **Bleeping Computer**: [Google claims users find ads in AI search &#39;helpful&#39;](https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/) — 2025-45-26
 - **The Hacker News**: [CISO&#39;s Guide To Web Privacy Validation And Why It&#39;s Important](https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html) — 2025-25-26
 - **The Hacker News**: [⚡ Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches and Critical CVEs](https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html) — 2025-23-26
 - **The Hacker News**: [Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware](https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html) — 2025-36-25
