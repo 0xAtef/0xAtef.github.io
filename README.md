@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft wants Windows to update all software on your PC](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/) — 2025-15-28
+- **The Hacker News**: [Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware](https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html) — 2025-00-28
 - **Bleeping Computer**: [Apple blocked over $9 billion in App Store fraud in five years](https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/) — 2025-18-28
 - **The Hacker News**: [How &#39;Browser-in-the-Middle&#39; Attacks Steal Sessions in Seconds](https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html) — 2025-32-28
 - **The Hacker News**: [251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch](https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html) — 2025-23-28
@@ -63,8 +65,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [OpenAI plans to ship an interesting ChatGPT product by 2026](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/) — 2025-02-26
 - **The Hacker News**: [CISO&#39;s Guide To Web Privacy Validation And Why It&#39;s Important](https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html) — 2025-25-26
 - **The Hacker News**: [⚡ Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches and Critical CVEs](https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html) — 2025-23-26
-- **Bleeping Computer**: [Vibe coding company says Claude 4 reduced syntax errors by 25%](https://www.bleepingcomputer.com/news/artificial-intelligence/vibe-coding-company-says-claude-4-reduced-syntax-errors-by-25-percent/) — 2025-04-25
-- **Bleeping Computer**: [Leak suggests xAI is getting ready to ship Grok 3.5](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-suggests-xai-is-getting-ready-to-ship-grok-35/) — 2025-51-25
 - **The Hacker News**: [Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware](https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html) — 2025-36-25
 - **The Hacker News**: [Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix Technique](https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html) — 2025-24-23
 - **The Hacker News**: [ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices](https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html) — 2025-49-23
@@ -103,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards](https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html) — 2025-37-19
 - **The Hacker News**: [⚡ Weekly Recap: Zero-Day Exploits, Insider Threats, APT Targeting, Botnets and More](https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html) — 2025-00-19
 - **The Hacker News**: [[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications](https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html) — 2025-07-17
-- **The Hacker News**: [New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech Sectors](https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html) — 2025-37-16
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
