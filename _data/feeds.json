@@ -1,5 +1,19 @@
 [
   {
+    "title": "Attackers are mapping your attack surface\u2014are you?",
+    "link": "https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/",
+    "summary": "Attackers are mapping your infrastructure before you even realize what's exposed. Sprocket ASM flips the script \u2014 giving you the same recon capabilities they use, plus change detection and actionable insights to close gaps fast. See your attack surface the way hackers do and beat them to it. [...]",
+    "published": "2025-05-29T14:02:12",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers",
+    "link": "https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html",
+    "summary": "Cybersecurity researchers have taken the wraps off an unusual cyber attack that leveraged malware with corrupted DOS and PE headers, according to new findings from Fortinet.\nThe DOS (Disk Operating System) and PE (Portable Executable) headers are essential parts of a Windows PE file, providing infor",
+    "published": "2025-05-29T13:16:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Victoria\u2019s Secret takes down website after security incident",
     "link": "https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/",
     "summary": "Victoria's Secret, the fashion giant, has taken down its website and some store services because of an ongoing security incident [...]",
