@@ -1,5 +1,19 @@
 [
   {
+    "title": "Threat actors abuse Google Apps Script in evasive phishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/",
+    "summary": "Threat actors are abusing the trusted Google platform 'Google Apps Script' to host phishing pages, making them appear legitimate and eliminating the risk of them getting flagged by security tools. [...]",
+    "published": "2025-05-29T16:25:36",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Apple Safari exposes users to fullscreen browser-in-the-middle attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/",
+    "summary": "A weakness in Apple's Safari web browser allows threat actors to leverage the\u00a0fullscreen browser-in-the-middle (BitM) technique to\u00a0steal account credentials from unsuspecting users. [...]",
+    "published": "2025-05-29T16:06:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "US sanctions firm linked to cyber scams behind $200 million in losses",
     "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/",
     "summary": "The U.S. Treasury Department has sanctioned Funnull Technology, a Philippines-based company that supports hundreds of thousands of malicious websites behind cyber scams linked to over $200 million in losses for Americans. [...]",
