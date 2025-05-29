@@ -75,12 +75,5 @@
     "summary": "Data broker giant LexisNexis Risk Solutions has revealed that unknown attackers stole the personal information of over 364,000 individuals in a December breach. [...]",
     "published": "2025-05-29T08:28:25",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations",
-    "link": "https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html",
-    "summary": "Google on Wednesday disclosed that the Chinese state-sponsored threat actor known as APT41 leveraged a malware called TOUGHPROGRESS that uses Google Calendar for command-and-control (C2).\nThe tech giant, which discovered the activity in late October 2024, said the malware was hosted on a compromised",
-    "published": "2025-05-29T05:59:00",
-    "source": "HackerNews"
   }
 ]
