@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Data broker LexisNexis discloses data breach affecting 364,000 people](https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/) — 2025-28-29
 - **The Hacker News**: [Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations](https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html) — 2025-59-29
 - **The Hacker News**: [Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin](https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html) — 2025-34-29
 - **Bleeping Computer**: [Windows 10 KB5058481 update brings seconds back to calendar flyout](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/) — 2025-57-28
@@ -64,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch](https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html) — 2025-23-28
 - **The Hacker News**: [Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats](https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html) — 2025-11-28
 - **Bleeping Computer**: [DragonForce ransomware abuses SimpleHelp in MSP supply chain attack](https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/) — 2025-44-27
-- **Bleeping Computer**: [Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years](https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/) — 2025-14-27
 - **The Hacker News**: [New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency](https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html) — 2025-23-27
 - **The Hacker News**: [Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets](https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html) — 2025-10-27
 - **The Hacker News**: [Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages](https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html) — 2025-51-27
