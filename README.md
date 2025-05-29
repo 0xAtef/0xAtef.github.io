@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Attackers are mapping your attack surface—are you?](https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/) — 2025-02-29
+- **The Hacker News**: [New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers](https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html) — 2025-16-29
 - **Bleeping Computer**: [Victoria’s Secret takes down website after security incident](https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/) — 2025-30-29
 - **The Hacker News**: [DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints](https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html) — 2025-34-29
 - **Bleeping Computer**: [Microsoft: Windows 11 might fail to start after installing KB5058405](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/) — 2025-59-29
@@ -60,7 +62,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File](https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html) — 2025-41-28
 - **Bleeping Computer**: [Microsoft introduces new Windows backup tool for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/) — 2025-09-28
 - **The Hacker News**: [New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto](https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html) — 2025-30-28
-- **Bleeping Computer**: [Microsoft wants Windows to update all software on your PC](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/) — 2025-15-28
 - **The Hacker News**: [From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign](https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html) — 2025-25-28
 - **The Hacker News**: [Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware](https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html) — 2025-00-28
 - **The Hacker News**: [How &#39;Browser-in-the-Middle&#39; Attacks Steal Sessions in Seconds](https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html) — 2025-32-28
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation](https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html) — 2025-42-20
 - **The Hacker News**: [The Crowded Battle: Key Insights from the 2025 State of Pentesting Report](https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html) — 2025-00-20
 - **The Hacker News**: [South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware](https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html) — 2025-57-20
-- **The Hacker News**: [Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization](https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html) — 2025-32-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
