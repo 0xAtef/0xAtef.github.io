@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations",
+    "link": "https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html",
+    "summary": "Google on Wednesday disclosed that the Chinese state-sponsored threat actor known as APT41 leveraged a malware called TOUGHPROGRESS that uses Google Calendar for command-and-control (C2).\nThe tech giant, which discovered the activity in late October 2024, said the malware was hosted on a compromised",
+    "published": "2025-05-29T05:59:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin",
     "link": "https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html",
     "summary": "Cybersecurity researchers have disclosed a critical unpatched security flaw impacting TI WooCommerce Wishlist plugin for WordPress that could be exploited by unauthenticated attackers to upload arbitrary files.\nTI WooCommerce Wishlist, which has over 100,000 active installations, is a tool to allow ",
