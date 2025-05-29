@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cybercriminals exploit AI hype to spread ransomware, malware",
+    "link": "https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/",
+    "summary": "Threat actors linked to lesser-known ransomware and malware projects now use AI tools as lures to infect unsuspecting victims with malicious payloads. [...]",
+    "published": "2025-05-29T14:25:52",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Attackers are mapping your attack surface\u2014are you?",
     "link": "https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/",
     "summary": "Attackers are mapping your infrastructure before you even realize what's exposed. Sprocket ASM flips the script \u2014 giving you the same recon capabilities they use, plus change detection and actionable insights to close gaps fast. See your attack surface the way hackers do and beat them to it. [...]",
