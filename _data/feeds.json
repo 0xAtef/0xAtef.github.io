@@ -1,5 +1,12 @@
 [
   {
+    "title": "ConnectWise breached in cyberattack linked to nation-state hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/",
+    "summary": "IT management software firm ConnectWise says a suspected state-sponsored cyberattack breached its environment and impacted a limited number of ScreenConnect customers. [...]",
+    "published": "2025-05-29T19:12:12",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Threat actors abuse Google Apps Script in evasive phishing attacks",
     "link": "https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/",
     "summary": "Threat actors are abusing the trusted Google platform 'Google Apps Script' to host phishing pages, making them appear legitimate and eliminating the risk of them getting flagged by security tools. [...]",
