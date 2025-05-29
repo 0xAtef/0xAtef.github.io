@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Victoria’s Secret takes down website after security incident](https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/) — 2025-30-29
+- **The Hacker News**: [DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints](https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html) — 2025-34-29
 - **Bleeping Computer**: [Microsoft: Windows 11 might fail to start after installing KB5058405](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/) — 2025-59-29
 - **Bleeping Computer**: [Data broker LexisNexis discloses data breach affecting 364,000 people](https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/) — 2025-28-29
 - **The Hacker News**: [Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations](https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html) — 2025-59-29
@@ -61,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft wants Windows to update all software on your PC](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/) — 2025-15-28
 - **The Hacker News**: [From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign](https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html) — 2025-25-28
 - **The Hacker News**: [Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware](https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html) — 2025-00-28
-- **Bleeping Computer**: [Apple blocked over $9 billion in App Store fraud in five years](https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/) — 2025-18-28
 - **The Hacker News**: [How &#39;Browser-in-the-Middle&#39; Attacks Steal Sessions in Seconds](https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html) — 2025-32-28
 - **The Hacker News**: [251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch](https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html) — 2025-23-28
 - **The Hacker News**: [Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats](https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html) — 2025-11-28
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [The Crowded Battle: Key Insights from the 2025 State of Pentesting Report](https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html) — 2025-00-20
 - **The Hacker News**: [South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware](https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html) — 2025-57-20
 - **The Hacker News**: [Chinese Hackers Deploy MarsSnake Backdoor in Multi-Year Attack on Saudi Organization](https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html) — 2025-32-20
-- **The Hacker News**: [Go-Based Malware Deploys XMRig Miner on Linux Hosts via Redis Configuration Abuse](https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html) — 2025-25-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
