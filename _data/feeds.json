@@ -1,5 +1,12 @@
 [
   {
+    "title": "DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints",
+    "link": "https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html",
+    "summary": "The threat actors behind the DragonForce ransomware gained access to an unnamed Managed Service Provider's (MSP) SimpleHelp remote monitoring and management (RMM) tool, and then leveraged it to exfiltrate data and drop the locker on multiple endpoints.\nIt's believed that the attackers exploited a tr",
+    "published": "2025-05-29T10:34:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft: Windows 11 might fail to start after installing KB5058405",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/",
     "summary": "Microsoft has confirmed that some Windows 11 systems might fail to start after installing the KB5058405 security update released during this month's Patch Tuesday. [...]",
@@ -26,12 +33,5 @@
     "summary": "Cybersecurity researchers have disclosed a critical unpatched security flaw impacting TI WooCommerce Wishlist plugin for WordPress that could be exploited by unauthenticated attackers to upload arbitrary files.\nTI WooCommerce Wishlist, which has over 100,000 active installations, is a tool to allow ",
     "published": "2025-05-29T05:34:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Windows 10 KB5058481 update brings seconds back to calendar flyout",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/",
-    "summary": "Microsoft has released the optional KB5058481 preview cumulative update for Windows 10 22H2 with seven changes, including restoring seconds to the time display in the calendar flyout for those who previously lost it. [...]",
-    "published": "2025-05-28T22:57:26",
-    "source": "BleepingComputer"
   }
 ]
