@@ -68,12 +68,5 @@
     "summary": "The threat actors behind the DragonForce ransomware gained access to an unnamed Managed Service Provider's (MSP) SimpleHelp remote monitoring and management (RMM) tool, and then leveraged it to exfiltrate data and drop the locker on multiple endpoints.\nIt's believed that the attackers exploited a tr",
     "published": "2025-05-29T10:34:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft: Windows 11 might fail to start after installing KB5058405",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/",
-    "summary": "Microsoft has confirmed that some Windows 11 systems might fail to start after installing the KB5058405 security update released during this month's Patch Tuesday. [...]",
-    "published": "2025-05-29T09:59:54",
-    "source": "BleepingComputer"
   }
 ]
