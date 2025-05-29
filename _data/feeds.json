@@ -61,12 +61,5 @@
     "summary": "Victoria's Secret, the fashion giant, has taken down its website and some store services because of an ongoing security incident [...]",
     "published": "2025-05-29T11:30:41",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints",
-    "link": "https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html",
-    "summary": "The threat actors behind the DragonForce ransomware gained access to an unnamed Managed Service Provider's (MSP) SimpleHelp remote monitoring and management (RMM) tool, and then leveraged it to exfiltrate data and drop the locker on multiple endpoints.\nIt's believed that the attackers exploited a tr",
-    "published": "2025-05-29T10:34:00",
-    "source": "HackerNews"
   }
 ]
