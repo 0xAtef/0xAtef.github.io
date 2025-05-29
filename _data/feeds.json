@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft: Windows 11 might fail to start after installing KB5058405",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/",
+    "summary": "Microsoft has confirmed that some Windows 11 systems might fail to start after installing the KB5058405 security update released during this month's Patch Tuesday. [...]",
+    "published": "2025-05-29T09:59:54",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Data broker LexisNexis discloses data breach affecting 364,000 people",
     "link": "https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/",
     "summary": "Data broker giant LexisNexis Risk Solutions has revealed that unknown attackers stole the personal information of over 364,000 individuals in a December breach. [...]",
@@ -25,20 +32,6 @@
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/",
     "summary": "Microsoft has released the optional KB5058481 preview cumulative update for Windows 10 22H2 with seven changes, including restoring seconds to the time display in the calendar flyout for those who previously lost it. [...]",
     "published": "2025-05-28T22:57:26",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Windows 11 KB5058499 update rolls out new Share and Click to Do features",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/",
-    "summary": "\u200b\u200bMicrosoft has released the KB5058499 preview cumulative update for Windows 11 24H2\u00a0with forty-eight\u00a0new features or changes, with many gradually rolling out, such as the new Windows Share feature and tje Click to Do Preview. [...]",
-    "published": "2025-05-28T22:19:54",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "APT41 malware abuses Google Calendar for stealthy C2 communication",
-    "link": "https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/",
-    "summary": "The Chinese APT41 hacking group uses a new malware named 'ToughProgress' that abuses Google Calendar for command-and-control (C2) operations, hiding malicious activity behind a trusted cloud service. [...]",
-    "published": "2025-05-28T22:04:04",
     "source": "BleepingComputer"
   }
 ]
