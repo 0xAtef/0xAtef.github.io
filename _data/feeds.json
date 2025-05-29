@@ -40,26 +40,5 @@
     "summary": "Authorities in Pakistan have arrested 21 individuals accused of operating \"Heartsender,\" a once popular spam and malware dissemination service that operated for more than a decade. The main clientele for HeartSender were organized crime groups that tried to trick victim companies into making payment",
     "published": "2025-05-28T17:41:47",
     "source": "Krebs"
-  },
-  {
-    "title": "Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore",
-    "link": "https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html",
-    "summary": "An Iranian national has pleaded guilty in the U.S. over his involvement in an international ransomware and extortion scheme involving the Robbinhood ransomware.\nSina Gholinejad (aka Sina Ghaaf), 37, and his co-conspirators are said to have breached the computer networks of various organizations in t",
-    "published": "2025-05-28T17:20:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor",
-    "link": "https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/",
-    "summary": "Over 9,000 ASUS routers are compromised by a novel botnet dubbed \"AyySSHush\" that was also observed targeting SOHO routers from Cisco, D-Link, and Linksys. [...]",
-    "published": "2025-05-28T16:44:36",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Dark Partners cybercrime gang fuels large-scale crypto heists",
-    "link": "https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/",
-    "summary": "A sprawling network of fake AI, VPN, and crypto software download sites is being used by the \"Dark Partner\" threat actors to conduct a crypto theft attacks worldwide. [...]",
-    "published": "2025-05-28T16:39:13",
-    "source": "BleepingComputer"
   }
 ]
