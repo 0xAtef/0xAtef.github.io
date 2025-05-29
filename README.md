@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Apple Safari exposes users to fullscreen browser-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/) — 2025-06-29
+- **Bleeping Computer**: [US sanctions firm linked to cyber scams behind $200 million in losses](https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/) — 2025-42-29
 - **Bleeping Computer**: [Cybercriminals exploit AI hype to spread ransomware, malware](https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/) — 2025-25-29
 - **Bleeping Computer**: [Attackers are mapping your attack surface—are you?](https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/) — 2025-02-29
 - **The Hacker News**: [New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers](https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html) — 2025-16-29
@@ -57,9 +59,7 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **The Hacker News**: [Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore](https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html) — 2025-20-28
 - **Bleeping Computer**: [Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor](https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/) — 2025-44-28
-- **Bleeping Computer**: [Dark Partners cybercrime gang fuels large-scale crypto heists](https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/) — 2025-39-28
 - **The Hacker News**: [Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack](https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html) — 2025-01-28
-- **Bleeping Computer**: [Czechia blames China for Ministry of Foreign Affairs cyberattack](https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/) — 2025-39-28
 - **The Hacker News**: [Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File](https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html) — 2025-41-28
 - **The Hacker News**: [New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto](https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html) — 2025-30-28
 - **The Hacker News**: [From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign](https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html) — 2025-25-28
