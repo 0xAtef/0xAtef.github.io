@@ -75,33 +75,5 @@
     "summary": "The Czech Republic says the Chinese-backed APT31 hacking group was behind cyberattacks targeting the country's Ministry of Foreign Affairs and critical infrastructure organizations. [...]",
     "published": "2025-05-28T14:39:25",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access \u2014 Even When Uploading Just One File",
-    "link": "https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html",
-    "summary": "Cybersecurity researchers have discovered a security flaw in Microsoft's OneDrive File Picker that, if successfully exploited, could allow websites to access a user's entire cloud storage content, as opposed to just the files selected for upload via the tool.\n\"This stems from overly broad OAuth scop",
-    "published": "2025-05-28T13:41:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft introduces new Windows backup tool for businesses",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/",
-    "summary": "Microsoft has introduced Windows Backup for Organizations, a new backup tool for enterprises that simplifies backups and makes the transition to Windows 11 easier. [...]",
-    "published": "2025-05-28T13:09:15",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto",
-    "link": "https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html",
-    "summary": "Embedded Linux-based Internet of Things (IoT) devices have become the target of a new botnet dubbed PumaBot.\nWritten in Go, the botnet is designed to conduct brute-force attacks against SSH instances to expand in size and scale and deliver additional malware to the infected hosts.\n\"Rather than scann",
-    "published": "2025-05-28T12:30:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft wants Windows to update all software on your PC",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/",
-    "summary": "Microsoft has introduced a new update orchestration platform built on the existing Windows Update infrastructure, which aims to unify the updating system for all apps, drivers, and system components on Windows systems. [...]",
-    "published": "2025-05-28T12:15:03",
-    "source": "BleepingComputer"
   }
 ]
