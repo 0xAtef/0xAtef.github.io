@@ -1,5 +1,12 @@
 [
   {
+    "title": "Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin",
+    "link": "https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html",
+    "summary": "Cybersecurity researchers have disclosed a critical unpatched security flaw impacting TI WooCommerce Wishlist plugin for WordPress that could be exploited by unauthenticated attackers to upload arbitrary files.\nTI WooCommerce Wishlist, which has over 100,000 active installations, is a tool to allow ",
+    "published": "2025-05-29T05:34:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Windows 10 KB5058481 update brings seconds back to calendar flyout",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/",
     "summary": "Microsoft has released the optional KB5058481 preview cumulative update for Windows 10 22H2 with seven changes, including restoring seconds to the time display in the calendar flyout for those who previously lost it. [...]",
@@ -25,13 +32,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/",
     "summary": "A newly discovered Go-based Linux botnet malware named PumaBot is brute-forcing\u00a0SSH credentials on embedded IoT devices to deploy malicious payloads. [...]",
     "published": "2025-05-28T19:59:38",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Interlock ransomware gang deploys new NodeSnake RAT on universities",
-    "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/",
-    "summary": "The Interlock ransomware gang is deploying a previously undocumented remote access trojan (RAT) named NodeSnake against educational institutes for persistent access to corporate networks. [...]",
-    "published": "2025-05-28T18:14:01",
     "source": "BleepingComputer"
   }
 ]
