@@ -54,12 +54,5 @@
     "summary": "Cybersecurity researchers have taken the wraps off an unusual cyber attack that leveraged malware with corrupted DOS and PE headers, according to new findings from Fortinet.\nThe DOS (Disk Operating System) and PE (Portable Executable) headers are essential parts of a Windows PE file, providing infor",
     "published": "2025-05-29T13:16:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Victoria\u2019s Secret takes down website after security incident",
-    "link": "https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/",
-    "summary": "Victoria's Secret, the fashion giant, has taken down its website and some store services because of an ongoing security incident [...]",
-    "published": "2025-05-29T11:30:41",
-    "source": "BleepingComputer"
   }
 ]
