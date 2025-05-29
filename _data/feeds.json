@@ -33,12 +33,5 @@
     "summary": "The Interlock ransomware gang is deploying a previously undocumented remote access trojan (RAT) named NodeSnake against educational institutes for persistent access to corporate networks. [...]",
     "published": "2025-05-28T18:14:01",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Pakistan Arrests 21 in \u2018Heartsender\u2019 Malware Service",
-    "link": "https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/",
-    "summary": "Authorities in Pakistan have arrested 21 individuals accused of operating \"Heartsender,\" a once popular spam and malware dissemination service that operated for more than a decade. The main clientele for HeartSender were organized crime groups that tried to trick victim companies into making payment",
-    "published": "2025-05-28T17:41:47",
-    "source": "Krebs"
   }
 ]
