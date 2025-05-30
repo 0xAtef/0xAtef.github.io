@@ -1,5 +1,19 @@
 [
   {
+    "title": "Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs",
+    "link": "https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/",
+    "summary": "Mozilla has rolled out an emergency Firefox 139.0.1 update after the Tuesday release caused graphical artifacts on\u00a0PCs with NVIDIA GPUs. [...]",
+    "published": "2025-05-29T23:58:04",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Microsoft Authenticator now warns to export passwords before July cutoff",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/",
+    "summary": "The Microsoft Authenticator app is now issuing notifications warning that the password autofill feature is being deprecated in July, suggesting users move to Microsoft Edge instead. [...]",
+    "published": "2025-05-29T23:49:49",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "ConnectWise breached in cyberattack linked to nation-state hackers",
     "link": "https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/",
     "summary": "IT management software firm ConnectWise says a suspected state-sponsored cyberattack breached its environment and impacted a limited number of ScreenConnect customers. [...]",
@@ -47,12 +61,5 @@
     "summary": "Attackers are mapping your infrastructure before you even realize what's exposed. Sprocket ASM flips the script \u2014 giving you the same recon capabilities they use, plus change detection and actionable insights to close gaps fast. See your attack surface the way hackers do and beat them to it. [...]",
     "published": "2025-05-29T14:02:12",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers",
-    "link": "https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html",
-    "summary": "Cybersecurity researchers have taken the wraps off an unusual cyber attack that leveraged malware with corrupted DOS and PE headers, according to new findings from Fortinet.\nThe DOS (Disk Operating System) and PE (Portable Executable) headers are essential parts of a Windows PE file, providing infor",
-    "published": "2025-05-29T13:16:00",
-    "source": "HackerNews"
   }
 ]
