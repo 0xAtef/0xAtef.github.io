@@ -1,5 +1,12 @@
 [
   {
+    "title": "Meta Disrupts Influence Ops Targeting Romania, Azerbaijan, and Taiwan with Fake Personas",
+    "link": "https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html",
+    "summary": "Meta on Thursday revealed that it disrupted three covert influence operations originating from Iran, China, and Romania during the first quarter of 2025.\n\"We detected and removed these campaigns before they were able to build authentic audiences on our apps,\" the social media giant said in its quart",
+    "published": "2025-05-30T04:09:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "U.S. Sanctions Cloud Provider \u2018Funnull\u2019 as Top Source of \u2018Pig Butchering\u2019 Scams",
     "link": "https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/",
     "summary": "The U.S. government today imposed economic sanctions on Funnull Technology Inc., a Philippines-based company that provides computer infrastructure for hundreds of thousands of websites involved in virtual currency investment scams, commonly known as \u201cpig butchering.\" In January 2025, KrebsOnSecurity",
@@ -25,20 +32,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/",
     "summary": "IT management software firm ConnectWise says a suspected state-sponsored cyberattack breached its environment and impacted a limited number of ScreenConnect customers. [...]",
     "published": "2025-05-29T19:12:12",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Threat actors abuse Google Apps Script in evasive phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/",
-    "summary": "Threat actors are abusing the trusted Google platform 'Google Apps Script' to host phishing pages, making them appear legitimate and eliminating the risk of them getting flagged by security tools. [...]",
-    "published": "2025-05-29T16:25:36",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Apple Safari exposes users to fullscreen browser-in-the-middle attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/",
-    "summary": "A weakness in Apple's Safari web browser allows threat actors to leverage the\u00a0fullscreen browser-in-the-middle (BitM) technique to\u00a0steal account credentials from unsuspecting users. [...]",
-    "published": "2025-05-29T16:06:25",
     "source": "BleepingComputer"
   }
 ]
