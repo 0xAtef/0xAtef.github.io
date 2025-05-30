@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Police takes down AVCheck site used by cybercriminals to scan malware](https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/) — 2025-46-30
 - **Bleeping Computer**: [Germany doxxes Conti ransomware and TrickBot ring leader](https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/) — 2025-57-30
 - **The Hacker News**: [New EDDIESTEALER Malware Bypasses Chrome&#39;s App-Bound Encryption to Steal Browser Data](https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html) — 2025-14-30
 - **Bleeping Computer**: [Getting Exposure Management Right: Insights from 500 CISOs](https://www.bleepingcomputer.com/news/security/getting-exposure-management-right-insights-from-500-cisos/) — 2025-00-30
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers](https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html) — 2025-16-29
 - **Bleeping Computer**: [Victoria’s Secret takes down website after security incident](https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/) — 2025-30-29
 - **The Hacker News**: [DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints](https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html) — 2025-34-29
-- **Bleeping Computer**: [Microsoft: Windows 11 might fail to start after installing KB5058405](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/) — 2025-59-29
 - **The Hacker News**: [Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations](https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html) — 2025-59-29
 - **The Hacker News**: [Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin](https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html) — 2025-34-29
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
