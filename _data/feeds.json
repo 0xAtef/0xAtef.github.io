@@ -1,5 +1,12 @@
 [
   {
+    "title": "ConnectWise Hit by Cyberattack; Nation-State Actor Suspected in Targeted Breach",
+    "link": "https://thehackernews.com/2025/05/connectwise-hit-by-cyberattack-nation.html",
+    "summary": "ConnectWise, the developer of remote access and support software ScreenConnect, has disclosed that it was the victim of a cyber attack that it said was likely perpetrated by a nation-state threat actor.\n\"ConnectWise recently learned of suspicious activity within our environment that we believe was t",
+    "published": "2025-05-30T06:11:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Meta Disrupts Influence Ops Targeting Romania, Azerbaijan, and Taiwan with Fake Personas",
     "link": "https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html",
     "summary": "Meta on Thursday revealed that it disrupted three covert influence operations originating from Iran, China, and Romania during the first quarter of 2025.\n\"We detected and removed these campaigns before they were able to build authentic audiences on our apps,\" the social media giant said in its quart",
@@ -25,13 +32,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/",
     "summary": "The Microsoft Authenticator app is now issuing notifications warning that the password autofill feature is being deprecated in July, suggesting users move to Microsoft Edge instead. [...]",
     "published": "2025-05-29T23:49:49",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "ConnectWise breached in cyberattack linked to nation-state hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/",
-    "summary": "IT management software firm ConnectWise says a suspected state-sponsored cyberattack breached its environment and impacted a limited number of ScreenConnect customers. [...]",
-    "published": "2025-05-29T19:12:12",
     "source": "BleepingComputer"
   }
 ]
