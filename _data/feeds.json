@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackers are exploiting critical flaw in vBulletin forum software",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/",
+    "summary": "Two critical vulnerabilities affecting the open-source forum software vBulletin have been discovered, with one confirmed to be actively exploited in the wild. [...]",
+    "published": "2025-05-30T19:26:06",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft now testing Notepad text formatting in Windows 11",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/",
     "summary": "Microsoft announced today that the Windows 11 Notepad application is getting a text formatting feature supporting Markdown-style input. [...]",
