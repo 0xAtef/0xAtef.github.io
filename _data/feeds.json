@@ -1,5 +1,12 @@
 [
   {
+    "title": "U.S. Sanctions Cloud Provider \u2018Funnull\u2019 as Top Source of \u2018Pig Butchering\u2019 Scams",
+    "link": "https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/",
+    "summary": "The U.S. government today imposed economic sanctions on Funnull Technology Inc., a Philippines-based company that provides computer infrastructure for hundreds of thousands of websites involved in virtual currency investment scams, commonly known as \u201cpig butchering.\" In January 2025, KrebsOnSecurity",
+    "published": "2025-05-30T01:55:16",
+    "source": "Krebs"
+  },
+  {
     "title": "Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs",
     "link": "https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/",
     "summary": "Mozilla has rolled out an emergency Firefox 139.0.1 update after the Tuesday release caused graphical artifacts on\u00a0PCs with NVIDIA GPUs. [...]",
@@ -46,20 +53,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/",
     "summary": "The U.S. Treasury Department has sanctioned Funnull Technology, a Philippines-based company that supports hundreds of thousands of malicious websites behind cyber scams linked to over $200 million in losses for Americans. [...]",
     "published": "2025-05-29T15:42:38",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Cybercriminals exploit AI hype to spread ransomware, malware",
-    "link": "https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/",
-    "summary": "Threat actors linked to lesser-known ransomware and malware projects now use AI tools as lures to infect unsuspecting victims with malicious payloads. [...]",
-    "published": "2025-05-29T14:25:52",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Attackers are mapping your attack surface\u2014are you?",
-    "link": "https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/",
-    "summary": "Attackers are mapping your infrastructure before you even realize what's exposed. Sprocket ASM flips the script \u2014 giving you the same recon capabilities they use, plus change detection and actionable insights to close gaps fast. See your attack surface the way hackers do and beat them to it. [...]",
-    "published": "2025-05-29T14:02:12",
     "source": "BleepingComputer"
   }
 ]
