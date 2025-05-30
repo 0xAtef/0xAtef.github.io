@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft now testing Notepad text formatting in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/) — 2025-41-30
 - **Bleeping Computer**: [Police takes down AVCheck site used by cybercriminals to scan malware](https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/) — 2025-46-30
 - **Bleeping Computer**: [Germany doxxes Conti ransomware and TrickBot ring leader](https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/) — 2025-57-30
 - **The Hacker News**: [New EDDIESTEALER Malware Bypasses Chrome&#39;s App-Bound Encryption to Steal Browser Data](https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html) — 2025-14-30
