@@ -1,5 +1,12 @@
 [
   {
+    "title": "New EDDIESTEALER Malware Bypasses Chrome's App-Bound Encryption to Steal Browser Data",
+    "link": "https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html",
+    "summary": "A new malware campaign is distributing a novel Rust-based information stealer dubbed EDDIESTEALER using the popular ClickFix social engineering tactic initiated via fake CAPTCHA verification pages.\n\"This campaign leverages deceptive CAPTCHA verification pages that trick users into executing a malici",
+    "published": "2025-05-30T14:14:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil",
     "link": "https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html",
     "summary": "The China-linked threat actor behind the recent in-the-wild exploitation of a critical security flaw in SAP NetWeaver has been attributed to a broader set of attacks targeting organizations in Brazil, India, and Southeast Asia since 2023.\n\"The threat actor mainly targets the SQL injection vulnerabil",
