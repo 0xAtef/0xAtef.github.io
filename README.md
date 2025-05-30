@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs](https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/) — 2025-58-29
+- **Bleeping Computer**: [Microsoft Authenticator now warns to export passwords before July cutoff](https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/) — 2025-49-29
 - **Bleeping Computer**: [ConnectWise breached in cyberattack linked to nation-state hackers](https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/) — 2025-12-29
 - **Bleeping Computer**: [Threat actors abuse Google Apps Script in evasive phishing attacks](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/) — 2025-25-29
 - **Bleeping Computer**: [Apple Safari exposes users to fullscreen browser-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/) — 2025-06-29
@@ -56,8 +58,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin](https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html) — 2025-34-29
 - **Bleeping Computer**: [Windows 10 KB5058481 update brings seconds back to calendar flyout](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/) — 2025-57-28
 - **Bleeping Computer**: [Windows 11 KB5058499 update rolls out new Share and Click to Do features](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/) — 2025-19-28
-- **Bleeping Computer**: [APT41 malware abuses Google Calendar for stealthy C2 communication](https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/) — 2025-04-28
-- **Bleeping Computer**: [New PumaBot botnet brute forces SSH credentials to breach devices](https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/) — 2025-59-28
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **The Hacker News**: [Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore](https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html) — 2025-20-28
 - **The Hacker News**: [Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack](https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html) — 2025-01-28
