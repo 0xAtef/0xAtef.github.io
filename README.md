@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [New EDDIESTEALER Malware Bypasses Chrome&#39;s App-Bound Encryption to Steal Browser Data](https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html) — 2025-14-30
 - **The Hacker News**: [China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil](https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html) — 2025-12-30
 - **The Hacker News**: [From the &quot;Department of No&quot; to a &quot;Culture of Yes&quot;: A Healthcare CISO&#39;s Journey to Enabling Modern Care](https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html) — 2025-30-30
 - **The Hacker News**: [U.S. Sanctions Funnull for $200M Romance Baiting Scams Tied to Crypto Fraud](https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html) — 2025-51-30
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html) — 2025-15-21
 - **The Hacker News**: [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html) — 2025-25-21
 - **The Hacker News**: [How to Detect Phishing Attacks Faster: Tycoon2FA Example](https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html) — 2025-30-21
-- **The Hacker News**: [Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps](https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html) — 2025-01-21
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
