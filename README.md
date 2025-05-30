@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Hackers are exploiting critical flaw in vBulletin forum software](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/) — 2025-26-30
 - **Bleeping Computer**: [Microsoft now testing Notepad text formatting in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/) — 2025-41-30
 - **Bleeping Computer**: [Police takes down AVCheck site used by cybercriminals to scan malware](https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/) — 2025-46-30
 - **Bleeping Computer**: [Germany doxxes Conti ransomware and TrickBot ring leader](https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/) — 2025-57-30
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Cybercriminals exploit AI hype to spread ransomware, malware](https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/) — 2025-25-29
 - **Bleeping Computer**: [Attackers are mapping your attack surface—are you?](https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/) — 2025-02-29
 - **The Hacker News**: [New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers](https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html) — 2025-16-29
-- **Bleeping Computer**: [Victoria’s Secret takes down website after security incident](https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/) — 2025-30-29
 - **The Hacker News**: [DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints](https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html) — 2025-34-29
 - **The Hacker News**: [Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations](https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html) — 2025-59-29
 - **The Hacker News**: [Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin](https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html) — 2025-34-29
