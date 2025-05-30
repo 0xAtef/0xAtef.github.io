@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Meta Disrupts Influence Ops Targeting Romania, Azerbaijan, and Taiwan with Fake Personas](https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html) — 2025-09-30
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Bleeping Computer**: [Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs](https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/) — 2025-58-29
 - **Bleeping Computer**: [Microsoft Authenticator now warns to export passwords before July cutoff](https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/) — 2025-49-29
@@ -106,7 +107,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery](https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html) — 2025-53-20
 - **The Hacker News**: [100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads](https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html) — 2025-01-20
 - **The Hacker News**: [AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation](https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html) — 2025-42-20
-- **The Hacker News**: [The Crowded Battle: Key Insights from the 2025 State of Pentesting Report](https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html) — 2025-00-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
 - **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
