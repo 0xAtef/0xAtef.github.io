@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Exploit details for max severity Cisco IOS XE flaw now public](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/) — 2025-09-31
 - **The Hacker News**: [New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html) — 2025-19-31
 - **The Hacker News**: [U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation](https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html) — 2025-16-31
 - **Bleeping Computer**: [Hackers are exploiting critical flaw in vBulletin forum software](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/) — 2025-26-30
@@ -61,8 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Apple Safari exposes users to fullscreen browser-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/) — 2025-06-29
 - **The Hacker News**: [Cybercriminals Target AI Users with Malware-Loaded Installers Posing as Popular Tools](https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html) — 2025-47-29
 - **Bleeping Computer**: [US sanctions firm linked to cyber scams behind $200 million in losses](https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/) — 2025-42-29
-- **Bleeping Computer**: [Cybercriminals exploit AI hype to spread ransomware, malware](https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/) — 2025-25-29
-- **Bleeping Computer**: [Attackers are mapping your attack surface—are you?](https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/) — 2025-02-29
 - **The Hacker News**: [New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers](https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html) — 2025-16-29
 - **The Hacker News**: [DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints](https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html) — 2025-34-29
 - **The Hacker News**: [Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations](https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html) — 2025-59-29
