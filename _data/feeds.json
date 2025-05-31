@@ -1,9 +1,9 @@
 [
   {
-    "title": "New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora",
-    "link": "https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html",
-    "summary": "Two information disclosure flaws have been identified in apport and systemd-coredump, the core dump handlers in Ubuntu, Red Hat Enterprise Linux, and Fedora, according to the Qualys Threat Research Unit (TRU).\nTracked as CVE-2025-5054 and CVE-2025-4598, both vulnerabilities are race condition bugs t",
-    "published": "2025-05-31T10:19:00",
-    "source": "HackerNews"
+    "title": "Exploit details for max severity Cisco IOS XE flaw now public",
+    "link": "https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/",
+    "summary": "Technical details about a maximum-severity Cisco IOS XE WLC arbitrary file upload flaw tracked as CVE-2025-20188 have been made publicly available, bringing us closer to a working exploit. [...]",
+    "published": "2025-05-31T14:09:19",
+    "source": "BleepingComputer"
   }
 ]
