@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html) — 2025-19-31
 - **The Hacker News**: [U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation](https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html) — 2025-16-31
 - **Bleeping Computer**: [Hackers are exploiting critical flaw in vBulletin forum software](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/) — 2025-26-30
 - **Bleeping Computer**: [Microsoft now testing Notepad text formatting in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/) — 2025-41-30
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics](https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html) — 2025-06-21
 - **The Hacker News**: [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html) — 2025-10-21
 - **The Hacker News**: [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html) — 2025-15-21
-- **The Hacker News**: [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html) — 2025-25-21
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
