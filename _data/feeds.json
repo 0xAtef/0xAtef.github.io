@@ -5,12 +5,5 @@
     "summary": "Two information disclosure flaws have been identified in apport and systemd-coredump, the core dump handlers in Ubuntu, Red Hat Enterprise Linux, and Fedora, according to the Qualys Threat Research Unit (TRU).\nTracked as CVE-2025-5054 and CVE-2025-4598, both vulnerabilities are race condition bugs t",
     "published": "2025-05-31T10:19:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation",
-    "link": "https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html",
-    "summary": "A multinational law enforcement operation has resulted in the takedown of an online cybercrime syndicate that offered services to threat actors to ensure that their malicious software stayed undetected from security software.\nTo that effect, the U.S. Department of Justice (DoJ) said it seized four d",
-    "published": "2025-05-31T07:16:00",
-    "source": "HackerNews"
   }
 ]
