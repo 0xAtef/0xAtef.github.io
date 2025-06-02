@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Cartier discloses data breach amid fashion brand cyberattacks](https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/) — 2025-31-02
+- **Bleeping Computer**: [The North Face warns customers of April credential stuffing attack](https://www.bleepingcomputer.com/news/security/the-north-face-warns-customers-of-april-credential-stuffing-attack/) — 2025-37-02
 - **Bleeping Computer**: [SentinelOne: Last week’s 7-hour outage caused by software flaw](https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/) — 2025-24-02
 - **Bleeping Computer**: [Google Chrome to distrust Chunghwa Telecom, Netlock certificates in August](https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/) — 2025-36-02
 - **Bleeping Computer**: [Microsoft and CrowdStrike partner to link hacking group names](https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/) — 2025-56-02
@@ -58,9 +60,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Hackers are exploiting critical flaw in vBulletin forum software](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/) — 2025-26-30
 - **Bleeping Computer**: [Microsoft now testing Notepad text formatting in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/) — 2025-41-30
 - **Bleeping Computer**: [Police takes down AVCheck site used by cybercriminals to scan malware](https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/) — 2025-46-30
-- **Bleeping Computer**: [Germany doxxes Conti ransomware and TrickBot ring leader](https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/) — 2025-57-30
 - **The Hacker News**: [New EDDIESTEALER Malware Bypasses Chrome&#39;s App-Bound Encryption to Steal Browser Data](https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html) — 2025-14-30
-- **Bleeping Computer**: [Getting Exposure Management Right: Insights from 500 CISOs](https://www.bleepingcomputer.com/news/security/getting-exposure-management-right-insights-from-500-cisos/) — 2025-00-30
 - **The Hacker News**: [China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil](https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html) — 2025-12-30
 - **The Hacker News**: [From the &quot;Department of No&quot; to a &quot;Culture of Yes&quot;: A Healthcare CISO&#39;s Journey to Enabling Modern Care](https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html) — 2025-30-30
 - **The Hacker News**: [U.S. Sanctions Funnull for $200M Romance Baiting Scams Tied to Crypto Fraud](https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html) — 2025-51-30
