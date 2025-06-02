@@ -1,5 +1,12 @@
 [
   {
+    "title": "\u2018Russian Market\u2019 emerges as a go-to shop for stolen credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/",
+    "summary": "The \"Russian Market\" cybercrime marketplace has emerged as one of the most popular platforms\u00a0for buying and selling credentials stolen by information stealer malware. [...]",
+    "published": "2025-06-02T14:28:33",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft ships emergency patch to fix Windows 11 startup failures",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/",
     "summary": "Microsoft has released an out-of-band update\u00a0to address a known issue causing some Windows 11 systems to enter recovery and fail to start after installing the KB5058405 May 2025 security update. [...]",
