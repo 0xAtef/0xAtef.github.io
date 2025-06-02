@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [SentinelOne: Last week’s 7-hour outage caused by software flaw](https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/) — 2025-24-02
 - **Bleeping Computer**: [Google Chrome to distrust Chunghwa Telecom, Netlock certificates in August](https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/) — 2025-36-02
 - **Bleeping Computer**: [Microsoft and CrowdStrike partner to link hacking group names](https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/) — 2025-56-02
 - **The Hacker News**: [Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub](https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html) — 2025-03-02
