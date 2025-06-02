@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft ships emergency patch to fix Windows 11 installation issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/) — 2025-06-02
+- **Bleeping Computer**: [Qualcomm fixes three Adreno GPU zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/) — 2025-11-02
+- **The Hacker News**: [The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats](https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html) — 2025-55-02
 - **The Hacker News**: [Fake Recruiter Emails Target CFOs Using Legit NetBird Tool Across 6 Global Regions](https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html) — 2025-51-02
 - **Bleeping Computer**: [Exploit details for max severity Cisco IOS XE flaw now public](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/) — 2025-09-31
 - **The Hacker News**: [New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html) — 2025-19-31
@@ -59,10 +62,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs](https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/) — 2025-58-29
 - **Bleeping Computer**: [Microsoft Authenticator now warns to export passwords before July cutoff](https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/) — 2025-49-29
 - **Bleeping Computer**: [ConnectWise breached in cyberattack linked to nation-state hackers](https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/) — 2025-12-29
-- **Bleeping Computer**: [Threat actors abuse Google Apps Script in evasive phishing attacks](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/) — 2025-25-29
-- **Bleeping Computer**: [Apple Safari exposes users to fullscreen browser-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/) — 2025-06-29
 - **The Hacker News**: [Cybercriminals Target AI Users with Malware-Loaded Installers Posing as Popular Tools](https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html) — 2025-47-29
-- **Bleeping Computer**: [US sanctions firm linked to cyber scams behind $200 million in losses](https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/) — 2025-42-29
 - **The Hacker News**: [New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers](https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html) — 2025-16-29
 - **The Hacker News**: [DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints](https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html) — 2025-34-29
 - **The Hacker News**: [Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations](https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html) — 2025-59-29
@@ -104,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Versa Concerto Flaws Let Attackers Escape Docker and Compromise Hosts](https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html) — 2025-06-22
 - **The Hacker News**: [FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections](https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html) — 2025-24-22
 - **The Hacker News**: [Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics](https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html) — 2025-06-21
-- **The Hacker News**: [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html) — 2025-10-21
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
