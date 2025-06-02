@@ -1,5 +1,19 @@
 [
   {
+    "title": "Qualcomm fixes three Adreno GPU zero-days exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/",
+    "summary": "Qualcomm has released security patches for three zero-day vulnerabilities in the Adreno Graphics Processing Unit (GPU) driver that impact dozens of chipsets and are actively exploited in targeted attacks. [...]",
+    "published": "2025-06-02T11:11:14",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats",
+    "link": "https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html",
+    "summary": "The evolution of cyber threats has forced organizations across all industries to rethink their security strategies. As attackers become more sophisticated \u2014 leveraging encryption, living-off-the-land techniques, and lateral movement to evade traditional defenses \u2014 security teams are finding more thr",
+    "published": "2025-06-02T10:55:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Fake Recruiter Emails Target CFOs Using Legit NetBird Tool Across 6 Global Regions",
     "link": "https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html",
     "summary": "Cybersecurity researchers have warned of a new spear-phishing campaign that uses a legitimate remote access tool called Netbird to target Chief Financial Officers (CFOs) and financial executives at banks, energy companies, insurers, and investment firms across Europe, Africa, Canada, the Middle East",
