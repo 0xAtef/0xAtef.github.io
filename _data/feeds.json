@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft ships emergency patch to fix Windows 11 startup failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/",
+    "summary": "Microsoft has released an out-of-band update\u00a0to address a known issue causing some Windows 11 systems to enter recovery and fail to start after installing the KB5058405 May 2025 security update. [...]",
+    "published": "2025-06-02T12:06:25",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: APT Intrusions, AI Malware, Zero-Click Exploits, Browser Hijacks and More",
+    "link": "https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html",
+    "summary": "If this had been a security drill, someone would\u2019ve said it went too far. But it wasn\u2019t a drill\u2014it was real. The access? Everything looked normal. The tools? Easy to find. The detection? Came too late.\nThis is how attacks happen now\u2014quiet, convincing, and fast. Defenders aren\u2019t just chasing hackers ",
+    "published": "2025-06-02T11:23:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Qualcomm fixes three Adreno GPU zero-days exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/",
     "summary": "Qualcomm has released security patches for three zero-day vulnerabilities in the Adreno Graphics Processing Unit (GPU) driver that impact dozens of chipsets and are actively exploited in targeted attacks. [...]",
