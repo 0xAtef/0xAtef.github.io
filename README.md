@@ -40,7 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- **Bleeping Computer**: [Microsoft ships emergency patch to fix Windows 11 installation issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/) — 2025-06-02
+- **Bleeping Computer**: [Microsoft ships emergency patch to fix Windows 11 startup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/) — 2025-06-02
+- **The Hacker News**: [⚡ Weekly Recap: APT Intrusions, AI Malware, Zero-Click Exploits, Browser Hijacks and More](https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html) — 2025-23-02
 - **Bleeping Computer**: [Qualcomm fixes three Adreno GPU zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/) — 2025-11-02
 - **The Hacker News**: [The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats](https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html) — 2025-55-02
 - **The Hacker News**: [Fake Recruiter Emails Target CFOs Using Legit NetBird Tool Across 6 Global Regions](https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html) — 2025-51-02
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Identity Security Has an Automation Problem—And It&#39;s Bigger Than You Think](https://thehackernews.com/2025/05/identity-security-has-automation.html) — 2025-11-22
 - **The Hacker News**: [Critical Versa Concerto Flaws Let Attackers Escape Docker and Compromise Hosts](https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html) — 2025-06-22
 - **The Hacker News**: [FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections](https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html) — 2025-24-22
-- **The Hacker News**: [Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics](https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html) — 2025-06-21
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
