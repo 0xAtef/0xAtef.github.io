@@ -61,12 +61,5 @@
     "summary": "Qualcomm has shipped security updates to address three zero-day vulnerabilities that it said have been exploited in limited, targeted attacks in the wild.\nThe flaws in question, which were responsibly disclosed to the company by the Google Android Security team, are listed below -\n\nCVE-2025-21479 an",
     "published": "2025-06-02T14:22:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft ships emergency patch to fix Windows 11 startup failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/",
-    "summary": "Microsoft has released an out-of-band update\u00a0to address a known issue causing some Windows 11 systems to enter recovery and fail to start after installing the KB5058405 May 2025 security update. [...]",
-    "published": "2025-06-02T12:06:25",
-    "source": "BleepingComputer"
   }
 ]
