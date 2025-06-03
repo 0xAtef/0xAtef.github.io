@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft adds quick machine recovery to Windows 11 settings",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/",
+    "summary": "Microsoft is testing a dedicated page in Windows Settings for quick machine recovery, which will provide users with additional configuration options. [...]",
+    "published": "2025-06-03T15:50:07",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Malicious RubyGems pose as Fastlane to steal Telegram API data",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/",
+    "summary": "Two malicious RubyGems packages posing as popular Fastlane CI/CD plugins redirect Telegram API requests to attacker-controlled servers to intercept and steal data. [...]",
+    "published": "2025-06-03T15:48:02",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack",
     "link": "https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html",
     "summary": "Threat hunters are alerting to a new campaign that employs deceptive websites to trick unsuspecting users into executing malicious PowerShell scripts on their machines and infect them with the NetSupport RAT malware.\nThe DomainTools Investigations (DTI) team said it identified \"malicious multi-stage",
@@ -81,13 +95,6 @@
     "link": "https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html",
     "summary": "Microsoft and CrowdStrike have announced that they are teaming up to align their individual threat actor taxonomies by publishing a new joint threat actor mapping.\n\"By mapping where our knowledge of these actors align, we will provide security professionals with the ability to connect insights faste",
     "published": "2025-06-03T07:20:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch",
-    "link": "https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html",
-    "summary": "Google on Monday released out-of-band fixes to address three security issues in its Chrome browser, including one that it said has come under active exploitation in the wild.\nThe high-severity flaw is being tracked as CVE-2025-5419 (CVSS score: 8.8), and has been flagged&nbsp;as an out-of-bounds rea",
-    "published": "2025-06-03T04:22:00",
     "source": "HackerNews"
   }
 ]
