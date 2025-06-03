@@ -33,12 +33,5 @@
     "summary": "Google says it will no longer trust root CA certificates signed by Chunghwa Telecom and Netlock\u00a0in the Chrome Root Store due\u00a0to a pattern of compliance failures and failure to make improvements. [...]",
     "published": "2025-06-02T17:36:30",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft and CrowdStrike partner to link hacking group names",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/",
-    "summary": "Microsoft and CrowdStrike announced today that they've partnered to connect the aliases used for specific threat groups without actually using a single naming standard. [...]",
-    "published": "2025-06-02T16:56:55",
-    "source": "BleepingComputer"
   }
 ]
