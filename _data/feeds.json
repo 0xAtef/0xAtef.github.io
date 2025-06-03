@@ -1,10 +1,31 @@
 [
   {
+    "title": "Scattered Spider: Three things the news doesn\u2019t tell you",
+    "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/",
+    "summary": "Scattered Spider isn't one group \u2014 it's an identity-first threat model evolving fast. From vishing to AiTM phishing, they're exploiting MFA gaps to hijack the cloud. Watch the Push Security webinar to learn how their identity-based tactics work \u2014 and how to stop them. [...]",
+    "published": "2025-06-03T14:02:12",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "CISA warns of ConnectWise ScreenConnect bug exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/",
+    "summary": "CISA is alerting federal agencies in the U.S. of hackers exploiting a recently patched ScreenConnect vulnerability that could lead to executing remote code on the server. [...]",
+    "published": "2025-06-03T13:57:12",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Victoria\u2019s Secret delays earnings release after security incident",
     "link": "https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/",
     "summary": "Fashion retail giant Victoria's Secret has delayed its first quarter 2025 earnings release because of ongoing corporate system restoration efforts following a May 24 security incident. [...]",
     "published": "2025-06-03T13:25:12",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code",
+    "link": "https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html",
+    "summary": "Cybersecurity researchers have disclosed details of a critical security flaw in the Roundcube webmail software that has gone unnoticed for a decade and could be exploited to take over susceptible systems and execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-49113, carries a CVSS score o",
+    "published": "2025-06-03T13:01:00",
+    "source": "HackerNews"
   },
   {
     "title": "Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization",
