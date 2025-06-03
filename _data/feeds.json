@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch",
+    "link": "https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html",
+    "summary": "Google on Monday released out-of-band fixes to address three security issues in its Chrome browser, including one that it said has come under active exploitation in the wild.\nThe high-severity flaw is being tracked as CVE-2025-5419, and has been flagged as an out-of-bounds read and write vulnerabili",
+    "published": "2025-06-03T04:22:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Cartier discloses data breach amid fashion brand cyberattacks",
     "link": "https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/",
     "summary": "Luxury fashion brand Cartier is warning customers it suffered a data breach that exposed customers' personal information after its systems were compromised. [...]",
@@ -33,12 +40,5 @@
     "summary": "Microsoft and CrowdStrike announced today that they've partnered to connect the aliases used for specific threat groups without actually using a single naming standard. [...]",
     "published": "2025-06-02T16:56:55",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub",
-    "link": "https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html",
-    "summary": "Cybersecurity researchers have discovered a new cryptojacking campaign that's targeting publicly accessible DevOps web servers such as those associated with Docker, Gitea, and HashiCorp Consul and Nomad to illicitly mine cryptocurrencies.\nCloud security firm Wiz, which is tracking the activity under",
-    "published": "2025-06-02T16:03:00",
-    "source": "HackerNews"
   }
 ]
