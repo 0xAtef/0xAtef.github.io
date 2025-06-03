@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack",
+    "link": "https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html",
+    "summary": "Threat hunters are alerting to a new campaign that employs deceptive websites to trick unsuspecting users into executing malicious PowerShell scripts on their machines and infect them with the NetSupport RAT malware.\nThe DomainTools Investigations (DTI) team said it identified \"malicious multi-stage",
+    "published": "2025-06-03T15:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Mozilla launches new system to detect Firefox crypto drainer add-ons",
     "link": "https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/",
     "summary": "Mozilla has developed a new security feature for its add-on portal that helps block Firefox malicious extensions that drain cryptocurrency wallets. [...]",
