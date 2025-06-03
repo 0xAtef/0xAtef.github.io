@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Victoria’s Secret delays earnings release after security incident](https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/) — 2025-25-03
 - **The Hacker News**: [Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization](https://thehackernews.com/2025/06/scattered-spider-understanding-help.html) — 2025-00-03
 - **Bleeping Computer**: [Google patches new Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/) — 2025-22-03
 - **The Hacker News**: [Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets](https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html) — 2025-34-03
@@ -64,7 +65,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Exploit details for max severity Cisco IOS XE flaw now public](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/) — 2025-09-31
 - **The Hacker News**: [New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html) — 2025-19-31
 - **The Hacker News**: [U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation](https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html) — 2025-16-31
-- **Bleeping Computer**: [Hackers are exploiting critical flaw in vBulletin forum software](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/) — 2025-26-30
 - **The Hacker News**: [New EDDIESTEALER Malware Bypasses Chrome&#39;s App-Bound Encryption to Steal Browser Data](https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html) — 2025-14-30
 - **The Hacker News**: [China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil](https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html) — 2025-12-30
 - **The Hacker News**: [From the &quot;Department of No&quot; to a &quot;Culture of Yes&quot;: A Healthcare CISO&#39;s Journey to Enabling Modern Care](https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html) — 2025-30-30
