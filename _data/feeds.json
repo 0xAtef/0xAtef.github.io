@@ -40,26 +40,5 @@
     "summary": "Cybersecurity researchers have discovered a new cryptojacking campaign that's targeting publicly accessible DevOps web servers such as those associated with Docker, Gitea, and HashiCorp Consul and Nomad to illicitly mine cryptocurrencies.\nCloud security firm Wiz, which is tracking the activity under",
     "published": "2025-06-02T16:03:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Preinstalled Apps on Ulefone, Kr\u00fcger&Matz Phones Let Any App Reset Device, Steal PIN",
-    "link": "https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html",
-    "summary": "Three security vulnerabilities have been disclosed in preloaded Android applications on smartphones from Ulefone and Kr\u00fcger&amp;Matz that could enable any app installed on the device to perform a factory reset and encrypt an application.\nA brief description of the three flaws is as follows -\n\nCVE-20",
-    "published": "2025-06-02T15:12:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "\u2018Russian Market\u2019 emerges as a go-to shop for stolen credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/",
-    "summary": "The \"Russian Market\" cybercrime marketplace has emerged as one of the most popular platforms\u00a0for buying and selling credentials stolen by information stealer malware. [...]",
-    "published": "2025-06-02T14:28:33",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Qualcomm Fixes 3 Zero-Days Used in Targeted Android Attacks via Adreno GPU",
-    "link": "https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html",
-    "summary": "Qualcomm has shipped security updates to address three zero-day vulnerabilities that it said have been exploited in limited, targeted attacks in the wild.\nThe flaws in question, which were responsibly disclosed to the company by the Google Android Security team, are listed below -\n\nCVE-2025-21479 an",
-    "published": "2025-06-02T14:22:00",
-    "source": "HackerNews"
   }
 ]
