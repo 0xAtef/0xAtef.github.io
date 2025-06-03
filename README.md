@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization](https://thehackernews.com/2025/06/scattered-spider-understanding-help.html) — 2025-00-03
 - **Bleeping Computer**: [Google patches new Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/) — 2025-22-03
 - **The Hacker News**: [Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets](https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html) — 2025-34-03
 - **Bleeping Computer**: [Android malware Crocodilus adds fake contacts to spoof trusted callers](https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/) — 2025-00-03
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection](https://thehackernews.com/2025/05/safeline-waf-open-source-web.html) — 2025-30-23
 - **The Hacker News**: [U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation](https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html) — 2025-03-23
 - **The Hacker News**: [CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs](https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html) — 2025-16-23
-- **The Hacker News**: [GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts](https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html) — 2025-34-23
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
