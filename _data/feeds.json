@@ -89,12 +89,5 @@
     "summary": "The latest version of the 'Crocodilus' Android malware has introduced a new mechanism that adds a fake contact on the infected device's contact list to deceive victims. [...]",
     "published": "2025-06-03T09:00:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Google Chrome to Distrust Two Certificate Authorities Over Compliance and Conduct Issues",
-    "link": "https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html",
-    "summary": "Google has revealed that it will no longer trust digital certificates issued by Chunghwa Telecom and Netlock citing \"patterns of concerning behavior observed over the past year.\"\nThe changes are expected to be introduced in Chrome 139, which is scheduled for public release in early August 2025. The ",
-    "published": "2025-06-03T07:48:00",
-    "source": "HackerNews"
   }
 ]
