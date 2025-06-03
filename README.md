@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Coinbase breach tied to bribed TaskUs support agents in India](https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/) — 2025-17-03
 - **Bleeping Computer**: [Microsoft adds quick machine recovery to Windows 11 settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/) — 2025-50-03
 - **Bleeping Computer**: [Malicious RubyGems pose as Fastlane to steal Telegram API data](https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/) — 2025-48-03
 - **The Hacker News**: [Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html) — 2025-00-03
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft and CrowdStrike partner to link hacking group names](https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/) — 2025-56-02
 - **The Hacker News**: [Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub](https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html) — 2025-03-02
 - **The Hacker News**: [Preinstalled Apps on Ulefone, Krüger&amp;Matz Phones Let Any App Reset Device, Steal PIN](https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html) — 2025-12-02
-- **Bleeping Computer**: [‘Russian Market’ emerges as a go-to shop for stolen credentials](https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/) — 2025-28-02
 - **The Hacker News**: [Qualcomm Fixes 3 Zero-Days Used in Targeted Android Attacks via Adreno GPU](https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html) — 2025-22-02
 - **The Hacker News**: [⚡ Weekly Recap: APT Intrusions, AI Malware, Zero-Click Exploits, Browser Hijacks and More](https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html) — 2025-23-02
 - **The Hacker News**: [The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats](https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html) — 2025-55-02
