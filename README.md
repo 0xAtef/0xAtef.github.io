@@ -40,7 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Scattered Spider: Three things the news doesn’t tell you](https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/) — 2025-02-03
+- **Bleeping Computer**: [CISA warns of ConnectWise ScreenConnect bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/) — 2025-57-03
 - **Bleeping Computer**: [Victoria’s Secret delays earnings release after security incident](https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/) — 2025-25-03
+- **The Hacker News**: [Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code](https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html) — 2025-01-03
 - **The Hacker News**: [Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization](https://thehackernews.com/2025/06/scattered-spider-understanding-help.html) — 2025-00-03
 - **Bleeping Computer**: [Google patches new Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/) — 2025-22-03
 - **The Hacker News**: [Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets](https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html) — 2025-34-03
@@ -62,7 +65,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Qualcomm fixes three Adreno GPU zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/) — 2025-11-02
 - **The Hacker News**: [The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats](https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html) — 2025-55-02
 - **The Hacker News**: [Fake Recruiter Emails Target CFOs Using Legit NetBird Tool Across 6 Global Regions](https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html) — 2025-51-02
-- **Bleeping Computer**: [Exploit details for max severity Cisco IOS XE flaw now public](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/) — 2025-09-31
 - **The Hacker News**: [New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html) — 2025-19-31
 - **The Hacker News**: [U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation](https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html) — 2025-16-31
 - **The Hacker News**: [New EDDIESTEALER Malware Bypasses Chrome&#39;s App-Bound Encryption to Steal Browser Data](https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html) — 2025-14-30
@@ -103,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide](https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html) — 2025-45-23
 - **The Hacker News**: [SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection](https://thehackernews.com/2025/05/safeline-waf-open-source-web.html) — 2025-30-23
 - **The Hacker News**: [U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation](https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html) — 2025-03-23
-- **The Hacker News**: [CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs](https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html) — 2025-16-23
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
