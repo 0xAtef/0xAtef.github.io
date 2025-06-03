@@ -1,10 +1,24 @@
 [
   {
+    "title": "Google patches new Chrome zero-day bug exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/",
+    "summary": "Google has released an emergency security update\u00a0to fix the third Chrome zero-day vulnerability exploited in attacks since the start of the year. [...]",
+    "published": "2025-06-03T10:22:52",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets",
     "link": "https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html",
     "summary": "A growing number of malicious campaigns have leveraged a recently discovered Android banking trojan called Crocodilus to target users in Europe and South America.\nThe malware, according to a new report published by ThreatFabric, has also adopted improved obfuscation techniques to hinder analysis and",
     "published": "2025-06-03T09:34:00",
     "source": "HackerNews"
+  },
+  {
+    "title": "Android malware Crocodilus adds fake contacts to spoof trusted callers",
+    "link": "https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/",
+    "summary": "The latest version of the 'Crocodilus' Android malware has introduced a new mechanism that adds a fake contact on the infected device's contact list to deceive victims. [...]",
+    "published": "2025-06-03T09:00:00",
+    "source": "BleepingComputer"
   },
   {
     "title": "Google Chrome to Distrust Two Certificate Authorities Over Compliance and Conduct Issues",
