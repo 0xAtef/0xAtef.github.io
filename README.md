@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Mozilla launches new system to detect Firefox crypto drainer add-ons](https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/) — 2025-29-03
 - **Bleeping Computer**: [Scattered Spider: Three things the news doesn’t tell you](https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/) — 2025-02-03
 - **Bleeping Computer**: [CISA warns of ConnectWise ScreenConnect bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/) — 2025-57-03
 - **Bleeping Computer**: [Victoria’s Secret delays earnings release after security incident](https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/) — 2025-25-03
