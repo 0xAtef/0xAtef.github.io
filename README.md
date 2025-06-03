@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft adds quick machine recovery to Windows 11 settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/) — 2025-50-03
+- **Bleeping Computer**: [Malicious RubyGems pose as Fastlane to steal Telegram API data](https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/) — 2025-48-03
+- **The Hacker News**: [Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html) — 2025-00-03
 - **Bleeping Computer**: [Mozilla launches new system to detect Firefox crypto drainer add-ons](https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/) — 2025-29-03
 - **Bleeping Computer**: [Scattered Spider: Three things the news doesn’t tell you](https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/) — 2025-02-03
 - **Bleeping Computer**: [CISA warns of ConnectWise ScreenConnect bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/) — 2025-57-03
@@ -61,9 +64,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Preinstalled Apps on Ulefone, Krüger&amp;Matz Phones Let Any App Reset Device, Steal PIN](https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html) — 2025-12-02
 - **Bleeping Computer**: [‘Russian Market’ emerges as a go-to shop for stolen credentials](https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/) — 2025-28-02
 - **The Hacker News**: [Qualcomm Fixes 3 Zero-Days Used in Targeted Android Attacks via Adreno GPU](https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html) — 2025-22-02
-- **Bleeping Computer**: [Microsoft ships emergency patch to fix Windows 11 startup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/) — 2025-06-02
 - **The Hacker News**: [⚡ Weekly Recap: APT Intrusions, AI Malware, Zero-Click Exploits, Browser Hijacks and More](https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html) — 2025-23-02
-- **Bleeping Computer**: [Qualcomm fixes three Adreno GPU zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/) — 2025-11-02
 - **The Hacker News**: [The Secret Defense Strategy of Four Critical Industries Combating Advanced Cyber Threats](https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html) — 2025-55-02
 - **The Hacker News**: [Fake Recruiter Emails Target CFOs Using Legit NetBird Tool Across 6 Global Regions](https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html) — 2025-51-02
 - **The Hacker News**: [New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html) — 2025-19-31
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices](https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html) — 2025-49-23
 - **The Hacker News**: [300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide](https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html) — 2025-45-23
 - **The Hacker News**: [SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection](https://thehackernews.com/2025/05/safeline-waf-open-source-web.html) — 2025-30-23
-- **The Hacker News**: [U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation](https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html) — 2025-03-23
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
