@@ -40,12 +40,5 @@
     "summary": "Google on Monday released out-of-band fixes to address three security issues in its Chrome browser, including one that it said has come under active exploitation in the wild.\nThe high-severity flaw is being tracked as CVE-2025-5419 (CVSS score: 8.8), and has been flagged&nbsp;as an out-of-bounds rea",
     "published": "2025-06-03T04:22:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Cartier discloses data breach amid fashion brand cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/",
-    "summary": "Luxury fashion brand Cartier is warning customers it suffered a data breach that exposed customers' personal information after its systems were compromised. [...]",
-    "published": "2025-06-02T22:31:49",
-    "source": "BleepingComputer"
   }
 ]
