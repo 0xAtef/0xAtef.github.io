@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [ChatGPT rolls out Memory upgrade for free users](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/) — 2025-55-03
+- **Bleeping Computer**: [Hewlett Packard Enterprise warns of critical StoreOnce auth bypass](https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/) — 2025-55-03
 - **Bleeping Computer**: [Coinbase breach tied to bribed TaskUs support agents in India](https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/) — 2025-17-03
 - **Bleeping Computer**: [Microsoft adds quick machine recovery to Windows 11 settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/) — 2025-50-03
 - **Bleeping Computer**: [Malicious RubyGems pose as Fastlane to steal Telegram API data](https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/) — 2025-48-03
@@ -58,9 +60,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch](https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html) — 2025-22-03
 - **Bleeping Computer**: [Cartier discloses data breach amid fashion brand cyberattacks](https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/) — 2025-31-02
 - **Bleeping Computer**: [The North Face warns customers of April credential stuffing attack](https://www.bleepingcomputer.com/news/security/the-north-face-warns-customers-of-april-credential-stuffing-attack/) — 2025-37-02
-- **Bleeping Computer**: [SentinelOne: Last week’s 7-hour outage caused by software flaw](https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/) — 2025-24-02
-- **Bleeping Computer**: [Google Chrome to distrust Chunghwa Telecom, Netlock certificates in August](https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/) — 2025-36-02
-- **Bleeping Computer**: [Microsoft and CrowdStrike partner to link hacking group names](https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/) — 2025-56-02
 - **The Hacker News**: [Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub](https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html) — 2025-03-02
 - **The Hacker News**: [Preinstalled Apps on Ulefone, Krüger&amp;Matz Phones Let Any App Reset Device, Steal PIN](https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html) — 2025-12-02
 - **The Hacker News**: [Qualcomm Fixes 3 Zero-Days Used in Targeted Android Attacks via Adreno GPU](https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html) — 2025-22-02
