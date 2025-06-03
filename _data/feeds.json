@@ -82,12 +82,5 @@
     "summary": "Cybersecurity researchers have disclosed details of a critical security flaw in the Roundcube webmail software that has gone unnoticed for a decade and could be exploited to take over susceptible systems and execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-49113, carries a CVSS score o",
     "published": "2025-06-03T13:01:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization",
-    "link": "https://thehackernews.com/2025/06/scattered-spider-understanding-help.html",
-    "summary": "In the wake of high-profile attacks on UK retailers Marks &amp; Spencer and Co-op, Scattered Spider has been all over the media, with coverage spilling over into the mainstream news due to the severity of the disruption caused \u2014 currently looking like hundreds of millions in lost profits for M&amp;S",
-    "published": "2025-06-03T11:00:00",
-    "source": "HackerNews"
   }
 ]
