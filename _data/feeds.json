@@ -1,5 +1,19 @@
 [
   {
+    "title": "ChatGPT rolls out Memory upgrade for free users",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/",
+    "summary": "ChatGPT's memory feature is now better and capable of referencing past conversations for free accounts. [...]",
+    "published": "2025-06-03T20:55:51",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Hewlett Packard Enterprise warns of critical StoreOnce auth bypass",
+    "link": "https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/",
+    "summary": "Hewlett Packard Enterprise (HPE) has issued a security bulletin to warn about eight vulnerabilities impacting StoreOnce, its disk-based backup and deduplication solution. [...]",
+    "published": "2025-06-03T20:55:02",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Coinbase breach tied to bribed TaskUs support agents in India",
     "link": "https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/",
     "summary": "A recently disclosed data breach at Coinbase has been linked to India-based customer support representatives from\u00a0outsourcing firm TaskUs, who threat actors bribed to steal data from the crypto exchange. [...]",
@@ -82,12 +96,5 @@
     "summary": "A growing number of malicious campaigns have leveraged a recently discovered Android banking trojan called Crocodilus to target users in Europe and South America.\nThe malware, according to a new report published by ThreatFabric, has also adopted improved obfuscation techniques to hinder analysis and",
     "published": "2025-06-03T09:34:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Android malware Crocodilus adds fake contacts to spoof trusted callers",
-    "link": "https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/",
-    "summary": "The latest version of the 'Crocodilus' Android malware has introduced a new mechanism that adds a fake contact on the infected device's contact list to deceive victims. [...]",
-    "published": "2025-06-03T09:00:00",
-    "source": "BleepingComputer"
   }
 ]
