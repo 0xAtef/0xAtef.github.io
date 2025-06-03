@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets](https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html) — 2025-34-03
 - **The Hacker News**: [Google Chrome to Distrust Two Certificate Authorities Over Compliance and Conduct Issues](https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html) — 2025-48-03
 - **The Hacker News**: [Microsoft and CrowdStrike Launch Shared Threat Actor Glossary to Cut Attribution Confusion](https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html) — 2025-20-03
 - **The Hacker News**: [New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch](https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html) — 2025-22-03
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs](https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html) — 2025-16-23
 - **The Hacker News**: [GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts](https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html) — 2025-34-23
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
-- **The Hacker News**: [Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks](https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html) — 2025-06-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
 - **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
