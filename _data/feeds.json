@@ -1,8 +1,15 @@
 [
   {
+    "title": "Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App",
+    "link": "https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html",
+    "summary": "Google has disclosed details of a financially motivated threat cluster that it said \"specialises\" in voice phishing (aka vishing) campaigns designed to breach organizations' Salesforce instances for large-scale data theft and subsequent extortion.\nThe tech giant's threat intelligence team is trackin",
+    "published": "2025-06-04T15:24:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Media giant Lee Enterprises says data breach affects 39,000 people",
     "link": "https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/",
-    "summary": "Publishing giant Lee Enterprises is notifying over 39,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]",
+    "summary": "Publishing giant Lee Enterprises is notifying nearly 40,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]",
     "published": "2025-06-04T14:30:14",
     "source": "BleepingComputer"
   },
