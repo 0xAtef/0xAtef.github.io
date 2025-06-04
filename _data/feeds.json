@@ -1,8 +1,15 @@
 [
   {
+    "title": "Media giant Lee Enterprises says data breach affects 39,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/",
+    "summary": "Publishing giant Lee Enterprises is notifying over 39,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]",
+    "published": "2025-06-04T14:30:14",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google: Hackers target Salesforce accounts in data extortion attacks",
     "link": "https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/",
-    "summary": "Google has observed hackers claiming to be the ShinyHunters extortion group conducting social engineering attacks against multi-national companies to steal data from organization's Salesforce platforms. [...]",
+    "summary": "Google has observed hackers claiming to be the ShinyHunters extortion group conducting social engineering attacks against multi-national companies to steal data from organizations' Salesforce platforms. [...]",
     "published": "2025-06-04T14:11:12",
     "source": "BleepingComputer"
   },
