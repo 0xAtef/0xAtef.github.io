@@ -89,19 +89,5 @@
     "summary": "Traditional data leakage prevention (DLP) tools aren't keeping pace with the realities of how modern businesses use SaaS applications.\nCompanies today rely heavily on SaaS platforms like Google Workspace, Salesforce, Slack, and generative AI tools, significantly altering the way sensitive informatio",
     "published": "2025-06-04T12:13:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks",
-    "link": "https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html",
-    "summary": "Several malicious packages have been uncovered across the npm, Python, and Ruby package repositories that drain funds from cryptocurrency wallets, erase entire codebases after installation, and exfiltrate Telegram API tokens, once again demonstrating the variety of supply chain threats lurking in op",
-    "published": "2025-06-04T10:11:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Hacker targets other hackers and gamers with backdoored GitHub code",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-targets-other-hackers-and-gamers-with-backdoored-github-code/",
-    "summary": "A hacker targets other hackers, gamers, and researchers with exploits, bots, and game cheats in source code hosted on GitHub that contain hidden backdoors to give the threat actor remote access to infected devices. [...]",
-    "published": "2025-06-04T10:00:00",
-    "source": "BleepingComputer"
   }
 ]
