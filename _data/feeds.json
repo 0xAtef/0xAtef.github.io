@@ -1,5 +1,12 @@
 [
   {
+    "title": "HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass",
+    "link": "https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html",
+    "summary": "Hewlett Packard Enterprise (HPE) has released security updates to address as many as eight vulnerabilities in its StoreOnce data backup and deduplication solution that could result in an authentication bypass and remote code execution.\n\"These vulnerabilities could be remotely exploited to allow remo",
+    "published": "2025-06-04T05:23:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "OpenAI is hopeful GPT-5 will compete a little more",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/",
     "summary": "OpenAI's next big foundational model is GPT-5, and the AI startup is hoping that the model will compete a little more with rivals. [...]",
