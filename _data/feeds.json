@@ -12,19 +12,5 @@
     "summary": "OpenAI's next big foundational model is GPT-5, and the AI startup is hoping that the model will compete a little more with rivals. [...]",
     "published": "2025-06-03T21:30:52",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "ChatGPT rolls out Memory upgrade for free users",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/",
-    "summary": "ChatGPT's memory feature is now better and capable of referencing past conversations for free accounts. [...]",
-    "published": "2025-06-03T20:55:51",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Hewlett Packard Enterprise warns of critical StoreOnce auth bypass",
-    "link": "https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/",
-    "summary": "Hewlett Packard Enterprise (HPE) has issued a security bulletin to warn about eight vulnerabilities impacting StoreOnce, its disk-based backup and deduplication solution. [...]",
-    "published": "2025-06-03T20:55:02",
-    "source": "BleepingComputer"
   }
 ]
