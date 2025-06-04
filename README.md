@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft unveils free EU cybersecurity program for governments](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/) — 2025-36-04
 - **Bleeping Computer**: [FBI: Play ransomware breached 900 victims, including critical orgs](https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/) — 2025-06-04
 - **Bleeping Computer**: [Hacker arrested for breaching 5,000 hosting accounts to mine crypto](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/) — 2025-38-04
 - **Bleeping Computer**: [Cisco warns of ISE and CCP flaws with public exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/) — 2025-19-04
@@ -57,7 +58,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass](https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html) — 2025-23-04
 - **Bleeping Computer**: [OpenAI is hopeful GPT-5 will compete a little more](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/) — 2025-30-03
 - **Bleeping Computer**: [ChatGPT rolls out Memory upgrade for free users](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/) — 2025-55-03
-- **Bleeping Computer**: [Hewlett Packard Enterprise warns of critical StoreOnce auth bypass](https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/) — 2025-55-03
 - **The Hacker News**: [Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html) — 2025-00-03
 - **The Hacker News**: [Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code](https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html) — 2025-01-03
 - **The Hacker News**: [Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization](https://thehackernews.com/2025/06/scattered-spider-understanding-help.html) — 2025-00-03
