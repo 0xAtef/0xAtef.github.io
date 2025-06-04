@@ -1,5 +1,12 @@
 [
   {
+    "title": "Your SaaS Data Isn't Safe: Why Traditional DLP Solutions Fail in the Browser Era",
+    "link": "https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html",
+    "summary": "Traditional data leakage prevention (DLP) tools aren't keeping pace with the realities of how modern businesses use SaaS applications.\nCompanies today rely heavily on SaaS platforms like Google Workspace, Salesforce, Slack, and generative AI tools, significantly altering the way sensitive informatio",
+    "published": "2025-06-04T12:13:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks",
     "link": "https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html",
     "summary": "Several malicious packages have been uncovered across the npm, Python, and Ruby package repositories that drain funds from cryptocurrency wallets, erase entire codebases after installation, and exfiltrate Telegram API tokens, once again demonstrating the variety of supply chain threats lurking in op",
