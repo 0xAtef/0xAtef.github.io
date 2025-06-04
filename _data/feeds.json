@@ -1,5 +1,12 @@
 [
   {
+    "title": "Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks",
+    "link": "https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html",
+    "summary": "Several malicious packages have been uncovered across the npm, Python, and Ruby package repositories that drain funds from cryptocurrency wallets, erase entire codebases after installation, and exfiltrate Telegram API tokens, once again demonstrating the variety of supply chain threats lurking in op",
+    "published": "2025-06-04T10:11:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass",
     "link": "https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html",
     "summary": "Hewlett Packard Enterprise (HPE) has released security updates to address as many as eight vulnerabilities in its StoreOnce data backup and deduplication solution that could result in an authentication bypass and remote code execution.\n\"These vulnerabilities could be remotely exploited to allow remo",
