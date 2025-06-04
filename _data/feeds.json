@@ -19,12 +19,5 @@
     "summary": "Hewlett Packard Enterprise (HPE) has issued a security bulletin to warn about eight vulnerabilities impacting StoreOnce, its disk-based backup and deduplication solution. [...]",
     "published": "2025-06-03T20:55:02",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Coinbase breach tied to bribed TaskUs support agents in India",
-    "link": "https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/",
-    "summary": "A recently disclosed data breach at Coinbase has been linked to India-based customer support representatives from\u00a0outsourcing firm TaskUs, who threat actors bribed to steal data from the crypto exchange. [...]",
-    "published": "2025-06-03T17:17:52",
-    "source": "BleepingComputer"
   }
 ]
