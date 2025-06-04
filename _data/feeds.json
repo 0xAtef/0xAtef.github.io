@@ -68,12 +68,5 @@
     "summary": "A hacker targets other hackers, gamers, and researchers with exploits, bots, and game cheats in source code hosted on GitHub that contain hidden backdoors to give the threat actor remote access to infected devices. [...]",
     "published": "2025-06-04T10:00:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass",
-    "link": "https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html",
-    "summary": "Hewlett Packard Enterprise (HPE) has released security updates to address as many as eight vulnerabilities in its StoreOnce data backup and deduplication solution that could result in an authentication bypass and remote code execution.\n\"These vulnerabilities could be remotely exploited to allow remo",
-    "published": "2025-06-04T05:23:00",
-    "source": "HackerNews"
   }
 ]
