@@ -1,5 +1,19 @@
 [
   {
+    "title": "FBI: Play ransomware breached 900 victims, including critical orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/",
+    "summary": "In an update to a joint advisory with CISA and the Australian Cyber Security Centre, the FBI said that the Play ransomware gang had breached roughly 900 organizations as of May 2025, three times the number of victims reported in October 2023. [...]",
+    "published": "2025-06-04T20:06:14",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Hacker arrested for breaching 5,000 hosting accounts to mine crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/",
+    "summary": "The Ukrainian police arrested a 35-year-old hacker who breached 5,000 accounts at an international hosting company and used them to mine cryptocurrency, resulting in $4.5\u00a0million in damages. [...]",
+    "published": "2025-06-04T19:38:13",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Cisco warns of ISE and CCP flaws with public exploit code",
     "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/",
     "summary": "Cisco has released patches to address three vulnerabilities with public exploit code in its Identity Services Engine (ISE) and Customer Collaboration Platform (CCP) solutions. [...]",
