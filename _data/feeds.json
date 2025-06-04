@@ -1,5 +1,26 @@
 [
   {
+    "title": "Google: Hackers target Salesforce accounts in data extortion attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/",
+    "summary": "Google has observed hackers claiming to be the ShinyHunters extortion group conducting social engineering attacks against multi-national companies to steal data from organization's Salesforce platforms. [...]",
+    "published": "2025-06-04T14:11:12",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Kerberos AS-REP roasting attacks: What you need to know",
+    "link": "https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/",
+    "summary": "Think your passwords are strong enough? AS-REP Roasting is back in the spotlight \u2014 and it's targeting weak spots in Active Directory. Learn more from Specops Software how attackers exploit missing Kerberos pre-auth and how to stop them with strong password policies. [...]",
+    "published": "2025-06-04T14:01:11",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads",
+    "link": "https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html",
+    "summary": "Threat hunters are calling attention to a new variant of a remote access trojan (RAT) called Chaos RAT that has been used in recent attacks targeting Windows and Linux systems.\nAccording to findings from Acronis, the malware artifact may have been distributed by tricking victims into downloading a n",
+    "published": "2025-06-04T12:55:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Your SaaS Data Isn't Safe: Why Traditional DLP Solutions Fail in the Browser Era",
     "link": "https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html",
     "summary": "Traditional data leakage prevention (DLP) tools aren't keeping pace with the realities of how modern businesses use SaaS applications.\nCompanies today rely heavily on SaaS platforms like Google Workspace, Salesforce, Slack, and generative AI tools, significantly altering the way sensitive informatio",
@@ -12,6 +33,13 @@
     "summary": "Several malicious packages have been uncovered across the npm, Python, and Ruby package repositories that drain funds from cryptocurrency wallets, erase entire codebases after installation, and exfiltrate Telegram API tokens, once again demonstrating the variety of supply chain threats lurking in op",
     "published": "2025-06-04T10:11:00",
     "source": "HackerNews"
+  },
+  {
+    "title": "Hacker targets other hackers and gamers with backdoored GitHub code",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-targets-other-hackers-and-gamers-with-backdoored-github-code/",
+    "summary": "A hacker targets other hackers, gamers, and researchers with exploits, bots, and game cheats in source code hosted on GitHub that contain hidden backdoors to give the threat actor remote access to infected devices. [...]",
+    "published": "2025-06-04T10:00:00",
+    "source": "BleepingComputer"
   },
   {
     "title": "HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass",
