@@ -57,7 +57,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Hewlett Packard Enterprise warns of critical StoreOnce auth bypass](https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/) — 2025-55-03
 - **Bleeping Computer**: [Coinbase breach tied to bribed TaskUs support agents in India](https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/) — 2025-17-03
 - **Bleeping Computer**: [Microsoft adds quick machine recovery to Windows 11 settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/) — 2025-50-03
-- **Bleeping Computer**: [Malicious RubyGems pose as Fastlane to steal Telegram API data](https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/) — 2025-48-03
 - **The Hacker News**: [Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html) — 2025-00-03
 - **The Hacker News**: [Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code](https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html) — 2025-01-03
 - **The Hacker News**: [Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization](https://thehackernews.com/2025/06/scattered-spider-understanding-help.html) — 2025-00-03
