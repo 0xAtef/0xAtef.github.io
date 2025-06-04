@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets](https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/) — 2025-37-04
 - **The Hacker News**: [Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App](https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html) — 2025-24-04
 - **Bleeping Computer**: [Media giant Lee Enterprises says data breach affects 39,000 people](https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/) — 2025-30-04
 - **Bleeping Computer**: [Google: Hackers target Salesforce accounts in data extortion attacks](https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/) — 2025-11-04
@@ -58,7 +59,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html) — 2025-00-03
 - **Bleeping Computer**: [Mozilla launches new system to detect Firefox crypto drainer add-ons](https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/) — 2025-29-03
 - **Bleeping Computer**: [Scattered Spider: Three things the news doesn’t tell you](https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/) — 2025-02-03
-- **Bleeping Computer**: [CISA warns of ConnectWise ScreenConnect bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/) — 2025-57-03
 - **The Hacker News**: [Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code](https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html) — 2025-01-03
 - **The Hacker News**: [Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization](https://thehackernews.com/2025/06/scattered-spider-understanding-help.html) — 2025-00-03
 - **The Hacker News**: [Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets](https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html) — 2025-34-03
