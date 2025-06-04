@@ -40,33 +40,5 @@
     "summary": "Two malicious RubyGems packages posing as popular Fastlane CI/CD plugins redirect Telegram API requests to attacker-controlled servers to intercept and steal data. [...]",
     "published": "2025-06-03T15:48:02",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack",
-    "link": "https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html",
-    "summary": "Threat hunters are alerting to a new campaign that employs deceptive websites to trick unsuspecting users into executing malicious PowerShell scripts on their machines and infect them with the NetSupport RAT malware.\nThe DomainTools Investigations (DTI) team said it identified \"malicious multi-stage",
-    "published": "2025-06-03T15:00:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Mozilla launches new system to detect Firefox crypto drainer add-ons",
-    "link": "https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/",
-    "summary": "Mozilla has developed a new security feature for its add-on portal that helps block Firefox malicious extensions that drain cryptocurrency wallets. [...]",
-    "published": "2025-06-03T14:29:46",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Scattered Spider: Three things the news doesn\u2019t tell you",
-    "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/",
-    "summary": "Scattered Spider isn't one group \u2014 it's an identity-first threat model evolving fast. From vishing to AiTM phishing, they're exploiting MFA gaps to hijack the cloud. Watch the Push Security webinar to learn how their identity-based tactics work \u2014 and how to stop them. [...]",
-    "published": "2025-06-03T14:02:12",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "CISA warns of ConnectWise ScreenConnect bug exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/",
-    "summary": "CISA is alerting federal agencies in the U.S. of hackers exploiting a recently patched ScreenConnect vulnerability that could lead to executing remote code on the server. [...]",
-    "published": "2025-06-03T13:57:12",
-    "source": "BleepingComputer"
   }
 ]
