@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
 - **The Hacker News**: [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html) — 2025-53-05
 - **Bleeping Computer**: [Germany fines Vodafone $51 million for privacy, security breaches](https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/) — 2025-29-05
 - **The Hacker News**: [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html) — 2025-25-05
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets](https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html) — 2025-10-27
 - **The Hacker News**: [Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages](https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html) — 2025-51-27
 - **The Hacker News**: [AI Agents and the Non‑Human Identity Crisis: How to Deploy AI More Securely at Scale](https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html) — 2025-00-27
-- **The Hacker News**: [Employees Searching Payroll Portals on Google Tricked Into Sending Paychecks to Hackers](https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html) — 2025-52-27
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
