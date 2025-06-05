@@ -1,10 +1,24 @@
 [
   {
+    "title": "Hacker selling critical Roundcube webmail exploit as tech info disclosed",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/",
+    "summary": "Hackers are actively exploiting CVE-2025-49113, a critical vulnerability in the widely used Roundcube open-source webmail application that allows remote execution. [...]",
+    "published": "2025-06-05T16:55:54",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials",
     "link": "https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html",
     "summary": "Cybersecurity researchers have flagged several popular Google Chrome extensions that have been found to transmit data in HTTP and hard-code secrets in their code, exposing users to privacy and security risks.\n\n\"Several widely used extensions [...] unintentionally transmit sensitive data over simple ",
     "published": "2025-06-05T15:53:00",
     "source": "HackerNews"
+  },
+  {
+    "title": "Designing a Windows Service for Security",
+    "link": "https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/",
+    "summary": "Designing a security-focused Windows Service? Learn more from ThreatLocker about the core components for real-time monitoring, threat detection, and system hardening to defend against malware and ransomware. [...]",
+    "published": "2025-06-05T14:20:12",
+    "source": "BleepingComputer"
   },
   {
     "title": "Researchers Detail Bitter APT\u2019s Evolving Tactics as Its Geographic Scope Expands",
