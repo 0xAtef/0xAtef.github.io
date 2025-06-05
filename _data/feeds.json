@@ -33,12 +33,5 @@
     "summary": "The Ukrainian police arrested a 35-year-old hacker who breached 5,000 accounts at an international hosting company and used them to mine cryptocurrency, resulting in $4.5\u00a0million in damages. [...]",
     "published": "2025-06-04T19:38:13",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Cisco warns of ISE and CCP flaws with public exploit code",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/",
-    "summary": "Cisco has released patches to address three vulnerabilities with public exploit code in its Identity Services Engine (ISE) and Customer Collaboration Platform (CCP) solutions. [...]",
-    "published": "2025-06-04T19:19:16",
-    "source": "BleepingComputer"
   }
 ]
