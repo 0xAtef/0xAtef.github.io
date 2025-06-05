@@ -1,5 +1,12 @@
 [
   {
+    "title": "Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials",
+    "link": "https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html",
+    "summary": "Cybersecurity researchers have flagged several popular Google Chrome extensions that have been found to transmit data in HTTP and hard-code secrets in their code, exposing users to privacy and security risks.\n\n\"Several widely used extensions [...] unintentionally transmit sensitive data over simple ",
+    "published": "2025-06-05T15:53:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Researchers Detail Bitter APT\u2019s Evolving Tactics as Its Geographic Scope Expands",
     "link": "https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html",
     "summary": "The threat actor known as Bitter has been assessed to be a state-backed hacking group that's tasked with gathering intelligence that aligns with the interests of the Indian government.\nThat's according to new findings jointly published by Proofpoint and Threatray in an exhaustive two-part analysis.\n",
