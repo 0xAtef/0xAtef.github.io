@@ -1,5 +1,19 @@
 [
   {
+    "title": "ChatGPT prepares o3-pro model for $200 Pro subscribers",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/",
+    "summary": "OpenAI is planning to ship an update to ChatGPT that will turn on the new o3 Pro model, which has more compute to think harder. [...]",
+    "published": "2025-06-05T22:45:53",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Proxy Services Feast on Ukraine\u2019s IP Address Exodus",
+    "link": "https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/",
+    "summary": "Ukraine has seen nearly one-fifth of its Internet space come under Russian control or sold to Internet address brokers since February 2022, a new study finds. The analysis indicates large chunks of Ukrainian Internet address space are now in the hands of proxy and anonymity services nested at some o",
+    "published": "2025-06-05T22:44:33",
+    "source": "Krebs"
+  },
+  {
     "title": "FBI: BADBOX 2.0 Android malware infects millions of consumer devices",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/",
     "summary": "The FBI is warning that the BADBOX 2.0 malware campaign has infected over 1 million home Internet-connected devices, converting consumer\u00a0electronics into residential proxies that are used for malicious activity. [...]",
@@ -53,13 +67,6 @@
     "link": "https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html",
     "summary": "Security teams face growing demands with more tools, more data, and higher expectations than ever. Boards approve large security budgets, yet still ask the same question: what is the business getting in return? CISOs respond with reports on controls and vulnerability counts \u2013 but executives want to ",
     "published": "2025-06-05T11:25:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware",
-    "link": "https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html",
-    "summary": "An Iran-aligned hacking group has been attributed to a new set of cyber attacks targeting Kurdish and Iraqi government officials in early 2024.\nThe activity is tied to a threat group ESET tracks as BladedFeline, which is assessed with medium confidence to be a sub-cluster within OilRig, a known Iran",
-    "published": "2025-06-05T10:59:00",
     "source": "HackerNews"
   }
 ]
