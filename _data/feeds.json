@@ -47,12 +47,5 @@
     "summary": "The FBI is warning about a new scam where cybercriminals exploit NFT airdrops on the Hedera Hashgraph network to steal crypto from cryptocurrency wallets. [...]",
     "published": "2025-06-04T16:37:33",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App",
-    "link": "https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html",
-    "summary": "Google has disclosed details of a financially motivated threat cluster that it said \"specialises\" in voice phishing (aka vishing) campaigns designed to breach organizations' Salesforce instances for large-scale data theft and subsequent extortion.\nThe tech giant's threat intelligence team is trackin",
-    "published": "2025-06-04T15:24:00",
-    "source": "HackerNews"
   }
 ]
