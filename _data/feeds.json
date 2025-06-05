@@ -1,5 +1,12 @@
 [
   {
+    "title": "FBI: BADBOX 2.0 Android malware infects millions of consumer devices",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/",
+    "summary": "The FBI is warning that the BADBOX 2.0 malware campaign has infected over 1 million home Internet-connected devices, converting consumer\u00a0electronics into residential proxies that are used for malicious activity. [...]",
+    "published": "2025-06-05T21:35:43",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers",
     "link": "https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/",
     "summary": "A threat actor has re-released data from a 2021 AT&amp;T breach affecting 70 million customers, this time combining previously separate files to directly link Social Security numbers and birth dates to individual users. [...]",
@@ -61,12 +68,5 @@
     "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the seizure of cryptocurrency funds and about 145 clearnet and dark web domains associated with an illicit carding marketplace called BidenCash.\n\"The operators of the BidenCash marketplace use the platform to simplify the process of buying ",
     "published": "2025-06-05T10:16:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "ViLE gang members sentenced for DEA portal breach, extortion",
-    "link": "https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/",
-    "summary": "Two members of a group of cybercriminals named ViLE were sentenced this week for hacking into a federal law enforcement web portal in an extortion scheme. [...]",
-    "published": "2025-06-05T09:26:34",
-    "source": "BleepingComputer"
   }
 ]
