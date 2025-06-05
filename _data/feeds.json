@@ -75,19 +75,5 @@
     "summary": "Think your passwords are strong enough? AS-REP Roasting is back in the spotlight \u2014 and it's targeting weak spots in Active Directory. Learn more from Specops Software how attackers exploit missing Kerberos pre-auth and how to stop them with strong password policies. [...]",
     "published": "2025-06-04T14:01:11",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads",
-    "link": "https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html",
-    "summary": "Threat hunters are calling attention to a new variant of a remote access trojan (RAT) called Chaos RAT that has been used in recent attacks targeting Windows and Linux systems.\nAccording to findings from Acronis, the malware artifact may have been distributed by tricking victims into downloading a n",
-    "published": "2025-06-04T12:55:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Your SaaS Data Isn't Safe: Why Traditional DLP Solutions Fail in the Browser Era",
-    "link": "https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html",
-    "summary": "Traditional data leakage prevention (DLP) tools aren't keeping pace with the realities of how modern businesses use SaaS applications.\nCompanies today rely heavily on SaaS platforms like Google Workspace, Salesforce, Slack, and generative AI tools, significantly altering the way sensitive informatio",
-    "published": "2025-06-04T12:13:00",
-    "source": "HackerNews"
   }
 ]
