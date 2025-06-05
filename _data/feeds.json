@@ -1,5 +1,12 @@
 [
   {
+    "title": "Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers",
+    "link": "https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/",
+    "summary": "A threat actor has re-released data from a 2021 AT&amp;T breach affecting 70 million customers, this time combining previously separate files to directly link Social Security numbers and birth dates to individual users. [...]",
+    "published": "2025-06-05T17:21:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hacker selling critical Roundcube webmail exploit as tech info disclosed",
     "link": "https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/",
     "summary": "Hackers are actively exploiting CVE-2025-49113, a critical vulnerability in the widely used Roundcube open-source webmail application that allows remote execution. [...]",
@@ -75,12 +82,5 @@
     "summary": "The U.S. Department of State has announced a reward of up to $10 million for any information on government-sponsored hackers with ties to the RedLine infostealer malware operation and its suspected creator, Russian national Maxim Alexandrovich Rudometov. [...]",
     "published": "2025-06-05T06:25:21",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI",
-    "link": "https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html",
-    "summary": "Cisco has released security patches to address a critical security flaw impacting the Identity Services Engine (ISE) that, if successfully exploited, could allow unauthenticated actors to carry out malicious actions on susceptible systems.\nThe security defect, tracked as CVE-2025-20286, carries a CV",
-    "published": "2025-06-05T05:37:00",
-    "source": "HackerNews"
   }
 ]
