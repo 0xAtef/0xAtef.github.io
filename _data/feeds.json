@@ -54,26 +54,5 @@
     "summary": "Google has disclosed details of a financially motivated threat cluster that it said \"specialises\" in voice phishing (aka vishing) campaigns designed to breach organizations' Salesforce instances for large-scale data theft and subsequent extortion.\nThe tech giant's threat intelligence team is trackin",
     "published": "2025-06-04T15:24:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Media giant Lee Enterprises says data breach affects 39,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/",
-    "summary": "Publishing giant Lee Enterprises is notifying nearly 40,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]",
-    "published": "2025-06-04T14:30:14",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Google: Hackers target Salesforce accounts in data extortion attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/",
-    "summary": "Google has observed hackers claiming to be the ShinyHunters extortion group conducting social engineering attacks against multi-national companies to steal data from organizations' Salesforce platforms. [...]",
-    "published": "2025-06-04T14:11:12",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Kerberos AS-REP roasting attacks: What you need to know",
-    "link": "https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/",
-    "summary": "Think your passwords are strong enough? AS-REP Roasting is back in the spotlight \u2014 and it's targeting weak spots in Active Directory. Learn more from Specops Software how attackers exploit missing Kerberos pre-auth and how to stop them with strong password policies. [...]",
-    "published": "2025-06-04T14:01:11",
-    "source": "BleepingComputer"
   }
 ]
