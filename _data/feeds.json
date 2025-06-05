@@ -19,12 +19,5 @@
     "summary": "Cisco has released security patches to address a critical security flaw impacting the Identity Services Engine (ISE) that, if successfully exploited, could allow unauthenticated actors to carry out malicious actions on susceptible systems.\nThe security defect, tracked as CVE-2025-20286, carries a CV",
     "published": "2025-06-05T05:37:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft unveils free EU cybersecurity program for governments",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/",
-    "summary": "Microsoft announced in Berlin today a new European Security Program that promises to bolster cybersecurity for European governments. [...]",
-    "published": "2025-06-04T20:36:27",
-    "source": "BleepingComputer"
   }
 ]
