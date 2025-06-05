@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html) — 2025-16-05
 - **Bleeping Computer**: [ViLE gang members sentenced for extortion, police portal breach](https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/) — 2025-26-05
 - **Bleeping Computer**: [Interlock ransomware claims Kettering Health breach, leaks stolen data](https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/) — 2025-31-05
 - **Bleeping Computer**: [US offers $10M for tips on state hackers tied to RedLine malware](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/) — 2025-25-05
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Hackers Are Calling Your Office: FBI Alerts Law Firms to Luna Moth’s Stealth Phishing Campaign](https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html) — 2025-11-27
 - **The Hacker News**: [Russia-Linked Hackers Target Tajikistan Government with Weaponized Word Documents](https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html) — 2025-54-27
 - **The Hacker News**: [Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto](https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html) — 2025-17-26
-- **The Hacker News**: [CISO&#39;s Guide To Web Privacy Validation And Why It&#39;s Important](https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html) — 2025-25-26
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
