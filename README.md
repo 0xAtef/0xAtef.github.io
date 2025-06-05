@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Hacker selling critical Roundcube webmail exploit as tech info disclosed](https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/) — 2025-55-05
 - **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
+- **Bleeping Computer**: [Designing a Windows Service for Security](https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/) — 2025-20-05
 - **The Hacker News**: [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html) — 2025-53-05
 - **Bleeping Computer**: [Germany fines Vodafone $51 million for privacy, security breaches](https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/) — 2025-29-05
 - **The Hacker News**: [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html) — 2025-25-05
@@ -58,8 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [BidenCash carding market domains seized in international operation](https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/) — 2025-10-04
 - **Bleeping Computer**: [FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets](https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/) — 2025-37-04
 - **The Hacker News**: [Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App](https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html) — 2025-24-04
-- **Bleeping Computer**: [Media giant Lee Enterprises says data breach affects 39,000 people](https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/) — 2025-30-04
-- **Bleeping Computer**: [Google: Hackers target Salesforce accounts in data extortion attacks](https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/) — 2025-11-04
 - **The Hacker News**: [Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads](https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html) — 2025-55-04
 - **The Hacker News**: [Your SaaS Data Isn&#39;t Safe: Why Traditional DLP Solutions Fail in the Browser Era](https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html) — 2025-13-04
 - **The Hacker News**: [Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks](https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html) — 2025-11-04
