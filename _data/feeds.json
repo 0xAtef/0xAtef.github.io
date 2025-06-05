@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google\u2019s upcoming Gemini Kingfall is allegedly a coding beast",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/",
+    "summary": "Google's AI advancement is not slowing down, and we might be getting yet another powerful model codenamed \"Gemini Kingfall.\" [...]",
+    "published": "2025-06-05T23:41:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "ChatGPT prepares o3-pro model for $200 Pro subscribers",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/",
     "summary": "OpenAI is planning to ship an update to ChatGPT that will turn on the new o3 Pro model, which has more compute to think harder. [...]",
@@ -53,20 +60,6 @@
     "link": "https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html",
     "summary": "The threat actor known as Bitter has been assessed to be a state-backed hacking group that's tasked with gathering intelligence that aligns with the interests of the Indian government.\nThat's according to new findings jointly published by Proofpoint and Threatray in an exhaustive two-part analysis.\n",
     "published": "2025-06-05T13:53:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Germany fines Vodafone $51 million for privacy, security breaches",
-    "link": "https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/",
-    "summary": "The German data protection authority (BfDI) has fined Vodafone GmbH, the telecommunications company's German subsidiary, \u20ac45 million ($51.4 million) for privacy and security violations. [...]",
-    "published": "2025-06-05T11:29:18",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation",
-    "link": "https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html",
-    "summary": "Security teams face growing demands with more tools, more data, and higher expectations than ever. Boards approve large security budgets, yet still ask the same question: what is the business getting in return? CISOs respond with reports on controls and vulnerability counts \u2013 but executives want to ",
-    "published": "2025-06-05T11:25:00",
     "source": "HackerNews"
   }
 ]
