@@ -1,5 +1,19 @@
 [
   {
+    "title": "US offers $10M for tips on state hackers tied to RedLine malware",
+    "link": "https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/",
+    "summary": "The U.S. Department of State has announced a reward of up to $10 million for any information on government-sponsored hackers with ties to the RedLine infostealer malware operation and its suspected creator, Russian national Maxim Alexandrovich Rudometov. [...]",
+    "published": "2025-06-05T06:25:21",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI",
+    "link": "https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html",
+    "summary": "Cisco has released security patches to address a critical security flaw impacting the Identity Services Engine (ISE) that, if successfully exploited, could allow unauthenticated actors to carry out malicious actions on susceptible systems.\nThe security defect, tracked as CVE-2025-20286, carries a CV",
+    "published": "2025-06-05T05:37:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft unveils free EU cybersecurity program for governments",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/",
     "summary": "Microsoft announced in Berlin today a new European Security Program that promises to bolster cybersecurity for European governments. [...]",
@@ -25,13 +39,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/",
     "summary": "Cisco has released patches to address three vulnerabilities with public exploit code in its Identity Services Engine (ISE) and Customer Collaboration Platform (CCP) solutions. [...]",
     "published": "2025-06-04T19:19:16",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Ukraine claims it hacked Tupolev, Russia\u2019s strategic warplane maker",
-    "link": "https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/",
-    "summary": "The Main Intelligence Directorate (GUR) of Ukraine's Ministry of Defense claims it hacked the Russian aerospace and defense company Tupolev, which develops Russia's supersonic strategic bombers. [...]",
-    "published": "2025-06-04T18:00:29",
     "source": "BleepingComputer"
   }
 ]
