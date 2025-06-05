@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Old AT&amp;T data leak repackaged to link SSNs, DOBs to 49M phone numbers](https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/) — 2025-21-05
 - **Bleeping Computer**: [Hacker selling critical Roundcube webmail exploit as tech info disclosed](https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/) — 2025-55-05
 - **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
 - **Bleeping Computer**: [Designing a Windows Service for Security](https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/) — 2025-20-05
@@ -58,7 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Cisco warns of ISE and CCP flaws with public exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/) — 2025-19-04
 - **Bleeping Computer**: [Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker](https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/) — 2025-00-04
 - **Bleeping Computer**: [BidenCash carding market domains seized in international operation](https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/) — 2025-10-04
-- **Bleeping Computer**: [FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets](https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/) — 2025-37-04
 - **The Hacker News**: [Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App](https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html) — 2025-24-04
 - **The Hacker News**: [Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads](https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html) — 2025-55-04
 - **The Hacker News**: [Your SaaS Data Isn&#39;t Safe: Why Traditional DLP Solutions Fail in the Browser Era](https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html) — 2025-13-04
