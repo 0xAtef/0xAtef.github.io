@@ -40,12 +40,5 @@
     "summary": "Hackers are actively exploiting CVE-2025-49113, a critical vulnerability in the widely used Roundcube open-source webmail application that allows remote execution. [...]",
     "published": "2025-06-05T16:55:54",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials",
-    "link": "https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html",
-    "summary": "Cybersecurity researchers have flagged several popular Google Chrome extensions that have been found to transmit data in HTTP and hard-code secrets in their code, exposing users to privacy and security risks.\n\n\"Several widely used extensions [...] unintentionally transmit sensitive data over simple ",
-    "published": "2025-06-05T15:53:00",
-    "source": "HackerNews"
   }
 ]
