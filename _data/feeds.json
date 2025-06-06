@@ -1,5 +1,12 @@
 [
   {
+    "title": "New PathWiper data wiper malware hits critical infrastructure in Ukraine",
+    "link": "https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/",
+    "summary": "A new data wiper malware named 'PathWiper' is being used in targeted attacks against critical infrastructure in Ukraine, aimed at disrupting operations in the country. [...]",
+    "published": "2025-06-06T14:40:31",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Critical Fortinet flaws now exploited in Qilin ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/",
     "summary": "The Qilin ransomware operation has recently joined attacks exploiting two Fortinet vulnerabilities that allow bypassing authentication on vulnerable devices and executing malicious code remotely. [...]",
