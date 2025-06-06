@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [New PathWiper data wiper malware hits critical infrastructure in Ukraine](https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/) — 2025-40-06
 - **Bleeping Computer**: [Critical Fortinet flaws now exploited in Qilin ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/) — 2025-53-06
 - **The Hacker News**: [Empower Users and Protect Against GenAI Data Loss](https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html) — 2025-41-06
 - **The Hacker News**: [Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam](https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html) — 2025-12-06
@@ -53,7 +54,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Old AT&amp;T data leak repackaged to link SSNs, DOBs to 49M phone numbers](https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/) — 2025-21-05
 - **Bleeping Computer**: [Hacker selling critical Roundcube webmail exploit as tech info disclosed](https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/) — 2025-55-05
 - **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
-- **Bleeping Computer**: [Designing a Windows Service for Security](https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/) — 2025-20-05
+- **Bleeping Computer**: [How to build a robust Windows service to block malware and ransomware](https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/) — 2025-20-05
 - **The Hacker News**: [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html) — 2025-53-05
 - **Bleeping Computer**: [Germany fines Vodafone $51 million for privacy, security breaches](https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/) — 2025-29-05
 - **The Hacker News**: [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html) — 2025-25-05
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html) — 2025-16-05
 - **Bleeping Computer**: [ViLE gang members sentenced for DEA portal breach, extortion](https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/) — 2025-26-05
 - **Bleeping Computer**: [Interlock ransomware claims Kettering Health breach, leaks stolen data](https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/) — 2025-31-05
-- **Bleeping Computer**: [US offers $10M for tips on state hackers tied to RedLine malware](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/) — 2025-25-05
 - **The Hacker News**: [Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI](https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html) — 2025-37-05
 - **The Hacker News**: [Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App](https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html) — 2025-24-04
 - **The Hacker News**: [Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads](https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html) — 2025-55-04
