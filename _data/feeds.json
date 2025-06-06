@@ -26,19 +26,5 @@
     "summary": "The FBI is warning that the BADBOX 2.0 malware campaign has infected over 1 million home Internet-connected devices, converting consumer\u00a0electronics into residential proxies that are used for malicious activity. [...]",
     "published": "2025-06-05T21:35:43",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers",
-    "link": "https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/",
-    "summary": "A threat actor has re-released data from a 2021 AT&amp;T breach affecting 70 million customers, this time combining previously separate files to directly link Social Security numbers and birth dates to individual users. [...]",
-    "published": "2025-06-05T17:21:25",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Hacker selling critical Roundcube webmail exploit as tech info disclosed",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/",
-    "summary": "Hackers are actively exploiting CVE-2025-49113, a critical vulnerability in the widely used Roundcube open-source webmail application that allows remote execution. [...]",
-    "published": "2025-06-05T16:55:54",
-    "source": "BleepingComputer"
   }
 ]
