@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Kettering Health confirms Interlock ransomware behind cyberattack](https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/) — 2025-26-06
 - **Bleeping Computer**: [New PathWiper data wiper malware hits critical infrastructure in Ukraine](https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/) — 2025-40-06
 - **Bleeping Computer**: [Critical Fortinet flaws now exploited in Qilin ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/) — 2025-53-06
 - **The Hacker News**: [Empower Users and Protect Against GenAI Data Loss](https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html) — 2025-41-06
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware](https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html) — 2025-59-05
 - **The Hacker News**: [DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html) — 2025-16-05
 - **Bleeping Computer**: [ViLE gang members sentenced for DEA portal breach, extortion](https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/) — 2025-26-05
-- **Bleeping Computer**: [Interlock ransomware claims Kettering Health breach, leaks stolen data](https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/) — 2025-31-05
 - **The Hacker News**: [Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI](https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html) — 2025-37-05
 - **The Hacker News**: [Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App](https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html) — 2025-24-04
 - **The Hacker News**: [Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads](https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html) — 2025-55-04
