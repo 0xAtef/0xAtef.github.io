@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Google’s upcoming Gemini Kingfall is allegedly a coding beast](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/) — 2025-41-05
 - **Bleeping Computer**: [ChatGPT prepares o3-pro model for $200 Pro subscribers](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/) — 2025-45-05
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Bleeping Computer**: [FBI: BADBOX 2.0 Android malware infects millions of consumer devices](https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/) — 2025-35-05
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft unveils free EU cybersecurity program for governments](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/) — 2025-36-04
 - **Bleeping Computer**: [FBI: Play ransomware breached 900 victims, including critical orgs](https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/) — 2025-06-04
 - **Bleeping Computer**: [Hacker arrested for breaching 5,000 hosting accounts to mine crypto](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/) — 2025-38-04
-- **Bleeping Computer**: [Cisco warns of ISE and CCP flaws with public exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/) — 2025-19-04
 - **The Hacker News**: [Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App](https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html) — 2025-24-04
 - **The Hacker News**: [Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads](https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html) — 2025-55-04
 - **The Hacker News**: [Your SaaS Data Isn&#39;t Safe: Why Traditional DLP Solutions Fail in the Browser Era](https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html) — 2025-13-04
