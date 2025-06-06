@@ -1,10 +1,24 @@
 [
   {
+    "title": "Microsoft shares script to restore inetpub folder you shouldn\u2019t delete",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/",
+    "summary": "Microsoft has released a PowerShell script to help restore an empty 'inetpub' folder created by the April 2025 Windows security updates if deleted. As Microsoft previously warned, this folder helps mitigate a high-severity Windows Process Activation privilege escalation vulnerability. [...]",
+    "published": "2025-06-06T17:28:07",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Tax resolution firm Optima Tax Relief hit by ransomware, data leaked",
     "link": "https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/",
     "summary": "U.S. tax resolution firm Optima Tax Relief suffered a Chaos ransomware attack, with the threat actors now leaking data stolen from the company. [...]",
     "published": "2025-06-06T17:14:17",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users",
+    "link": "https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html",
+    "summary": "Cybersecurity researchers are alerting to a new malware campaign that employs the ClickFix social engineering tactic to trick users into downloading an information stealer malware known as Atomic macOS Stealer (AMOS) on Apple macOS systems.\nThe campaign, according to CloudSEK, has been found to leve",
+    "published": "2025-06-06T16:25:00",
+    "source": "HackerNews"
   },
   {
     "title": "Kettering Health confirms Interlock ransomware behind cyberattack",
@@ -37,7 +51,7 @@
   {
     "title": "Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam",
     "link": "https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html",
-    "summary": "India's Central Bureau of Investigation (CBI) has revealed that it has arrested four individuals and dismantled two illegal call centers that were found to be engaging in a sophisticated transnational tech support scam targeting Japanese citizens.\nThe law enforcement agency said it conducted coordin",
+    "summary": "India's Central Bureau of Investigation (CBI) has revealed that it has arrested six individuals and dismantled two illegal call centers that were found to be engaging in a sophisticated transnational tech support scam targeting Japanese citizens.\nThe law enforcement agency said it conducted coordina",
     "published": "2025-06-06T13:12:00",
     "source": "HackerNews"
   },
