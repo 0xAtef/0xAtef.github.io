@@ -46,7 +46,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [FBI: BADBOX 2.0 Android malware infects millions of consumer devices](https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/) — 2025-35-05
 - **Bleeping Computer**: [Old AT&amp;T data leak repackaged to link SSNs, DOBs to 49M phone numbers](https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/) — 2025-21-05
 - **Bleeping Computer**: [Hacker selling critical Roundcube webmail exploit as tech info disclosed](https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/) — 2025-55-05
-- **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
+- **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
 - **Bleeping Computer**: [Designing a Windows Service for Security](https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/) — 2025-20-05
 - **The Hacker News**: [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html) — 2025-53-05
 - **Bleeping Computer**: [Germany fines Vodafone $51 million for privacy, security breaches](https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/) — 2025-29-05
@@ -65,7 +65,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Your SaaS Data Isn&#39;t Safe: Why Traditional DLP Solutions Fail in the Browser Era](https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html) — 2025-13-04
 - **The Hacker News**: [Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks](https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html) — 2025-11-04
 - **The Hacker News**: [HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass](https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html) — 2025-23-04
-- **The Hacker News**: [Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html) — 2025-00-03
+- **The Hacker News**: [Fake Docusign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html) — 2025-00-03
 - **The Hacker News**: [Critical 10-Year-Old Roundcube Webmail Bug Allows Authenticated Users Run Malicious Code](https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html) — 2025-01-03
 - **The Hacker News**: [Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization](https://thehackernews.com/2025/06/scattered-spider-understanding-help.html) — 2025-00-03
 - **The Hacker News**: [Android Trojan Crocodilus Now Active in 8 Countries, Targeting Banks and Crypto Wallets](https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html) — 2025-34-03
