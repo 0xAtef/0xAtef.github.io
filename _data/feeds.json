@@ -1,5 +1,12 @@
 [
   {
+    "title": "Kettering Health confirms Interlock ransomware behind cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/",
+    "summary": "Healthcare giant Kettering Health, which manages 14 medical centers in Ohio, confirmed that the Interlock ransomware group breached its network and stole data in a May cyberattack. [...]",
+    "published": "2025-06-06T15:26:10",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New PathWiper data wiper malware hits critical infrastructure in Ukraine",
     "link": "https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/",
     "summary": "A new data wiper malware named 'PathWiper' is being used in targeted attacks against critical infrastructure in Ukraine, aimed at disrupting operations in the country. [...]",
