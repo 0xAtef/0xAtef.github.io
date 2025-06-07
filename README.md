@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Supply chain attack hits Gluestack NPM packages with 960K weekly downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/) — 2025-31-07
+- **Bleeping Computer**: [Malicious npm packages posing as utilities delete project directories](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/) — 2025-11-07
 - **Bleeping Computer**: [Microsoft shares script to restore inetpub folder you shouldn’t delete](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/) — 2025-28-06
 - **Bleeping Computer**: [Tax resolution firm Optima Tax Relief hit by ransomware, data leaked](https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/) — 2025-14-06
 - **The Hacker News**: [New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users](https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html) — 2025-25-06
@@ -56,11 +58,8 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Bleeping Computer**: [FBI: BADBOX 2.0 Android malware infects millions of consumer devices](https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/) — 2025-35-05
 - **Bleeping Computer**: [Old AT&amp;T data leak repackaged to link SSNs, DOBs to 49M phone numbers](https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/) — 2025-21-05
-- **Bleeping Computer**: [Hacker selling critical Roundcube webmail exploit as tech info disclosed](https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/) — 2025-55-05
 - **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
-- **Bleeping Computer**: [How to build a robust Windows service to block malware and ransomware](https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/) — 2025-20-05
 - **The Hacker News**: [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html) — 2025-53-05
-- **Bleeping Computer**: [Germany fines Vodafone $51 million for privacy, security breaches](https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/) — 2025-29-05
 - **The Hacker News**: [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html) — 2025-25-05
 - **The Hacker News**: [Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware](https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html) — 2025-59-05
 - **The Hacker News**: [DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html) — 2025-16-05
