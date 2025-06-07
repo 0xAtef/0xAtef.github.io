@@ -5,12 +5,5 @@
     "summary": "Microsoft has released a PowerShell script to help restore an empty 'inetpub' folder created by the April 2025 Windows security updates if deleted. As Microsoft previously warned, this folder helps mitigate a high-severity Windows Process Activation privilege escalation vulnerability. [...]",
     "published": "2025-06-06T17:28:07",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Tax resolution firm Optima Tax Relief hit by ransomware, data leaked",
-    "link": "https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/",
-    "summary": "U.S. tax resolution firm Optima Tax Relief suffered a Chaos ransomware attack, with the threat actors now leaking data stolen from the company. [...]",
-    "published": "2025-06-06T17:14:17",
-    "source": "BleepingComputer"
   }
 ]
