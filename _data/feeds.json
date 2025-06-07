@@ -12,12 +12,5 @@
     "summary": "U.S. tax resolution firm Optima Tax Relief suffered a Chaos ransomware attack, with the threat actors now leaking data stolen from the company. [...]",
     "published": "2025-06-06T17:14:17",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users",
-    "link": "https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html",
-    "summary": "Cybersecurity researchers are alerting to a new malware campaign that employs the ClickFix social engineering tactic to trick users into downloading an information stealer malware known as Atomic macOS Stealer (AMOS) on Apple macOS systems.\nThe campaign, according to CloudSEK, has been found to leve",
-    "published": "2025-06-06T16:25:00",
-    "source": "HackerNews"
   }
 ]
