@@ -1,9 +1,1 @@
-[
-  {
-    "title": "Microsoft shares script to restore inetpub folder you shouldn\u2019t delete",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/",
-    "summary": "Microsoft has released a PowerShell script to help restore an empty 'inetpub' folder created by the April 2025 Windows security updates if deleted. As Microsoft previously warned, this folder helps mitigate a high-severity Windows Process Activation privilege escalation vulnerability. [...]",
-    "published": "2025-06-06T17:28:07",
-    "source": "BleepingComputer"
-  }
-]
+[]
