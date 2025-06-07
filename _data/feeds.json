@@ -19,12 +19,5 @@
     "summary": "Cybersecurity researchers are alerting to a new malware campaign that employs the ClickFix social engineering tactic to trick users into downloading an information stealer malware known as Atomic macOS Stealer (AMOS) on Apple macOS systems.\nThe campaign, according to CloudSEK, has been found to leve",
     "published": "2025-06-06T16:25:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Kettering Health confirms Interlock ransomware behind cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/",
-    "summary": "Healthcare giant Kettering Health, which manages 14 medical centers in Ohio, confirmed that the Interlock ransomware group breached its network and stole data in a May cyberattack. [...]",
-    "published": "2025-06-06T15:26:10",
-    "source": "BleepingComputer"
   }
 ]
