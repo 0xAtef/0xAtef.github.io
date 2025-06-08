@@ -1,9 +1,1 @@
-[
-  {
-    "title": "Supply chain attack hits Gluestack NPM packages with 960K weekly downloads",
-    "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/",
-    "summary": "A significant supply chain attack hit NPM after 15 popular Gluestack packages with over 950,000 weekly downloads were compromised to include malicious code that acts as a remote access trojan (RAT). [...]",
-    "published": "2025-06-07T19:31:21",
-    "source": "BleepingComputer"
-  }
-]
+[]
