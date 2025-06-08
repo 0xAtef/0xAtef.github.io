@@ -5,12 +5,5 @@
     "summary": "A significant supply chain attack hit NPM after 15 popular Gluestack packages with over 950,000 weekly downloads were compromised to include malicious code that acts as a remote access trojan (RAT). [...]",
     "published": "2025-06-07T19:31:21",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Malicious npm packages posing as utilities delete project directories",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/",
-    "summary": "Two malicious packages have been discovered in the npm JavaScript package index, which masquerades as useful utilities but, in reality, are destructive data wipers that delete entire application directories. [...]",
-    "published": "2025-06-07T14:11:21",
-    "source": "BleepingComputer"
   }
 ]
