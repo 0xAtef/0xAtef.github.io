@@ -12,12 +12,5 @@
     "summary": "Cybersecurity researchers have flagged a supply chain attack targeting over a dozen packages associated with GlueStack to deliver malware.\nThe malware, introduced via a change to \"lib/commonjs/index.js,\" allows an attacker to run shell commands, take screenshots, and upload files to infected machine",
     "published": "2025-06-08T13:47:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025",
-    "link": "https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html",
-    "summary": "Cybersecurity researchers have shed light on a new campaign targeting Brazilian users since the start of 2025 to infect users with a malicious extension for Chromium-based web browsers and siphon user authentication data.\n\"Some of the phishing emails were sent from the servers of compromised compani",
-    "published": "2025-06-08T08:01:00",
-    "source": "HackerNews"
   }
 ]
