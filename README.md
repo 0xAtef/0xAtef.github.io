@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html) — 2025-20-09
+- **The Hacker News**: [Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise](https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html) — 2025-00-09
 - **The Hacker News**: [OpenAI Bans ChatGPT Accounts Used by Russian, Iranian and Chinese Hacker Groups](https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html) — 2025-45-09
 - **Bleeping Computer**: [New Mirai botnet infect TBK DVR devices via command injection flaw](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/) — 2025-17-08
 - **The Hacker News**: [New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html) — 2025-47-08
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore](https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html) — 2025-20-28
 - **The Hacker News**: [Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack](https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html) — 2025-01-28
 - **The Hacker News**: [Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File](https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html) — 2025-41-28
-- **The Hacker News**: [New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto](https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html) — 2025-30-28
-- **The Hacker News**: [From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign](https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html) — 2025-25-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
