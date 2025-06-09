@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google patched bug leaking phone numbers tied to accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/",
+    "summary": "A vulnerability allowed researchers to brute-force any Google account's recovery phone number\u00a0simply by knowing a their profile name and an easily retrieved partial phone number, creating a massive risk for phishing and SIM-swapping attacks. [...]",
+    "published": "2025-06-09T19:36:39",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "SentinelOne shares new details on China-linked breach attempt",
     "link": "https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/",
     "summary": "SentinelOne has shared more details on an attempted supply chain attack by Chinese hackers through an IT services and logistics firm that manages hardware logistics for the cybersecurity firm. [...]",
