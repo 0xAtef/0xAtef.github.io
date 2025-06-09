@@ -5,12 +5,5 @@
     "summary": "A new variant of the Mirai malware botnet is exploiting a command injection vulnerability in TBK DVR-4104 and DVR-4216 digital video recording devices to hijack them. [...]",
     "published": "2025-06-08T14:17:27",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally",
-    "link": "https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html",
-    "summary": "Cybersecurity researchers have flagged a supply chain attack targeting over a dozen packages associated with GlueStack to deliver malware.\nThe malware, introduced via a change to \"lib/commonjs/index.js,\" allows an attacker to run shell commands, take screenshots, and upload files to infected machine",
-    "published": "2025-06-08T13:47:00",
-    "source": "HackerNews"
   }
 ]
