@@ -1,5 +1,12 @@
 [
   {
+    "title": "Grocery wholesale giant United Natural Foods hit by cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/",
+    "summary": "United Natural Foods (UNFI), North America's largest publicly traded wholesale distributor, was forced to shut down some systems following a recent cyberattack. [...]",
+    "published": "2025-06-09T13:31:40",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "\u26a1 Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks",
     "link": "https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html",
     "summary": "Behind every security alert is a bigger story. Sometimes it\u2019s a system being tested. Sometimes it\u2019s trust being lost in quiet ways\u2014through delays, odd behavior, or subtle gaps in control.\nThis week, we\u2019re looking beyond the surface to spot what really matters. Whether it\u2019s poor design, hidden access",
@@ -14,7 +21,7 @@
     "source": "HackerNews"
   },
   {
-    "title": "OpenAI Bans ChatGPT Accounts Used by Russian, Iranian and Chinese Hacker Groups",
+    "title": "OpenAI Bans ChatGPT Accounts Used by Russian, Iranian, and Chinese Hacker Groups",
     "link": "https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html",
     "summary": "OpenAI has revealed that it banned a set of ChatGPT accounts that were likely operated by Russian-speaking threat actors and two Chinese nation-state hacking groups to assist with malware development, social media automation, and research about U.S. satellite communications technologies, among other",
     "published": "2025-06-09T06:45:00",
