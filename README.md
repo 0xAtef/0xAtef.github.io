@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- **Bleeping Computer**: [Designing Blue Team playbooks with Wazuh for proactive cyber defense](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-cyber-defense/) — 2025-27-09
+- **Bleeping Computer**: [Sensata Technologies says personal data stolen by ransomware gang](https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/) — 2025-09-09
+- **The Hacker News**: [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html) — 2025-46-09
+- **Bleeping Computer**: [Designing Blue Team playbooks with Wazuh for proactive incident response](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/) — 2025-27-09
 - **Bleeping Computer**: [Grocery wholesale giant United Natural Foods hit by cyberattack](https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/) — 2025-31-09
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html) — 2025-20-09
 - **The Hacker News**: [Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise](https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html) — 2025-00-09
@@ -59,7 +61,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Empower Users and Protect Against GenAI Data Loss](https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html) — 2025-41-06
 - **The Hacker News**: [Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam](https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html) — 2025-12-06
 - **The Hacker News**: [Inside the Mind of the Adversary: Why More Security Leaders Are Selecting AEV](https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html) — 2025-30-06
-- **Bleeping Computer**: [Police arrests 20 suspects for distributing child sexual abuse content](https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/) — 2025-55-06
 - **The Hacker News**: [New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack](https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html) — 2025-35-06
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **The Hacker News**: [Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore](https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html) — 2025-20-28
 - **The Hacker News**: [Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack](https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html) — 2025-01-28
-- **The Hacker News**: [Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File](https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
 - **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
