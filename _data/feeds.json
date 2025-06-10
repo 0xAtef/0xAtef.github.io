@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Secure Boot flaw lets attackers install bootkit malware, patch now",
+    "link": "https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/",
+    "summary": "Security researchers have disclosed a new Secure Boot bypass tracked as CVE-2025-3052 that can be used to turn off security on PCs and servers and install bootkit malware. [...]",
+    "published": "2025-06-10T20:02:19",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps",
     "link": "https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html",
     "summary": "Adobe on Tuesday pushed security updates to address a total of 254 security flaws impacting its software products, a majority of which affect Experience Manager (AEM).\nOf the 254 flaws, 225 reside in AEM, impacting AEM Cloud Service (CS) as well as all versions prior to and including 6.5.22. The iss",
@@ -116,13 +123,6 @@
     "link": "https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html",
     "summary": "Google has stepped in to address a security flaw that could have made it possible to brute-force an account's recovery phone number, potentially exposing them to privacy and security risks.\nThe issue, according to Singaporean security researcher \"brutecat,\" leverages an issue in the company's accoun",
     "published": "2025-06-10T10:11:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises",
-    "link": "https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html",
-    "summary": "The threat actor known as Rare Werewolf (formerly Rare Wolf) has been linked to a series of cyber attacks targeting Russia and the Commonwealth of Independent States (CIS) countries.\n\"A distinctive feature of this threat is that the attackers favor using legitimate third-party software over developi",
-    "published": "2025-06-10T07:48:00",
     "source": "HackerNews"
   }
 ]
