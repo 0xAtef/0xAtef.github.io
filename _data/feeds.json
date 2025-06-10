@@ -1,5 +1,12 @@
 [
   {
+    "title": "CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog",
+    "link": "https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two critical security flaws impacting Erlang/Open Telecom Platform (OTP) SSH and Roundcube to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities in question ",
+    "published": "2025-06-10T05:37:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Stolen Ticketmaster data from Snowflake attacks briefly for sale again",
     "link": "https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/",
     "summary": "The Arkana Security extortion gang briefly listed over the weekend what appeared to be newly stolen Ticketmaster data but is instead the data stolen during the 2024 Snowflake data theft attacks. [...]",
@@ -18,20 +25,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/",
     "summary": "A vulnerability allowed researchers to brute-force any Google account's recovery phone number\u00a0simply by knowing a their profile name and an easily retrieved partial phone number, creating a massive risk for phishing and SIM-swapping attacks. [...]",
     "published": "2025-06-09T19:36:39",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "SentinelOne shares new details on China-linked breach attempt",
-    "link": "https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/",
-    "summary": "SentinelOne has shared more details on an attempted supply chain attack by Chinese hackers through an IT services and logistics firm that manages hardware logistics for the cybersecurity firm. [...]",
-    "published": "2025-06-09T18:26:08",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Linux Foundation unveils decentralized WordPress plugin manager",
-    "link": "https://www.bleepingcomputer.com/news/technology/linux-foundation-unveils-decentralized-wordpress-plugin-manager/",
-    "summary": "A collective of former WordPress developers and contributors backed by the Linux Foundation has launched the FAIR Package Manager, a new and independent distribution system for trusted WordPress plugins and themes. [...]",
-    "published": "2025-06-09T18:07:42",
     "source": "BleepingComputer"
   }
 ]
