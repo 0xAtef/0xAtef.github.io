@@ -1,5 +1,26 @@
 [
   {
+    "title": "Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/",
+    "summary": "Today is Microsoft's June 2025 Patch Tuesday, which includes security updates for 66 flaws, including one actively exploited vulnerability and another that was publicly disclosed. [...]",
+    "published": "2025-06-10T17:37:42",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Windows 11\u00a0KB5060842\u00a0and KB5060999\u00a0cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/",
+    "summary": "Microsoft has released Windows 11\u00a0KB5060842\u00a0and\u00a0KB5060999\u00a0cumulative updates for versions 24H2 and 23H2 to fix security vulnerabilities and\u00a0issues, including 66 flaws. [...]",
+    "published": "2025-06-10T17:32:44",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware",
+    "link": "https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html",
+    "summary": "The financially motivated threat actor known as FIN6 has been observed leveraging fake resumes hosted on Amazon Web Services (AWS) infrastructure to deliver a malware family called More_eggs.\n\"By posing as job seekers and initiating conversations through platforms like LinkedIn and Indeed, the group",
+    "published": "2025-06-10T16:46:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft Outlook to block more risky attachments used in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/",
     "summary": "Microsoft announced it will expand the list of blocked attachments in Outlook Web and the new Outlook for Windows starting next month. [...]",
@@ -81,13 +102,6 @@
     "link": "https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html",
     "summary": "The threat actor known as Rare Werewolf (formerly Rare Wolf) has been linked to a series of cyber attacks targeting Russia and the Commonwealth of Independent States (CIS) countries.\n\"A distinctive feature of this threat is that the attackers favor using legitimate third-party software over developi",
     "published": "2025-06-10T07:48:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog",
-    "link": "https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two critical security flaws impacting Erlang/Open Telecom Platform (OTP) SSH and Roundcube to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities in question ",
-    "published": "2025-06-10T05:37:00",
     "source": "HackerNews"
   }
 ]
