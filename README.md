@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Massive Heroku outage impacts web platforms worldwide](https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/) — 2025-51-10
+- **The Hacker News**: [Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users](https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html) — 2025-20-10
+- **Bleeping Computer**: [AI is a data-breach time bomb, reveals new report](https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/) — 2025-02-10
 - **Bleeping Computer**: [OpenAI working to fix ChatGPT outage affecting users worldwide](https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/) — 2025-22-10
 - **Bleeping Computer**: [Five plead guilty to laundering $36 million stolen in investment scams](https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/) — 2025-59-10
 - **The Hacker News**: [The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier](https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html) — 2025-00-10
@@ -62,7 +65,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [New Mirai botnet infect TBK DVR devices via command injection flaw](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/) — 2025-17-08
 - **The Hacker News**: [New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html) — 2025-47-08
 - **The Hacker News**: [Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025](https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html) — 2025-01-08
-- **Bleeping Computer**: [Malware found in NPM packages with 1 million weekly downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/) — 2025-31-07
 - **The Hacker News**: [New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users](https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html) — 2025-25-06
 - **The Hacker News**: [Empower Users and Protect Against GenAI Data Loss](https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html) — 2025-41-06
 - **The Hacker News**: [Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam](https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html) — 2025-12-06
@@ -103,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Meta Disrupts Influence Ops Targeting Romania, Azerbaijan, and Taiwan with Fake Personas](https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html) — 2025-09-30
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **The Hacker News**: [Cybercriminals Target AI Users with Malware-Loaded Installers Posing as Popular Tools](https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html) — 2025-47-29
-- **The Hacker News**: [New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers](https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html) — 2025-16-29
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
