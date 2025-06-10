@@ -1,5 +1,19 @@
 [
   {
+    "title": "Texas Dept. of Transportation breached, 300k crash records stolen",
+    "link": "https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/",
+    "summary": "The Texas Department of Transportation (TxDOT) is warning that it suffered a data breach after a threat actor downloaded 300,000 crash records from its database. [...]",
+    "published": "2025-06-10T16:25:16",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "FIN6 hackers pose as job seekers to backdoor recruiters\u2019 devices",
+    "link": "https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/",
+    "summary": "In a twist on typical hiring-related social engineering attacks, the FIN6 hacking group impersonates job seekers to target recruiters, using convincing resumes and phishing sites to deliver malware. [...]",
+    "published": "2025-06-10T15:57:13",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Ivanti Workspace Control hardcoded key flaws expose SQL credentials",
     "link": "https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/",
     "summary": "Ivanti has released security updates to fix three high-severity hardcoded key vulnerabilities in the company's Workspace Control (IWC) solution. [...]",
