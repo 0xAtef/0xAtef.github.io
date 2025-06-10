@@ -1,5 +1,19 @@
 [
   {
+    "title": "Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps",
+    "link": "https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html",
+    "summary": "Adobe on Tuesday pushed security updates to address a total of 254 security flaws impacting its software products, a majority of which affect Experience Manager (AEM).\nOf the 254 flaws, 225 reside in AEM, impacting AEM Cloud Service (CS) as well as all versions prior to and including 6.5.22. The iss",
+    "published": "2025-06-10T18:29:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud",
+    "link": "https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html",
+    "summary": "Cybersecurity researchers have uncovered over 20 configuration-related risks affecting Salesforce Industry Cloud (aka Salesforce Industries), exposing sensitive data to unauthorized internal and external parties.\nThe weaknesses affect various components like FlexCards, Data Mappers, Integration Proc",
+    "published": "2025-06-10T18:04:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Windows 10 KB5060533 cumulative update released with 7 changes, fixes",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/",
     "summary": "Microsoft has released the KB5060533 cumulative update for Windows 10 22H2 and Windows 10 21H2, with seven fixes or changes, including bringing seconds back to the time shown in the Calendar flyout. [...]",
