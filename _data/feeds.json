@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows 10 KB5060533 cumulative update released with 7 changes, fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/",
+    "summary": "Microsoft has released the KB5060533 cumulative update for Windows 10 22H2 and Windows 10 21H2, with seven fixes or changes, including bringing seconds back to the time shown in the Calendar flyout. [...]",
+    "published": "2025-06-10T18:03:09",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/",
     "summary": "Today is Microsoft's June 2025 Patch Tuesday, which includes security updates for 66 flaws, including one actively exploited vulnerability and another that was publicly disclosed. [...]",
