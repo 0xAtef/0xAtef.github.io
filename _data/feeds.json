@@ -47,19 +47,5 @@
     "summary": "The reconnaissance activity targeting American cybersecurity company SentinelOne was part of a broader set of partially-related intrusions into several targets between July 2024 and March 2025.\n\"The victimology includes a South Asian government entity, a European media organization, and more than 70",
     "published": "2025-06-09T15:23:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks",
-    "link": "https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html",
-    "summary": "A now-patched critical security flaw in the Wazur Server is being exploited by threat actors to drop two different Mirai botnet variants and use them to conduct distributed denial-of-service (DDoS) attacks.\nAkamai, which first discovered the exploitation efforts in late March 2025, said the maliciou",
-    "published": "2025-06-09T14:46:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Designing Blue Team playbooks with Wazuh for proactive incident response",
-    "link": "https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/",
-    "summary": "Blue Team playbooks are essential\u2014but tools like Wazuh take them to the next level. From credential dumping to web shells and brute-force attacks, see how Wazuh strengthens real-time detection and automated response. [...]",
-    "published": "2025-06-09T14:27:02",
-    "source": "BleepingComputer"
   }
 ]
