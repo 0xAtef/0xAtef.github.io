@@ -1,5 +1,12 @@
 [
   {
+    "title": "DanaBot malware operators exposed via C2 bug added in 2022",
+    "link": "https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/",
+    "summary": "A vulnerability in the DanaBot malware operation\u00a0introduced in June 2022 update led to the identification, indictment, and dismantling of their operations in a recent law enforcement action. [...]",
+    "published": "2025-06-10T21:46:49",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "ConnectWise rotating code signing certificates over security concerns",
     "link": "https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/",
     "summary": "ConnectWise is warning customers that it is rotating the digital code signing certificates used to sign ScreenConnect, ConnectWise Automate, and ConnectWise RMM executables over security concerns. [...]",
@@ -123,13 +130,6 @@
     "link": "https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html",
     "summary": "Modern enterprise networks are highly complex environments that rely on hundreds of apps and infrastructure services. These systems need to interact securely and efficiently without constant human oversight, which is where non-human identities (NHIs) come in. NHIs \u2014 including application secrets, AP",
     "published": "2025-06-10T11:00:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account",
-    "link": "https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html",
-    "summary": "Google has stepped in to address a security flaw that could have made it possible to brute-force an account's recovery phone number, potentially exposing them to privacy and security risks.\nThe issue, according to Singaporean security researcher \"brutecat,\" leverages an issue in the company's accoun",
-    "published": "2025-06-10T10:11:00",
     "source": "HackerNews"
   }
 ]
