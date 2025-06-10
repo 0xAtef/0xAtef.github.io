@@ -12,12 +12,5 @@
     "summary": "The Arkana Security extortion gang briefly listed over the weekend what appeared to be newly stolen Ticketmaster data but is instead the data stolen during the 2024 Snowflake data theft attacks. [...]",
     "published": "2025-06-09T22:31:18",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Over 84,000 Roundcube instances vulnerable to actively exploited flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/",
-    "summary": "Over 84,000 instances of the Roundcube webmail software are vulnerable to CVE-2025-49113, a critical remote code execution (RCE) vulnerability with a publicly available exploit. [...]",
-    "published": "2025-06-09T20:14:16",
-    "source": "BleepingComputer"
   }
 ]
