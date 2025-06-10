@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft Outlook to block more risky attachments used in attacks](https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/) — 2025-36-10
+- **Bleeping Computer**: [Texas Dept. of Transportation breached, 300k crash records stolen](https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/) — 2025-25-10
 - **Bleeping Computer**: [FIN6 hackers pose as job seekers to backdoor recruiters’ devices](https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/) — 2025-57-10
 - **Bleeping Computer**: [Ivanti Workspace Control hardcoded key flaws expose SQL credentials](https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/) — 2025-22-10
 - **Bleeping Computer**: [Massive Heroku outage impacts web platforms worldwide](https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/) — 2025-51-10
@@ -59,8 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Sensata Technologies says personal data stolen by ransomware gang](https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/) — 2025-09-09
 - **The Hacker News**: [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html) — 2025-23-09
 - **The Hacker News**: [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html) — 2025-46-09
-- **Bleeping Computer**: [Designing Blue Team playbooks with Wazuh for proactive cyber defense](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/) — 2025-27-09
-- **Bleeping Computer**: [Grocery wholesale giant United Natural Foods hit by cyberattack](https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/) — 2025-31-09
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html) — 2025-20-09
 - **The Hacker News**: [Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise](https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html) — 2025-00-09
 - **The Hacker News**: [OpenAI Bans ChatGPT Accounts Used by Russian, Iranian, and Chinese Hacker Groups](https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html) — 2025-45-09
