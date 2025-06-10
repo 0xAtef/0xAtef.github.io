@@ -54,7 +54,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Sensata Technologies says personal data stolen by ransomware gang](https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/) — 2025-09-09
 - **The Hacker News**: [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html) — 2025-23-09
 - **The Hacker News**: [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html) — 2025-46-09
-- **Bleeping Computer**: [Designing Blue Team playbooks with Wazuh for proactive incident response](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/) — 2025-27-09
+- **Bleeping Computer**: [Designing Blue Team playbooks with Wazuh for proactive cyber defense](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/) — 2025-27-09
 - **Bleeping Computer**: [Grocery wholesale giant United Natural Foods hit by cyberattack](https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/) — 2025-31-09
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html) — 2025-20-09
 - **The Hacker News**: [Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise](https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html) — 2025-00-09
