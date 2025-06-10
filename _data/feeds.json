@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft Outlook to block more risky attachments used in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/",
+    "summary": "Microsoft announced it will expand the list of blocked attachments in Outlook Web and the new Outlook for Windows starting next month. [...]",
+    "published": "2025-06-10T16:36:49",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Texas Dept. of Transportation breached, 300k crash records stolen",
     "link": "https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/",
     "summary": "The Texas Department of Transportation (TxDOT) is warning that it suffered a data breach after a threat actor downloaded 300,000 crash records from its database. [...]",
