@@ -19,12 +19,5 @@
     "summary": "Over 84,000 instances of the Roundcube webmail software are vulnerable to CVE-2025-49113, a critical remote code execution (RCE) vulnerability with a publicly available exploit. [...]",
     "published": "2025-06-09T20:14:16",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Google patched bug leaking phone numbers tied to accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/",
-    "summary": "A vulnerability allowed researchers to brute-force any Google account's recovery phone number\u00a0simply by knowing a their profile name and an easily retrieved partial phone number, creating a massive risk for phishing and SIM-swapping attacks. [...]",
-    "published": "2025-06-09T19:36:39",
-    "source": "BleepingComputer"
   }
 ]
