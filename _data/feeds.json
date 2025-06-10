@@ -1,5 +1,12 @@
 [
   {
+    "title": "Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account",
+    "link": "https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html",
+    "summary": "Google has stepped in to address a security flaw that could have made it possible to brute-force an account's recovery phone number, potentially exposing them to privacy and security risks.\nThe issue, according to Singaporean security researcher \"brutecat,\" leverages an issue in the company's accoun",
+    "published": "2025-06-10T10:11:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises",
     "link": "https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html",
     "summary": "The threat actor known as Rare Werewolf (formerly Rare Wolf) has been linked to a series of cyber attacks targeting Russia and the Commonwealth of Independent States (CIS) countries.\n\"A distinctive feature of this threat is that the attackers favor using legitimate third-party software over developi",
@@ -12,12 +19,5 @@
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two critical security flaws impacting Erlang/Open Telecom Platform (OTP) SSH and Roundcube to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities in question ",
     "published": "2025-06-10T05:37:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Stolen Ticketmaster data from Snowflake attacks briefly for sale again",
-    "link": "https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/",
-    "summary": "The Arkana Security extortion gang briefly listed over the weekend what appeared to be newly stolen Ticketmaster data but is instead the data stolen during the 2024 Snowflake data theft attacks. [...]",
-    "published": "2025-06-09T22:31:18",
-    "source": "BleepingComputer"
   }
 ]
