@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [DanaBot malware operators exposed via C2 bug added in 2022](https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/) — 2025-46-10
+- **Bleeping Computer**: [ConnectWise rotating code signing certificates over security concerns](https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/) — 2025-17-10
 - **Bleeping Computer**: [New Secure Boot flaw lets attackers install bootkit malware, patch now](https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/) — 2025-02-10
 - **The Hacker News**: [Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps](https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html) — 2025-29-10
 - **The Hacker News**: [Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud](https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html) — 2025-04-10
@@ -60,7 +62,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account](https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html) — 2025-11-10
 - **The Hacker News**: [Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises](https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html) — 2025-48-10
 - **The Hacker News**: [CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html) — 2025-37-10
-- **Bleeping Computer**: [Stolen Ticketmaster data from Snowflake attacks briefly for sale again](https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/) — 2025-31-09
 - **The Hacker News**: [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html) — 2025-23-09
 - **The Hacker News**: [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html) — 2025-46-09
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html) — 2025-20-09
