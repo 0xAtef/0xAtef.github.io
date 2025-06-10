@@ -1,5 +1,19 @@
 [
   {
+    "title": "Five plead guilty to laundering $36 million stolen in investment scams",
+    "link": "https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/",
+    "summary": "Five men from China, the United States, and Turkey pleaded guilty to their involvement in an international crime ring and laundering nearly $37 million stolen from U.S. victims in cryptocurrency investment scams carried out from Cambodia. [...]",
+    "published": "2025-06-10T11:59:30",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier",
+    "link": "https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html",
+    "summary": "Modern enterprise networks are highly complex environments that rely on hundreds of apps and infrastructure services. These systems need to interact securely and efficiently without constant human oversight, which is where non-human identities (NHIs) come in. NHIs \u2014 including application secrets, AP",
+    "published": "2025-06-10T11:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account",
     "link": "https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html",
     "summary": "Google has stepped in to address a security flaw that could have made it possible to brute-force an account's recovery phone number, potentially exposing them to privacy and security risks.\nThe issue, according to Singaporean security researcher \"brutecat,\" leverages an issue in the company's accoun",
