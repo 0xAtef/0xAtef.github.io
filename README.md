@@ -40,6 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Windows 10 KB5060533 cumulative update released with 7 changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/) — 2025-03-10
+- **Bleeping Computer**: [Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/) — 2025-37-10
+- **Bleeping Computer**: [Windows 11 KB5060842 and KB5060999 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/) — 2025-32-10
+- **The Hacker News**: [FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware](https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html) — 2025-46-10
 - **Bleeping Computer**: [Microsoft Outlook to block more risky attachments used in attacks](https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/) — 2025-36-10
 - **Bleeping Computer**: [Texas Dept. of Transportation breached, 300k crash records stolen](https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/) — 2025-25-10
 - **Bleeping Computer**: [FIN6 hackers pose as job seekers to backdoor recruiters’ devices](https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/) — 2025-57-10
@@ -56,9 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Stolen Ticketmaster data from Snowflake attacks briefly for sale again](https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/) — 2025-31-09
 - **Bleeping Computer**: [Over 84,000 Roundcube instances vulnerable to actively exploited flaw](https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/) — 2025-14-09
 - **Bleeping Computer**: [Google patched bug leaking phone numbers tied to accounts](https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/) — 2025-36-09
-- **Bleeping Computer**: [SentinelOne shares new details on China-linked breach attempt](https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/) — 2025-26-09
-- **Bleeping Computer**: [Linux Foundation unveils decentralized WordPress plugin manager](https://www.bleepingcomputer.com/news/technology/linux-foundation-unveils-decentralized-wordpress-plugin-manager/) — 2025-07-09
-- **Bleeping Computer**: [Sensata Technologies says personal data stolen by ransomware gang](https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/) — 2025-09-09
 - **The Hacker News**: [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html) — 2025-23-09
 - **The Hacker News**: [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html) — 2025-46-09
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html) — 2025-20-09
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [ConnectWise Hit by Cyberattack; Nation-State Actor Suspected in Targeted Breach](https://thehackernews.com/2025/05/connectwise-hit-by-cyberattack-nation.html) — 2025-11-30
 - **The Hacker News**: [Meta Disrupts Influence Ops Targeting Romania, Azerbaijan, and Taiwan with Fake Personas](https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html) — 2025-09-30
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
-- **The Hacker News**: [Cybercriminals Target AI Users with Malware-Loaded Installers Posing as Popular Tools](https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html) — 2025-47-29
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
