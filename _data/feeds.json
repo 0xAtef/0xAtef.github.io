@@ -1,5 +1,12 @@
 [
   {
+    "title": "Brute-force attacks target Apache Tomcat management panels",
+    "link": "https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/",
+    "summary": "A coordinated campaign of brute-force attacks using hundreds of unique IP addresses targets Apache Tomcat Manager interfaces exposed online. [...]",
+    "published": "2025-06-11T14:27:36",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Operation Secure disrupts global infostealer malware operations",
     "link": "https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/",
     "summary": "An international law enforcement action codenamed \"Operation Secure\" targeted infostealer malware infrastructure in a massive crackdown across 26 countries, resulting in 32 arrests, data seizures, and server takedowns. [...]",
