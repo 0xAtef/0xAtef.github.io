@@ -1,5 +1,19 @@
 [
   {
+    "title": "SmartAttack uses smartwatches to steal data from air-gapped systems",
+    "link": "https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/",
+    "summary": "A new attack dubbed 'SmartAttack' uses smartwatches as a covert ultrasonic signal receiver to exfiltrate data from physically isolated (air-gapped) systems. [...]",
+    "published": "2025-06-11T22:08:00",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Erie Insurance confirms cyberattack behind business disruptions",
+    "link": "https://www.bleepingcomputer.com/news/security/erie-insurance-confirms-cyberattack-behind-business-disruptions/",
+    "summary": "Erie Insurance and Erie Indemnity Company\u00a0have disclosed that a weekend cyberattack is behind the recent business disruptions and platform outages on its website. [...]",
+    "published": "2025-06-11T21:44:30",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot",
     "link": "https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/",
     "summary": "A new attack dubbed 'EchoLeak' is the first known zero-click AI vulnerability that enables attackers to exfiltrate sensitive data from Microsoft 365 Copilot from a user's context without interaction. [...]",
@@ -81,13 +95,6 @@
     "link": "https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html",
     "summary": "Two security vulnerabilities have been disclosed in SinoTrack GPS devices that could be exploited to control certain remote functions on connected vehicles and even track their locations.\n\"Successful exploitation of these vulnerabilities could allow an attacker to access device profiles without auth",
     "published": "2025-06-11T10:28:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "How to Build a Lean Security Model: 5 Lessons from River Island",
-    "link": "https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html",
-    "summary": "In today&rsquo;s security landscape, budgets are tight, attack surfaces are sprawling, and new threats emerge daily. Maintaining a strong security posture under these circumstances without a large team or budget can be a real challenge. Yet lean security models are not only possible - they can be hi",
-    "published": "2025-06-11T10:00:00",
     "source": "HackerNews"
   }
 ]
