@@ -61,26 +61,5 @@
     "summary": "Microsoft has released Windows 11\u00a0KB5060842\u00a0and\u00a0KB5060999\u00a0cumulative updates for versions 24H2 and 23H2 to fix security vulnerabilities and\u00a0issues, including 66 flaws. [...]",
     "published": "2025-06-10T17:32:44",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware",
-    "link": "https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html",
-    "summary": "The financially motivated threat actor known as FIN6 has been observed leveraging fake resumes hosted on Amazon Web Services (AWS) infrastructure to deliver a malware family called More_eggs.\n\"By posing as job seekers and initiating conversations through platforms like LinkedIn and Indeed, the group",
-    "published": "2025-06-10T16:46:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft Outlook to block more risky attachments used in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/",
-    "summary": "Microsoft announced it will expand the list of blocked attachments in Outlook Web and the new Outlook for Windows starting next month. [...]",
-    "published": "2025-06-10T16:36:49",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Texas Dept. of Transportation breached, 300k crash records stolen",
-    "link": "https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/",
-    "summary": "The Texas Department of Transportation (TxDOT) is warning that it suffered a data breach after a threat actor downloaded 300,000 crash records from its database. [...]",
-    "published": "2025-06-10T16:25:16",
-    "source": "BleepingComputer"
   }
 ]
