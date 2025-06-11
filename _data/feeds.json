@@ -1,5 +1,26 @@
 [
   {
+    "title": "Microsoft fixes Windows Server auth issues caused by April updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/",
+    "summary": "Microsoft has fixed a known issue causing authentication problems on Windows Server domain controllers after installing the April 2025 security updates. [...]",
+    "published": "2025-06-11T12:34:06",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure",
+    "link": "https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html",
+    "summary": "INTERPOL on Wednesday announced the dismantling of more than 20,000 malicious IP addresses or domains that have been linked to 69 information-stealing malware variants.\nThe joint action, codenamed Operation Secure, took place between January and April 2025, and involved law enforcement agencies from",
+    "published": "2025-06-11T11:32:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Why DNS Security Is Your First Defense Against Cyber Attacks?",
+    "link": "https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html",
+    "summary": "In today\u2019s cybersecurity landscape, much of the focus is placed on firewalls, antivirus software, and endpoint detection. While these tools are essential, one critical layer often goes overlooked: the Domain Name System (DNS). As the starting point of nearly every online interaction, DNS is not only",
+    "published": "2025-06-11T11:25:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "SinoTrack GPS Devices Vulnerable to Remote Vehicle Control via Default Passwords",
     "link": "https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html",
     "summary": "Two security vulnerabilities have been disclosed in SinoTrack GPS devices that could be exploited to control certain remote functions on connected vehicles and even track their locations.\n\"Successful exploitation of these vulnerabilities could allow an attacker to access device profiles without auth",
@@ -19,12 +40,5 @@
     "summary": "Microsoft has released patches to fix 67 security flaws, including one zero-day bug in Web Distributed Authoring and Versioning (WebDAV) that it said has come under active exploitation in the wild.\nOf the 67 vulnerabilities, 11 are rated Critical and 56 are rated Important in severity. This includes",
     "published": "2025-06-11T07:46:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Patch Tuesday, June 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/",
-    "summary": "Microsoft today released security updates to fix at least 67 vulnerabilities in its Windows operating systems and software. Redmond warns that one of the flaws is already under active attack, and that software blueprints showing how to exploit a pervasive Windows bug patched this month are now publi",
-    "published": "2025-06-11T00:10:53",
-    "source": "Krebs"
   }
 ]
