@@ -14,6 +14,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager",
+    "link": "https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html",
+    "summary": "Threat intelligence firm GreyNoise has warned of a \"coordinated brute-force activity\" targeting Apache Tomcat Manager interfaces.\nThe company said it observed a surge in brute-force and login attempts on June 5, 2025, an indication that they could be deliberate efforts to \"identify and access expose",
+    "published": "2025-06-11T13:49:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft fixes unreachable Windows Server domain controllers",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/",
     "summary": "Microsoft has resolved a known issue that caused some Windows Server 2025 domain controllers to become unreachable after a restart and triggered app or service failures. [...]",
