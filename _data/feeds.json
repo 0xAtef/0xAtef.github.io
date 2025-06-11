@@ -19,12 +19,5 @@
     "summary": "A vulnerability in the DanaBot malware operation\u00a0introduced in June 2022 update led to the identification, indictment, and dismantling of their operations in a recent law enforcement action. [...]",
     "published": "2025-06-10T21:46:49",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "ConnectWise rotating code signing certificates over security concerns",
-    "link": "https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/",
-    "summary": "ConnectWise is warning customers that it is rotating the digital code signing certificates used to sign ScreenConnect, ConnectWise Automate, and ConnectWise RMM executables over security concerns. [...]",
-    "published": "2025-06-10T21:17:53",
-    "source": "BleepingComputer"
   }
 ]
