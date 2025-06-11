@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Hackers exploited Windows WebDav zero-day to drop malware](https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/) — 2025-47-11
+- **Bleeping Computer**: [Microsoft creates separate Windows 11 24H2 update for incompatible PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/) — 2025-35-11
 - **Bleeping Computer**: [Brute-force attacks target Apache Tomcat management panels](https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/) — 2025-27-11
 - **Bleeping Computer**: [Operation Secure disrupts global infostealer malware operations](https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/) — 2025-51-11
 - **The Hacker News**: [295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager](https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html) — 2025-49-11
@@ -61,8 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Windows 11 KB5060842 and KB5060999 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/) — 2025-32-10
 - **The Hacker News**: [FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware](https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html) — 2025-46-10
 - **Bleeping Computer**: [Microsoft Outlook to block more risky attachments used in attacks](https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/) — 2025-36-10
-- **Bleeping Computer**: [Texas Dept. of Transportation breached, 300k crash records stolen](https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/) — 2025-25-10
-- **Bleeping Computer**: [FIN6 hackers pose as job seekers to backdoor recruiters’ devices](https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/) — 2025-57-10
 - **The Hacker News**: [Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users](https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html) — 2025-20-10
 - **The Hacker News**: [The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier](https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html) — 2025-00-10
 - **The Hacker News**: [Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account](https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html) — 2025-11-10
