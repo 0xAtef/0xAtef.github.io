@@ -12,12 +12,5 @@
     "summary": "Microsoft today released security updates to fix at least 67 vulnerabilities in its Windows operating systems and software. Redmond warns that one of the flaws is already under active attack, and that software blueprints showing how to exploit a pervasive Windows bug patched this month are now publi",
     "published": "2025-06-11T00:10:53",
     "source": "Krebs"
-  },
-  {
-    "title": "DanaBot malware operators exposed via C2 bug added in 2022",
-    "link": "https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/",
-    "summary": "A vulnerability in the DanaBot malware operation\u00a0introduced in June 2022 update led to the identification, indictment, and dismantling of their operations in a recent law enforcement action. [...]",
-    "published": "2025-06-10T21:46:49",
-    "source": "BleepingComputer"
   }
 ]
