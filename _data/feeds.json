@@ -89,12 +89,5 @@
     "summary": "In today\u2019s cybersecurity landscape, much of the focus is placed on firewalls, antivirus software, and endpoint detection. While these tools are essential, one critical layer often goes overlooked: the Domain Name System (DNS). As the starting point of nearly every online interaction, DNS is not only",
     "published": "2025-06-11T11:25:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "SinoTrack GPS Devices Vulnerable to Remote Vehicle Control via Default Passwords",
-    "link": "https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html",
-    "summary": "Two security vulnerabilities have been disclosed in SinoTrack GPS devices that could be exploited to control certain remote functions on connected vehicles and even track their locations.\n\"Successful exploitation of these vulnerabilities could allow an attacker to access device profiles without auth",
-    "published": "2025-06-11T10:28:00",
-    "source": "HackerNews"
   }
 ]
