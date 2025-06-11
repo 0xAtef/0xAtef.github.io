@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft fixes unreachable Windows Server domain controllers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/) — 2025-21-11
+- **Bleeping Computer**: [Microsoft fixes Windows Server auth issues caused by April updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/) — 2025-34-11
 - **The Hacker News**: [INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure](https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html) — 2025-32-11
 - **The Hacker News**: [Why DNS Security Is Your First Defense Against Cyber Attacks?](https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html) — 2025-25-11
 - **The Hacker News**: [SinoTrack GPS Devices Vulnerable to Remote Vehicle Control via Default Passwords](https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html) — 2025-28-11
@@ -61,9 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Ivanti Workspace Control hardcoded key flaws expose SQL credentials](https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/) — 2025-22-10
 - **Bleeping Computer**: [Massive Heroku outage impacts web platforms worldwide](https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/) — 2025-51-10
 - **The Hacker News**: [Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users](https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html) — 2025-20-10
-- **Bleeping Computer**: [AI is a data-breach time bomb, reveals new report](https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/) — 2025-02-10
-- **Bleeping Computer**: [OpenAI working to fix ChatGPT outage affecting users worldwide](https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/) — 2025-22-10
-- **Bleeping Computer**: [Five plead guilty to laundering $36 million stolen in investment scams](https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/) — 2025-59-10
 - **The Hacker News**: [The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier](https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html) — 2025-00-10
 - **The Hacker News**: [Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account](https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html) — 2025-11-10
 - **The Hacker News**: [Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises](https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html) — 2025-48-10
