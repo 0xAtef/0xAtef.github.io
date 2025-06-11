@@ -75,19 +75,5 @@
     "summary": "Microsoft has fixed a known issue causing authentication problems on Windows Server domain controllers after installing the April 2025 security updates. [...]",
     "published": "2025-06-11T12:34:06",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure",
-    "link": "https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html",
-    "summary": "INTERPOL on Wednesday announced the dismantling of more than 20,000 malicious IP addresses or domains that have been linked to 69 information-stealing malware variants.\nThe joint action, codenamed Operation Secure, took place between January and April 2025, and involved law enforcement agencies from",
-    "published": "2025-06-11T11:32:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Why DNS Security Is Your First Defense Against Cyber Attacks?",
-    "link": "https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html",
-    "summary": "In today\u2019s cybersecurity landscape, much of the focus is placed on firewalls, antivirus software, and endpoint detection. While these tools are essential, one critical layer often goes overlooked: the Domain Name System (DNS). As the starting point of nearly every online interaction, DNS is not only",
-    "published": "2025-06-11T11:25:00",
-    "source": "HackerNews"
   }
 ]
