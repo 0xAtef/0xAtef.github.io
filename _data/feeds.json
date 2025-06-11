@@ -96,26 +96,5 @@
     "summary": "Ivanti has released security updates to fix three high-severity hardcoded key vulnerabilities in the company's Workspace Control (IWC) solution. [...]",
     "published": "2025-06-10T15:22:44",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Massive Heroku outage impacts web platforms worldwide",
-    "link": "https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/",
-    "summary": "Heroku is suffering a widespread outage that has lasted over six hours, preventing developers from logging into the platform and breaking website functionality. [...]",
-    "published": "2025-06-10T14:51:47",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users",
-    "link": "https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html",
-    "summary": "Cybersecurity researchers have shed light on a previously undocumented Rust-based information stealer called Myth Stealer that's being propagated via fraudulent gaming websites.\n\"Upon execution, the malware displays a fake window to appear legitimate while simultaneously decrypting and executing mal",
-    "published": "2025-06-10T14:20:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "AI is a data-breach time bomb, reveals new report",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/",
-    "summary": "AI acts like Pac-Man\u2014devouring sensitive data across clouds, apps, and copilots. Varonis analyzed 1,000 orgs and found 99% have exposed data AI can access, exposing them to data risks. [...]",
-    "published": "2025-06-10T14:02:20",
-    "source": "BleepingComputer"
   }
 ]
