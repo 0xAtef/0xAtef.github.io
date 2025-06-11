@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft fixes unreachable Windows Server domain controllers",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/",
+    "summary": "Microsoft has resolved a known issue that caused some Windows Server 2025 domain controllers to become unreachable after a restart and triggered app or service failures. [...]",
+    "published": "2025-06-11T13:21:03",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft fixes Windows Server auth issues caused by April updates",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/",
     "summary": "Microsoft has fixed a known issue causing authentication problems on Windows Server domain controllers after installing the April 2025 security updates. [...]",
