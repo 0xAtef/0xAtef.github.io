@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Bleeping Computer**: [DanaBot malware operators exposed via C2 bug added in 2022](https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/) — 2025-46-10
 - **Bleeping Computer**: [ConnectWise rotating code signing certificates over security concerns](https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/) — 2025-17-10
 - **Bleeping Computer**: [New Secure Boot flaw lets attackers install bootkit malware, patch now](https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/) — 2025-02-10
@@ -74,6 +75,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam](https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html) — 2025-12-06
 - **The Hacker News**: [Inside the Mind of the Adversary: Why More Security Leaders Are Selecting AEV](https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html) — 2025-30-06
 - **The Hacker News**: [New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack](https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html) — 2025-35-06
+- **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
 - **The Hacker News**: [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html) — 2025-53-05
 - **The Hacker News**: [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html) — 2025-25-05
@@ -103,4 +105,12 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New EDDIESTEALER Malware Bypasses Chrome&#39;s App-Bound Encryption to Steal Browser Data](https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html) — 2025-14-30
 - **The Hacker News**: [China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia and Brazil](https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html) — 2025-12-30
 - **The Hacker News**: [From the &quot;Department of No&quot; to a &quot;Culture of Yes&quot;: A Healthcare CISO&#39;s Journey to Enabling Modern Care](https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html) — 2025-30-30
-- **The Hacker News**: [U.S. Sanctions Funnull for $200M Romance Baiting Scams Tied to Crypto Fraud](https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html) — 2025-51-30<!-- BLOG-POST-LIST:END -->
+- **The Hacker News**: [U.S. Sanctions Funnull for $200M Romance Baiting Scams Tied to Crypto Fraud](https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html) — 2025-51-30
+- **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
+- **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
+- **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
+- **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
+- **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
+- **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14
+- **Krebs on Security**: [Pakistani Firm Shipped Fentanyl Analogs, Scams to US](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/) — 2025-22-07
+- **Krebs on Security**: [xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/) — 2025-52-02<!-- BLOG-POST-LIST:END -->
