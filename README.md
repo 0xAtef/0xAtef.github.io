@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [SmartAttack uses smartwatches to steal data from air-gapped systems](https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/) — 2025-08-11
+- **Bleeping Computer**: [Erie Insurance confirms cyberattack behind business disruptions](https://www.bleepingcomputer.com/news/security/erie-insurance-confirms-cyberattack-behind-business-disruptions/) — 2025-44-11
 - **Bleeping Computer**: [Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot](https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/) — 2025-48-11
 - **The Hacker News**: [Former Black Basta Members Use Microsoft Teams and Python Scripts in 2025 Attacks](https://thehackernews.com/2025/06/former-black-basta-members-use.html) — 2025-44-11
 - **Bleeping Computer**: [Hackers exploited Windows WebDav zero-day to drop malware](https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/) — 2025-47-11
@@ -60,9 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [New Secure Boot flaw lets attackers install bootkit malware, patch now](https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/) — 2025-02-10
 - **The Hacker News**: [Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps](https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html) — 2025-29-10
 - **The Hacker News**: [Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud](https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html) — 2025-04-10
-- **Bleeping Computer**: [Windows 10 KB5060533 cumulative update released with 7 changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/) — 2025-03-10
-- **Bleeping Computer**: [Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/) — 2025-37-10
-- **Bleeping Computer**: [Windows 11 KB5060842 and KB5060999 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/) — 2025-32-10
 - **The Hacker News**: [FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware](https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html) — 2025-46-10
 - **The Hacker News**: [Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users](https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html) — 2025-20-10
 - **The Hacker News**: [The Hidden Threat in Your Stack: Why Non-Human Identity Management is the Next Cybersecurity Frontier](https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html) — 2025-00-10
