@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft Patches 67 Vulnerabilities Including WEBDAV Zero-Day Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html",
+    "summary": "Microsoft has released patches to fix 67 security flaws, including one zero-day bug in Web Distributed Authoring and Versioning (WEBDAV) that it said has come under active exploitation in the wild.\nOf the 67 vulnerabilities, 11 are rated Critical and 56 are rated Important in severity. This includes",
+    "published": "2025-06-11T07:46:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Patch Tuesday, June 2025 Edition",
     "link": "https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/",
     "summary": "Microsoft today released security updates to fix at least 67 vulnerabilities in its Windows operating systems and software. Redmond warns that one of the flaws is already under active attack, and that software blueprints showing how to exploit a pervasive Windows bug patched this month are now publi",
@@ -18,13 +25,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/",
     "summary": "ConnectWise is warning customers that it is rotating the digital code signing certificates used to sign ScreenConnect, ConnectWise Automate, and ConnectWise RMM executables over security concerns. [...]",
     "published": "2025-06-10T21:17:53",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "New Secure Boot flaw lets attackers install bootkit malware, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/",
-    "summary": "Security researchers have disclosed a new Secure Boot bypass tracked as CVE-2025-3052 that can be used to turn off security on PCs and servers and install bootkit malware. [...]",
-    "published": "2025-06-10T20:02:19",
     "source": "BleepingComputer"
   }
 ]
