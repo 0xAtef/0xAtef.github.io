@@ -89,12 +89,5 @@
     "summary": "In today&rsquo;s security landscape, budgets are tight, attack surfaces are sprawling, and new threats emerge daily. Maintaining a strong security posture under these circumstances without a large team or budget can be a real challenge. Yet lean security models are not only possible - they can be hi",
     "published": "2025-06-11T10:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft Patches 67 Vulnerabilities Including WEBDAV Zero-Day Exploited in the Wild",
-    "link": "https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html",
-    "summary": "Microsoft has released patches to fix 67 security flaws, including one zero-day bug in Web Distributed Authoring and Versioning (WebDAV) that it said has come under active exploitation in the wild.\nOf the 67 vulnerabilities, 11 are rated Critical and 56 are rated Important in severity. This includes",
-    "published": "2025-06-11T07:46:00",
-    "source": "HackerNews"
   }
 ]
