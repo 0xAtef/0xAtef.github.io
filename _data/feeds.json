@@ -1,5 +1,12 @@
 [
   {
+    "title": "Operation Secure disrupts global infostealer malware operations",
+    "link": "https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/",
+    "summary": "An international law enforcement action codenamed \"Operation Secure\" targeted infostealer malware infrastructure in a massive crackdown across 26 countries, resulting in 32 arrests, data seizures, and server takedowns. [...]",
+    "published": "2025-06-11T13:51:49",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft fixes unreachable Windows Server domain controllers",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/",
     "summary": "Microsoft has resolved a known issue that caused some Windows Server 2025 domain controllers to become unreachable after a restart and triggered app or service failures. [...]",
