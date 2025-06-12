@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows 11 24H2 emergency update fixes Easy Anti-Cheat BSOD issue",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/",
+    "summary": "Microsoft has released an emergency Windows 11 24H2 update to address an incompatibility issue triggering restarts with blue screen\u00a0of death (BSOD) errors on systems with Easy Anti-Cheat. [...]",
+    "published": "2025-06-12T10:43:04",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Fog ransomware attack uses unusual mix of legitimate and open-source tools",
     "link": "https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/",
     "summary": "Fog ransomware hackers\u00a0are using an uncommon toolset, which includes open-source pentesting utilities and a legitimate\u00a0employee monitoring software called Syteca. [...]",
