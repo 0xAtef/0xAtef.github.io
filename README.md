@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Graphite spyware used in Apple iOS zero-click attacks on journalists](https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/) — 2025-42-12
 - **Bleeping Computer**: [Password-spraying attacks target 80,000 Microsoft Entra ID accounts](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/) — 2025-40-12
 - **The Hacker News**: [New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes](https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html) — 2025-52-12
 - **Bleeping Computer**: [Microsoft Edge now offers secure password deployment for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/) — 2025-20-12
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Hackers exploited Windows WebDav zero-day to drop malware](https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/) — 2025-47-11
 - **Bleeping Computer**: [Microsoft creates separate Windows 11 24H2 update for incompatible PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/) — 2025-35-11
 - **Bleeping Computer**: [Brute-force attacks target Apache Tomcat management panels](https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/) — 2025-27-11
-- **Bleeping Computer**: [Operation Secure disrupts global infostealer malware operations](https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/) — 2025-51-11
 - **The Hacker News**: [295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager](https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html) — 2025-49-11
 - **The Hacker News**: [INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure](https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html) — 2025-32-11
 - **The Hacker News**: [Why DNS Security Is Your First Defense Against Cyber Attacks?](https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html) — 2025-25-11
