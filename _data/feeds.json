@@ -1,5 +1,12 @@
 [
   {
+    "title": "Inside a Dark Adtech Empire Fed by Fake CAPTCHAs",
+    "link": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
+    "summary": "Late last year, security researchers made a startling discovery: Kremlin-backed disinformation campaigns were bypassing moderation on social media platforms by leveraging the same malicious advertising technology that powers a sprawling ecosystem of online hucksters and website hackers. A new report",
+    "published": "2025-06-12T22:14:00",
+    "source": "Krebs"
+  },
+  {
     "title": "Trend Micro fixes critical vulnerabilities in multiple products",
     "link": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/",
     "summary": "Trend Micro has released security updates to address multiple critical-severity remote code execution and authentication bypass vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. [...]",
@@ -81,13 +88,6 @@
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/",
     "summary": "Microsoft has released an emergency Windows 11 24H2 update to address an incompatibility issue triggering restarts with blue screen\u00a0of death (BSOD) errors on systems with Easy Anti-Cheat. [...]",
     "published": "2025-06-12T10:43:04",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Fog ransomware attack uses unusual mix of legitimate and open-source tools",
-    "link": "https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/",
-    "summary": "Fog ransomware hackers\u00a0are using an uncommon toolset, which includes open-source pentesting utilities and a legitimate\u00a0employee monitoring software called Syteca. [...]",
-    "published": "2025-06-12T09:45:14",
     "source": "BleepingComputer"
   }
 ]
