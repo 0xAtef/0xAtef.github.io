@@ -1,5 +1,12 @@
 [
   {
+    "title": "Trend Micro fixes critical vulnerabilities in multiple products",
+    "link": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/",
+    "summary": "Trend Micro has released security updates to address multiple critical-severity remote code execution and authentication bypass vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. [...]",
+    "published": "2025-06-12T19:31:54",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google Cloud and Cloudflare hit by widespread service outages",
     "link": "https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/",
     "summary": "Google Cloud and Cloudflare are investigating ongoing outages impacting access to sites and various services across multiple regions. [...]",
