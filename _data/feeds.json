@@ -1,5 +1,19 @@
 [
   {
+    "title": "Google Cloud and Cloudflare hit by widespread service outages",
+    "link": "https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/",
+    "summary": "Google Cloud and Cloudflare are investigating ongoing outages impacting access to sites and various services across multiple regions. [...]",
+    "published": "2025-06-12T19:04:22",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network",
+    "link": "https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html",
+    "summary": "The threat actors behind the VexTrio Viper Traffic Distribution Service (TDS) have been linked to other TDS services like Help TDS and Disposable TDS, indicating that the sophisticated cybercriminal operation is a sprawling enterprise of its own that's designed to distribute malicious content.\n\"VexT",
+    "published": "2025-06-12T17:47:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Graphite spyware used in Apple iOS zero-click attacks on journalists",
     "link": "https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/",
     "summary": "Forensic investigation has confirmed the use of Paragon's Graphite spyware platform in zero-click attacks that targeted Apple iOS devices of at least two journalists in Europe. [...]",
