@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft Edge now offers secure password deployment for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/) — 2025-20-12
+- **The Hacker News**: [AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar](https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html) — 2025-06-12
+- **Bleeping Computer**: [GitLab patches high severity account takeover, missing auth issues](https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/) — 2025-26-12
 - **The Hacker News**: [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html) — 2025-11-12
 - **The Hacker News**: [Non-Human Identities: How to Address the Expanding Security Risk](https://thehackernews.com/2025/06/non-human-identities-how-to-address.html) — 2025-00-12
 - **Bleeping Computer**: [Windows 11 24H2 emergency update fixes Easy Anti-Cheat BSOD issue](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/) — 2025-43-12
@@ -57,14 +60,12 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Operation Secure disrupts global infostealer malware operations](https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/) — 2025-51-11
 - **The Hacker News**: [295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager](https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html) — 2025-49-11
 - **Bleeping Computer**: [Microsoft fixes unreachable Windows Server domain controllers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/) — 2025-21-11
-- **Bleeping Computer**: [Microsoft fixes Windows Server auth issues caused by April updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/) — 2025-34-11
 - **The Hacker News**: [INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure](https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html) — 2025-32-11
 - **The Hacker News**: [Why DNS Security Is Your First Defense Against Cyber Attacks?](https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html) — 2025-25-11
 - **The Hacker News**: [SinoTrack GPS Devices Vulnerable to Remote Vehicle Control via Default Passwords](https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html) — 2025-28-11
 - **The Hacker News**: [How to Build a Lean Security Model: 5 Lessons from River Island](https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html) — 2025-00-11
 - **The Hacker News**: [Microsoft Patches 67 Vulnerabilities Including WEBDAV Zero-Day Exploited in the Wild](https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html) — 2025-46-11
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
-- **Bleeping Computer**: [DanaBot malware operators exposed via C2 bug added in 2022](https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/) — 2025-46-10
 - **The Hacker News**: [Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps](https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html) — 2025-29-10
 - **The Hacker News**: [Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud](https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html) — 2025-04-10
 - **The Hacker News**: [FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware](https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html) — 2025-46-10
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Google Chrome to Distrust Two Certificate Authorities Over Compliance and Conduct Issues](https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html) — 2025-48-03
 - **The Hacker News**: [Microsoft and CrowdStrike Launch Shared Threat Actor Glossary to Cut Attribution Confusion](https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html) — 2025-20-03
 - **The Hacker News**: [New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch](https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html) — 2025-22-03
-- **The Hacker News**: [Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub](https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html) — 2025-03-02
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
