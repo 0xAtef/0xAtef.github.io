@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fog ransomware attack uses unusual mix of legitimate and open-source tools",
+    "link": "https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/",
+    "summary": "Fog ransomware hackers\u00a0are using an uncommon toolset, which includes open-source pentesting utilities and a legitimate\u00a0employee monitoring software called Syteca. [...]",
+    "published": "2025-06-12T09:45:14",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks",
     "link": "https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html",
     "summary": "ConnectWise has disclosed that it's planning to rotate the digital code signing certificates used to sign ScreenConnect, ConnectWise Automate, and ConnectWise remote monitoring and management (RMM) executables due to security concerns.\nThe company said it's doing so \"due to concerns raised by a thir",
@@ -18,20 +25,6 @@
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/",
     "summary": "ChatGPT o3, which has been available via API, is now 80% cheaper for developers, and there's no visible impact on performance. [...]",
     "published": "2025-06-12T00:06:33",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "SmartAttack uses smartwatches to steal data from air-gapped systems",
-    "link": "https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/",
-    "summary": "A new attack dubbed 'SmartAttack' uses smartwatches as a covert ultrasonic signal receiver to exfiltrate data from physically isolated (air-gapped) systems. [...]",
-    "published": "2025-06-11T22:08:00",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Erie Insurance confirms cyberattack behind business disruptions",
-    "link": "https://www.bleepingcomputer.com/news/security/erie-insurance-confirms-cyberattack-behind-business-disruptions/",
-    "summary": "Erie Insurance and Erie Indemnity Company\u00a0have disclosed that a weekend cyberattack is behind the recent business disruptions and platform outages on its website. [...]",
-    "published": "2025-06-11T21:44:30",
     "source": "BleepingComputer"
   }
 ]
