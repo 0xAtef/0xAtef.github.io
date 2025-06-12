@@ -1,5 +1,12 @@
 [
   {
+    "title": "New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes",
+    "link": "https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html",
+    "summary": "Cybersecurity researchers have discovered a novel attack technique called TokenBreak that can be used to bypass a large language model's (LLM) safety and content moderation guardrails with just a single character change.\n\"The TokenBreak attack targets a text classification model's tokenization strat",
+    "published": "2025-06-12T13:52:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft Edge now offers secure password deployment for businesses",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/",
     "summary": "Microsoft announced that a new Edge feature allowing employees to share passwords more securely in enterprise environments has reached general availability. [...]",
