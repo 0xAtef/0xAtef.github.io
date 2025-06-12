@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Fog ransomware attack uses unusual mix of legitimate and open-source tools](https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/) — 2025-45-12
 - **The Hacker News**: [ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks](https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html) — 2025-42-12
 - **The Hacker News**: [Over 80,000 Microsoft Entra ID Accounts Targeted Using Open-Source TeamFiltration Tool](https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html) — 2025-41-12
 - **Bleeping Computer**: [ChatGPT o3 API 80% price drop has no impact on performance](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/) — 2025-06-12
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Bleeping Computer**: [DanaBot malware operators exposed via C2 bug added in 2022](https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/) — 2025-46-10
 - **Bleeping Computer**: [ConnectWise rotating code signing certificates over security concerns](https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/) — 2025-17-10
-- **Bleeping Computer**: [New Secure Boot flaw lets attackers install bootkit malware, patch now](https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/) — 2025-02-10
 - **The Hacker News**: [Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps](https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html) — 2025-29-10
 - **The Hacker News**: [Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud](https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html) — 2025-04-10
 - **The Hacker News**: [FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware](https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html) — 2025-46-10
