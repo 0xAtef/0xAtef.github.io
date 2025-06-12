@@ -1,5 +1,26 @@
 [
   {
+    "title": "GitLab patches high severity account takeover, missing auth issues",
+    "link": "https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/",
+    "summary": "GitLab has released security updates to address multiple vulnerabilities in the company's DevSecOps platform, including ones enabling attackers to take over accounts and inject malicious jobs in future pipelines. [...]",
+    "published": "2025-06-12T12:26:00",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction",
+    "link": "https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html",
+    "summary": "A novel attack technique named EchoLeak has been characterized as a \"zero-click\" artificial intelligence (AI) vulnerability that allows bad actors to exfiltrate sensitive data from Microsoft 365 Copilot's context sans any user interaction.\nThe critical-rated vulnerability has been assigned the CVE i",
+    "published": "2025-06-12T11:11:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Non-Human Identities: How to Address the Expanding Security Risk",
+    "link": "https://thehackernews.com/2025/06/non-human-identities-how-to-address.html",
+    "summary": "Human identities management and control is pretty well done with its set of dedicated tools, frameworks, and best practices. This is a very different world when it comes to Non-human identities also referred to as machine identities. GitGuardian\u2019s end-to-end NHI security platform is here to close th",
+    "published": "2025-06-12T11:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Windows 11 24H2 emergency update fixes Easy Anti-Cheat BSOD issue",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/",
     "summary": "Microsoft has released an emergency Windows 11 24H2 update to address an incompatibility issue triggering restarts with blue screen\u00a0of death (BSOD) errors on systems with Easy Anti-Cheat. [...]",
@@ -26,12 +47,5 @@
     "summary": "Cybersecurity researchers have uncovered a new account takeover (ATO) campaign that leverages an open-source penetration testing framework called TeamFiltration to breach Microsoft Entra ID (formerly Azure Active Directory) user accounts.\nThe activity, codenamed UNK_SneakyStrike by Proofpoint, has t",
     "published": "2025-06-12T05:41:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "ChatGPT o3 API 80% price drop has no impact on performance",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/",
-    "summary": "ChatGPT o3, which has been available via API, is now 80% cheaper for developers, and there's no visible impact on performance. [...]",
-    "published": "2025-06-12T00:06:33",
-    "source": "BleepingComputer"
   }
 ]
