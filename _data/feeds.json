@@ -89,12 +89,5 @@
     "summary": "Fog ransomware hackers\u00a0are using an uncommon toolset, which includes open-source pentesting utilities and a legitimate\u00a0employee monitoring software called Syteca. [...]",
     "published": "2025-06-12T09:45:14",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks",
-    "link": "https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html",
-    "summary": "ConnectWise has disclosed that it's planning to rotate the digital code signing certificates used to sign ScreenConnect, ConnectWise Automate, and ConnectWise remote monitoring and management (RMM) executables due to security concerns.\nThe company said it's doing so \"due to concerns raised by a thir",
-    "published": "2025-06-12T07:42:00",
-    "source": "HackerNews"
   }
 ]
