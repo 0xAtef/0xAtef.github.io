@@ -1,5 +1,12 @@
 [
   {
+    "title": "ChatGPT o3 API 80% price drop has no impact on performance",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/",
+    "summary": "ChatGPT o3, which has been available via API, is now 80% cheaper for developers, and there's no visible impact on performance. [...]",
+    "published": "2025-06-12T00:06:33",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "SmartAttack uses smartwatches to steal data from air-gapped systems",
     "link": "https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/",
     "summary": "A new attack dubbed 'SmartAttack' uses smartwatches as a covert ultrasonic signal receiver to exfiltrate data from physically isolated (air-gapped) systems. [...]",
@@ -46,34 +53,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/",
     "summary": "A coordinated campaign of brute-force attacks using hundreds of unique IP addresses targets Apache Tomcat Manager interfaces exposed online. [...]",
     "published": "2025-06-11T14:27:36",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Operation Secure disrupts global infostealer malware operations",
-    "link": "https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/",
-    "summary": "An international law enforcement action codenamed \"Operation Secure\" targeted infostealer malware infrastructure in a massive crackdown across 26 countries, resulting in 32 arrests, data seizures, and server takedowns. [...]",
-    "published": "2025-06-11T13:51:49",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager",
-    "link": "https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html",
-    "summary": "Threat intelligence firm GreyNoise has warned of a \"coordinated brute-force activity\" targeting Apache Tomcat Manager interfaces.\nThe company said it observed a surge in brute-force and login attempts on June 5, 2025, an indication that they could be deliberate efforts to \"identify and access expose",
-    "published": "2025-06-11T13:49:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft fixes unreachable Windows Server domain controllers",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/",
-    "summary": "Microsoft has resolved a known issue that caused some Windows Server 2025 domain controllers to become unreachable after a restart and triggered app or service failures. [...]",
-    "published": "2025-06-11T13:21:03",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft fixes Windows Server auth issues caused by April updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/",
-    "summary": "Microsoft has fixed a known issue causing authentication problems on Windows Server domain controllers after installing the April 2025 security updates. [...]",
-    "published": "2025-06-11T12:34:06",
     "source": "BleepingComputer"
   }
 ]
