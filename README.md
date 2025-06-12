@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [ChatGPT o3 API 80% price drop has no impact on performance](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/) — 2025-06-12
 - **Bleeping Computer**: [SmartAttack uses smartwatches to steal data from air-gapped systems](https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/) — 2025-08-11
 - **Bleeping Computer**: [Erie Insurance confirms cyberattack behind business disruptions](https://www.bleepingcomputer.com/news/security/erie-insurance-confirms-cyberattack-behind-business-disruptions/) — 2025-44-11
 - **Bleeping Computer**: [Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot](https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/) — 2025-48-11
