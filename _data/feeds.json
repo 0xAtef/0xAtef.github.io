@@ -33,19 +33,5 @@
     "summary": "Former members tied to the Black Basta ransomware operation have been observed sticking to their tried-and-tested approach of email bombing and Microsoft Teams phishing to establish persistent access to target networks.\n\"Recently, attackers have introduced Python script execution alongside these tec",
     "published": "2025-06-11T17:44:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Hackers exploited Windows WebDav zero-day to drop malware",
-    "link": "https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/",
-    "summary": "An APT hacking group known as\u00a0'Stealth Falcon' exploited a Windows WebDav RCE vulnerability in zero-day attacks since March 2025 against defense and government organizations in Turkey, Qatar, Egypt, and Yemen. [...]",
-    "published": "2025-06-11T15:47:27",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft creates separate Windows 11 24H2 update for incompatible PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/",
-    "summary": "Microsoft confirmed on Tuesday that it's pushing a revised security update targeting some Windows 11 24H2 systems incompatible with the initial update released during this month's Patch Tuesday. [...]",
-    "published": "2025-06-11T15:35:10",
-    "source": "BleepingComputer"
   }
 ]
