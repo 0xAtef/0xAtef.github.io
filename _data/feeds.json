@@ -1,8 +1,15 @@
 [
   {
+    "title": "ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks",
+    "link": "https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html",
+    "summary": "ConnectWise has disclosed that it's planning to rotate the digital code signing certificates used to sign ScreenConnect, ConnectWise Automate, and ConnectWise remote monitoring and management (RMM) executables due to security concerns.\nThe company said it's doing so \"due to concerns raised by a thir",
+    "published": "2025-06-12T07:42:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Over 80,000 Microsoft Entra ID Accounts Targeted Using Open-Source TeamFiltration Tool",
     "link": "https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html",
-    "summary": "Cybersecurity researchers have uncovered a new account takeover (ATO) campaign that leverages an open-source penetration testing framework called TeamFiltration to breach Microsoft Entra ID (formerly Azure Active Directory) user accounts.\nThe activity, codenamed UNK_SneakyStrike by Proofpoint, has a",
+    "summary": "Cybersecurity researchers have uncovered a new account takeover (ATO) campaign that leverages an open-source penetration testing framework called TeamFiltration to breach Microsoft Entra ID (formerly Azure Active Directory) user accounts.\nThe activity, codenamed UNK_SneakyStrike by Proofpoint, has t",
     "published": "2025-06-12T05:41:00",
     "source": "HackerNews"
   },
