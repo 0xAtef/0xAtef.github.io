@@ -1,5 +1,12 @@
 [
   {
+    "title": "Password-spraying attacks target 80,000 Microsoft Entra ID accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/",
+    "summary": "Hackers have been using the TeamFiltration pentesting framework to target\u00a0more than 80,000 Microsoft Entra ID accounts at hundreds of organizations worldwide. [...]",
+    "published": "2025-06-12T14:40:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes",
     "link": "https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html",
     "summary": "Cybersecurity researchers have discovered a novel attack technique called TokenBreak that can be used to bypass a large language model's (LLM) safety and content moderation guardrails with just a single character change.\n\"The TokenBreak attack targets a text classification model's tokenization strat",
