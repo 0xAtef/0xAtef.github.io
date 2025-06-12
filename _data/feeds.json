@@ -47,12 +47,5 @@
     "summary": "Microsoft confirmed on Tuesday that it's pushing a revised security update targeting some Windows 11 24H2 systems incompatible with the initial update released during this month's Patch Tuesday. [...]",
     "published": "2025-06-11T15:35:10",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Brute-force attacks target Apache Tomcat management panels",
-    "link": "https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/",
-    "summary": "A coordinated campaign of brute-force attacks using hundreds of unique IP addresses targets Apache Tomcat Manager interfaces exposed online. [...]",
-    "published": "2025-06-11T14:27:36",
-    "source": "BleepingComputer"
   }
 ]
