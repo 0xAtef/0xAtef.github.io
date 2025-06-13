@@ -40,12 +40,5 @@
     "summary": "Victoria's Secret has restored all critical systems impacted by a May 24 security incident that forced it to shut down corporate systems and the e-commerce website. [...]",
     "published": "2025-06-13T11:56:16",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion",
-    "link": "https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday disclosed that ransomware actors are targeting unpatched SimpleHelp Remote Monitoring and Management (RMM) instances to compromise customers of an unnamed utility billing software provider.\n\"This incident reflects a broader",
-    "published": "2025-06-13T11:02:00",
-    "source": "HackerNews"
   }
 ]
