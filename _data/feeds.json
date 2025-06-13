@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft confirms auth issues affecting Microsoft 365 users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/",
+    "summary": "Microsoft is investigating an ongoing incident that is causing users to experience errors with some Microsoft 365 authentication features. [...]",
+    "published": "2025-06-13T12:37:06",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Victoria\u2019s Secret restores critical systems after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/",
+    "summary": "Victoria's Secret has restored all critical systems impacted by a May 24 security incident that forced it to shut down corporate systems and the e-commerce website. [...]",
+    "published": "2025-06-13T11:56:16",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion",
     "link": "https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday disclosed that ransomware actors are targeting unpatched SimpleHelp Remote Monitoring and Management (RMM) instances to compromise customers of an unnamed utility billing software provider.\n\"This incident reflects a broader",
