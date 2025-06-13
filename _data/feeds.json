@@ -26,12 +26,5 @@
     "summary": "The threat actors behind the VexTrio Viper Traffic Distribution Service (TDS) have been linked to other TDS services like Help TDS and Disposable TDS, indicating that the sophisticated cybercriminal operation is a sprawling enterprise of its own that's designed to distribute malicious content.\n\"VexT",
     "published": "2025-06-12T17:47:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Graphite spyware used in Apple iOS zero-click attacks on journalists",
-    "link": "https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/",
-    "summary": "Forensic investigation has confirmed the use of Paragon's Graphite spyware platform in zero-click attacks that targeted Apple iOS devices of at least two journalists in Europe. [...]",
-    "published": "2025-06-12T17:42:09",
-    "source": "BleepingComputer"
   }
 ]
