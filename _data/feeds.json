@@ -40,33 +40,5 @@
     "summary": "Hackers have been using the TeamFiltration pentesting framework to target\u00a0more than 80,000 Microsoft Entra ID accounts at hundreds of organizations worldwide. [...]",
     "published": "2025-06-12T14:40:25",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes",
-    "link": "https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html",
-    "summary": "Cybersecurity researchers have discovered a novel attack technique called TokenBreak that can be used to bypass a large language model's (LLM) safety and content moderation guardrails with just a single character change.\n\"The TokenBreak attack targets a text classification model's tokenization strat",
-    "published": "2025-06-12T13:52:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft Edge now offers secure password deployment for businesses",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/",
-    "summary": "Microsoft announced that a new Edge feature allowing employees to share passwords more securely in enterprise environments has reached general availability. [...]",
-    "published": "2025-06-12T13:20:31",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "AI Agents Run on Secret Accounts \u2014 Learn How to Secure Them in This Webinar",
-    "link": "https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html",
-    "summary": "AI is changing everything \u2014 from how we code, to how we sell, to how we secure. But while most conversations focus on what AI can do, this one focuses on what AI can break \u2014 if you\u2019re not paying attention.\nBehind every AI agent, chatbot, or automation script lies a growing number of non-human identi",
-    "published": "2025-06-12T13:06:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "GitLab patches high severity account takeover, missing auth issues",
-    "link": "https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/",
-    "summary": "GitLab has released security updates to address multiple vulnerabilities in the company's DevSecOps platform, including ones enabling attackers to take over accounts and inject malicious jobs in future pipelines. [...]",
-    "published": "2025-06-12T12:26:00",
-    "source": "BleepingComputer"
   }
 ]
