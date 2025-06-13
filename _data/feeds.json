@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google links massive cloud outage to API management issue",
+    "link": "https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/",
+    "summary": "Google says an API management issue is behind Thursday's massive Google Cloud outage, which disrupted or brought down its services and many other online platforms. [...]",
+    "published": "2025-06-13T17:39:02",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Discord flaw lets hackers reuse expired invites in malware campaign",
     "link": "https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/",
     "summary": "Hackers are hijacking\u00a0expired or deleted Discord invite links to redirect users to malicious sites that deliver remote access trojans and information-stealing malware. [...]",
