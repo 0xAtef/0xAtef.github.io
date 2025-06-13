@@ -33,12 +33,5 @@
     "summary": "Forensic investigation has confirmed the use of Paragon's Graphite spyware platform in zero-click attacks that targeted Apple iOS devices of at least two journalists in Europe. [...]",
     "published": "2025-06-12T17:42:09",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Password-spraying attacks target 80,000 Microsoft Entra ID accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/",
-    "summary": "Hackers have been using the TeamFiltration pentesting framework to target\u00a0more than 80,000 Microsoft Entra ID accounts at hundreds of organizations worldwide. [...]",
-    "published": "2025-06-12T14:40:25",
-    "source": "BleepingComputer"
   }
 ]
