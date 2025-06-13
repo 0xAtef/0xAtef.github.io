@@ -1,16 +1,16 @@
 [
   {
+    "title": "Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware",
+    "link": "https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html",
+    "summary": "Apple has disclosed that a now-patched security flaw present in its Messages app was actively exploited in the wild to target civil society members in sophisticated cyber attacks.\nThe vulnerability, tracked as CVE-2025-43200, was addressed on February 10, 2025, as part of iOS 18.3.1, iPadOS 18.3.1, ",
+    "published": "2025-06-13T07:03:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Inside a Dark Adtech Empire Fed by Fake CAPTCHAs",
     "link": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
     "summary": "Late last year, security researchers made a startling discovery: Kremlin-backed disinformation campaigns were bypassing moderation on social media platforms by leveraging the same malicious advertising technology that powers a sprawling ecosystem of online hucksters and website hackers. A new report",
     "published": "2025-06-12T22:14:00",
     "source": "Krebs"
-  },
-  {
-    "title": "Trend Micro fixes critical vulnerabilities in multiple products",
-    "link": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/",
-    "summary": "Trend Micro has released security updates to address multiple critical-severity remote code execution and authentication bypass vulnerabilities that impact its Apex Central and Endpoint Encryption (TMEE) PolicyServer products. [...]",
-    "published": "2025-06-12T19:31:54",
-    "source": "BleepingComputer"
   }
 ]
