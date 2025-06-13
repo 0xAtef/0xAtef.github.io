@@ -1,5 +1,19 @@
 [
   {
+    "title": "Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion",
+    "link": "https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday disclosed that ransomware actors are targeting unpatched SimpleHelp Remote Monitoring and Management (RMM) instances to compromise customers of an unnamed utility billing software provider.\n\"This incident reflects a broader",
+    "published": "2025-06-13T11:02:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "CTEM is the New SOC: Shifting from Monitoring Alerts to Measuring Risk",
+    "link": "https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html",
+    "summary": "Introduction: Security at a Tipping Point\nSecurity Operations Centers (SOCs) were built for a different era, one defined by perimeter-based thinking, known threats, and manageable alert volumes. But today\u2019s threat landscape doesn\u2019t play by those rules. The sheer volume of telemetry, overlapping tool",
+    "published": "2025-06-13T10:30:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Cloudflare: Outage not caused by security incident, data is safe",
     "link": "https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/",
     "summary": "Cloudflare has confirmed that the massive service outage yesterday was not caused by a security incident and no data has been lost. [...]",
