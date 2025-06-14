@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html) — 2025-45-14
 - **Bleeping Computer**: [Google links massive cloud outage to API management issue](https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/) — 2025-39-13
 - **Bleeping Computer**: [Discord flaw lets hackers reuse expired invites in malware campaign](https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/) — 2025-10-13
 - **The Hacker News**: [Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month](https://thehackernews.com/2025/06/over-269000-websites-infected-with.html) — 2025-12-13
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Your SaaS Data Isn&#39;t Safe: Why Traditional DLP Solutions Fail in the Browser Era](https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html) — 2025-13-04
 - **The Hacker News**: [Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks](https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html) — 2025-11-04
 - **The Hacker News**: [HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass](https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html) — 2025-23-04
-- **The Hacker News**: [Fake Docusign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack](https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html) — 2025-00-03
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
