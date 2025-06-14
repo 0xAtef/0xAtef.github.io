@@ -5,12 +5,5 @@
     "summary": "A new malware campaign is exploiting a weakness in Discord's invitation system to deliver an information stealer called Skuld and the AsyncRAT remote access trojan.\n\"Attackers hijacked the links through vanity link registration, allowing them to silently redirect users from trusted sources to malici",
     "published": "2025-06-14T02:45:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Google links massive cloud outage to API management issue",
-    "link": "https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/",
-    "summary": "Google says an API management issue is behind Thursday's massive Google Cloud outage, which disrupted or brought down its services and many other online platforms. [...]",
-    "published": "2025-06-13T17:39:02",
-    "source": "BleepingComputer"
   }
 ]
