@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [WestJet investigates cyberattack disrupting internal systems](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/) — 2025-34-14
+- **Bleeping Computer**: [Anubis ransomware adds wiper to destroy files beyond recovery](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/) — 2025-29-14
+- **Bleeping Computer**: [Windows 11 users want these five features back](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/) — 2025-12-14
 - **The Hacker News**: [Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html) — 2025-45-14
 - **Bleeping Computer**: [Google links massive cloud outage to API management issue](https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/) — 2025-39-13
 - **Bleeping Computer**: [Discord flaw lets hackers reuse expired invites in malware campaign](https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/) — 2025-10-13
@@ -56,11 +59,8 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Google Cloud and Cloudflare hit by widespread service outages](https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/) — 2025-04-12
 - **The Hacker News**: [WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network](https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html) — 2025-47-12
 - **Bleeping Computer**: [Graphite spyware used in Apple iOS zero-click attacks on journalists](https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/) — 2025-42-12
-- **Bleeping Computer**: [Password-spraying attacks target 80,000 Microsoft Entra ID accounts](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/) — 2025-40-12
 - **The Hacker News**: [New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes](https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html) — 2025-52-12
-- **Bleeping Computer**: [Microsoft Edge now offers secure password deployment for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/) — 2025-20-12
 - **The Hacker News**: [AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar](https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html) — 2025-06-12
-- **Bleeping Computer**: [GitLab patches high severity account takeover, missing auth issues](https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/) — 2025-26-12
 - **The Hacker News**: [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html) — 2025-11-12
 - **The Hacker News**: [Non-Human Identities: How to Address the Expanding Security Risk](https://thehackernews.com/2025/06/non-human-identities-how-to-address.html) — 2025-00-12
 - **The Hacker News**: [ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks](https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html) — 2025-42-12
