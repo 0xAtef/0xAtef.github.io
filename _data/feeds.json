@@ -19,26 +19,5 @@
     "summary": "Cybersecurity researchers are calling attention to a \"large-scale campaign\" that has been observed compromising legitimate websites with malicious JavaScript injections.\nAccording to Palo Alto Networks Unit 42, these malicious injects are obfuscated using JSFuck, which refers to an \"esoteric and edu",
     "published": "2025-06-13T14:12:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft: KB5060533 update triggers boot errors on Surface Hub v1 devices",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5060533-update-triggers-boot-errors-on-surface-hub-v1-devices/",
-    "summary": "Microsoft is investigating a known issue that triggers Secure Boot errors and prevents Surface Hub v1 devices from starting up. [...]",
-    "published": "2025-06-13T13:17:29",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft confirms auth issues affecting Microsoft 365 users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/",
-    "summary": "Microsoft is investigating an ongoing incident that is causing users to experience errors with some Microsoft 365 authentication features. [...]",
-    "published": "2025-06-13T12:37:06",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Victoria\u2019s Secret restores critical systems after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/",
-    "summary": "Victoria's Secret has restored all critical systems impacted by a May 24 security incident that forced it to shut down corporate systems and the e-commerce website. [...]",
-    "published": "2025-06-13T11:56:16",
-    "source": "BleepingComputer"
   }
 ]
