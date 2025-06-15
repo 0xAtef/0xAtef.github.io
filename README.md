@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [ChatGPT&#39;s AI coder Codex now lets you choose the best solution](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/) — 2025-59-15
 - **Bleeping Computer**: [ChatGPT Search gets an upgrade as OpenAI takes aim at Google](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/) — 2025-53-15
 - **Bleeping Computer**: [Over 46,000 Grafana instances exposed to account takeover bug](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/) — 2025-07-15
 - **Bleeping Computer**: [WestJet investigates cyberattack disrupting internal systems](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/) — 2025-34-14
@@ -57,7 +58,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Cloudflare: Outage not caused by security incident, data is safe](https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/) — 2025-09-13
 - **The Hacker News**: [Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware](https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html) — 2025-03-13
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
-- **Bleeping Computer**: [Trend Micro fixes critical vulnerabilities in multiple products](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/) — 2025-31-12
 - **The Hacker News**: [WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network](https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html) — 2025-47-12
 - **The Hacker News**: [New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes](https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html) — 2025-52-12
 - **The Hacker News**: [AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar](https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html) — 2025-06-12
