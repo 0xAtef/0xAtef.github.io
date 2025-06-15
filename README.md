@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Over 46,000 Grafana instances exposed to account takeover bug](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/) — 2025-07-15
 - **Bleeping Computer**: [WestJet investigates cyberattack disrupting internal systems](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/) — 2025-34-14
 - **Bleeping Computer**: [Anubis ransomware adds wiper to destroy files beyond recovery](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/) — 2025-29-14
 - **Bleeping Computer**: [Windows 11 users want these five features back](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/) — 2025-12-14
@@ -58,7 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Trend Micro fixes critical vulnerabilities in multiple products](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/) — 2025-31-12
 - **Bleeping Computer**: [Google Cloud and Cloudflare hit by widespread service outages](https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/) — 2025-04-12
 - **The Hacker News**: [WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network](https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html) — 2025-47-12
-- **Bleeping Computer**: [Graphite spyware used in Apple iOS zero-click attacks on journalists](https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/) — 2025-42-12
 - **The Hacker News**: [New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes](https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html) — 2025-52-12
 - **The Hacker News**: [AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar](https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html) — 2025-06-12
 - **The Hacker News**: [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html) — 2025-11-12
