@@ -1,5 +1,26 @@
 [
   {
+    "title": "Microsoft shares temp fix for Outlook crashes when opening emails",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/",
+    "summary": "Microsoft has shared a workaround for a known issue that causes the classic Outlook email client to crash when opening or starting a new message. [...]",
+    "published": "2025-06-16T12:23:55",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More",
+    "link": "https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html",
+    "summary": "Some of the biggest security problems start quietly. No alerts. No warnings. Just small actions that seem normal but aren't. Attackers now know how to stay hidden by blending in, and that makes it hard to tell when something\u2019s wrong.\nThis week\u2019s stories aren\u2019t just about what was attacked\u2014but how ea",
+    "published": "2025-06-16T11:29:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine",
+    "link": "https://thehackernews.com/2025/06/playbook-transforming-your.html",
+    "summary": "Introduction\nThe cybersecurity landscape is evolving rapidly, and so are the cyber needs of organizations worldwide. While businesses face mounting pressure from regulators, insurers, and rising threats, many still treat cybersecurity as an afterthought. As a result, providers may struggle to move b",
+    "published": "2025-06-16T11:25:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Police seizes Archetyp Market drug marketplace, arrests admin",
     "link": "https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/",
     "summary": "Law enforcement authorities from six countries took down the Archetyp Market, an infamous darknet drug marketplace that has been operating since May 2020. [...]",
