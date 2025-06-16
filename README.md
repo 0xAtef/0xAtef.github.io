@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More](https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html) — 2025-29-16
+- **The Hacker News**: [Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine](https://thehackernews.com/2025/06/playbook-transforming-your.html) — 2025-25-16
+- **Bleeping Computer**: [Police seizes Archetyp Market drug marketplace, arrests admin](https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/) — 2025-15-16
 - **Bleeping Computer**: [Microsoft: June Windows Server security updates cause DHCP issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/) — 2025-35-16
 - **The Hacker News**: [Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data](https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html) — 2025-45-16
 - **Bleeping Computer**: [ChatGPT&#39;s AI coder Codex now lets you choose the best solution](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/) — 2025-59-15
@@ -54,7 +57,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month](https://thehackernews.com/2025/06/over-269000-websites-infected-with.html) — 2025-12-13
 - **Bleeping Computer**: [Microsoft: KB5060533 update triggers boot errors on Surface Hub v1 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5060533-update-triggers-boot-errors-on-surface-hub-v1-devices/) — 2025-17-13
 - **Bleeping Computer**: [Microsoft confirms auth issues affecting Microsoft 365 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/) — 2025-37-13
-- **Bleeping Computer**: [Victoria’s Secret restores critical systems after cyberattack](https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/) — 2025-56-13
 - **The Hacker News**: [Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion](https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html) — 2025-02-13
 - **The Hacker News**: [CTEM is the New SOC: Shifting from Monitoring Alerts to Measuring Risk](https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html) — 2025-30-13
 - **The Hacker News**: [Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware](https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html) — 2025-03-13
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI](https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html) — 2025-37-05
 - **The Hacker News**: [Google Exposes Vishing Group UNC6040 Targeting Salesforce with Fake Data Loader App](https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html) — 2025-24-04
 - **The Hacker News**: [Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads](https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html) — 2025-55-04
-- **The Hacker News**: [Your SaaS Data Isn&#39;t Safe: Why Traditional DLP Solutions Fail in the Browser Era](https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html) — 2025-13-04
-- **The Hacker News**: [Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks](https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html) — 2025-11-04
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
