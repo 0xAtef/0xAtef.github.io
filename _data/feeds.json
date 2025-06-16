@@ -7,6 +7,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "U.S. Seizes $7.74M in Crypto Tied to North Korea\u2019s Global Fake IT Worker Network",
+    "link": "https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html",
+    "summary": "The U.S. Department of Justice (DoJ) said it has filed a civil forfeiture complaint in federal court that targets over $7.74 million in cryptocurrency, non-fungible tokens (NFTs), and other digital assets allegedly linked to a global IT worker scheme orchestrated by North Korea.\n\"For years, North Ko",
+    "published": "2025-06-16T17:49:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Washington Post's email system hacked, journalists' accounts compromised",
     "link": "https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/",
     "summary": "Email accounts of several Washington Post journalists were compromised in a cyberattack believed to have been carried out by a foreign government. [...]",
@@ -68,12 +75,5 @@
     "summary": "Microsoft acknowledged a new issue caused by the June 2025 security updates, causing the DHCP service to freeze on some Windows Server systems. [...]",
     "published": "2025-06-16T09:35:49",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "PyPI, npm, and AI Tools Exploited in Malware Surge Targeting DevOps and Cloud Environments",
-    "link": "https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html",
-    "summary": "Cybersecurity researchers from&nbsp;SafeDep and Veracode detailed a number of malware-laced npm packages that are designed to execute remote code and download additional payloads.\nThe packages in question are listed below -\n\neslint-config-airbnb-compat (676 Downloads)\nts-runtime-compat-check (1,588 ",
-    "published": "2025-06-16T06:45:00",
-    "source": "HackerNews"
   }
 ]
