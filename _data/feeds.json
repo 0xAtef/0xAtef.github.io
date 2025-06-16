@@ -1,5 +1,12 @@
 [
   {
+    "title": "ASUS Armoury Crate bug lets attackers get Windows admin privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/",
+    "summary": "A high-severity vulnerability in ASUS Armoury Crate software could allow threat actors to escalate their privileges to SYSTEM level on Windows machines. [...]",
+    "published": "2025-06-16T18:08:29",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Washington Post's email system hacked, journalists' accounts compromised",
     "link": "https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/",
     "summary": "Email accounts of several Washington Post journalists were compromised in a cyberattack believed to have been carried out by a foreign government. [...]",
