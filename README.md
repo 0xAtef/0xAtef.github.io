@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft: June Windows Server security updates cause DHCP issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/) — 2025-35-16
 - **The Hacker News**: [Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data](https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html) — 2025-45-16
 - **Bleeping Computer**: [ChatGPT&#39;s AI coder Codex now lets you choose the best solution](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/) — 2025-59-15
 - **Bleeping Computer**: [ChatGPT Search gets an upgrade as OpenAI takes aim at Google](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/) — 2025-53-15
@@ -56,7 +57,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Victoria’s Secret restores critical systems after cyberattack](https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/) — 2025-56-13
 - **The Hacker News**: [Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion](https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html) — 2025-02-13
 - **The Hacker News**: [CTEM is the New SOC: Shifting from Monitoring Alerts to Measuring Risk](https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html) — 2025-30-13
-- **Bleeping Computer**: [Cloudflare: Outage not caused by security incident, data is safe](https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/) — 2025-09-13
 - **The Hacker News**: [Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware](https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html) — 2025-03-13
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **The Hacker News**: [WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network](https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html) — 2025-47-12
