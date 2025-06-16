@@ -1,10 +1,24 @@
 [
   {
+    "title": "Washington Post's email system hacked, journalists' accounts compromised",
+    "link": "https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/",
+    "summary": "Email accounts of several Washington Post journalists were compromised in a cyberattack believed to have been carried out by a foreign government. [...]",
+    "published": "2025-06-16T15:08:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment",
     "link": "https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html",
     "summary": "An emerging ransomware strain has been discovered incorporating capabilities to encrypt files as well as permanently erase them, a development that has been described as a \"rare dual-threat.\"\n\"The ransomware features a 'wipe mode,' which permanently erases files, rendering recovery impossible even i",
     "published": "2025-06-16T14:21:00",
     "source": "HackerNews"
+  },
+  {
+    "title": "Kali Linux 2025.2 released with 13 new tools, car hacking updates",
+    "link": "https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/",
+    "summary": "Kali Linux 2025.2, the second release of the year, is now available for download with\u00a013 new tools and an expanded car hacking toolkit. [...]",
+    "published": "2025-06-16T14:18:09",
+    "source": "BleepingComputer"
   },
   {
     "title": "Zoomcar discloses security breach impacting 8.4 million users",
