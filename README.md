@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Hackers switch to targeting U.S. insurance companies](https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/) — 2025-43-16
 - **Bleeping Computer**: [ASUS Armoury Crate bug lets attackers get Windows admin privileges](https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/) — 2025-08-16
 - **The Hacker News**: [U.S. Seizes $7.74M in Crypto Tied to North Korea’s Global Fake IT Worker Network](https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html) — 2025-49-16
 - **Bleeping Computer**: [Washington Post&#39;s email system hacked, journalists&#39; accounts compromised](https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/) — 2025-08-16
@@ -57,7 +58,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Over 46,000 Grafana instances exposed to account takeover bug](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/) — 2025-07-15
 - **Bleeping Computer**: [WestJet investigates cyberattack disrupting internal systems](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/) — 2025-34-14
 - **Bleeping Computer**: [Anubis ransomware adds wiper to destroy files beyond recovery](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/) — 2025-29-14
-- **Bleeping Computer**: [Windows 11 users want these five features back](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/) — 2025-12-14
 - **The Hacker News**: [Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html) — 2025-45-14
 - **The Hacker News**: [Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month](https://thehackernews.com/2025/06/over-269000-websites-infected-with.html) — 2025-12-13
 - **The Hacker News**: [Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion](https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html) — 2025-02-13
