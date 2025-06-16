@@ -12,12 +12,5 @@
     "summary": "On June 13, OpenAI began rolling out a new ChatGPT Search update to improve quality as the AI startup challenges Google's dominance. [...]",
     "published": "2025-06-15T15:53:46",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Over 46,000 Grafana instances exposed to account takeover bug",
-    "link": "https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/",
-    "summary": "More than 46,000 internet-facing Grafana instances remain unpatched and exposed to a client-side open redirect vulnerability that allows executing a malicious plugin and account takeover. [...]",
-    "published": "2025-06-15T14:07:56",
-    "source": "BleepingComputer"
   }
 ]
