@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft: June Windows Server security updates cause DHCP issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/",
+    "summary": "Microsoft acknowledged a new issue caused by the June 2025 security updates, causing the DHCP service to freeze on some Windows Server systems. [...]",
+    "published": "2025-06-16T09:35:49",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data",
     "link": "https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html",
     "summary": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that's capable of harvesting sensitive developer-related information, such as credentials, configuration data, and environment variables, among others.\nThe package, named chimera-sandbox-exten",
