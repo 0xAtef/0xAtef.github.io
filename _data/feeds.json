@@ -5,12 +5,5 @@
     "summary": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that's capable of harvesting sensitive developer-related information, such as credentials, configuration data, and environment variables, among others.\nThe package, named chimera-sandbox-exten",
     "published": "2025-06-16T06:45:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "ChatGPT's AI coder Codex now lets you choose the best solution",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/",
-    "summary": "ChatGPT's Codex, which is an AI agent that lets you code and delegate programming tasks, is now testing a new feature that lets you choose the best solution. [...]",
-    "published": "2025-06-15T19:59:41",
-    "source": "BleepingComputer"
   }
 ]
