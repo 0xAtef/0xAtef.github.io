@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackers switch to targeting U.S. insurance companies",
+    "link": "https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/",
+    "summary": "Threat intelligence researchers are warning of hackers breaching multiple U.S. companies in the insurance industry using all the tactics observed with Scattered Spider activity. [...]",
+    "published": "2025-06-16T20:43:00",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "ASUS Armoury Crate bug lets attackers get Windows admin privileges",
     "link": "https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/",
     "summary": "A high-severity vulnerability in ASUS Armoury Crate software could allow threat actors to escalate their privileges to SYSTEM level on Windows machines. [...]",
