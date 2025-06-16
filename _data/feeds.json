@@ -1,5 +1,12 @@
 [
   {
+    "title": "Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment",
+    "link": "https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html",
+    "summary": "An emerging ransomware strain has been discovered incorporating capabilities to encrypt files as well as permanently erase them, a development that has been described as a \"rare dual-threat.\"\n\"The ransomware features a 'wipe mode,' which permanently erases files, rendering recovery impossible even i",
+    "published": "2025-06-16T14:21:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Zoomcar discloses security breach impacting 8.4 million users",
     "link": "https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/",
     "summary": "Zoomcar Holdings (Zoomcar) has disclosed via an 8-K form filing with the U.S. Securities and Exchange Commission (SEC) a data breach incident impacting 8.4 million users. [...]",
@@ -42,9 +49,9 @@
     "source": "BleepingComputer"
   },
   {
-    "title": "Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data",
+    "title": "PyPI, npm, and AI Tools Exploited in Malware Surge Targeting DevOps and Cloud Environments",
     "link": "https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html",
-    "summary": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that's capable of harvesting sensitive developer-related information, such as credentials, configuration data, and environment variables, among others.\nThe package, named chimera-sandbox-exten",
+    "summary": "Cybersecurity researchers from&nbsp;SafeDep and Veracode detailed a number of malware-laced npm packages that are designed to execute remote code and download additional payloads.\nThe packages in question are listed below -\n\neslint-config-airbnb-compat (676 Downloads)\nts-runtime-compat-check (1,588 ",
     "published": "2025-06-16T06:45:00",
     "source": "HackerNews"
   }
