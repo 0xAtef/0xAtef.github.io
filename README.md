@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks](https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html) — 2025-32-17
 - **The Hacker News**: [TP-Link Router Flaw CVE-2023-33538 Under Active Exploit, CISA Issues Immediate Alert](https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html) — 2025-12-17
 - **The Hacker News**: [Meta Starts Showing Ads on WhatsApp After 6-Year Delay From 2018 Announcement](https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html) — 2025-53-17
 - **Bleeping Computer**: [Hackers switch to targeting U.S. insurance companies](https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/) — 2025-43-16
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
 - **The Hacker News**: [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html) — 2025-53-05
 - **The Hacker News**: [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html) — 2025-25-05
-- **The Hacker News**: [Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware](https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html) — 2025-59-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
