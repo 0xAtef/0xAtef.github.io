@@ -1,5 +1,12 @@
 [
   {
+    "title": "Scania confirms insurance claim data breach in extortion attempt",
+    "link": "https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/",
+    "summary": "Automotive giant Scania confirmed it suffered a cybersecurity incident where threat actors used compromised credentials to breach its systems and steal insurance claim documents. [...]",
+    "published": "2025-06-17T19:04:39",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents",
     "link": "https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html",
     "summary": "Cybersecurity researchers have disclosed a now-patched security flaw in LangChain's LangSmith platform that could be exploited to capture sensitive data, including API keys and user prompts.\nThe vulnerability, which carries a CVSS score of 8.8 out of a maximum of 10.0, has been codenamed AgentSmith ",
