@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html) — 2025-16-17
 - **Bleeping Computer**: [Scania confirms insurance claim data breach in extortion attempt](https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/) — 2025-04-17
 - **The Hacker News**: [LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html) — 2025-33-17
 - **Bleeping Computer**: [Instagram &#39;BMO&#39; ads use AI deepfakes to scam banking customers](https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/) — 2025-52-17
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html) — 2025-47-08
 - **The Hacker News**: [Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025](https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html) — 2025-01-08
 - **The Hacker News**: [New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users](https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html) — 2025-25-06
-- **The Hacker News**: [Empower Users and Protect Against GenAI Data Loss](https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html) — 2025-41-06
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
