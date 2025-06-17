@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Are Forgotten AD Service Accounts Leaving You at Risk?](https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html) — 2025-25-17
+- **The Hacker News**: [Hard-Coded &#39;b&#39; Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments](https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html) — 2025-33-17
+- **The Hacker News**: [Backups Are Under Attack: How to Protect Your Backups](https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html) — 2025-30-17
 - **The Hacker News**: [New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks](https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html) — 2025-32-17
 - **The Hacker News**: [TP-Link Router Flaw CVE-2023-33538 Under Active Exploit, CISA Issues Immediate Alert](https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html) — 2025-12-17
 - **The Hacker News**: [Meta Starts Showing Ads on WhatsApp After 6-Year Delay From 2018 Announcement](https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html) — 2025-53-17
@@ -60,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [ChatGPT Search gets an upgrade as OpenAI takes aim at Google](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/) — 2025-53-15
 - **Bleeping Computer**: [Over 46,000 Grafana instances exposed to account takeover bug](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/) — 2025-07-15
 - **Bleeping Computer**: [WestJet investigates cyberattack disrupting internal systems](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/) — 2025-34-14
-- **Bleeping Computer**: [Anubis ransomware adds wiper to destroy files beyond recovery](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/) — 2025-29-14
 - **The Hacker News**: [Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html) — 2025-45-14
 - **The Hacker News**: [Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month](https://thehackernews.com/2025/06/over-269000-websites-infected-with.html) — 2025-12-13
 - **The Hacker News**: [Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion](https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html) — 2025-02-13
@@ -103,9 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Inside the Mind of the Adversary: Why More Security Leaders Are Selecting AEV](https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html) — 2025-30-06
 - **The Hacker News**: [New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack](https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html) — 2025-35-06
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
-- **The Hacker News**: [Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hard-Coded Credentials](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html) — 2025-53-05
-- **The Hacker News**: [Researchers Detail Bitter APT’s Evolving Tactics as Its Geographic Scope Expands](https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html) — 2025-53-05
-- **The Hacker News**: [Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html) — 2025-25-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
