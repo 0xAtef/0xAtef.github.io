@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms](https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html) — 2025-53-17
 - **The Hacker News**: [Are Forgotten AD Service Accounts Leaving You at Risk?](https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html) — 2025-25-17
 - **The Hacker News**: [Hard-Coded &#39;b&#39; Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments](https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html) — 2025-33-17
 - **The Hacker News**: [Backups Are Under Attack: How to Protect Your Backups](https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html) — 2025-30-17
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Empower Users and Protect Against GenAI Data Loss](https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html) — 2025-41-06
 - **The Hacker News**: [Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam](https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html) — 2025-12-06
 - **The Hacker News**: [Inside the Mind of the Adversary: Why More Security Leaders Are Selecting AEV](https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html) — 2025-30-06
-- **The Hacker News**: [New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack](https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html) — 2025-35-06
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
