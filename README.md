@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Scania confirms insurance claim data breach in extortion attempt](https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/) — 2025-04-17
 - **The Hacker News**: [LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html) — 2025-33-17
 - **Bleeping Computer**: [Instagram &#39;BMO&#39; ads use AI deepfakes to scam banking customers](https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/) — 2025-52-17
 - **Bleeping Computer**: [New Veeam RCE flaw lets domain users hack backup servers](https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/) — 2025-42-17
@@ -63,7 +64,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment](https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html) — 2025-21-16
 - **Bleeping Computer**: [Kali Linux 2025.2 released with 13 new tools, car hacking updates](https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/) — 2025-18-16
 - **Bleeping Computer**: [Zoomcar discloses security breach impacting 8.4 million users](https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/) — 2025-13-16
-- **Bleeping Computer**: [Microsoft shares temp fix for Outlook crashes when opening emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/) — 2025-23-16
 - **The Hacker News**: [⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More](https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html) — 2025-29-16
 - **The Hacker News**: [Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine](https://thehackernews.com/2025/06/playbook-transforming-your.html) — 2025-25-16
 - **The Hacker News**: [PyPI, npm, and AI Tools Exploited in Malware Surge Targeting DevOps and Cloud Environments](https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html) — 2025-45-16
