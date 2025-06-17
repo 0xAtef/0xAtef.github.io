@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms",
+    "link": "https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html",
+    "summary": "The notorious cybercrime group known as Scattered Spider (aka UNC3944) that recently targeted various U.K. and U.S. retailers has begun to target major insurance companies, according to Google Threat Intelligence Group (GTIG).\n\"Google Threat Intelligence Group is now aware of multiple intrusions in ",
+    "published": "2025-06-17T12:53:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Are Forgotten AD Service Accounts Leaving You at Risk?",
     "link": "https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html",
     "summary": "For many organizations, Active Directory (AD) service accounts are quiet afterthoughts, persisting in the background long after their original purpose has been forgotten. To make matters worse, these orphaned service accounts (created for legacy applications, scheduled tasks, automation scripts, or ",
