@@ -110,12 +110,5 @@
     "summary": "Ransomware has become a highly coordinated and pervasive threat, and traditional defenses are increasingly struggling to neutralize it. Today\u2019s ransomware attacks initially target your last line of defense \u2014 your backup infrastructure. Before locking up your production environment, cybercriminals go",
     "published": "2025-06-17T10:30:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks",
-    "link": "https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html",
-    "summary": "Cybersecurity researchers have called attention to a new campaign that's actively exploiting a recently disclosed critical security flaw in Langflow to deliver the Flodrix botnet malware.\n\"Attackers use the vulnerability to execute downloader scripts on compromised Langflow servers, which in turn fe",
-    "published": "2025-06-17T09:32:00",
-    "source": "HackerNews"
   }
 ]
