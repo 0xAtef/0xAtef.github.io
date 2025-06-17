@@ -1,16 +1,16 @@
 [
   {
+    "title": "TP-Link Router Flaw CVE-2023-33538 Under Active Exploit, CISA Issues Immediate Alert",
+    "link": "https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw in TP-Link wireless routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.&nbsp;\nThe vulnerability in question is CVE-2023-33538 (CVSS score: ",
+    "published": "2025-06-17T08:12:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Meta Starts Showing Ads on WhatsApp After 6-Year Delay From 2018 Announcement",
     "link": "https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html",
     "summary": "Meta Platforms on Monday announced that it's bringing advertising to WhatsApp, but emphasized that the ads are \"built with privacy in mind.\"\nThe ads are expected to be displayed on the Updates tab through its Stories-like Status feature, which allows ephemeral sharing of photos, videos, voice notes,",
     "published": "2025-06-17T04:53:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Hackers switch to targeting U.S. insurance companies",
-    "link": "https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/",
-    "summary": "Threat intelligence researchers are warning of hackers breaching multiple U.S. companies in the insurance industry using all the tactics observed with Scattered Spider activity. [...]",
-    "published": "2025-06-16T20:43:00",
-    "source": "BleepingComputer"
   }
 ]
