@@ -96,19 +96,5 @@
     "summary": "For many organizations, Active Directory (AD) service accounts are quiet afterthoughts, persisting in the background long after their original purpose has been forgotten. To make matters worse, these orphaned service accounts (created for legacy applications, scheduled tasks, automation scripts, or ",
     "published": "2025-06-17T11:25:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Hard-Coded 'b' Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments",
-    "link": "https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html",
-    "summary": "Cybersecurity researchers have disclosed three security flaws in the popular Sitecore Experience Platform (XP) that could be chained to achieve pre-authenticated remote code execution.\nSitecore Experience Platform is an enterprise-oriented software that provides users with tools for content manageme",
-    "published": "2025-06-17T10:33:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Backups Are Under Attack: How to Protect Your Backups",
-    "link": "https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html",
-    "summary": "Ransomware has become a highly coordinated and pervasive threat, and traditional defenses are increasingly struggling to neutralize it. Today\u2019s ransomware attacks initially target your last line of defense \u2014 your backup infrastructure. Before locking up your production environment, cybercriminals go",
-    "published": "2025-06-17T10:30:00",
-    "source": "HackerNews"
   }
 ]
