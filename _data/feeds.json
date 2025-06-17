@@ -1,5 +1,33 @@
 [
   {
+    "title": "Microsoft fixes Surface Hub boot issues with emergency update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/",
+    "summary": "Microsoft has released an emergency update to fix\u00a0a known issue causing startup failures for some Surface Hub v1 devices running Windows 10. [...]",
+    "published": "2025-06-17T14:06:10",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "How to automate IT ticket handling with AI and Tines",
+    "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/",
+    "summary": "Tired of drowning in IT tickets? This AI-powered workflow built on Tines auto-triages common issues like known bugs & password resets\u2014saving time for your team and speeding up resolution. Learn more about Tines and get a free account now. [...]",
+    "published": "2025-06-17T14:01:11",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Hacker steals 1 million Cock.li user records in webmail data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/",
+    "summary": "Email hosting provider Cock.li has confirmed it suffered a data breach after threat actors exploited flaws in its now-retired Roundcube webmail platform to steal over a million user records. [...]",
+    "published": "2025-06-17T13:50:36",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware",
+    "link": "https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html",
+    "summary": "Cybersecurity researchers are warning of a new phishing campaign that's targeting users in Taiwan with malware families such as HoldingHands RAT and Gh0stCringe.\nThe activity is part of a broader campaign that delivered the Winos 4.0 malware framework earlier this January by sending phishing message",
+    "published": "2025-06-17T13:28:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms",
     "link": "https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html",
     "summary": "The notorious cybercrime group known as Scattered Spider (aka UNC3944) that recently targeted various U.K. and U.S. retailers has begun to target major insurance companies, according to Google Threat Intelligence Group (GTIG).\n\"Google Threat Intelligence Group is now aware of multiple intrusions in ",
