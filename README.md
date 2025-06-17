@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Sitecore CMS exploit chain starts with hardcoded &#39;b&#39; password](https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/) — 2025-10-17
+- **Bleeping Computer**: [UK fines 23andMe for ‘profoundly damaging’ breach exposing genetics data](https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/) — 2025-59-17
 - **Bleeping Computer**: [Microsoft fixes Surface Hub boot issues with emergency update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/) — 2025-06-17
 - **Bleeping Computer**: [How to automate IT ticket handling with AI and Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/) — 2025-01-17
 - **Bleeping Computer**: [Hacker steals 1 million Cock.li user records in webmail data breach](https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/) — 2025-50-17
@@ -64,8 +66,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Police seizes Archetyp Market drug marketplace, arrests admin](https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/) — 2025-15-16
 - **Bleeping Computer**: [Microsoft: June Windows Server security updates cause DHCP issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/) — 2025-35-16
 - **The Hacker News**: [PyPI, npm, and AI Tools Exploited in Malware Surge Targeting DevOps and Cloud Environments](https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html) — 2025-45-16
-- **Bleeping Computer**: [ChatGPT&#39;s AI coder Codex now lets you choose the best solution](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/) — 2025-59-15
-- **Bleeping Computer**: [ChatGPT Search gets an upgrade as OpenAI takes aim at Google](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/) — 2025-53-15
 - **The Hacker News**: [Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html) — 2025-45-14
 - **The Hacker News**: [Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month](https://thehackernews.com/2025/06/over-269000-websites-infected-with.html) — 2025-12-13
 - **The Hacker News**: [Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion](https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html) — 2025-02-13
