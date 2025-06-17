@@ -1,5 +1,12 @@
 [
   {
+    "title": "Instagram 'BMO' ads use AI deepfakes to scam banking customers",
+    "link": "https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/",
+    "summary": "Instagram ads impersonating financial institutions like Bank of Montreal (BMO) and EQ Bank (Equitable Bank) are being used to target Canadian consumers with phishing scams and investment fraud.\n\nSome ads use AI-powered deepfake videos in an attempt to collect your personal information, while others ",
+    "published": "2025-06-17T16:52:09",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New Veeam RCE flaw lets domain users hack backup servers",
     "link": "https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/",
     "summary": "\u200bVeeam has released security updates today to fix several Veeam Backup & Replication (VBR) flaws, including a critical remote code execution\u00a0(RCE) vulnerability. [...]",
@@ -88,13 +95,6 @@
     "link": "https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw in TP-Link wireless routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.&nbsp;\nThe vulnerability in question is CVE-2023-33538 (CVSS score: ",
     "published": "2025-06-17T08:12:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Meta Starts Showing Ads on WhatsApp After 6-Year Delay From 2018 Announcement",
-    "link": "https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html",
-    "summary": "Meta Platforms on Monday announced that it's bringing advertising to WhatsApp, but emphasized that the ads are \"built with privacy in mind.\"\nThe ads are expected to be displayed on the Updates tab through its Stories-like Status feature, which allows ephemeral sharing of photos, videos, voice notes,",
-    "published": "2025-06-17T04:53:00",
     "source": "HackerNews"
   }
 ]
