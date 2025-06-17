@@ -1,5 +1,12 @@
 [
   {
+    "title": "LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents",
+    "link": "https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html",
+    "summary": "Cybersecurity researchers have disclosed a now-patched security flaw in LangChain's LangSmith platform that could be exploited to capture sensitive data, including API keys and user prompts.\nThe vulnerability, which carries a CVSS score of 8.8 out of a maximum of 10.0, has been codenamed AgentSmith ",
+    "published": "2025-06-17T17:33:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Instagram 'BMO' ads use AI deepfakes to scam banking customers",
     "link": "https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/",
     "summary": "Instagram ads impersonating financial institutions like Bank of Montreal (BMO) and EQ Bank (Equitable Bank) are being used to target Canadian consumers with phishing scams and investment fraud.\n\nSome ads use AI-powered deepfake videos in an attempt to collect your personal information, while others ",
