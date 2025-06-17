@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Veeam RCE flaw lets domain users hack backup servers",
+    "link": "https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/",
+    "summary": "\u200bVeeam has released security updates today to fix several Veeam Backup & Replication (VBR) flaws, including a critical remote code execution\u00a0(RCE) vulnerability. [...]",
+    "published": "2025-06-17T15:42:48",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Sitecore CMS exploit chain starts with hardcoded 'b' password",
     "link": "https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/",
     "summary": "A chain of Sitecore Experience Platform (XP) vulnerabilities allows attackers to perform remote code execution (RCE) without authentication to breach and hijack servers. [...]",
