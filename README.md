@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Asana warns MCP AI feature exposed customer data to other orgs](https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/) — 2025-16-18
+- **The Hacker News**: [CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability](https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html) — 2025-43-18
+- **The Hacker News**: [Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents](https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html) — 2025-43-18
 - **The Hacker News**: [Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication](https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html) — 2025-49-18
 - **The Hacker News**: [Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict](https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html) — 2025-35-18
 - **Bleeping Computer**: [Paddle settles for $5 million over facilitating tech support scams](https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/) — 2025-14-17
@@ -66,7 +69,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [U.S. Seizes $7.74M in Crypto Tied to North Korea’s Global Fake IT Worker Network](https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html) — 2025-49-16
 - **Bleeping Computer**: [Washington Post&#39;s email system hacked, journalists&#39; accounts compromised](https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/) — 2025-08-16
 - **The Hacker News**: [Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment](https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html) — 2025-21-16
-- **Bleeping Computer**: [Kali Linux 2025.2 released with 13 new tools, car hacking updates](https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/) — 2025-18-16
 - **The Hacker News**: [⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More](https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html) — 2025-29-16
 - **The Hacker News**: [Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine](https://thehackernews.com/2025/06/playbook-transforming-your.html) — 2025-25-16
 - **The Hacker News**: [PyPI, npm, and AI Tools Exploited in Malware Surge Targeting DevOps and Cloud Environments](https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html) — 2025-45-16
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html) — 2025-46-09
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html) — 2025-20-09
 - **The Hacker News**: [Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise](https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html) — 2025-00-09
-- **The Hacker News**: [OpenAI Bans ChatGPT Accounts Used by Russian, Iranian, and Chinese Hacker Groups](https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html) — 2025-45-09
-- **The Hacker News**: [New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html) — 2025-47-08
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
