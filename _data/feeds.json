@@ -61,19 +61,5 @@
     "summary": "Episource warns of a data breach after hackers stole health information of over 5 million people in the United States in a January cyberattack. [...]",
     "published": "2025-06-18T13:44:12",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "FedRAMP at Startup Speed: Lessons Learned",
-    "link": "https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html",
-    "summary": "For organizations eyeing the federal market, FedRAMP can feel like a gated fortress. With strict compliance requirements and a notoriously long runway, many companies assume the path to authorization is reserved for the well-resourced enterprise. But that\u2019s changing.\nIn this post, we break down how ",
-    "published": "2025-06-18T11:00:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Water Curse Employs 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign",
-    "link": "https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html",
-    "summary": "Cybersecurity researchers have exposed a previously unknown threat actor known as Water Curse that relies on weaponized GitHub repositories to deliver multi-stage malware.\n\"The malware enables data exfiltration (including credentials, browser data, and session tokens), remote access, and long-term p",
-    "published": "2025-06-18T10:47:00",
-    "source": "HackerNews"
   }
 ]
