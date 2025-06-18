@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [ChainLink Phishing: How Trusted Domains Become Threat Vectors](https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/) — 2025-02-18
+- **Bleeping Computer**: [CISA warns of attackers exploiting Linux flaw with PoC exploit](https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/) — 2025-54-18
+- **Bleeping Computer**: [Healthcare SaaS firm says data breach impacts 5.4 million patients](https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/) — 2025-44-18
 - **The Hacker News**: [FedRAMP at Startup Speed: Lessons Learned](https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html) — 2025-00-18
 - **The Hacker News**: [Water Curse Employs 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign](https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html) — 2025-47-18
 - **Bleeping Computer**: [BeyondTrust warns of pre-auth RCE in Remote Support software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/) — 2025-10-18
@@ -53,13 +56,11 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html) — 2025-16-17
 - **Bleeping Computer**: [Scania confirms insurance claim data breach in extortion attempt](https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/) — 2025-04-17
 - **The Hacker News**: [LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html) — 2025-33-17
-- **Bleeping Computer**: [Instagram &#39;BMO&#39; ads use AI deepfakes to scam banking customers](https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/) — 2025-52-17
+- **Bleeping Computer**: [Instagram ads mimicking BMO, EQ Banks are finance scams](https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-banks-are-finance-scams/) — 2025-52-17
 - **Bleeping Computer**: [New Veeam RCE flaw lets domain users hack backup servers](https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/) — 2025-42-17
 - **Bleeping Computer**: [Sitecore CMS exploit chain starts with hardcoded &#39;b&#39; password](https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/) — 2025-10-17
 - **Bleeping Computer**: [UK fines 23andMe for ‘profoundly damaging’ breach exposing genetics data](https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/) — 2025-59-17
 - **Bleeping Computer**: [Microsoft fixes Surface Hub boot issues with emergency update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/) — 2025-06-17
-- **Bleeping Computer**: [How to automate IT ticket handling with AI and Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/) — 2025-01-17
-- **Bleeping Computer**: [Hacker steals 1 million Cock.li user records in webmail data breach](https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/) — 2025-50-17
 - **The Hacker News**: [Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware](https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html) — 2025-28-17
 - **The Hacker News**: [Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms](https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html) — 2025-53-17
 - **The Hacker News**: [Are Forgotten AD Service Accounts Leaving You at Risk?](https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html) — 2025-25-17
