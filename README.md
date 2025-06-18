@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft 365 to block file access via legacy auth protocols by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/) — 2025-14-18
 - **Bleeping Computer**: [&#39;Stargazers&#39; use fake Minecraft mods to steal player passwords](https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/) — 2025-09-18
+- **The Hacker News**: [1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub](https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html) — 2025-18-18
 - **Bleeping Computer**: [ChainLink Phishing: How Trusted Domains Become Threat Vectors](https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/) — 2025-02-18
 - **Bleeping Computer**: [CISA warns of attackers exploiting Linux flaw with PoC exploit](https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/) — 2025-54-18
 - **Bleeping Computer**: [Healthcare SaaS firm says data breach impacts 5.4 million patients](https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/) — 2025-44-18
@@ -60,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Instagram ads mimicking BMO, EQ Banks are finance scams](https://www.bleepingcomputer.com/news/security/instagram-ads-mimicking-bmo-eq-banks-are-finance-scams/) — 2025-52-17
 - **Bleeping Computer**: [New Veeam RCE flaw lets domain users hack backup servers](https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/) — 2025-42-17
 - **Bleeping Computer**: [Sitecore CMS exploit chain starts with hardcoded &#39;b&#39; password](https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/) — 2025-10-17
-- **Bleeping Computer**: [UK fines 23andMe for ‘profoundly damaging’ breach exposing genetics data](https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/) — 2025-59-17
 - **The Hacker News**: [Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware](https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html) — 2025-28-17
 - **The Hacker News**: [Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms](https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html) — 2025-53-17
 - **The Hacker News**: [Are Forgotten AD Service Accounts Leaving You at Risk?](https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html) — 2025-25-17
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises](https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html) — 2025-48-10
 - **The Hacker News**: [CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html) — 2025-37-10
 - **The Hacker News**: [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html) — 2025-23-09
-- **The Hacker News**: [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html) — 2025-46-09
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
