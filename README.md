@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/) — 2025-45-18
 - **Bleeping Computer**: [Asana warns MCP AI feature exposed customer data to other orgs](https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/) — 2025-16-18
 - **The Hacker News**: [CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability](https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html) — 2025-43-18
 - **The Hacker News**: [Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents](https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html) — 2025-43-18
@@ -67,7 +68,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Hackers switch to targeting U.S. insurance companies](https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/) — 2025-43-16
 - **Bleeping Computer**: [ASUS Armoury Crate bug lets attackers get Windows admin privileges](https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/) — 2025-08-16
 - **The Hacker News**: [U.S. Seizes $7.74M in Crypto Tied to North Korea’s Global Fake IT Worker Network](https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html) — 2025-49-16
-- **Bleeping Computer**: [Washington Post&#39;s email system hacked, journalists&#39; accounts compromised](https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/) — 2025-08-16
 - **The Hacker News**: [Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment](https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html) — 2025-21-16
 - **The Hacker News**: [⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More](https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html) — 2025-29-16
 - **The Hacker News**: [Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine](https://thehackernews.com/2025/06/playbook-transforming-your.html) — 2025-25-16
