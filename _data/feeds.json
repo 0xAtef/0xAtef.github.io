@@ -1,5 +1,12 @@
 [
   {
+    "title": "North Korean hackers deepfake execs in Zoom call to spread Mac malware",
+    "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/",
+    "summary": "North Korean advanced persistent threat (APT) 'BlueNoroff' (aka 'Sapphire Sleet' or 'TA444') are using deepfake company executives during fake Zoom calls to trick employees into installing custom malware on their computers. [...]",
+    "published": "2025-06-18T20:37:41",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains",
     "link": "https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html",
     "summary": "A new campaign is making use of Cloudflare Tunnel subdomains to host malicious payloads and deliver them via malicious attachments embedded in phishing emails.\nThe ongoing campaign has been codenamed SERPENTINE#CLOUD by Securonix.\nIt leverages \"the Cloudflare Tunnel infrastructure and Python-based l",
@@ -67,13 +74,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/",
     "summary": "BeyondTrust has released security updates to fix a high-severity flaw in its Remote Support (RS) and Privileged Remote Access (PRA) solutions that can let unauthenticated attackers gain remote code execution on vulnerable servers. [...]",
     "published": "2025-06-18T10:10:03",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "New Linux udisks flaw lets attackers get root on major Linux distros",
-    "link": "https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/",
-    "summary": "Attackers can exploit two newly discovered local privilege escalation (LPE) vulnerabilities to gain root privileges on systems running major Linux distributions. [...]",
-    "published": "2025-06-18T08:45:36",
     "source": "BleepingComputer"
   }
 ]
