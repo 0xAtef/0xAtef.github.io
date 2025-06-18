@@ -40,33 +40,5 @@
     "summary": "\u200bVeeam has released security updates today to fix several Veeam Backup & Replication (VBR) flaws, including a critical remote code execution\u00a0(RCE) vulnerability. [...]",
     "published": "2025-06-17T15:42:48",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Sitecore CMS exploit chain starts with hardcoded 'b' password",
-    "link": "https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/",
-    "summary": "A chain of Sitecore Experience Platform (XP) vulnerabilities allows attackers to perform remote code execution (RCE) without authentication to breach and hijack servers. [...]",
-    "published": "2025-06-17T15:10:35",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "UK fines 23andMe for \u2018profoundly damaging\u2019 breach exposing genetics data",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/",
-    "summary": "The UK Information Commissioner's Office (ICO) has fined genetic testing provider 23andMe \u00a32.31 million ($3.12 million) over 'serious security failings' that led to a 'profoundly damaging'\u00a0data breach in 2023. [...]",
-    "published": "2025-06-17T14:59:09",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft fixes Surface Hub boot issues with emergency update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/",
-    "summary": "Microsoft has released an emergency update to fix\u00a0a known issue causing startup failures for some Surface Hub v1 devices running Windows 10. [...]",
-    "published": "2025-06-17T14:06:10",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "How to automate IT ticket handling with AI and Tines",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/",
-    "summary": "Tired of drowning in IT tickets? This AI-powered workflow built on Tines auto-triages common issues like known bugs & password resets\u2014saving time for your team and speeding up resolution. Learn more about Tines and get a free account now. [...]",
-    "published": "2025-06-17T14:01:11",
-    "source": "BleepingComputer"
   }
 ]
