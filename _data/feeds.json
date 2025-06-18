@@ -7,7 +7,7 @@
     "source": "HackerNews"
   },
   {
-    "title": "Water Curse Hijacks 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign",
+    "title": "Water Curse Employs 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign",
     "link": "https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html",
     "summary": "Cybersecurity researchers have exposed a previously unknown threat actor known as Water Curse that relies on weaponized GitHub repositories to deliver multi-stage malware.\n\"The malware enables data exfiltration (including credentials, browser data, and session tokens), remote access, and long-term p",
     "published": "2025-06-18T10:47:00",
