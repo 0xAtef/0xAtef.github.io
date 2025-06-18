@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains](https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html) — 2025-41-18
 - **Bleeping Computer**: [Microsoft 365 to block file access via legacy auth protocols by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/) — 2025-14-18
 - **Bleeping Computer**: [&#39;Stargazers&#39; use fake Minecraft mods to steal player passwords](https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/) — 2025-09-18
 - **The Hacker News**: [1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub](https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html) — 2025-18-18
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account](https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html) — 2025-11-10
 - **The Hacker News**: [Rare Werewolf APT Uses Legitimate Software in Attacks on Hundreds of Russian Enterprises](https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html) — 2025-48-10
 - **The Hacker News**: [CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html) — 2025-37-10
-- **The Hacker News**: [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html) — 2025-23-09
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
