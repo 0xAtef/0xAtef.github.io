@@ -33,12 +33,5 @@
     "summary": "Instagram ads impersonating financial institutions like Bank of Montreal (BMO) and EQ Bank (Equitable Bank) are being used to target Canadian consumers with phishing scams and investment fraud.\n\nSome ads use AI-powered deepfake videos in an attempt to collect your personal information, while others ",
     "published": "2025-06-17T16:52:09",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Veeam RCE flaw lets domain users hack backup servers",
-    "link": "https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/",
-    "summary": "\u200bVeeam has released security updates today to fix several Veeam Backup & Replication (VBR) flaws, including a critical remote code execution\u00a0(RCE) vulnerability. [...]",
-    "published": "2025-06-17T15:42:48",
-    "source": "BleepingComputer"
   }
 ]
