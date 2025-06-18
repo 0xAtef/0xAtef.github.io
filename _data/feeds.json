@@ -103,12 +103,5 @@
     "summary": "Veeam has rolled out patches to contain a critical security flaw impacting its Backup &amp; Replication software that could result in remote code execution under certain conditions.\nThe security defect, tracked as CVE-2025-23121, carries a CVSS score of 9.9 out of a maximum of 10.0.\n\"A vulnerability",
     "published": "2025-06-18T05:49:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict",
-    "link": "https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html",
-    "summary": "Iran has throttled internet access in the country in a purported attempt to hamper Israel's ability to conduct covert cyber operations, days after the latter launched an unprecedented attack on the country, escalating geopolitical tensions in the region.\nFatemeh Mohajerani, the spokesperson of the I",
-    "published": "2025-06-18T05:35:00",
-    "source": "HackerNews"
   }
 ]
