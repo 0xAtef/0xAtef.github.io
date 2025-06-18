@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains",
+    "link": "https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html",
+    "summary": "A new campaign is making use of Cloudflare Tunnel subdomains to host malicious payloads and deliver them via malicious attachments embedded in phishing emails.\nThe ongoing campaign has been codenamed SERPENTINE#CLOUD by Securonix.\nIt leverages \"the Cloudflare Tunnel infrastructure and Python-based l",
+    "published": "2025-06-18T15:41:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft 365 to block file access via legacy auth protocols by default",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/",
     "summary": "Microsoft has announced that it will soon update security defaults for all Microsoft 365 tenants to block\u00a0access to SharePoint, OneDrive, and Office files via legacy authentication protocols. [...]",
