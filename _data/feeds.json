@@ -1,5 +1,12 @@
 [
   {
+    "title": "BeyondTrust warns of pre-auth RCE in Remote Support software",
+    "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/",
+    "summary": "BeyondTrust has released security updates to fix a high-severity flaw in its Remote Support (RS) and Privileged Remote Access (PRA) solutions that can let unauthenticated attackers gain remote code execution on vulnerable servers. [...]",
+    "published": "2025-06-18T10:10:03",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New Linux udisks flaw lets attackers get root on major Linux distros",
     "link": "https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/",
     "summary": "Attackers can exploit two newly discovered local privilege escalation (LPE) vulnerabilities to gain root privileges on systems running major Linux distributions. [...]",
