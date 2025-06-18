@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Linux udisks flaw lets attackers get root on major Linux distros",
+    "link": "https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/",
+    "summary": "Attackers can exploit two newly discovered local privilege escalation (LPE) vulnerabilities to gain root privileges on systems running major Linux distributions. [...]",
+    "published": "2025-06-18T08:45:36",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Asana warns MCP AI feature exposed customer data to other orgs",
     "link": "https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/",
     "summary": "Work management platform Asana is warning users of its new Model Context Protocol (MCP) feature that a flaw in its implementation potentially led to data exposure from their instances to other users and vice versa. [...]",
@@ -33,12 +40,5 @@
     "summary": "Iran has throttled internet access in the country in a purported attempt to hamper Israel's ability to conduct covert cyber operations, days after the latter launched an unprecedented attack on the country, escalating geopolitical tensions in the region.\nFatemeh Mohajerani, the spokesperson of the I",
     "published": "2025-06-18T05:35:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Paddle settles for $5 million over facilitating tech support scams",
-    "link": "https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/",
-    "summary": "Paddle.com and its U.S. subsidiary will pay $5 million to settle Federal Trade Commission (FTC) allegations that the company facilitated deceptive tech-support schemes that harmed many U.S. consumers, including older adults. [...]",
-    "published": "2025-06-17T21:14:18",
-    "source": "BleepingComputer"
   }
 ]
