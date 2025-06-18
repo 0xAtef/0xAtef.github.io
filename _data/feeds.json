@@ -1,5 +1,12 @@
 [
   {
+    "title": "Pro-Israel hackers hit Iran's Nobitex exchange, burn $90M in crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/",
+    "summary": "The\u00a0pro-Israel \"Predatory Sparrow\" hacking group claims to have stolen over $90 million in cryptocurrency from Nobitex, Iran's largest crypto exchange, and burned the funds in a politically motivated cyberattack. [...]",
+    "published": "2025-06-18T21:56:00",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "North Korean hackers deepfake execs in Zoom call to spread Mac malware",
     "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/",
     "summary": "North Korean advanced persistent threat (APT) 'BlueNoroff' (aka 'Sapphire Sleet' or 'TA444') are using deepfake company executives during fake Zoom calls to trick employees into installing custom malware on their computers. [...]",
@@ -68,12 +75,5 @@
     "summary": "Cybersecurity researchers have exposed a previously unknown threat actor known as Water Curse that relies on weaponized GitHub repositories to deliver multi-stage malware.\n\"The malware enables data exfiltration (including credentials, browser data, and session tokens), remote access, and long-term p",
     "published": "2025-06-18T10:47:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "BeyondTrust warns of pre-auth RCE in Remote Support software",
-    "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/",
-    "summary": "BeyondTrust has released security updates to fix a high-severity flaw in its Remote Support (RS) and Privileged Remote Access (PRA) solutions that can let unauthenticated attackers gain remote code execution on vulnerable servers. [...]",
-    "published": "2025-06-18T10:10:03",
-    "source": "BleepingComputer"
   }
 ]
