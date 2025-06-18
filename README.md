@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [FedRAMP at Startup Speed: Lessons Learned](https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html) — 2025-00-18
+- **The Hacker News**: [Water Curse Hijacks 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign](https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html) — 2025-47-18
 - **Bleeping Computer**: [BeyondTrust warns of pre-auth RCE in Remote Support software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/) — 2025-10-18
 - **Bleeping Computer**: [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/) — 2025-45-18
 - **Bleeping Computer**: [Asana warns MCP AI feature exposed customer data to other orgs](https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/) — 2025-16-18
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html) — 2025-37-10
 - **The Hacker News**: [Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group](https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html) — 2025-23-09
 - **The Hacker News**: [Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks](https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html) — 2025-46-09
-- **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html) — 2025-20-09
-- **The Hacker News**: [Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise](https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html) — 2025-00-09
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
