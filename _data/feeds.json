@@ -1,5 +1,26 @@
 [
   {
+    "title": "ChainLink Phishing: How Trusted Domains Become Threat Vectors",
+    "link": "https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/",
+    "summary": "Phishing has evolved\u2014and trust is the new attack vector. ChainLink Phishing uses real platforms like Google Drive & Dropbox to sneak past filters and steal credentials in the browser. Watch Keep Aware's on-demand webinar to see how these attacks work\u2014and how to stop them. [...]",
+    "published": "2025-06-18T14:02:12",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "CISA warns of attackers exploiting Linux flaw with PoC exploit",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/",
+    "summary": "CISA has warned U.S. federal agencies about attackers targeting a high-severity vulnerability in the Linux kernel's OverlayFS subsystem that allows them to gain root privileges. [...]",
+    "published": "2025-06-18T13:54:48",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Healthcare SaaS firm says data breach impacts 5.4 million patients",
+    "link": "https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/",
+    "summary": "Episource warns of a data breach after hackers stole health information of over 5 million people in the United States in a January cyberattack. [...]",
+    "published": "2025-06-18T13:44:12",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "FedRAMP at Startup Speed: Lessons Learned",
     "link": "https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html",
     "summary": "For organizations eyeing the federal market, FedRAMP can feel like a gated fortress. With strict compliance requirements and a notoriously long runway, many companies assume the path to authorization is reserved for the well-resourced enterprise. But that\u2019s changing.\nIn this post, we break down how ",
