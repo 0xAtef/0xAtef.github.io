@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [No, the 16 billion credentials leak is not a new data breach](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/) — 2025-51-19
 - **Bleeping Computer**: [Godfather Android malware now uses virtualization to hijack banking apps](https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/) — 2025-54-19
 - **The Hacker News**: [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html) — 2025-23-19
 - **Bleeping Computer**: [Webinar: Stolen credentials are the new front door to your network](https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/) — 2025-33-19
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Meta Adds Passkey Login Support to Facebook for Android and iOS Users](https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html) — 2025-04-19
 - **The Hacker News**: [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html) — 2025-33-19
 - **Bleeping Computer**: [Pro-Israel hackers hit Iran&#39;s Nobitex exchange, burn $90M in crypto](https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/) — 2025-56-18
-- **Bleeping Computer**: [North Korean hackers deepfake execs in Zoom call to spread Mac malware](https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/) — 2025-37-18
 - **The Hacker News**: [New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains](https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html) — 2025-41-18
 - **The Hacker News**: [1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub](https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html) — 2025-18-18
 - **The Hacker News**: [FedRAMP at Startup Speed: Lessons Learned](https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html) — 2025-00-18
