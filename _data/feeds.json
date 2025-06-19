@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft",
+    "link": "https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html",
+    "summary": "Cybersecurity researchers have exposed the inner workings of an Android malware called AntiDot that has compromised over 3,775 devices as part of 273 unique campaigns.\n\"Operated by the financially motivated threat actor LARVA-398, AntiDot is actively sold as a Malware-as-a-Service (MaaS) on undergro",
+    "published": "2025-06-19T17:23:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Webinar: Stolen credentials are the new front door to your network",
     "link": "https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/",
     "summary": "Cybercriminals no longer need zero-days to breach your systems\u2014these days, they just log in. Join BleepingComputer, SC Media, and Specops Software's Darren Siegel on July 9 at 2:00 PM ET for a live webinar on how attackers are using stolen credentials to infiltrate networks and how you can stop them",
