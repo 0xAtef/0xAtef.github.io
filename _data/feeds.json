@@ -89,19 +89,5 @@
     "summary": "Threat actors with suspected ties to Russia have been observed taking advantage of a Google account feature called application specific passwords (or app passwords) as part of a novel social engineering tactic designed to gain access to victims' emails.\nDetails of the highly targeted campaign were d",
     "published": "2025-06-19T08:06:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Ryuk ransomware\u2019s initial access expert extradited to the U.S.",
-    "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/",
-    "summary": "A member of the notorious Ryuk ransomware operation who specialized in gaining initial access to corporate networks has been extradited to the United States. [...]",
-    "published": "2025-06-19T06:05:35",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Meta Adds Passkey Login Support to Facebook for Android and iOS Users",
-    "link": "https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html",
-    "summary": "Meta Platforms on Wednesday announced that it's adding support for passkeys, the next-generation password standard, on Facebook.\n\"Passkeys are a new way to verify your identity and login to your account that's easier and more secure than traditional passwords,\" the tech giant said in a post.\nSupport",
-    "published": "2025-06-19T06:04:00",
-    "source": "HackerNews"
   }
 ]
