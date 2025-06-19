@@ -19,33 +19,5 @@
     "summary": "A new campaign is making use of Cloudflare Tunnel subdomains to host malicious payloads and deliver them via malicious attachments embedded in phishing emails.\nThe ongoing campaign has been codenamed SERPENTINE#CLOUD by Securonix.\nIt leverages \"the Cloudflare Tunnel infrastructure and Python-based l",
     "published": "2025-06-18T15:41:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft 365 to block file access via legacy auth protocols by default",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/",
-    "summary": "Microsoft has announced that it will soon update security defaults for all Microsoft 365 tenants to block\u00a0access to SharePoint, OneDrive, and Office files via legacy authentication protocols. [...]",
-    "published": "2025-06-18T15:14:28",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "'Stargazers' use fake Minecraft mods to steal player passwords",
-    "link": "https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/",
-    "summary": "A large-scale malware campaign specifically targets Minecraft players with malicious mods and cheats that infect Windows devices with infostealers that steal credentials, authentication tokens, and cryptocurrency wallets. [...]",
-    "published": "2025-06-18T15:09:05",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub",
-    "link": "https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html",
-    "summary": "A new multi-stage malware campaign is targeting Minecraft users with a Java-based malware that employs a distribution-as-service (DaaS) offering called Stargazers Ghost Network.\n\"The campaigns resulted in a multi-stage attack chain targeting Minecraft users specifically,\" Check Point researchers Jar",
-    "published": "2025-06-18T14:18:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "ChainLink Phishing: How Trusted Domains Become Threat Vectors",
-    "link": "https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/",
-    "summary": "Phishing has evolved\u2014and trust is the new attack vector. ChainLink Phishing uses real platforms like Google Drive & Dropbox to sneak past filters and steal credentials in the browser. Watch Keep Aware's on-demand webinar to see how these attacks work\u2014and how to stop them. [...]",
-    "published": "2025-06-18T14:02:12",
-    "source": "BleepingComputer"
   }
 ]
