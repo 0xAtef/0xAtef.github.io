@@ -1,5 +1,33 @@
 [
   {
+    "title": "DuckDuckGo beefs up scam defense to block fake stores, crypto sites",
+    "link": "https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/",
+    "summary": "The DuckDuckGo web browser has expanded its built-in Scam Blocker tool to protect against a broader range of online scams, including fake e-commerce, cryptocurrency exchanges, and \"scareware\" sites. [...]",
+    "published": "2025-06-19T12:00:00",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Telecom giant Viasat breached by China's Salt Typhoon hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/",
+    "summary": "Satellite communications company Viasat is the latest victim of China's Salt Typhoon cyber-espionage group, which has previously hacked into the networks of multiple other telecom providers in the United States and worldwide. [...]",
+    "published": "2025-06-19T11:54:51",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with MacOS Backdoor Malware",
+    "link": "https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html",
+    "summary": "The North Korea-aligned threat actor known as BlueNoroff has been observed targeting an employee in the Web3 sector with deceptive Zoom calls featuring deepfaked company executives to trick them into installing malware on their Apple macOS devices.\nHuntress, which revealed details of the cyber intru",
+    "published": "2025-06-19T11:38:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Secure Vibe Coding: The Complete New Guide",
+    "link": "https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html",
+    "summary": "DALL-E for coders? That\u2019s the promise behind vibe coding, a term describing the use of natural language to create software. While this ushers in a new era of AI-generated code, it introduces \"silent killer\" vulnerabilities: exploitable flaws that evade traditional security tools despite perfect test",
+    "published": "2025-06-19T11:25:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Uncover LOTS Attacks Hiding in Trusted Tools \u2014 Learn How in This Free Expert Session",
     "link": "https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html",
     "summary": "Most cyberattacks today don\u2019t start with loud alarms or broken firewalls. They start quietly\u2014inside tools and websites your business already trusts.\nIt\u2019s called \u201cLiving Off Trusted Sites\u201d (LOTS)\u2014and it\u2019s the new favorite strategy of modern attackers. Instead of breaking in, they blend in.\nHackers ar",
