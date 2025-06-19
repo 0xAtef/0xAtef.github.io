@@ -1,5 +1,12 @@
 [
   {
+    "title": "Godfather Android malware now uses virtualization to hijack banking apps",
+    "link": "https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/",
+    "summary": "A new version of the Android malware \"Godfather\" creates\u00a0isolated virtual environments\u00a0on mobile devices to steal account data and transactions from legitimate banking apps. [...]",
+    "published": "2025-06-19T19:54:28",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft",
     "link": "https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html",
     "summary": "Cybersecurity researchers have exposed the inner workings of an Android malware called AntiDot that has compromised over 3,775 devices as part of 273 unique campaigns.\n\"Operated by the financially motivated threat actor LARVA-398, AntiDot is actively sold as a Malware-as-a-Service (MaaS) on undergro",
@@ -89,12 +96,5 @@
     "summary": "U.S. doughnut chain Krispy Kreme confirmed that attackers stole the personal information of over 160,000 individuals in a\u00a0November 2024\u00a0cyberattack. [...]",
     "published": "2025-06-19T09:59:49",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Russian APT29 Exploits Gmail App Passwords to Bypass 2FA in Targeted Phishing Campaign",
-    "link": "https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html",
-    "summary": "Threat actors with suspected ties to Russia have been observed taking advantage of a Google account feature called application specific passwords (or app passwords) as part of a novel social engineering tactic designed to gain access to victims' emails.\nDetails of the highly targeted campaign were d",
-    "published": "2025-06-19T08:06:00",
-    "source": "HackerNews"
   }
 ]
