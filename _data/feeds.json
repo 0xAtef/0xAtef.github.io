@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI\u2019s Sam Altman discusses GPT-5 release date",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/",
+    "summary": "ChatGPT's next big upgrade, or the new foundational model \"GPT-5,\" is still being prepared for a release in the summer, but OpenAI won't share the specifics. [...]",
+    "published": "2025-06-19T15:43:06",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "US recovers $225 million of crypto stolen in investment scams",
     "link": "https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/",
     "summary": "The U.S. Department of Justice has seized more than $225 million in cryptocurrency linked to investment fraud and money laundering operations, the largest crypto seizure in the history of the U.S. Secret Service. [...]",
@@ -88,13 +95,6 @@
     "link": "https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html",
     "summary": "Meta Platforms on Wednesday announced that it's adding support for passkeys, the next-generation password standard, on Facebook.\n\"Passkeys are a new way to verify your identity and login to your account that's easier and more secure than traditional passwords,\" the tech giant said in a post.\nSupport",
     "published": "2025-06-19T06:04:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions",
-    "link": "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html",
-    "summary": "Cybersecurity researchers have uncovered two local privilege escalation (LPE) flaws that could be exploited to gain root privileges on machines running major Linux distributions.\nThe vulnerabilities, discovered by Qualys, are listed below -\n\nCVE-2025-6018 - LPE from unprivileged to allow_active in S",
-    "published": "2025-06-19T03:33:00",
     "source": "HackerNews"
   }
 ]
