@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Krispy Kreme says November data breach impacts over 160,000 people](https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/) — 2025-59-19
 - **The Hacker News**: [Russian APT29 Exploits Gmail App Passwords to Bypass 2FA in Targeted Phishing Campaign](https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html) — 2025-06-19
 - **Bleeping Computer**: [Ryuk ransomware’s initial access expert extradited to the U.S.](https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/) — 2025-05-19
 - **The Hacker News**: [Meta Adds Passkey Login Support to Facebook for Android and iOS Users](https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html) — 2025-04-19
@@ -64,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict](https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html) — 2025-35-18
 - **Bleeping Computer**: [Paddle settles for $5 million over facilitating tech support scams](https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/) — 2025-14-17
 - **The Hacker News**: [Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html) — 2025-16-17
-- **Bleeping Computer**: [Scania confirms insurance claim data breach in extortion attempt](https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/) — 2025-04-17
 - **The Hacker News**: [LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html) — 2025-33-17
 - **The Hacker News**: [Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware](https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html) — 2025-28-17
 - **The Hacker News**: [Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms](https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html) — 2025-53-17
