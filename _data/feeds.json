@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions",
+    "link": "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html",
+    "summary": "Cybersecurity researchers have uncovered two local privilege escalation (LPE) flaws that could be exploited to gain root privileges on machines running major Linux distributions.\nThe vulnerabilities, discovered by Qualys, are listed below -\n\nCVE-2025-6018 - LPE from unprivileged to allow_active in S",
+    "published": "2025-06-19T03:33:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Pro-Israel hackers hit Iran's Nobitex exchange, burn $90M in crypto",
     "link": "https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/",
     "summary": "The\u00a0pro-Israel \"Predatory Sparrow\" hacking group claims to have stolen over $90 million in cryptocurrency from Nobitex, Iran's largest crypto exchange, and burned the funds in a politically motivated cyberattack. [...]",
@@ -12,12 +19,5 @@
     "summary": "North Korean advanced persistent threat (APT) 'BlueNoroff' (aka 'Sapphire Sleet' or 'TA444') are using deepfake company executives during fake Zoom calls to trick employees into installing custom malware on their computers. [...]",
     "published": "2025-06-18T20:37:41",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains",
-    "link": "https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html",
-    "summary": "A new campaign is making use of Cloudflare Tunnel subdomains to host malicious payloads and deliver them via malicious attachments embedded in phishing emails.\nThe ongoing campaign has been codenamed SERPENTINE#CLOUD by Securonix.\nIt leverages \"the Cloudflare Tunnel infrastructure and Python-based l",
-    "published": "2025-06-18T15:41:00",
-    "source": "HackerNews"
   }
 ]
