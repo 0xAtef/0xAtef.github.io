@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Webinar: Stolen credentials are the new front door to your network](https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/) — 2025-33-19
 - **Bleeping Computer**: [OpenAI’s Sam Altman discusses GPT-5 release date](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/) — 2025-43-19
 - **Bleeping Computer**: [US recovers $225 million of crypto stolen in investment scams](https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/) — 2025-33-19
 - **Bleeping Computer**: [Special Webinar: Key Insights from Verizon’s 2025 DBIR](https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/) — 2025-04-19
@@ -47,7 +48,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [ChatGPT will analyze Gmail emails, manage schedule on Google Calendar](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/) — 2025-29-19
 - **Bleeping Computer**: [DuckDuckGo beefs up scam defense to block fake stores, crypto sites](https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/) — 2025-00-19
 - **Bleeping Computer**: [Telecom giant Viasat breached by China&#39;s Salt Typhoon hackers](https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/) — 2025-54-19
-- **The Hacker News**: [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with MacOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html) — 2025-38-19
+- **The Hacker News**: [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html) — 2025-38-19
 - **The Hacker News**: [Secure Vibe Coding: The Complete New Guide](https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html) — 2025-25-19
 - **The Hacker News**: [Uncover LOTS Attacks Hiding in Trusted Tools — Learn How in This Free Expert Session](https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html) — 2025-00-19
 - **Bleeping Computer**: [Krispy Kreme says November data breach impacts over 160,000 people](https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/) — 2025-59-19
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [North Korean hackers deepfake execs in Zoom call to spread Mac malware](https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/) — 2025-37-18
 - **The Hacker News**: [New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains](https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html) — 2025-41-18
 - **Bleeping Computer**: [Microsoft 365 to block file access via legacy auth protocols by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/) — 2025-14-18
-- **Bleeping Computer**: [&#39;Stargazers&#39; use fake Minecraft mods to steal player passwords](https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/) — 2025-09-18
 - **The Hacker News**: [1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub](https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html) — 2025-18-18
 - **The Hacker News**: [FedRAMP at Startup Speed: Lessons Learned](https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html) — 2025-00-18
 - **The Hacker News**: [Water Curse Employs 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign](https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html) — 2025-47-18
