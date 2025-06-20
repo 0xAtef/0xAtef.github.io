@@ -47,33 +47,5 @@
     "summary": "GenAI, credential theft, third-party risks\u2014Verizon's 2025 DBIR reveals what's putting your org at risk. Join DBIR author Alex Pinto & LayerX CEO Or Eshed as they break down this year's key insights and defense strategies. Don't miss the webinar\u2014register now. [...]",
     "published": "2025-06-19T14:04:50",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft unveils new security defaults for Windows 365 Cloud PCs",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/",
-    "summary": "Microsoft has announced new Windows 365 security defaults starting in the second half of 2025 and affecting newly provisioned and reprovisioned Cloud PCs. [...]",
-    "published": "2025-06-19T13:55:26",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "ChatGPT will analyze Gmail emails, manage schedule on Google Calendar",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/",
-    "summary": "ChatGPT\u00a0appears to be testing support for Gmail and Google Calendar integration. This will allow users to summarise emails and create events. [...]",
-    "published": "2025-06-19T13:29:30",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "DuckDuckGo beefs up scam defense to block fake stores, crypto sites",
-    "link": "https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/",
-    "summary": "The DuckDuckGo web browser has expanded its built-in Scam Blocker tool to protect against a broader range of online scams, including fake e-commerce, cryptocurrency exchanges, and \"scareware\" sites. [...]",
-    "published": "2025-06-19T12:00:00",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Telecom giant Viasat breached by China's Salt Typhoon hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/",
-    "summary": "Satellite communications company Viasat is the latest victim of China's Salt Typhoon cyber-espionage group, which has previously hacked into the networks of multiple other telecom providers in the United States and worldwide. [...]",
-    "published": "2025-06-19T11:54:51",
-    "source": "BleepingComputer"
   }
 ]
