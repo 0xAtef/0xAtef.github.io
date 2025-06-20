@@ -1,5 +1,12 @@
 [
   {
+    "title": "Aflac discloses breach amidst Scattered Spider insurance attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/",
+    "summary": "On Friday, American insurance giant Aflac disclosed that its systems were breached in a broader campaign targeting insurance companies across the United States by attackers who may have stolen personal and health information. [...]",
+    "published": "2025-06-20T14:52:05",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Can users reset their own passwords without sacrificing security?",
     "link": "https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/",
     "summary": "Self-service password resets (SSPR) reduce helpdesk strain\u2014but without strong security, they can open the door to attackers. Learn why phishing-resistant MFA, context-aware verification, and risk-based detection are critical to secure SSPR implementation. [...]",
@@ -30,7 +37,7 @@
   {
     "title": "Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider",
     "link": "https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html",
-    "summary": "Cloudflare on Thursday said it autonomously blocked the largest ever distributed denial-of-service (DDoS) attack ever recorded, which hit a peak of 7.3 terabits per second (Tbps).\nThe attack, which was detected in mid-May 2025, targeted an unnamed hosting provider.\n\"Hosting providers and critical In",
+    "summary": "Cloudflare on Thursday said it autonomously blocked the largest distributed denial-of-service (DDoS) attack ever recorded, which hit a peak of 7.3 terabits per second (Tbps).\nThe attack, which was detected in mid-May 2025, targeted an unnamed hosting provider.\n\"Hosting providers and critical Interne",
     "published": "2025-06-20T09:36:00",
     "source": "HackerNews"
   },
