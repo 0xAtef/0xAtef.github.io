@@ -1,5 +1,12 @@
 [
   {
+    "title": "Can users reset their own passwords without sacrificing security?",
+    "link": "https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/",
+    "summary": "Self-service password resets (SSPR) reduce helpdesk strain\u2014but without strong security, they can open the door to attackers. Learn why phishing-resistant MFA, context-aware verification, and risk-based detection are critical to secure SSPR implementation. [...]",
+    "published": "2025-06-20T14:01:11",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft to remove legacy drivers from Windows Update for security boost",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-legacy-drivers-from-windows-update-for-security-boost/",
     "summary": "Microsoft has announced plans to periodically remove legacy drivers from the Windows Update catalog to mitigate security and compatibility risks. [...]",
