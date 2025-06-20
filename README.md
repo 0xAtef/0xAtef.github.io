@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [BitoPro exchange links Lazarus hackers to $11 million crypto heist](https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/) — 2025-54-20
 - **Bleeping Computer**: [Microsoft investigates OneDrive bug that breaks file search](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/) — 2025-39-20
+- **The Hacker News**: [Qilin Ransomware Adds &quot;Call Lawyer&quot; Feature to Pressure Victims for Larger Ransoms](https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html) — 2025-35-20
 - **Bleeping Computer**: [Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/) — 2025-54-20
 - **Bleeping Computer**: [Aflac discloses breach amidst Scattered Spider insurance attacks](https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/) — 2025-52-20
 - **Bleeping Computer**: [Can users reset their own passwords without sacrificing security?](https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/) — 2025-01-20
@@ -57,7 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [US recovers $225 million of crypto stolen in investment scams](https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/) — 2025-33-19
 - **Bleeping Computer**: [Special Webinar: Key Insights from Verizon’s 2025 DBIR](https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/) — 2025-04-19
 - **Bleeping Computer**: [Microsoft unveils new security defaults for Windows 365 Cloud PCs](https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/) — 2025-55-19
-- **Bleeping Computer**: [ChatGPT will analyze Gmail emails, manage schedule on Google Calendar](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/) — 2025-29-19
 - **The Hacker News**: [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html) — 2025-38-19
 - **The Hacker News**: [Secure Vibe Coding: The Complete New Guide](https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html) — 2025-25-19
 - **The Hacker News**: [Uncover LOTS Attacks Hiding in Trusted Tools — Learn How in This Free Expert Session](https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html) — 2025-00-19
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Former Black Basta Members Use Microsoft Teams and Python Scripts in 2025 Attacks](https://thehackernews.com/2025/06/former-black-basta-members-use.html) — 2025-44-11
 - **The Hacker News**: [295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager](https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html) — 2025-49-11
 - **The Hacker News**: [INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure](https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html) — 2025-32-11
-- **The Hacker News**: [Why DNS Security Is Your First Defense Against Cyber Attacks?](https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html) — 2025-25-11
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
