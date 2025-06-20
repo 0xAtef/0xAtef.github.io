@@ -12,12 +12,5 @@
     "summary": "A new version of the Android malware \"Godfather\" creates\u00a0isolated virtual environments\u00a0on mobile devices to steal account data and transactions from legitimate banking apps. [...]",
     "published": "2025-06-19T19:54:28",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft",
-    "link": "https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html",
-    "summary": "Cybersecurity researchers have exposed the inner workings of an Android malware called AntiDot that has compromised over 3,775 devices as part of 273 unique campaigns.\n\"Operated by the financially motivated threat actor LARVA-398, AntiDot is actively sold as a Malware-as-a-Service (MaaS) on undergro",
-    "published": "2025-06-19T17:23:00",
-    "source": "HackerNews"
   }
 ]
