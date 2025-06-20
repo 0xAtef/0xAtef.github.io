@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft investigates OneDrive bug that breaks file search",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/",
+    "summary": "\u200bMicrosoft is investigating a known OneDrive issue that is causing searches to appear blank for some users or return no results even when searching for files they know they've already uploaded. [...]",
+    "published": "2025-06-20T16:39:54",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider",
     "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/",
     "summary": "Cloudflare says it mitigated a record-breaking distributed denial of service (DDoS) attack in May 2025 that peaked at 7.3 Tbps, targeting a hosting provider. [...]",
