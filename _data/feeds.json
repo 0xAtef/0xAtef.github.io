@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider",
+    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/",
+    "summary": "Cloudflare says it mitigated a record-breaking distributed denial of service (DDoS) attack in May 2025 that peaked at 7.3 Tbps, targeting a hosting provider. [...]",
+    "published": "2025-06-20T15:54:10",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Aflac discloses breach amidst Scattered Spider insurance attacks",
     "link": "https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/",
     "summary": "On Friday, American insurance giant Aflac disclosed that its systems were breached in a broader campaign targeting insurance companies across the United States by attackers who may have stolen personal and health information. [...]",
