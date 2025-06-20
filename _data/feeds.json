@@ -1,16 +1,16 @@
 [
   {
+    "title": "67 Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers",
+    "link": "https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html",
+    "summary": "Cybersecurity researchers have uncovered a new campaign in which the threat actors have published more than 67 GitHub repositories that claim to offer Python-based hacking tools, but deliver trojanized payloads instead.\nThe activity, codenamed Banana Squad by ReversingLabs, is assessed to be a conti",
+    "published": "2025-06-20T07:41:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "No, the 16 billion credentials leak is not a new data breach",
     "link": "https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/",
     "summary": "News broke today of a \"mother of all breaches,\" sparking wide media coverage filled with warnings and fear-mongering. However, it appears to be a compilation of previously leaked\u00a0credentials stolen by infostealers, exposed in data breaches, and via credential stuffing attacks. [...]",
     "published": "2025-06-19T21:51:41",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Godfather Android malware now uses virtualization to hijack banking apps",
-    "link": "https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/",
-    "summary": "A new version of the Android malware \"Godfather\" creates\u00a0isolated virtual environments\u00a0on mobile devices to steal account data and transactions from legitimate banking apps. [...]",
-    "published": "2025-06-19T19:54:28",
     "source": "BleepingComputer"
   }
 ]
