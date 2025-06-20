@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [67 Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers](https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html) — 2025-41-20
 - **Bleeping Computer**: [No, the 16 billion credentials leak is not a new data breach](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/) — 2025-51-19
 - **Bleeping Computer**: [Godfather Android malware now uses virtualization to hijack banking apps](https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/) — 2025-54-19
 - **The Hacker News**: [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html) — 2025-23-19
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [How to Build a Lean Security Model: 5 Lessons from River Island](https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html) — 2025-00-11
 - **The Hacker News**: [Microsoft Patches 67 Vulnerabilities Including WEBDAV Zero-Day Exploited in the Wild](https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html) — 2025-46-11
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
-- **The Hacker News**: [Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps](https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html) — 2025-29-10
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
