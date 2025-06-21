@@ -5,19 +5,5 @@
     "summary": "The Taiwanese cryptocurrency exchange BitoPro claims the North Korean hacking group Lazarus is behind a cyberattack that led to the theft of $11,000,000 worth of cryptocurrency on May 8, 2025. [...]",
     "published": "2025-06-20T17:54:41",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft investigates OneDrive bug that breaks file search",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/",
-    "summary": "\u200bMicrosoft is investigating a known OneDrive issue that is causing searches to appear blank for some users or return no results even when searching for files they know they've already uploaded. [...]",
-    "published": "2025-06-20T16:39:54",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Qilin Ransomware Adds \"Call Lawyer\" Feature to Pressure Victims for Larger Ransoms",
-    "link": "https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html",
-    "summary": "The threat actors behind the Qilin ransomware-as-a-service (RaaS) scheme are now offering legal counsel for affiliates to put more pressure on victims to pay up, as the cybercrime group intensifies its activity and tries to fill the void left by its rivals.\nThe new feature takes the form of a \"Call ",
-    "published": "2025-06-20T16:35:00",
-    "source": "HackerNews"
   }
 ]
