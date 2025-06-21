@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html) — 2025-44-21
 - **Bleeping Computer**: [BitoPro exchange links Lazarus hackers to $11 million crypto heist](https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/) — 2025-54-20
 - **Bleeping Computer**: [Microsoft investigates OneDrive bug that breaks file search](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/) — 2025-39-20
 - **The Hacker News**: [Qilin Ransomware Adds &quot;Call Lawyer&quot; Feature to Pressure Victims for Larger Ransoms](https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html) — 2025-35-20
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Over 80,000 Microsoft Entra ID Accounts Targeted Using Open-Source TeamFiltration Tool](https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html) — 2025-41-12
 - **The Hacker News**: [Former Black Basta Members Use Microsoft Teams and Python Scripts in 2025 Attacks](https://thehackernews.com/2025/06/former-black-basta-members-use.html) — 2025-44-11
 - **The Hacker News**: [295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager](https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html) — 2025-49-11
-- **The Hacker News**: [INTERPOL Dismantles 20,000+ Malicious IPs Linked to 69 Malware Variants in Operation Secure](https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html) — 2025-32-11
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
