@@ -40,6 +40,11 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup](https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/) — 2025-47-22
+- **Bleeping Computer**: [Oxford City Council suffers breach exposing two decades of data](https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/) — 2025-17-22
+- **Bleeping Computer**: [Windows Snipping Tool now lets you create animated GIF recordings](https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/) — 2025-11-22
+- **Bleeping Computer**: [Russian hackers bypass Gmail MFA using stolen app passwords](https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/) — 2025-13-21
+- **Bleeping Computer**: [WordPress Motors theme flaw mass-exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/) — 2025-09-21
 - **The Hacker News**: [Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html) — 2025-44-21
 - **Bleeping Computer**: [BitoPro exchange links Lazarus hackers to $11 million crypto heist](https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/) — 2025-54-20
 - **Bleeping Computer**: [Microsoft investigates OneDrive bug that breaks file search](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/) — 2025-39-20
@@ -53,13 +58,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider](https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html) — 2025-36-20
 - **The Hacker News**: [200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers](https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html) — 2025-41-20
 - **Bleeping Computer**: [No, the 16 billion credentials leak is not a new data breach](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/) — 2025-51-19
-- **Bleeping Computer**: [Godfather Android malware now uses virtualization to hijack banking apps](https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/) — 2025-54-19
 - **The Hacker News**: [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html) — 2025-23-19
-- **Bleeping Computer**: [Webinar: Stolen credentials are the new front door to your network](https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/) — 2025-33-19
-- **Bleeping Computer**: [OpenAI’s Sam Altman discusses GPT-5 release date](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/) — 2025-43-19
-- **Bleeping Computer**: [US recovers $225 million of crypto stolen in investment scams](https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/) — 2025-33-19
-- **Bleeping Computer**: [Special Webinar: Key Insights from Verizon’s 2025 DBIR](https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/) — 2025-04-19
-- **Bleeping Computer**: [Microsoft unveils new security defaults for Windows 365 Cloud PCs](https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/) — 2025-55-19
 - **The Hacker News**: [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html) — 2025-38-19
 - **The Hacker News**: [Secure Vibe Coding: The Complete New Guide](https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html) — 2025-25-19
 - **The Hacker News**: [Uncover LOTS Attacks Hiding in Trusted Tools — Learn How in This Free Expert Session](https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html) — 2025-00-19
