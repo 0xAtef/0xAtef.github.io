@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Canada says Salt Typhoon hacked telecom firm via Cisco flaw](https://www.bleepingcomputer.com/news/security/canada-says-salt-typhoon-hacked-telecom-firm-via-cisco-flaw/) — 2025-23-23
+- **Bleeping Computer**: [Revil ransomware members released after time served on carding charges](https://www.bleepingcomputer.com/news/security/revil-hackers-released-after-time-served-on-carding-charges/) — 2025-12-23
 - **Bleeping Computer**: [McLaren Health Care says data breach impacts 743,000 patients](https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacts-743-000-patients/) — 2025-28-23
 - **The Hacker News**: [XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks](https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html) — 2025-12-23
 - **Bleeping Computer**: [Steel giant Nucor confirms hackers stole data in recent breach](https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/) — 2025-28-23
@@ -56,8 +58,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft investigates OneDrive bug that breaks file search](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/) — 2025-39-20
 - **The Hacker News**: [Qilin Ransomware Adds &quot;Call Lawyer&quot; Feature to Pressure Victims for Larger Ransoms](https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html) — 2025-35-20
 - **Bleeping Computer**: [Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/) — 2025-54-20
-- **Bleeping Computer**: [Aflac discloses breach amidst Scattered Spider insurance attacks](https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/) — 2025-52-20
-- **Bleeping Computer**: [Can users reset their own passwords without sacrificing security?](https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/) — 2025-01-20
 - **The Hacker News**: [Iran&#39;s State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist](https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html) — 2025-54-20
 - **The Hacker News**: [6 Steps to 24/7 In-House SOC Success](https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html) — 2025-00-20
 - **The Hacker News**: [Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider](https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html) — 2025-36-20
