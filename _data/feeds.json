@@ -75,12 +75,5 @@
     "summary": "It sure is a hard time to be a SOC analyst. \nEvery day, they are expected to solve high-consequence problems with half the data and twice the pressure. Analysts are overwhelmed\u2014not just by threats, but by the systems and processes in place that are meant to help them respond. Tooling is fragmented. ",
     "published": "2025-06-23T11:25:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks",
-    "link": "https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html",
-    "summary": "Google has revealed the various safety measures that are being incorporated into its generative artificial intelligence (AI) systems to mitigate emerging attack vectors like indirect prompt injections and improve the overall security posture for agentic AI systems.\n\"Unlike direct prompt injections, ",
-    "published": "2025-06-23T10:46:00",
-    "source": "HackerNews"
   }
 ]
