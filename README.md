@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Steel giant Nucor confirms hackers stole data in recent breach](https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/) — 2025-28-23
+- **The Hacker News**: [How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout](https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html) — 2025-25-23
 - **The Hacker News**: [Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks](https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html) — 2025-46-23
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html) — 2025-30-23
 - **Bleeping Computer**: [CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup](https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/) — 2025-47-22
@@ -59,7 +61,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [6 Steps to 24/7 In-House SOC Success](https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html) — 2025-00-20
 - **The Hacker News**: [Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider](https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html) — 2025-36-20
 - **The Hacker News**: [200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers](https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html) — 2025-41-20
-- **Bleeping Computer**: [No, the 16 billion credentials leak is not a new data breach](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/) — 2025-51-19
 - **The Hacker News**: [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html) — 2025-23-19
 - **The Hacker News**: [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html) — 2025-38-19
 - **The Hacker News**: [Secure Vibe Coding: The Complete New Guide](https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html) — 2025-25-19
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html) — 2025-11-12
 - **The Hacker News**: [Non-Human Identities: How to Address the Expanding Security Risk](https://thehackernews.com/2025/06/non-human-identities-how-to-address.html) — 2025-00-12
 - **The Hacker News**: [ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks](https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html) — 2025-42-12
-- **The Hacker News**: [Over 80,000 Microsoft Entra ID Accounts Targeted Using Open-Source TeamFiltration Tool](https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html) — 2025-41-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
