@@ -1,5 +1,12 @@
 [
   {
+    "title": "XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks",
+    "link": "https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html",
+    "summary": "Cybersecurity researchers have uncovered a Go-based malware called XDigo that has been used in attacks targeting Eastern European governmental entities in March 2025.\nThe attack chains are said to have leveraged a collection of Windows shortcut (LNK) files as part of a multi-stage procedure to deplo",
+    "published": "2025-06-23T13:12:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Steel giant Nucor confirms hackers stole data in recent breach",
     "link": "https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/",
     "summary": "Nucor, North America's largest steel producer and recycler, has confirmed that attackers behind a recent cybersecurity incident have also stolen data from the company's network. [...]",
