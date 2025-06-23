@@ -1,5 +1,12 @@
 [
   {
+    "title": "McLaren Health Care says data breach impacts 743,000 patients",
+    "link": "https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacts-743-000-patients/",
+    "summary": "McLaren Health Care is warning 743,000 patients that the health system suffered a data breach caused by a July 2024 attack by the INC ransomware gang. [...]",
+    "published": "2025-06-23T14:28:31",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks",
     "link": "https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html",
     "summary": "Cybersecurity researchers have uncovered a Go-based malware called XDigo that has been used in attacks targeting Eastern European governmental entities in March 2025.\nThe attack chains are said to have leveraged a collection of Windows shortcut (LNK) files as part of a multi-stage procedure to deplo",
