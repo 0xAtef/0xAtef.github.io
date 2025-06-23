@@ -75,12 +75,5 @@
     "summary": "Google has revealed the various safety measures that are being incorporated into its generative artificial intelligence (AI) systems to mitigate emerging attack vectors like indirect prompt injections and improve the overall security posture for agentic AI systems.\n\"Unlike direct prompt injections, ",
     "published": "2025-06-23T10:46:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More",
-    "link": "https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html",
-    "summary": "Not every risk looks like an attack. Some problems start as small glitches, strange logs, or quiet delays that don\u2019t seem urgent\u2014until they are. What if your environment is already being tested, just not in ways you expected?\nSome of the most dangerous moves are hidden in plain sight. It\u2019s worth ask",
-    "published": "2025-06-23T09:30:00",
-    "source": "HackerNews"
   }
 ]
