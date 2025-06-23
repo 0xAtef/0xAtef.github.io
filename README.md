@@ -40,7 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [US Homeland Security warns of escalating Iranian cyberattack risks](https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/) — 2025-22-23
+- **The Hacker News**: [Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content](https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html) — 2025-58-23
 - **Bleeping Computer**: [Canada says Salt Typhoon hacked telecom firm via Cisco flaw](https://www.bleepingcomputer.com/news/security/canada-says-salt-typhoon-hacked-telecom-firm-via-cisco-flaw/) — 2025-23-23
+- **The Hacker News**: [DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes](https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html) — 2025-14-23
 - **Bleeping Computer**: [Revil ransomware members released after time served on carding charges](https://www.bleepingcomputer.com/news/security/revil-hackers-released-after-time-served-on-carding-charges/) — 2025-12-23
 - **Bleeping Computer**: [McLaren Health Care says data breach impacts 743,000 patients](https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacts-743-000-patients/) — 2025-28-23
 - **The Hacker News**: [XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks](https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html) — 2025-12-23
@@ -57,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [BitoPro exchange links Lazarus hackers to $11 million crypto heist](https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/) — 2025-54-20
 - **Bleeping Computer**: [Microsoft investigates OneDrive bug that breaks file search](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/) — 2025-39-20
 - **The Hacker News**: [Qilin Ransomware Adds &quot;Call Lawyer&quot; Feature to Pressure Victims for Larger Ransoms](https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html) — 2025-35-20
-- **Bleeping Computer**: [Cloudflare blocks record 7.3 Tbps DDoS attack against hosting provider](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/) — 2025-54-20
 - **The Hacker News**: [Iran&#39;s State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist](https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html) — 2025-54-20
 - **The Hacker News**: [6 Steps to 24/7 In-House SOC Success](https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html) — 2025-00-20
 - **The Hacker News**: [Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider](https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html) — 2025-36-20
@@ -101,8 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network](https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html) — 2025-47-12
 - **The Hacker News**: [New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes](https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html) — 2025-52-12
 - **The Hacker News**: [AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar](https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html) — 2025-06-12
-- **The Hacker News**: [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html) — 2025-11-12
-- **The Hacker News**: [Non-Human Identities: How to Address the Expanding Security Risk](https://thehackernews.com/2025/06/non-human-identities-how-to-address.html) — 2025-00-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
