@@ -1,5 +1,12 @@
 [
   {
+    "title": "APT28 hackers use Signal chats to launch new malware attacks on Ukraine",
+    "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/",
+    "summary": "The Russian state-sponsored threat group APT28\u00a0is using Signal chats to target government targets in Ukraine with two previously undocumented malware families named BeardShell and SlimAgent. [...]",
+    "published": "2025-06-23T22:14:59",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Malware on Google Play, Apple App Store stole your photos\u2014and crypto",
     "link": "https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/",
     "summary": "A new mobile crypto-stealing malware called SparkKitty was found in apps on Google Play and the Apple App Store, targeting Android and iOS devices. [...]",
