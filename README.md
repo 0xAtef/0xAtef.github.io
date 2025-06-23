@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks](https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html) — 2025-12-23
 - **Bleeping Computer**: [Steel giant Nucor confirms hackers stole data in recent breach](https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/) — 2025-28-23
 - **The Hacker News**: [How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout](https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html) — 2025-25-23
 - **The Hacker News**: [Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks](https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html) — 2025-46-23
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [AI Agents Run on Secret Accounts — Learn How to Secure Them in This Webinar](https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html) — 2025-06-12
 - **The Hacker News**: [Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User Interaction](https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html) — 2025-11-12
 - **The Hacker News**: [Non-Human Identities: How to Address the Expanding Security Risk](https://thehackernews.com/2025/06/non-human-identities-how-to-address.html) — 2025-00-12
-- **The Hacker News**: [ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks](https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html) — 2025-42-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
