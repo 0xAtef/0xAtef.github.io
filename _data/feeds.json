@@ -1,5 +1,12 @@
 [
   {
+    "title": "SonicWall warns of trojanized NetExtender stealing VPN logins",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-trojanized-netextender-stealing-vpn-logins/",
+    "summary": "SonicWall is warning customers that threat actors are distributing a trojanized version of its NetExtender SSL VPN client used to steal VPN credentials. [...]",
+    "published": "2025-06-24T20:36:19",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New U.S. Visa Rule Requires Applicants to Set Social Media Account Privacy to Public",
     "link": "https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html",
     "summary": "The United States Embassy in India has announced that applicants for F, M, and J nonimmigrant visas should make their social media accounts public.\nThe new guideline seeks to help officials verify the identity and eligibility of applicants under U.S. law. The U.S. Embassy said every visa application",
