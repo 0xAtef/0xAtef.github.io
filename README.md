@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [US House bans WhatsApp on staff devices over security concerns](https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/) — 2025-43-24
 - **The Hacker News**: [Between Buzz and Reality: The CTEM Conversation We All Need](https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html) — 2025-00-24
 - **The Hacker News**: [Hackers Exploit Misconfigured Docker APIs to Mine Cryptocurrency via Tor Network](https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html) — 2025-57-24
 - **The Hacker News**: [U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues](https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html) — 2025-16-24
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Oxford City Council suffers breach exposing two decades of data](https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/) — 2025-17-22
 - **Bleeping Computer**: [Windows Snipping Tool now lets you create animated GIF recordings](https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/) — 2025-11-22
 - **Bleeping Computer**: [Russian hackers bypass Gmail MFA using stolen app passwords](https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/) — 2025-13-21
-- **Bleeping Computer**: [WordPress Motors theme flaw mass-exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/) — 2025-09-21
 - **The Hacker News**: [Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html) — 2025-44-21
 - **The Hacker News**: [Qilin Ransomware Adds &quot;Call Lawyer&quot; Feature to Pressure Victims for Larger Ransoms](https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html) — 2025-35-20
 - **The Hacker News**: [Iran&#39;s State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist](https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html) — 2025-54-20
