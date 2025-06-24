@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [New U.S. Visa Rule Requires Applicants to Set Social Media Account Privacy to Public](https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html) — 2025-47-24
 - **Bleeping Computer**: [Windows 10 KB5061087 update released with 13 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5061087-update-released-with-13-changes-and-fixes/) — 2025-07-24
 - **Bleeping Computer**: [Microsoft fixes known issue that breaks Windows 11 updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/) — 2025-13-24
 - **Bleeping Computer**: [Windows 10 users can get extended security updates using Microsoft points](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/) — 2025-00-24
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More](https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html) — 2025-29-16
 - **The Hacker News**: [Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine](https://thehackernews.com/2025/06/playbook-transforming-your.html) — 2025-25-16
 - **The Hacker News**: [PyPI, npm, and AI Tools Exploited in Malware Surge Targeting DevOps and Cloud Environments](https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html) — 2025-45-16
-- **The Hacker News**: [Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html) — 2025-45-14
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
