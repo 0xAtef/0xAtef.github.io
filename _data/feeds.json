@@ -1,10 +1,24 @@
 [
   {
+    "title": "FileFix attack weaponizes Windows File Explorer for stealthy commands",
+    "link": "https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/",
+    "summary": "A cybersecurity researcher has developed FileFix, a variant of the ClickFix social engineering attack that tricks users into executing malicious commands via the File Explorer address bar in Windows. [...]",
+    "published": "2025-06-24T15:00:09",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue",
     "link": "https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html",
     "summary": "Cybersecurity researchers have detailed two novel methods that can be used to disrupt cryptocurrency mining botnets.\nThe methods take advantage of the design of various common mining topologies in order to shut down the mining process, Akamai said in a new report published today.\n\"We developed two t",
     "published": "2025-06-24T14:17:00",
     "source": "HackerNews"
+  },
+  {
+    "title": "How Today\u2019s Pentest Models Compare and Why Continuous Wins",
+    "link": "https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/",
+    "summary": "Legacy pentests give you a snapshot. Attackers see a live stream. Sprocket's Continuous Penetration Testing (CPT) mimics real-world attackers\u2014daily, not annually\u2014so you can fix what matters, faster. Learn why CPT is the future. [...]",
+    "published": "2025-06-24T14:01:11",
+    "source": "BleepingComputer"
   },
   {
     "title": "US House bans WhatsApp on staff devices over security concerns",
@@ -46,13 +60,6 @@
     "link": "https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html",
     "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new cyber attack campaign by the Russia-linked APT28 (aka UAC-0001) threat actors using Signal chat messages to deliver two new malware families dubbed BEARDSHELL and COVENANT.\nBEARDSHELL, per CERT-UA, is written in C++ and of",
     "published": "2025-06-24T09:06:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom",
-    "link": "https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html",
-    "summary": "The Canadian Centre for Cyber Security and the U.S. Federal Bureau of Investigation (FBI) have issued an advisory warning of cyber attacks mounted by the China-linked Salt Typhoon actors to breach major global telecommunications providers as part of a cyber espionage campaign.\nThe attackers exploite",
-    "published": "2025-06-24T03:00:00",
     "source": "HackerNews"
   }
 ]
