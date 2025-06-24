@@ -40,7 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- **Bleeping Computer**: [FileFix attack weaponizes Windows File Explorer for stealthy commands](https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/) — 2025-00-24
+- **Bleeping Computer**: [New FileFix attack weaponizes Windows File Explorer for stealthy commands](https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/) — 2025-00-24
 - **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
 - **Bleeping Computer**: [How Today’s Pentest Models Compare and Why Continuous Wins](https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/) — 2025-01-24
 - **Bleeping Computer**: [US House bans WhatsApp on staff devices over security concerns](https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/) — 2025-43-24
