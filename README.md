@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Windows 10 KB5061087 update released with 13 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5061087-update-released-with-13-changes-and-fixes/) — 2025-07-24
+- **Bleeping Computer**: [Microsoft fixes known issue that breaks Windows 11 updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/) — 2025-13-24
+- **Bleeping Computer**: [Windows 10 users can get extended security updates using Microsoft points](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/) — 2025-00-24
 - **Bleeping Computer**: [Trezor’s support platform abused in crypto theft phishing attacks](https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/) — 2025-54-24
 - **Bleeping Computer**: [New FileFix attack weaponizes Windows File Explorer for stealthy commands](https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/) — 2025-00-24
 - **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
@@ -60,12 +63,9 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Revil ransomware members released after time served on carding charges](https://www.bleepingcomputer.com/news/security/revil-hackers-released-after-time-served-on-carding-charges/) — 2025-12-23
 - **Bleeping Computer**: [McLaren Health Care says data breach impacts 743,000 patients](https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacts-743-000-patients/) — 2025-28-23
 - **The Hacker News**: [XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks](https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html) — 2025-12-23
-- **Bleeping Computer**: [Steel giant Nucor confirms hackers stole data in recent breach](https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/) — 2025-28-23
 - **The Hacker News**: [How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout](https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html) — 2025-25-23
 - **The Hacker News**: [Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks](https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html) — 2025-46-23
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html) — 2025-30-23
-- **Bleeping Computer**: [CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup](https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/) — 2025-47-22
-- **Bleeping Computer**: [Oxford City Council suffers breach exposing two decades of data](https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/) — 2025-17-22
 - **The Hacker News**: [Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html) — 2025-44-21
 - **The Hacker News**: [Qilin Ransomware Adds &quot;Call Lawyer&quot; Feature to Pressure Victims for Larger Ransoms](https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html) — 2025-35-20
 - **The Hacker News**: [Iran&#39;s State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist](https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html) — 2025-54-20
