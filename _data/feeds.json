@@ -1,5 +1,12 @@
 [
   {
+    "title": "China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom",
+    "link": "https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html",
+    "summary": "The Canadian Centre for Cyber Security and the U.S. Federal Bureau of Investigation (FBI) have issued an advisory warning of cyber attacks mounted by the China-linked Salt Typhoon actors to breach major global telecommunications providers as part of a cyber espionage campaign.\nThe attackers exploite",
+    "published": "2025-06-24T03:00:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "APT28 hackers use Signal chats to launch new malware attacks on Ukraine",
     "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/",
     "summary": "The Russian state-sponsored threat group APT28\u00a0is using Signal chats to target government targets in Ukraine with two previously undocumented malware families named BeardShell and SlimAgent. [...]",
@@ -18,20 +25,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/",
     "summary": "The U.S. Department of Homeland Security (DHS) warned over the weekend of escalating cyberattack risks by Iran-backed hacking groups and pro-Iranian hacktivists. [...]",
     "published": "2025-06-23T16:22:37",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content",
-    "link": "https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html",
-    "summary": "Cybersecurity researchers are calling attention to a new jailbreaking method called Echo Chamber that could be leveraged to trick popular large language models (LLMs) into generating undesirable responses, irrespective of the safeguards put in place.\n\"Unlike traditional jailbreaks that rely on adver",
-    "published": "2025-06-23T15:58:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Canada says Salt Typhoon hacked telecom firm via Cisco flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/canada-says-salt-typhoon-hacked-telecom-firm-via-cisco-flaw/",
-    "summary": "The Canadian Centre for Cyber Security and the FBI confirm\u00a0that the Chinese state-sponsored\u00a0'Salt Typhoon'\u00a0hacking group is also targeting Canadian telecommunication firms,\u00a0breaching a telecom provider in February. [...]",
-    "published": "2025-06-23T15:23:44",
     "source": "BleepingComputer"
   }
 ]
