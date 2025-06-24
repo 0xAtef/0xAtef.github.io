@@ -1,5 +1,26 @@
 [
   {
+    "title": "Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue",
+    "link": "https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html",
+    "summary": "Cybersecurity researchers have detailed two novel methods that can be used to disrupt cryptocurrency mining botnets.\nThe methods take advantage of the design of various common mining topologies in order to shut down the mining process, Akamai said in a new report published today.\n\"We developed two t",
+    "published": "2025-06-24T14:17:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "US House bans WhatsApp on staff devices over security concerns",
+    "link": "https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/",
+    "summary": "The U.S. House of Representatives has banned the installation and use of WhatsApp on government-issued devices belonging to congressional staff, citing concerns over how the app encrypts and secures data. [...]",
+    "published": "2025-06-24T13:43:53",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers",
+    "link": "https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html",
+    "summary": "Unidentified threat actors have been observed targeting publicly exposed Microsoft Exchange servers to inject malicious code into the login pages that harvest their credentials.\nPositive Technologies, in a new analysis published last week, said it identified two different kinds of keylogger code wri",
+    "published": "2025-06-24T13:26:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Between Buzz and Reality: The CTEM Conversation We All Need",
     "link": "https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html",
     "summary": "I had the honor of hosting the first episode of the Xposure Podcast live from Xposure Summit 2025. And I couldn\u2019t have asked for a better kickoff panel: three cybersecurity leaders who don\u2019t just talk security, they live it.\nLet me introduce them.\nAlex Delay, CISO at IDB Bank, knows what it means to",
