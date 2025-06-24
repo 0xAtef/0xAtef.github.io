@@ -1,5 +1,19 @@
 [
   {
+    "title": "U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues",
+    "link": "https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html",
+    "summary": "The U.S. House of Representatives has formally banned congressional staff members from using WhatsApp on government-issued devices, citing security concerns.\nThe development was first reported by Axios.\nThe decision, according to the House Chief Administrative Officer (CAO), was motivated by worries",
+    "published": "2025-06-24T09:16:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "APT28 Uses Signal Chat to Deploy BEARDSHELL Malware and COVENANT in Ukraine",
+    "link": "https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new cyber attack campaign by the Russia-linked APT28 (aka UAC-0001) threat actors using Signal chat messages to deliver two new malware families dubbed BEARDSHELL and COVENANT.\nBEARDSHELL, per CERT-UA, is written in C++ and of",
+    "published": "2025-06-24T09:06:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom",
     "link": "https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html",
     "summary": "The Canadian Centre for Cyber Security and the U.S. Federal Bureau of Investigation (FBI) have issued an advisory warning of cyber attacks mounted by the China-linked Salt Typhoon actors to breach major global telecommunications providers as part of a cyber espionage campaign.\nThe attackers exploite",
