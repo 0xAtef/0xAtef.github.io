@@ -19,12 +19,5 @@
     "summary": "The Canadian Centre for Cyber Security and the U.S. Federal Bureau of Investigation (FBI) have issued an advisory warning of cyber attacks mounted by the China-linked Salt Typhoon actors to breach major global telecommunications providers as part of a cyber espionage campaign.\nThe attackers exploite",
     "published": "2025-06-24T03:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "APT28 hackers use Signal chats to launch new malware attacks on Ukraine",
-    "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/",
-    "summary": "The Russian state-sponsored threat group APT28\u00a0is using Signal chats to target government targets in Ukraine with two previously undocumented malware families named BeardShell and SlimAgent. [...]",
-    "published": "2025-06-23T22:14:59",
-    "source": "BleepingComputer"
   }
 ]
