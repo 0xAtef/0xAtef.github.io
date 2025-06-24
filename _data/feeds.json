@@ -1,6 +1,6 @@
 [
   {
-    "title": "FileFix attack weaponizes Windows File Explorer for stealthy commands",
+    "title": "New FileFix attack weaponizes Windows File Explorer for stealthy commands",
     "link": "https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/",
     "summary": "A cybersecurity researcher has developed FileFix, a variant of the ClickFix social engineering attack that tricks users into executing malicious commands via the File Explorer address bar in Windows. [...]",
     "published": "2025-06-24T15:00:09",
