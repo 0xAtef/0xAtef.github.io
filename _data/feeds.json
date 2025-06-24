@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google Cloud donates A2A AI protocol to the Linux Foundation",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-cloud-donates-a2a-ai-protocol-to-the-linux-foundation/",
+    "summary": "Google Cloud has donated its Agent2Agent (A2A) protocol to the Linux Foundation, which has now announced a new community-driven project called the Agent2Agent Project. [...]",
+    "published": "2025-06-24T21:34:38",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "SonicWall warns of trojanized NetExtender stealing VPN logins",
     "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-trojanized-netextender-stealing-vpn-logins/",
     "summary": "SonicWall is warning customers that threat actors are distributing a trojanized version of its NetExtender SSL VPN client used to steal VPN credentials. [...]",
