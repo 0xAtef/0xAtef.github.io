@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues](https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html) — 2025-16-24
+- **The Hacker News**: [APT28 Uses Signal Chat to Deploy BEARDSHELL Malware and COVENANT in Ukraine](https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html) — 2025-06-24
 - **The Hacker News**: [China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom](https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html) — 2025-00-24
 - **Bleeping Computer**: [APT28 hackers use Signal chats to launch new malware attacks on Ukraine](https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/) — 2025-14-23
 - **Bleeping Computer**: [Malware on Google Play, Apple App Store stole your photos—and crypto](https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/) — 2025-44-23
@@ -101,8 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CTEM is the New SOC: Shifting from Monitoring Alerts to Measuring Risk](https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html) — 2025-30-13
 - **The Hacker News**: [Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware](https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html) — 2025-03-13
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
-- **The Hacker News**: [WordPress Sites Turned Weapon: How VexTrio and Affiliates Run a Global Scam Network](https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html) — 2025-47-12
-- **The Hacker News**: [New TokenBreak Attack Bypasses AI Moderation with Single-Character Text Changes](https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html) — 2025-52-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
