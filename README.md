@@ -40,7 +40,11 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [FileFix attack weaponizes Windows File Explorer for stealthy commands](https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/) — 2025-00-24
+- **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
+- **Bleeping Computer**: [How Today’s Pentest Models Compare and Why Continuous Wins](https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/) — 2025-01-24
 - **Bleeping Computer**: [US House bans WhatsApp on staff devices over security concerns](https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/) — 2025-43-24
+- **The Hacker News**: [Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers](https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html) — 2025-26-24
 - **The Hacker News**: [Between Buzz and Reality: The CTEM Conversation We All Need](https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html) — 2025-00-24
 - **The Hacker News**: [Hackers Exploit Misconfigured Docker APIs to Mine Cryptocurrency via Tor Network](https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html) — 2025-57-24
 - **The Hacker News**: [U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues](https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html) — 2025-16-24
@@ -62,7 +66,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup](https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/) — 2025-47-22
 - **Bleeping Computer**: [Oxford City Council suffers breach exposing two decades of data](https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/) — 2025-17-22
 - **Bleeping Computer**: [Windows Snipping Tool now lets you create animated GIF recordings](https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/) — 2025-11-22
-- **Bleeping Computer**: [Russian hackers bypass Gmail MFA using stolen app passwords](https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/) — 2025-13-21
 - **The Hacker News**: [Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html) — 2025-44-21
 - **The Hacker News**: [Qilin Ransomware Adds &quot;Call Lawyer&quot; Feature to Pressure Victims for Larger Ransoms](https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html) — 2025-35-20
 - **The Hacker News**: [Iran&#39;s State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist](https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html) — 2025-54-20
@@ -100,8 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine](https://thehackernews.com/2025/06/playbook-transforming-your.html) — 2025-25-16
 - **The Hacker News**: [PyPI, npm, and AI Tools Exploited in Malware Surge Targeting DevOps and Cloud Environments](https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html) — 2025-45-16
 - **The Hacker News**: [Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html) — 2025-45-14
-- **The Hacker News**: [Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month](https://thehackernews.com/2025/06/over-269000-websites-infected-with.html) — 2025-12-13
-- **The Hacker News**: [Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with Double Extortion](https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html) — 2025-02-13
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
