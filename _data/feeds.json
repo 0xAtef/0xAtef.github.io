@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/",
+    "summary": "A sophisticated malicious campaign that researchers call OneClik has been leveraging Microsoft's ClickOnce software deployment tool and custom Golang backdoors to compromise organizations within the energy, oil, and gas sectors. [...]",
+    "published": "2025-06-25T20:34:38",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New wave of \u2018fake interviews\u2019 use 35 npm packages to spread malware",
     "link": "https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/",
     "summary": "A new wave of North Korea's 'Contagious Interview' campaign is targeting job seekers with malicious npm packages that infect dev's devices with infostealers and backdoors. [...]",
@@ -74,13 +81,6 @@
     "link": "https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html",
     "summary": "If you invite guest users into your Entra ID tenant, you may be opening yourself up to a surprising risk.&nbsp;\nA gap in access control in Microsoft Entra\u2019s subscription handling is allowing guest users to create and transfer subscriptions into the tenant they are invited into, while maintaining ful",
     "published": "2025-06-25T10:30:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks",
-    "link": "https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html",
-    "summary": "Unknown threat actors have been distributing a trojanized version of SonicWall's SSL VPN NetExtender application to steal credentials from unsuspecting users who may have installed it.\n\"NetExtender enables remote users to securely connect and run applications on the company network,\" SonicWall resea",
-    "published": "2025-06-25T08:45:00",
     "source": "HackerNews"
   }
 ]
