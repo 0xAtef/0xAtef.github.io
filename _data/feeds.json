@@ -1,5 +1,12 @@
 [
   {
+    "title": "SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks",
+    "link": "https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html",
+    "summary": "Unknown threat actors have been distributing a trojanized version of SonicWall's SSL VPN NetExtender application to steal credentials from unsuspecting users who may have installed it.\n\"NetExtender enables remote users to securely connect and run applications on the company network,\" SonicWall resea",
+    "published": "2025-06-25T08:45:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages",
     "link": "https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html",
     "summary": "Cybersecurity researchers have uncovered a fresh batch of malicious npm packages linked to the ongoing Contagious Interview operation originating from North Korea.\nAccording to Socket, the ongoing supply chain attack involves 35 malicious packages that were uploaded from 24 npm accounts. These packa",
@@ -18,13 +25,6 @@
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/",
     "summary": "Google confirmed that Imagen 4, which is the company's state-of-the-art text-to-image, is rolling out for free, but only on AI Studio. [...]",
     "published": "2025-06-24T22:36:21",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Claude catches up to ChatGPT with built-in memory support",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/",
-    "summary": "AI startup Anthorpic is planning to add a memory feature to Claude in a bid to take on ChatGPT, which has an advanced memory feature. [...]",
-    "published": "2025-06-24T21:52:15",
     "source": "BleepingComputer"
   }
 ]
