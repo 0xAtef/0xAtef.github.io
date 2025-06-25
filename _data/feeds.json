@@ -75,12 +75,5 @@
     "summary": "Cybersecurity researchers have detailed two now-patched security flaws in SAP Graphical User Interface (GUI) for Windows and Java that, if successfully exploited, could have enabled attackers to access sensitive information under certain conditions.\nThe vulnerabilities, tracked as CVE-2025-0055 and ",
     "published": "2025-06-25T13:37:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Pro-Iranian Hacktivist Group Leaks Personal Records from the 2024 Saudi Games",
-    "link": "https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html",
-    "summary": "Thousands of personal records allegedly linked to athletes and visitors of the Saudi Games have been published online by a pro-Iranian hacktivist group called Cyber Fattah.\nCybersecurity company Resecurity said the breach was announced on Telegram on June 22, 2025, in the form of SQL database dumps,",
-    "published": "2025-06-25T11:00:00",
-    "source": "HackerNews"
   }
 ]
