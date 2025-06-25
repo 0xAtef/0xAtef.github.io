@@ -1,5 +1,12 @@
 [
   {
+    "title": "New wave of \u2018fake interviews\u2019 use 35 npm packages to spread malware",
+    "link": "https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/",
+    "summary": "A new wave of North Korea's 'Contagious Interview' campaign is targeting job seekers with malicious npm packages that infect dev's devices with infostealers and backdoors. [...]",
+    "published": "2025-06-25T19:24:12",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google releases Gemini CLI with free Gemini 2.5 Pro",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/",
     "summary": "Google has released Gemini 2.5 Pro-powered Gemini CLI, which allows you to use Gemini inside your terminal, including Windows Terminal. [...]",
