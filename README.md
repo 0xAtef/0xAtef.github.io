@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Google releases Gemini CLI with free Gemini 2.5 Pro](https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/) — 2025-53-25
+- **Bleeping Computer**: [Citrix warns of NetScaler vulnerability exploited in DoS attacks](https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/) — 2025-35-25
 - **The Hacker News**: [nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery](https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html) — 2025-56-25
 - **Bleeping Computer**: [WinRAR patches bug letting malware launch from extracted archives](https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/) — 2025-55-25
 - **Bleeping Computer**: [New &#39;CitrixBleed 2&#39; NetScaler flaw let hackers hijack sessions](https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/) — 2025-10-25
@@ -60,9 +62,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft fixes known issue that breaks Windows 11 updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/) — 2025-13-24
 - **Bleeping Computer**: [Windows 10 users can get extended security updates using Microsoft points](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/) — 2025-00-24
 - **Bleeping Computer**: [Trezor’s support platform abused in crypto theft phishing attacks](https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/) — 2025-54-24
-- **Bleeping Computer**: [New FileFix attack weaponizes Windows File Explorer for stealthy commands](https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/) — 2025-00-24
 - **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
-- **Bleeping Computer**: [How Today’s Pentest Models Compare and Why Continuous Wins](https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/) — 2025-01-24
 - **The Hacker News**: [Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers](https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html) — 2025-26-24
 - **The Hacker News**: [Between Buzz and Reality: The CTEM Conversation We All Need](https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html) — 2025-00-24
 - **The Hacker News**: [Hackers Exploit Misconfigured Docker APIs to Mine Cryptocurrency via Tor Network](https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html) — 2025-57-24
