@@ -1,5 +1,19 @@
 [
   {
+    "title": "nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery",
+    "link": "https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html",
+    "summary": "New research has uncovered continued risk from a known security weakness in Microsoft's Entra ID, potentially enabling malicious actors to achieve account takeovers in susceptible software-as-a-service (SaaS) applications.\nIdentity security company Semperis, in an analysis of 104 SaaS applications, ",
+    "published": "2025-06-25T16:56:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "WinRAR patches bug letting malware launch from extracted archives",
+    "link": "https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/",
+    "summary": "WinRAR has addressed a directory traversal vulnerability tracked as CVE-2025-6218 that, under certain circumstances, allows malware to be executed after extracting a malicious archive. [...]",
+    "published": "2025-06-25T16:55:14",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions",
     "link": "https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/",
     "summary": "A recent vulnerability in Citrix NetScaler ADC and Gateway is dubbed \"CitrixBleed 2,\" after its similarity to an older exploited flaw that allowed unauthenticated attackers to hijack authentication session cookies from vulnerable devices. [...]",
@@ -53,13 +67,6 @@
     "link": "https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html",
     "summary": "Cybersecurity researchers have uncovered a fresh batch of malicious npm packages linked to the ongoing Contagious Interview operation originating from North Korea.\nAccording to Socket, the ongoing supply chain attack involves 35 malicious packages that were uploaded from 24 npm accounts. These packa",
     "published": "2025-06-25T08:12:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options",
-    "link": "https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html",
-    "summary": "Microsoft on Tuesday announced that it's extending Windows 10 Extended Security Updates (ESU) for an extra year by letting users either pay a small fee of $30 or by sync their PC settings to the cloud.\nThe development comes ahead of the tech giant's upcoming October 14, 2025, deadline, when it plans",
-    "published": "2025-06-25T05:10:00",
     "source": "HackerNews"
   }
 ]
