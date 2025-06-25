@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options",
+    "link": "https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html",
+    "summary": "Microsoft on Tuesday announced that it's extending Windows 10 Extended Security Updates (ESU) for an extra year by letting users either pay a small fee of $30 or by sync their PC settings to the cloud.\nThe development comes ahead of the tech giant's upcoming October 14, 2025, deadline, when it plans",
+    "published": "2025-06-25T05:10:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Google rolls out text-to-image model Imagen 4 for free",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/",
     "summary": "Google confirmed that Imagen 4, which is the company's state-of-the-art text-to-image, is rolling out for free, but only on AI Studio. [...]",
@@ -33,12 +40,5 @@
     "summary": "The United States Embassy in India has announced that applicants for F, M, and J nonimmigrant visas should make their social media accounts public.\nThe new guideline seeks to help officials verify the identity and eligibility of applicants under U.S. law. The U.S. Embassy said every visa application",
     "published": "2025-06-24T18:47:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Windows 10 KB5061087 update released with 13 changes and fixes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5061087-update-released-with-13-changes-and-fixes/",
-    "summary": "Microsoft has released the June 2025 non-security preview update for Windows 10, version 22H2, with fixes for bugs preventing the Start Menu from launching and breaking scanning features on USB multi-function printers. [...]",
-    "published": "2025-06-24T18:07:43",
-    "source": "BleepingComputer"
   }
 ]
