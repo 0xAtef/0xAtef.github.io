@@ -82,12 +82,5 @@
     "summary": "Thousands of personal records allegedly linked to athletes and visitors of the Saudi Games have been published online by a pro-Iranian hacktivist group called Cyber Fattah.\nCybersecurity company Resecurity said the breach was announced on Telegram on June 22, 2025, in the form of SQL database dumps,",
     "published": "2025-06-25T11:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Beware the Hidden Risk in Your Entra Environment",
-    "link": "https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html",
-    "summary": "If you invite guest users into your Entra ID tenant, you may be opening yourself up to a surprising risk.&nbsp;\nA gap in access control in Microsoft Entra\u2019s subscription handling is allowing guest users to create and transfer subscriptions into the tenant they are invited into, while maintaining ful",
-    "published": "2025-06-25T10:30:00",
-    "source": "HackerNews"
   }
 ]
