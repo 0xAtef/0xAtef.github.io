@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [New &#39;CitrixBleed 2&#39; NetScaler flaw let hackers hijack sessions](https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/) — 2025-10-25
 - **Bleeping Computer**: [BreachForums hacking forum operators reportedly arrested in France](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/) — 2025-25-25
 - **The Hacker News**: [Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure](https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html) — 2025-37-25
 - **The Hacker News**: [Pro-Iranian Hacktivist Group Leaks Personal Records from the 2024 Saudi Games](https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html) — 2025-00-25
