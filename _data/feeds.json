@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackers turn ScreenConnect into malware using Authenticode stuffing",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/",
+    "summary": "Threat actors are abusing the ConnectWise ScreenConnect installer to build signed remote access malware by modifying hidden settings within the client's\u00a0\u00a0Authenticode signature. [...]",
+    "published": "2025-06-25T21:51:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks",
     "link": "https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/",
     "summary": "A sophisticated malicious campaign that researchers call OneClik has been leveraging Microsoft's ClickOnce software deployment tool and custom Golang backdoors to compromise organizations within the energy, oil, and gas sectors. [...]",
