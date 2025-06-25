@@ -1,5 +1,12 @@
 [
   {
+    "title": "Citrix warns of NetScaler vulnerability exploited in DoS attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/",
+    "summary": "Citrix is warning that a vulnerability in NetScaler appliances tracked as\u00a0CVE-2025-6543 is being actively exploited in the wild, causing devices to enter a denial of service condition. [...]",
+    "published": "2025-06-25T17:35:55",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery",
     "link": "https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html",
     "summary": "New research has uncovered continued risk from a known security weakness in Microsoft's Entra ID, potentially enabling malicious actors to achieve account takeovers in susceptible software-as-a-service (SaaS) applications.\nIdentity security company Semperis, in an analysis of 104 SaaS applications, ",
