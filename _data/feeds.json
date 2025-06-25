@@ -40,26 +40,5 @@
     "summary": "Microsoft has released the June 2025 non-security preview update for Windows 10, version 22H2, with fixes for bugs preventing the Start Menu from launching and breaking scanning features on USB multi-function printers. [...]",
     "published": "2025-06-24T18:07:43",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft fixes known issue that breaks Windows 11 updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/",
-    "summary": "Microsoft is rolling out a configuration update designed to address a known issue causing Windows Update to fail on some Windows 11 systems. [...]",
-    "published": "2025-06-24T17:13:30",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Windows 10 users can get extended security updates using Microsoft points",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/",
-    "summary": "Microsoft says Windows 10 home users who want to delay switching to Windows 11 can enroll in the\u00a0Extended Security Updates (ESU) program\u00a0at no additional cost using Microsoft Rewards points or enabling\u00a0Windows Backup to sync their data to the cloud. [...]",
-    "published": "2025-06-24T17:00:00",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Trezor\u2019s support platform abused in crypto theft phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/",
-    "summary": "Trezor is alerting users about a phishing campaign that abuses its automated support system to send deceptive emails from its official platform. [...]",
-    "published": "2025-06-24T16:54:16",
-    "source": "BleepingComputer"
   }
 ]
