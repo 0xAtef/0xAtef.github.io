@@ -82,19 +82,5 @@
     "summary": "Legacy pentests give you a snapshot. Attackers see a live stream. Sprocket's Continuous Penetration Testing (CPT) mimics real-world attackers\u2014daily, not annually\u2014so you can fix what matters, faster. Learn why CPT is the future. [...]",
     "published": "2025-06-24T14:01:11",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "US House bans WhatsApp on staff devices over security concerns",
-    "link": "https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/",
-    "summary": "The U.S. House of Representatives has banned the installation and use of WhatsApp on government-issued devices belonging to congressional staff, citing concerns over how the app encrypts and secures data. [...]",
-    "published": "2025-06-24T13:43:53",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers",
-    "link": "https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html",
-    "summary": "Unidentified threat actors have been observed targeting publicly exposed Microsoft Exchange servers to inject malicious code into the login pages that harvest their credentials.\nPositive Technologies, in a new analysis published last week, said it identified two different kinds of keylogger code wri",
-    "published": "2025-06-24T13:26:00",
-    "source": "HackerNews"
   }
 ]
