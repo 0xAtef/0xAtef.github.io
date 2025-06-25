@@ -1,5 +1,12 @@
 [
   {
+    "title": "BreachForums hacking forum operators reportedly arrested in France",
+    "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/",
+    "summary": "The French police have reportedly arrested five operators of the BreachForum cybercrime forum, a\u00a0website used by cybercriminals to leak and sell stolen data that exposed the sensitive information of millions. [...]",
+    "published": "2025-06-25T14:25:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure",
     "link": "https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html",
     "summary": "Cybersecurity researchers have detailed two now-patched security flaws in SAP Graphical User Interface (GUI) for Windows and Java that, if successfully exploited, could have enabled attackers to access sensitive information under certain conditions.\nThe vulnerabilities, tracked as CVE-2025-0055 and ",
