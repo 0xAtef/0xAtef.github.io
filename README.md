@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [BreachForums hacking forum operators reportedly arrested in France](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/) — 2025-25-25
 - **The Hacker News**: [Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure](https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html) — 2025-37-25
 - **The Hacker News**: [Pro-Iranian Hacktivist Group Leaks Personal Records from the 2024 Saudi Games](https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html) — 2025-00-25
 - **The Hacker News**: [Beware the Hidden Risk in Your Entra Environment](https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html) — 2025-30-25
@@ -65,8 +66,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [U.S. House Bans WhatsApp on Official Devices Over Security and Data Protection Issues](https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html) — 2025-16-24
 - **The Hacker News**: [APT28 Uses Signal Chat to Deploy BEARDSHELL Malware and COVENANT in Ukraine](https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html) — 2025-06-24
 - **The Hacker News**: [China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom](https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html) — 2025-00-24
-- **Bleeping Computer**: [APT28 hackers use Signal chats to launch new malware attacks on Ukraine](https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/) — 2025-14-23
-- **Bleeping Computer**: [Malware on Google Play, Apple App Store stole your photos—and crypto](https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/) — 2025-44-23
 - **The Hacker News**: [Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content](https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html) — 2025-58-23
 - **The Hacker News**: [DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes](https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html) — 2025-14-23
 - **The Hacker News**: [XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks](https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html) — 2025-12-23
