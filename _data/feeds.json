@@ -1,5 +1,19 @@
 [
   {
+    "title": "New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions",
+    "link": "https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/",
+    "summary": "A recent vulnerability in Citrix NetScaler ADC and Gateway is dubbed \"CitrixBleed 2,\" after its similarity to an older exploited flaw that allowed unauthenticated attackers to hijack authentication session cookies from vulnerable devices. [...]",
+    "published": "2025-06-25T16:10:37",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC",
+    "link": "https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html",
+    "summary": "Citrix has released security updates to address a critical flaw affecting NetScaler ADC that it said has been exploited in the wild.\nThe vulnerability, tracked as CVE-2025-6543, carries a CVSS score of 9.2 out of a maximum of 10.0.\nIt has been described as a case of memory overflow that could result",
+    "published": "2025-06-25T14:51:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "BreachForums hacking forum operators reportedly arrested in France",
     "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/",
     "summary": "The French police have reportedly arrested five operators of the BreachForum cybercrime forum, a\u00a0website used by cybercriminals to leak and sell stolen data that exposed the sensitive information of millions. [...]",
