@@ -82,12 +82,5 @@
     "summary": "Unknown threat actors have been distributing a trojanized version of SonicWall's SSL VPN NetExtender application to steal credentials from unsuspecting users who may have installed it.\n\"NetExtender enables remote users to securely connect and run applications on the company network,\" SonicWall resea",
     "published": "2025-06-25T08:45:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages",
-    "link": "https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html",
-    "summary": "Cybersecurity researchers have uncovered a fresh batch of malicious npm packages linked to the ongoing Contagious Interview operation originating from North Korea.\nAccording to Socket, the ongoing supply chain attack involves 35 malicious packages that were uploaded from 24 npm accounts. These packa",
-    "published": "2025-06-25T08:12:00",
-    "source": "HackerNews"
   }
 ]
