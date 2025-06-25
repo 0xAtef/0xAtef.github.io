@@ -1,5 +1,12 @@
 [
   {
+    "title": "North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages",
+    "link": "https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html",
+    "summary": "Cybersecurity researchers have uncovered a fresh batch of malicious npm packages linked to the ongoing Contagious Interview operation originating from North Korea.\nAccording to Socket, the ongoing supply chain attack involves 35 malicious packages that were uploaded from 24 npm accounts. These packa",
+    "published": "2025-06-25T08:12:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options",
     "link": "https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html",
     "summary": "Microsoft on Tuesday announced that it's extending Windows 10 Extended Security Updates (ESU) for an extra year by letting users either pay a small fee of $30 or by sync their PC settings to the cloud.\nThe development comes ahead of the tech giant's upcoming October 14, 2025, deadline, when it plans",
