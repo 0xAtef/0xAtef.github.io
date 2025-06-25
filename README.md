@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages](https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html) — 2025-12-25
 - **The Hacker News**: [Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options](https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html) — 2025-10-25
 - **Bleeping Computer**: [Google rolls out text-to-image model Imagen 4 for free](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/) — 2025-36-24
 - **Bleeping Computer**: [Claude catches up to ChatGPT with built-in memory support](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/) — 2025-52-24
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [U.S. Seizes $7.74M in Crypto Tied to North Korea’s Global Fake IT Worker Network](https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html) — 2025-49-16
 - **The Hacker News**: [Anubis Ransomware Encrypts and Wipes Files, Making Recovery Impossible Even After Payment](https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html) — 2025-21-16
 - **The Hacker News**: [⚡ Weekly Recap: iPhone Spyware, Microsoft 0-Day, TokenBreak Hack, AI Data Leaks and More](https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html) — 2025-29-16
-- **The Hacker News**: [Playbook: Transforming Your Cybersecurity Practice Into An MRR Machine](https://thehackernews.com/2025/06/playbook-transforming-your.html) — 2025-25-16
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
