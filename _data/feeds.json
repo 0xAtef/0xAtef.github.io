@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft fixes Outlook bug causing crashes when opening emails",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/",
+    "summary": "Microsoft has fixed a known issue that will cause the classic Outlook email client to crash when opening emails or starting a new message. [...]",
+    "published": "2025-06-26T10:26:17",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft confirms Family Safety blocks Google Chrome from launching",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/",
     "summary": "Microsoft has confirmed that\u00a0its Family Safety parental control service is blocking users from launching Google Chrome and other web browsers on Windows systems. [...]",
