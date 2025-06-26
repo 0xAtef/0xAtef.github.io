@@ -1,5 +1,12 @@
 [
   {
+    "title": "British hacker 'IntelBroker' charged with $25M in cybercrime damages",
+    "link": "https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/",
+    "summary": "A British national known online as \"IntelBroker\" has been charged by the U.S. for stealing and selling sensitive data from dozens of victims, causing an estimated $25 million in damages. [...]",
+    "published": "2025-06-25T23:54:22",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hackers turn ScreenConnect into malware using Authenticode stuffing",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/",
     "summary": "Threat actors are abusing the ConnectWise ScreenConnect installer to build signed remote access malware by modifying hidden settings within the client's\u00a0\u00a0Authenticode signature. [...]",
@@ -68,12 +75,5 @@
     "summary": "The French police have reportedly arrested five operators of the BreachForum cybercrime forum, a\u00a0website used by cybercriminals to leak and sell stolen data that exposed the sensitive information of millions. [...]",
     "published": "2025-06-25T14:25:46",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure",
-    "link": "https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html",
-    "summary": "Cybersecurity researchers have detailed two now-patched security flaws in SAP Graphical User Interface (GUI) for Windows and Java that, if successfully exploited, could have enabled attackers to access sensitive information under certain conditions.\nThe vulnerabilities, tracked as CVE-2025-0055 and ",
-    "published": "2025-06-25T13:37:00",
-    "source": "HackerNews"
   }
 ]
