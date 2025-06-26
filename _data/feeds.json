@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa",
+    "link": "https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html",
+    "summary": "Cybersecurity researchers are calling attention to a series of cyber attacks targeting financial organizations across Africa since at least July 2023 using a mix of open-source and publicly available tools to maintain access.\nPalo Alto Networks Unit 42 is tracking the activity under the moniker CL-C",
+    "published": "2025-06-26T07:19:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet",
     "link": "https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three security flaws, each impacting AMI MegaRAC, D-Link DIR-859 router, and Fortinet FortiOS, to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of vulnerabiliti",
