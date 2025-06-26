@@ -42,6 +42,8 @@ Let's connect and share some war stories!
 <!-- BLOG-POST-LIST:START -->
 - **Bleeping Computer**: [Man pleads guilty to hacking networks to pitch security services](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/) — 2025-03-26
 - **Bleeping Computer**: [3 key takeaways from the Scattered Spider attacks on insurance firms](https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/) — 2025-02-26
+- **The Hacker News**: [Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access](https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html) — 2025-24-26
+- **The Hacker News**: [New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks](https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html) — 2025-03-26
 - **Bleeping Computer**: [Microsoft 365 &#39;Direct Send&#39; abused to send phishing as internal users](https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/) — 2025-00-26
 - **The Hacker News**: [The Hidden Risks of SaaS: Why Built-In Protections Aren&#39;t Enough for Modern Data Resilience](https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html) — 2025-00-26
 - **Bleeping Computer**: [Microsoft fixes Outlook bug causing crashes when opening emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/) — 2025-26-26
@@ -101,8 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents](https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html) — 2025-43-18
 - **The Hacker News**: [Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication](https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html) — 2025-49-18
 - **The Hacker News**: [Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict](https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html) — 2025-35-18
-- **The Hacker News**: [Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html) — 2025-16-17
-- **The Hacker News**: [LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html) — 2025-33-17
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
