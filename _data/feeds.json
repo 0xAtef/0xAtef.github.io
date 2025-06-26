@@ -1,5 +1,19 @@
 [
   {
+    "title": "Iranian APT35 Hackers Targeting Israeli Tech Experts with AI-Powered Phishing Attacks",
+    "link": "https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html",
+    "summary": "An Iranian state-sponsored hacking group associated with the Islamic Revolutionary Guard Corps (IRGC) has been linked to a spear-phishing campaign targeting journalists, high-profile cyber security experts, and computer science professors in Israel.\n\"In some of those campaigns, Israeli technology an",
+    "published": "2025-06-26T08:45:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "CISA: AMI MegaRAC bug enabling server hijacks exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/",
+    "summary": "CISA says a maximum severity vulnerability in AMI's MegaRAC Baseboard Management Controller (BMC) software, which enables attackers to hijack and brick servers, is currently under active exploitation. [...]",
+    "published": "2025-06-26T08:38:05",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa",
     "link": "https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html",
     "summary": "Cybersecurity researchers are calling attention to a series of cyber attacks targeting financial organizations across Africa since at least July 2023 using a mix of open-source and publicly available tools to maintain access.\nPalo Alto Networks Unit 42 is tracking the activity under the moniker CL-C",
@@ -32,13 +46,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/",
     "summary": "Threat actors are abusing the ConnectWise ScreenConnect installer to build signed remote access malware by modifying hidden settings within the client's\u00a0\u00a0Authenticode signature. [...]",
     "published": "2025-06-25T21:51:46",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/",
-    "summary": "A sophisticated malicious campaign that researchers call OneClik has been leveraging Microsoft's ClickOnce software deployment tool and custom Golang backdoors to compromise organizations within the energy, oil, and gas sectors. [...]",
-    "published": "2025-06-25T20:34:38",
     "source": "BleepingComputer"
   }
 ]
