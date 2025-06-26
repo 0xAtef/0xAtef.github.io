@@ -41,6 +41,7 @@ Let's connect and share some war stories!
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - **Bleeping Computer**: [Brother printer bug in 689 models exposes default admin passwords](https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/) — 2025-10-26
+- **The Hacker News**: [Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks](https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html) — 2025-46-26
 - **Bleeping Computer**: [Ex-student charged over hacking university for cheap parking, data breaches](https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/) — 2025-24-26
 - **Bleeping Computer**: [Cisco warns of max severity RCE flaws in Identity Services Engine](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-rce-flaws-in-identity-services-engine/) — 2025-20-26
 - **Bleeping Computer**: [Man pleads guilty to hacking networks to pitch security services](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/) — 2025-03-26
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability](https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html) — 2025-43-18
 - **The Hacker News**: [Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents](https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html) — 2025-43-18
 - **The Hacker News**: [Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication](https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html) — 2025-49-18
-- **The Hacker News**: [Iran Slows Internet to Prevent Cyber Attacks Amid Escalating Regional Conflict](https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html) — 2025-35-18
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
