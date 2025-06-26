@@ -54,12 +54,5 @@
     "summary": "WinRAR has addressed a directory traversal vulnerability tracked as CVE-2025-6218 that, under certain circumstances, allows malware to be executed after extracting a malicious archive. [...]",
     "published": "2025-06-25T16:55:14",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions",
-    "link": "https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/",
-    "summary": "A recent vulnerability in Citrix NetScaler ADC and Gateway is dubbed \"CitrixBleed 2,\" after its similarity to an older exploited flaw that allowed unauthenticated attackers to hijack authentication session cookies from vulnerable devices. [...]",
-    "published": "2025-06-25T16:10:37",
-    "source": "BleepingComputer"
   }
 ]
