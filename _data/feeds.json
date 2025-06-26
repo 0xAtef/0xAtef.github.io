@@ -1,5 +1,19 @@
 [
   {
+    "title": "Man pleads guilty to hacking networks to pitch security services",
+    "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/",
+    "summary": "A Kansas City man has pleaded guilty to hacking multiple organizations to advertise his cybersecurity services, the U.S. Department of Justice announced on Wednesday. [...]",
+    "published": "2025-06-26T14:03:40",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "3 key takeaways from the Scattered Spider attacks on insurance firms",
+    "link": "https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/",
+    "summary": "Identity is the new battleground\u2014and Scattered Spider exploits it. Join Push Security to unpack how identity-based attacks are reshaping the threat landscape, and how to defend against MFA bypass, help desk scams, and more. Watch the webinar now. [...]",
+    "published": "2025-06-26T14:02:12",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft 365 'Direct Send' abused to send phishing as internal users",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/",
     "summary": "An ongoing phishing campaign abuses a little\u2011known feature in Microsoft 365 called \"Direct Send\" to evade detection by email security and steal credentials. [...]",
