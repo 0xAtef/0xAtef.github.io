@@ -96,12 +96,5 @@
     "summary": "CISA says a maximum severity vulnerability in AMI's MegaRAC Baseboard Management Controller (BMC) software, which enables attackers to hijack and brick servers, is currently under active exploitation. [...]",
     "published": "2025-06-26T08:38:05",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa",
-    "link": "https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html",
-    "summary": "Cybersecurity researchers are calling attention to a series of cyber attacks targeting financial organizations across Africa since at least July 2023 using a mix of open-source and publicly available tools to maintain access.\nPalo Alto Networks Unit 42 is tracking the activity under the moniker CL-C",
-    "published": "2025-06-26T07:19:00",
-    "source": "HackerNews"
   }
 ]
