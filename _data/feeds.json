@@ -1,5 +1,12 @@
 [
   {
+    "title": "WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews",
+    "link": "https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html",
+    "summary": "Popular messaging platform WhatsApp has added a new artificial intelligence (AI)-powered feature that leverages its in-house solution Meta AI to summarize unread messages in chats.\nThe feature, called Message Summaries, is currently rolling out in the English language to users in the United States, ",
+    "published": "2025-06-26T04:36:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Hacker 'IntelBroker' charged in US for global data theft breaches",
     "link": "https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/",
     "summary": "A British national known online as \"IntelBroker\" has been charged by the U.S. for stealing and selling sensitive data from dozens of victims, causing an estimated $25 million in damages. [...]",
@@ -25,13 +32,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/",
     "summary": "A new wave of North Korea's 'Contagious Interview' campaign is targeting job seekers with malicious npm packages that infect dev's devices with infostealers and backdoors. [...]",
     "published": "2025-06-25T19:24:12",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Google releases Gemini CLI with free Gemini 2.5 Pro",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/",
-    "summary": "Google has released Gemini 2.5 Pro-powered Gemini CLI, which allows you to use Gemini inside your terminal, including Windows Terminal. [...]",
-    "published": "2025-06-25T17:53:28",
     "source": "BleepingComputer"
   }
 ]
