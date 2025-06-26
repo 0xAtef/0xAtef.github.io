@@ -1,5 +1,12 @@
 [
   {
+    "title": "FTC approves $126 million in Fortnite refunds over \u2018dark patterns\u2019",
+    "link": "https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/",
+    "summary": "The Federal Trade Commission (FTC) has approved $126,000,000 in refunds to be sent to 969,173 Fortnite players as part of a settlement over allegations that Epic Games tricked users into making\u00a0unwanted purchases. [...]",
+    "published": "2025-06-26T20:27:08",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Brother printer bug in 689 models exposes default admin passwords",
     "link": "https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/",
     "summary": "A total of 689 printer models from Brother, along with 53 other models from Fujifilm, Toshiba, and Konica Minolta, come with a default administrator password that remote attackers can generate. Even worse, there is no way to fix the flaw via firmware in existing printers. [...]",
@@ -89,12 +96,5 @@
     "summary": "An Iranian state-sponsored hacking group associated with the Islamic Revolutionary Guard Corps (IRGC) has been linked to a spear-phishing campaign targeting journalists, high-profile cyber security experts, and computer science professors in Israel.\n\"In some of those campaigns, Israeli technology an",
     "published": "2025-06-26T08:45:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "CISA: AMI MegaRAC bug enabling server hijacks exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/",
-    "summary": "CISA says a maximum severity vulnerability in AMI's MegaRAC Baseboard Management Controller (BMC) software, which enables attackers to hijack and brick servers, is currently under active exploitation. [...]",
-    "published": "2025-06-26T08:38:05",
-    "source": "BleepingComputer"
   }
 ]
