@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Man pleads guilty to hacking networks to pitch security services](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/) — 2025-03-26
+- **Bleeping Computer**: [3 key takeaways from the Scattered Spider attacks on insurance firms](https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/) — 2025-02-26
+- **Bleeping Computer**: [Microsoft 365 &#39;Direct Send&#39; abused to send phishing as internal users](https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/) — 2025-00-26
 - **The Hacker News**: [The Hidden Risks of SaaS: Why Built-In Protections Aren&#39;t Enough for Modern Data Resilience](https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html) — 2025-00-26
 - **Bleeping Computer**: [Microsoft fixes Outlook bug causing crashes when opening emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/) — 2025-26-26
 - **Bleeping Computer**: [Microsoft confirms Family Safety blocks Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/) — 2025-50-26
@@ -56,16 +59,13 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Citrix warns of NetScaler vulnerability exploited in DoS attacks](https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/) — 2025-35-25
 - **The Hacker News**: [nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery](https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html) — 2025-56-25
 - **Bleeping Computer**: [WinRAR patches bug letting malware launch from extracted archives](https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/) — 2025-55-25
-- **Bleeping Computer**: [New &#39;CitrixBleed 2&#39; NetScaler flaw let hackers hijack sessions](https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/) — 2025-10-25
 - **The Hacker News**: [Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC](https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html) — 2025-51-25
-- **Bleeping Computer**: [BreachForums hacking forum operators reportedly arrested in France](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/) — 2025-25-25
 - **The Hacker News**: [Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure](https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html) — 2025-37-25
 - **The Hacker News**: [Pro-Iranian Hacktivist Group Leaks Personal Records from the 2024 Saudi Games](https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html) — 2025-00-25
 - **The Hacker News**: [Beware the Hidden Risk in Your Entra Environment](https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html) — 2025-30-25
 - **The Hacker News**: [SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks](https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html) — 2025-45-25
 - **The Hacker News**: [North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages](https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html) — 2025-12-25
 - **The Hacker News**: [Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options](https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html) — 2025-10-25
-- **Bleeping Computer**: [Google rolls out text-to-image model Imagen 4 for free](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/) — 2025-36-24
 - **The Hacker News**: [New U.S. Visa Rule Requires Applicants to Set Social Media Account Privacy to Public](https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html) — 2025-47-24
 - **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
 - **The Hacker News**: [Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers](https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html) — 2025-26-24
