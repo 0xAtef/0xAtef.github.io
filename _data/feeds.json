@@ -33,12 +33,5 @@
     "summary": "Google has released Gemini 2.5 Pro-powered Gemini CLI, which allows you to use Gemini inside your terminal, including Windows Terminal. [...]",
     "published": "2025-06-25T17:53:28",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Citrix warns of NetScaler vulnerability exploited in DoS attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/",
-    "summary": "Citrix is warning that a vulnerability in NetScaler appliances tracked as\u00a0CVE-2025-6543 is being actively exploited in the wild, causing devices to enter a denial of service condition. [...]",
-    "published": "2025-06-25T17:35:55",
-    "source": "BleepingComputer"
   }
 ]
