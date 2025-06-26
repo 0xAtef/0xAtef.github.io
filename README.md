@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews](https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html) — 2025-36-26
 - **Bleeping Computer**: [Hacker &#39;IntelBroker&#39; charged in US for global data theft breaches](https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/) — 2025-54-25
 - **Bleeping Computer**: [Hackers turn ScreenConnect into malware using Authenticode stuffing](https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/) — 2025-51-25
 - **Bleeping Computer**: [Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks](https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/) — 2025-34-25
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms](https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html) — 2025-53-17
 - **The Hacker News**: [Are Forgotten AD Service Accounts Leaving You at Risk?](https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html) — 2025-25-17
 - **The Hacker News**: [Hard-Coded &#39;b&#39; Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments](https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html) — 2025-33-17
-- **The Hacker News**: [Backups Are Under Attack: How to Protect Your Backups](https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html) — 2025-30-17
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
