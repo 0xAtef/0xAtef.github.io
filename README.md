@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft fixes Outlook bug causing crashes when opening emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/) — 2025-26-26
 - **Bleeping Computer**: [Microsoft confirms Family Safety blocks Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/) — 2025-50-26
 - **The Hacker News**: [Iranian APT35 Hackers Targeting Israeli Tech Experts with AI-Powered Phishing Attacks](https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html) — 2025-45-26
 - **Bleeping Computer**: [CISA: AMI MegaRAC bug enabling server hijacks exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/) — 2025-38-26
@@ -64,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages](https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html) — 2025-12-25
 - **The Hacker News**: [Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options](https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html) — 2025-10-25
 - **Bleeping Computer**: [Google rolls out text-to-image model Imagen 4 for free](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/) — 2025-36-24
-- **Bleeping Computer**: [Claude catches up to ChatGPT with built-in memory support](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/) — 2025-52-24
 - **The Hacker News**: [New U.S. Visa Rule Requires Applicants to Set Social Media Account Privacy to Public](https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html) — 2025-47-24
 - **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
 - **The Hacker News**: [Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers](https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html) — 2025-26-24
