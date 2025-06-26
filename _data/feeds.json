@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft confirms Family Safety blocks Google Chrome from launching",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/",
+    "summary": "Microsoft has confirmed that\u00a0its Family Safety parental control service is blocking users from launching Google Chrome and other web browsers on Windows systems. [...]",
+    "published": "2025-06-26T09:50:18",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Iranian APT35 Hackers Targeting Israeli Tech Experts with AI-Powered Phishing Attacks",
     "link": "https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html",
     "summary": "An Iranian state-sponsored hacking group associated with the Islamic Revolutionary Guard Corps (IRGC) has been linked to a spear-phishing campaign targeting journalists, high-profile cyber security experts, and computer science professors in Israel.\n\"In some of those campaigns, Israeli technology an",
@@ -39,13 +46,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/",
     "summary": "A British national known online as \"IntelBroker\" has been charged by the U.S. for stealing and selling sensitive data from dozens of victims, causing an estimated $25 million in damages. [...]",
     "published": "2025-06-25T23:54:22",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers turn ScreenConnect into malware using Authenticode stuffing",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/",
-    "summary": "Threat actors are abusing the ConnectWise ScreenConnect installer to build signed remote access malware by modifying hidden settings within the client's\u00a0\u00a0Authenticode signature. [...]",
-    "published": "2025-06-25T21:51:46",
     "source": "BleepingComputer"
   }
 ]
