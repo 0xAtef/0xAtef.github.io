@@ -68,12 +68,5 @@
     "summary": "An ongoing phishing campaign abuses a little\u2011known feature in Microsoft 365 called \"Direct Send\" to evade detection by email security and steal credentials. [...]",
     "published": "2025-06-26T13:00:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "The Hidden Risks of SaaS: Why Built-In Protections Aren't Enough for Modern Data Resilience",
-    "link": "https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html",
-    "summary": "SaaS Adoption is Skyrocketing, Resilience Hasn\u2019t Kept Pace\nSaaS platforms have revolutionized how businesses operate. They simplify collaboration, accelerate deployment, and reduce the overhead of managing infrastructure. But with their rise comes a subtle, dangerous assumption: that the convenience",
-    "published": "2025-06-26T11:00:00",
-    "source": "HackerNews"
   }
 ]
