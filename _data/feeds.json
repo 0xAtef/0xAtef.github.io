@@ -33,12 +33,5 @@
     "summary": "A sophisticated malicious campaign that researchers call OneClik has been leveraging Microsoft's ClickOnce software deployment tool and custom Golang backdoors to compromise organizations within the energy, oil, and gas sectors. [...]",
     "published": "2025-06-25T20:34:38",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New wave of \u2018fake interviews\u2019 use 35 npm packages to spread malware",
-    "link": "https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/",
-    "summary": "A new wave of North Korea's 'Contagious Interview' campaign is targeting job seekers with malicious npm packages that infect dev's devices with infostealers and backdoors. [...]",
-    "published": "2025-06-25T19:24:12",
-    "source": "BleepingComputer"
   }
 ]
