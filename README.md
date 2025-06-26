@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [FTC approves $126 million in Fortnite refunds over ‘dark patterns’](https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/) — 2025-27-26
 - **Bleeping Computer**: [Brother printer bug in 689 models exposes default admin passwords](https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/) — 2025-10-26
 - **The Hacker News**: [Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks](https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html) — 2025-46-26
 - **Bleeping Computer**: [Ex-student charged over hacking university for cheap parking, data breaches](https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/) — 2025-24-26
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Hacker &#39;IntelBroker&#39; charged in US for global data theft breaches](https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/) — 2025-54-25
 - **Bleeping Computer**: [Hackers turn ScreenConnect into malware using Authenticode stuffing](https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/) — 2025-51-25
 - **Bleeping Computer**: [Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks](https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/) — 2025-34-25
-- **Bleeping Computer**: [New wave of ‘fake interviews’ use 35 npm packages to spread malware](https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/) — 2025-24-25
 - **The Hacker News**: [nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery](https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html) — 2025-56-25
 - **The Hacker News**: [Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC](https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html) — 2025-51-25
 - **The Hacker News**: [Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure](https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html) — 2025-37-25
