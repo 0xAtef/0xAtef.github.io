@@ -1,5 +1,12 @@
 [
   {
+    "title": "Whole Foods supplier UNFI restores core systems after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/",
+    "summary": "American grocery wholesale giant United Natural Foods (UNFI) reports that it has restored its core systems and brought online the electronic ordering and invoicing systems affected by a cyberattack. [...]",
+    "published": "2025-06-27T06:21:49",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hawaiian Airlines discloses cyberattack, flights not affected",
     "link": "https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/",
     "summary": "Hawaiian Airlines, the tenth-largest commercial airline in the United States, is investigating a cyberattack that has disrupted access to some of its systems. [...]",
@@ -11,13 +18,6 @@
     "link": "https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/",
     "summary": "The Federal Trade Commission (FTC) has approved $126,000,000 in refunds to be sent to 969,173 Fortnite players as part of a settlement over allegations that Epic Games tricked users into making\u00a0unwanted purchases. [...]",
     "published": "2025-06-26T20:27:08",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Brother printer bug in 689 models exposes default admin passwords",
-    "link": "https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/",
-    "summary": "A total of 689 printer models from Brother, along with 53 other models from Fujifilm, Toshiba, and Konica Minolta, come with a default administrator password that remote attackers can generate. Even worse, there is no way to fix the flaw via firmware in existing printers. [...]",
-    "published": "2025-06-26T18:10:25",
     "source": "BleepingComputer"
   }
 ]
