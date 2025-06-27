@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign](https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html) — 2025-58-27
 - **Bleeping Computer**: [Russia’s throttling of Cloudflare makes sites inaccessible](https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/) — 2025-47-27
 - **Bleeping Computer**: [Citrix Bleed 2 flaw now believed to be exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/) — 2025-18-27
 - **The Hacker News**: [PUBLOAD and Pubshell Malware Used in Mustang Panda&#39;s Tibet-Specific Attack](https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html) — 2025-25-27
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Meta Adds Passkey Login Support to Facebook for Android and iOS Users](https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html) — 2025-04-19
 - **The Hacker News**: [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html) — 2025-33-19
 - **The Hacker News**: [New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains](https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html) — 2025-41-18
-- **The Hacker News**: [1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub](https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html) — 2025-18-18
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
