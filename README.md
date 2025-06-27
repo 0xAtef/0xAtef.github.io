@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Russia’s throttling of Cloudflare makes sites inaccessible](https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/) — 2025-47-27
 - **Bleeping Computer**: [Citrix Bleed 2 flaw now believed to be exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/) — 2025-18-27
 - **The Hacker News**: [PUBLOAD and Pubshell Malware Used in Mustang Panda&#39;s Tibet-Specific Attack](https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html) — 2025-25-27
 - **The Hacker News**: [Business Case for Agentic AI SOC Analysts](https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html) — 2025-00-27
