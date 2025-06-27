@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retail giant Ahold Delhaize says data breach affects 2.2 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/",
+    "summary": "Ahold Delhaize, one of the world's largest food retail chains, is notifying over 2.2 million individuals that their personal, financial, and health information was stolen in a November ransomware attack that impacted its U.S. systems. [...]",
+    "published": "2025-06-27T09:12:43",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted",
     "link": "https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html",
     "summary": "Threat intelligence firm GreyNoise is warning of a \"notable surge\" in scanning activity targeting Progress MOVEit Transfer systems starting May 27, 2025\u2014suggesting that attackers may be preparing for another mass exploitation campaign or probing for unpatched systems.MOVEit Transfer is a popular man",
