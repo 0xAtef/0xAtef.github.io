@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Business Case for Agentic AI SOC Analysts](https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html) — 2025-00-27
+- **The Hacker News**: [Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit](https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html) — 2025-25-27
 - **Bleeping Computer**: [Retail giant Ahold Delhaize says data breach affects 2.2 million people](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/) — 2025-12-27
 - **The Hacker News**: [MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted](https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html) — 2025-43-27
 - **Bleeping Computer**: [Windows 11 KB5060829 update released with 38 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/) — 2025-28-27
@@ -101,8 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains](https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html) — 2025-41-18
 - **The Hacker News**: [1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub](https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html) — 2025-18-18
 - **The Hacker News**: [FedRAMP at Startup Speed: Lessons Learned](https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html) — 2025-00-18
-- **The Hacker News**: [Water Curse Employs 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign](https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html) — 2025-47-18
-- **The Hacker News**: [CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability](https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html) — 2025-43-18
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
