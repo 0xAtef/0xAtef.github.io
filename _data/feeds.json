@@ -47,12 +47,5 @@
     "summary": "A new campaign has been observed leveraging fake websites advertising popular software such as WPS Office, Sogou, and DeepSeek to deliver Sainbox RAT and the open-source Hidden rootkit.\nThe activity has been attributed with medium confidence to a Chinese hacking group called Silver Fox (aka Void Ara",
     "published": "2025-06-27T10:25:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Retail giant Ahold Delhaize says data breach affects 2.2 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/",
-    "summary": "Ahold Delhaize, one of the world's largest food retail chains, is notifying over 2.2 million individuals that their personal, financial, and health information was stolen in a November ransomware attack that impacted its U.S. systems. [...]",
-    "published": "2025-06-27T09:12:43",
-    "source": "BleepingComputer"
   }
 ]
