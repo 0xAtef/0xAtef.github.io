@@ -1,5 +1,12 @@
 [
   {
+    "title": "MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted",
+    "link": "https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html",
+    "summary": "Threat intelligence firm GreyNoise is warning of a \"notable surge\" in scanning activity targeting Progress MOVEit Transfer systems starting May 27, 2025\u2014suggesting that attackers may be preparing for another mass exploitation campaign or probing for unpatched systems.MOVEit Transfer is a popular man",
+    "published": "2025-06-27T07:43:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Windows 11 KB5060829 update released with 38 new changes, fixes",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/",
     "summary": "\u200b\u200bMicrosoft has released the KB5060829 preview cumulative update for Windows 11 24H2, which includes 38 changes, including improvements to the taskbar and a new PC-to-PC migration experience. [...]",
@@ -25,13 +32,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/",
     "summary": "Hawaiian Airlines, the tenth-largest commercial airline in the United States, is investigating a cyberattack that has disrupted access to some of its systems. [...]",
     "published": "2025-06-27T05:37:04",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "FTC approves $126 million in Fortnite refunds over \u2018dark patterns\u2019",
-    "link": "https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/",
-    "summary": "The Federal Trade Commission (FTC) has approved $126,000,000 in refunds to be sent to 969,173 Fortnite players as part of a settlement over allegations that Epic Games tricked users into making\u00a0unwanted purchases. [...]",
-    "published": "2025-06-26T20:27:08",
     "source": "BleepingComputer"
   }
 ]
