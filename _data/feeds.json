@@ -12,19 +12,5 @@
     "summary": "A total of 689 printer models from Brother, along with 53 other models from Fujifilm, Toshiba, and Konica Minolta, come with a default administrator password that remote attackers can generate. Even worse, there is no way to fix the flaw via firmware in existing printers. [...]",
     "published": "2025-06-26T18:10:25",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks",
-    "link": "https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html",
-    "summary": "Cybersecurity researchers have disclosed a critical vulnerability in the Open VSX Registry (\"open-vsx[.]org\") that, if successfully exploited, could have enabled attackers to take control of the entire Visual Studio Code extensions marketplace, posing a severe supply chain risk.\n\"This vulnerability ",
-    "published": "2025-06-26T16:46:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Ex-student charged over hacking university for cheap parking, data breaches",
-    "link": "https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/",
-    "summary": "New South Wales police in Australia have arrested a 27-year-old former Western Sydney University (WSU) student for allegedly hacking into the University's systems on multiple occasions, starting with a scheme to obtain cheaper parking. [...]",
-    "published": "2025-06-26T16:24:59",
-    "source": "BleepingComputer"
   }
 ]
