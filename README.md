@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Retail giant Ahold Delhaize says data breach affects 2.2 million people](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/) — 2025-12-27
 - **The Hacker News**: [MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted](https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html) — 2025-43-27
 - **Bleeping Computer**: [Windows 11 KB5060829 update released with 38 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/) — 2025-28-27
 - **The Hacker News**: [OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors](https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html) — 2025-31-27
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft fixes Outlook bug causing crashes when opening emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/) — 2025-26-26
 - **Bleeping Computer**: [Microsoft confirms Family Safety blocks Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/) — 2025-50-26
 - **The Hacker News**: [Iranian APT35 Hackers Targeting Israeli Tech Experts with AI-Powered Phishing Attacks](https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html) — 2025-45-26
-- **Bleeping Computer**: [CISA: AMI MegaRAC bug enabling server hijacks exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/) — 2025-38-26
 - **The Hacker News**: [Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa](https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html) — 2025-19-26
 - **The Hacker News**: [CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet](https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html) — 2025-02-26
 - **The Hacker News**: [WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews](https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html) — 2025-36-26
