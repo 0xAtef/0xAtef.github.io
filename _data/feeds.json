@@ -61,12 +61,5 @@
     "summary": "Threat intelligence firm GreyNoise is warning of a \"notable surge\" in scanning activity targeting Progress MOVEit Transfer systems starting May 27, 2025\u2014suggesting that attackers may be preparing for another mass exploitation campaign or probing for unpatched systems.MOVEit Transfer is a popular man",
     "published": "2025-06-27T07:43:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Windows 11 KB5060829 update released with 38 new changes, fixes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/",
-    "summary": "\u200b\u200bMicrosoft has released the KB5060829 preview cumulative update for Windows 11 24H2, which includes 38 changes, including improvements to the taskbar and a new PC-to-PC migration experience. [...]",
-    "published": "2025-06-27T07:28:59",
-    "source": "BleepingComputer"
   }
 ]
