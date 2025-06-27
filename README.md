@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Whole Foods supplier UNFI restores core systems after cyberattack](https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/) — 2025-21-27
 - **Bleeping Computer**: [Hawaiian Airlines discloses cyberattack, flights not affected](https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/) — 2025-37-27
 - **Bleeping Computer**: [FTC approves $126 million in Fortnite refunds over ‘dark patterns’](https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/) — 2025-27-26
 - **Bleeping Computer**: [Brother printer bug in 689 models exposes default admin passwords](https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/) — 2025-10-26
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet](https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html) — 2025-02-26
 - **The Hacker News**: [WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews](https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html) — 2025-36-26
 - **Bleeping Computer**: [Hacker &#39;IntelBroker&#39; charged in US for global data theft breaches](https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/) — 2025-54-25
-- **Bleeping Computer**: [Hackers turn ScreenConnect into malware using Authenticode stuffing](https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/) — 2025-51-25
 - **The Hacker News**: [nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery](https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html) — 2025-56-25
 - **The Hacker News**: [Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC](https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html) — 2025-51-25
 - **The Hacker News**: [Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure](https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html) — 2025-37-25
