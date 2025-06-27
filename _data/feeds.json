@@ -47,26 +47,5 @@
     "summary": "Scattered Spider recently pivoted from targeting worldwide retailers to U.S. based insurance firms, with no signs of slowing down. Learn about Scattered Spider TTPs and how to defend your organization against MFA bypass, help desk scams, and more. [...]",
     "published": "2025-06-26T14:02:12",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access",
-    "link": "https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html",
-    "summary": "Cisco has released updates to address two maximum-severity security flaws in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) that could permit an unauthenticated attacker to execute arbitrary commands as the root user.\nThe vulnerabilities, assigned the CVE identifiers CVE",
-    "published": "2025-06-26T13:24:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks",
-    "link": "https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html",
-    "summary": "The ClickFix social engineering tactic as an initial access vector using fake CAPTCHA verifications increased by 517% between the second half of 2024 and the first half of this year, according to data from ESET.\n\"The list of threats that ClickFix attacks lead to is growing by the day, including info",
-    "published": "2025-06-26T13:03:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft 365 'Direct Send' abused to send phishing as internal users",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/",
-    "summary": "An ongoing phishing campaign abuses a little\u2011known feature in Microsoft 365 called \"Direct Send\" to evade detection by email security and steal credentials. [...]",
-    "published": "2025-06-26T13:00:00",
-    "source": "BleepingComputer"
   }
 ]
