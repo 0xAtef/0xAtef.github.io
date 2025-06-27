@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Windows 11 KB5060829 update released with 38 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/) — 2025-28-27
+- **The Hacker News**: [OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors](https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html) — 2025-31-27
 - **Bleeping Computer**: [Whole Foods supplier UNFI restores core systems after cyberattack](https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/) — 2025-21-27
 - **Bleeping Computer**: [Hawaiian Airlines discloses cyberattack, flights not affected](https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/) — 2025-37-27
 - **Bleeping Computer**: [FTC approves $126 million in Fortnite refunds over ‘dark patterns’](https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/) — 2025-27-26
@@ -60,7 +62,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa](https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html) — 2025-19-26
 - **The Hacker News**: [CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet](https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html) — 2025-02-26
 - **The Hacker News**: [WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews](https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html) — 2025-36-26
-- **Bleeping Computer**: [Hacker &#39;IntelBroker&#39; charged in US for global data theft breaches](https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/) — 2025-54-25
 - **The Hacker News**: [nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery](https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html) — 2025-56-25
 - **The Hacker News**: [Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC](https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html) — 2025-51-25
 - **The Hacker News**: [Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure](https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html) — 2025-37-25
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Water Curse Employs 76 GitHub Accounts to Deliver Multi-Stage Malware Campaign](https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html) — 2025-47-18
 - **The Hacker News**: [CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability](https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html) — 2025-43-18
 - **The Hacker News**: [Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents](https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html) — 2025-43-18
-- **The Hacker News**: [Veeam Patches CVE-2025-23121: Critical RCE Bug Rated 9.9 CVSS in Backup &amp; Replication](https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html) — 2025-49-18
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
