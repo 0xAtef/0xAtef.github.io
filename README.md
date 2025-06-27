@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [PUBLOAD and Pubshell Malware Used in Mustang Panda&#39;s Tibet-Specific Attack](https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html) — 2025-25-27
 - **The Hacker News**: [Business Case for Agentic AI SOC Analysts](https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html) — 2025-00-27
 - **The Hacker News**: [Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit](https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html) — 2025-25-27
 - **Bleeping Computer**: [Retail giant Ahold Delhaize says data breach affects 2.2 million people](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/) — 2025-12-27
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft 365 &#39;Direct Send&#39; abused to send phishing as internal users](https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/) — 2025-00-26
 - **The Hacker News**: [The Hidden Risks of SaaS: Why Built-In Protections Aren&#39;t Enough for Modern Data Resilience](https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html) — 2025-00-26
 - **Bleeping Computer**: [Microsoft fixes Outlook bug causing crashes when opening emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/) — 2025-26-26
-- **Bleeping Computer**: [Microsoft confirms Family Safety blocks Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/) — 2025-50-26
 - **The Hacker News**: [Iranian APT35 Hackers Targeting Israeli Tech Experts with AI-Powered Phishing Attacks](https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html) — 2025-45-26
 - **The Hacker News**: [Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa](https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html) — 2025-19-26
 - **The Hacker News**: [CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet](https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html) — 2025-02-26
@@ -102,7 +102,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html) — 2025-33-19
 - **The Hacker News**: [New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains](https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html) — 2025-41-18
 - **The Hacker News**: [1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub](https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html) — 2025-18-18
-- **The Hacker News**: [FedRAMP at Startup Speed: Lessons Learned](https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html) — 2025-00-18
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
