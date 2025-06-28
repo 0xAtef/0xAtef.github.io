@@ -19,12 +19,5 @@
     "summary": "Starting June 9, 2025, Russian internet service providers (ISPs) have begun throttling access to websites and services protected by Cloudflare, an American internet giant. [...]",
     "published": "2025-06-27T15:47:15",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Citrix Bleed 2 flaw now believed to be exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/",
-    "summary": "A critical NetScaler ADC and Gateway vulnerability dubbed \"Citrix Bleed 2\" (CVE-2025-5777) is now likely exploited in attacks, according to cybersecurity firm ReliaQuest, seeing an increase in suspicious sessions on Citrix devices. [...]",
-    "published": "2025-06-27T14:18:09",
-    "source": "BleepingComputer"
   }
 ]
