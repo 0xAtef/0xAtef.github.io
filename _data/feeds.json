@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "title": "GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool",
+    "link": "https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html",
+    "summary": "The threat actor behind the GIFTEDCROOK malware has made significant updates to turn the malicious program from a basic browser data stealer to a potent intelligence-gathering tool.\n\"Recent campaigns in June 2025 demonstrate GIFTEDCROOK's enhanced ability to exfiltrate a broad range of sensitive doc",
+    "published": "2025-06-28T07:58:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Facebook\u2019s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns",
+    "link": "https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html",
+    "summary": "Facebook, the social network platform owned by Meta, is asking for users to upload pictures from their phones to suggest collages, recaps, and other ideas using artificial intelligence (AI), including those that have not been directly uploaded to the service.\nAccording to TechCrunch, which first rep",
+    "published": "2025-06-28T07:19:00",
+    "source": "HackerNews"
+  }
+]
