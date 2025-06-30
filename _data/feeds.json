@@ -89,12 +89,5 @@
     "summary": "Over 1,200 Citrix NetScaler ADC and NetScaler Gateway appliances exposed online are unpatched against a critical vulnerability believed to be actively exploited, allowing threat actors to bypass authentication by hijacking user sessions. [...]",
     "published": "2025-06-30T11:47:38",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories",
-    "link": "https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html",
-    "summary": "Identity-based attacks are on the rise. Attacks in which malicious actors assume the identity of an entity to easily gain access to resources and sensitive data have been increasing in number and frequency over the last few years. Some recent reports estimate that 83% of attacks involve compromised ",
-    "published": "2025-06-30T11:00:00",
-    "source": "HackerNews"
   }
 ]
