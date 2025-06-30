@@ -42,6 +42,7 @@ Let's connect and share some war stories!
 <!-- BLOG-POST-LIST:START -->
 - **Bleeping Computer**: [Hikvision Canada ordered to cease operations over security risks](https://www.bleepingcomputer.com/news/security/hikvision-canada-ordered-to-cease-operations-over-security-risks/) — 2025-11-30
 - **Bleeping Computer**: [Microsoft warns of Windows update delays due to wrong timestamp](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/) — 2025-48-30
+- **The Hacker News**: [Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks](https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html) — 2025-30-30
 - **Bleeping Computer**: [Europol helps disrupt $540 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/) — 2025-20-30
 - **Bleeping Computer**: [FBI: Cybercriminals steal health data posing as fraud investigators](https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/) — 2025-42-30
 - **Bleeping Computer**: [Over 1,200 Citrix servers unpatched against critical auth bypass flaw](https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/) — 2025-47-30
@@ -101,7 +102,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers](https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html) — 2025-41-20
 - **The Hacker News**: [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html) — 2025-23-19
 - **The Hacker News**: [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html) — 2025-38-19
-- **The Hacker News**: [Secure Vibe Coding: The Complete New Guide](https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html) — 2025-25-19
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
