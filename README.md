@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Over 1,200 Citrix servers unpatched against critical auth bypass flaw](https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/) — 2025-47-30
+- **The Hacker News**: [Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories](https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html) — 2025-00-30
+- **The Hacker News**: [⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more](https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html) — 2025-16-30
 - **Bleeping Computer**: [Google rolls out Veo 3 video generator, try it for free using credits](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/) — 2025-38-29
 - **Bleeping Computer**: [Bluetooth flaws could let hackers spy through your microphone](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/) — 2025-03-29
 - **Bleeping Computer**: [Cloudflare open-sources Orange Meets with End-to-End encryption](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/) — 2025-11-29
@@ -59,8 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Windows 11 KB5060829 update released with 38 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/) — 2025-28-27
 - **The Hacker News**: [OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors](https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html) — 2025-31-27
 - **Bleeping Computer**: [Whole Foods supplier UNFI restores core systems after cyberattack](https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/) — 2025-21-27
-- **Bleeping Computer**: [Hawaiian Airlines discloses cyberattack, flights not affected](https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/) — 2025-37-27
-- **Bleeping Computer**: [FTC approves $126 million in Fortnite refunds over ‘dark patterns’](https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/) — 2025-27-26
 - **The Hacker News**: [Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks](https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html) — 2025-46-26
 - **The Hacker News**: [Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access](https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html) — 2025-24-26
 - **The Hacker News**: [New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks](https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html) — 2025-03-26
@@ -100,8 +101,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html) — 2025-23-19
 - **The Hacker News**: [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html) — 2025-38-19
 - **The Hacker News**: [Secure Vibe Coding: The Complete New Guide](https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html) — 2025-25-19
-- **The Hacker News**: [Uncover LOTS Attacks Hiding in Trusted Tools — Learn How in This Free Expert Session](https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html) — 2025-00-19
-- **The Hacker News**: [Russian APT29 Exploits Gmail App Passwords to Bypass 2FA in Targeted Phishing Campaign](https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html) — 2025-06-19
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
