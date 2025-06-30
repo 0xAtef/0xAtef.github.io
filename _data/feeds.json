@@ -1,9 +1,16 @@
 [
   {
-    "title": "Google rolls out Veo 3 video generator, try it for free using credits",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/",
-    "summary": "Google is rolling out Veo 3 to everyone using Vertex AI, which is an ML-testing platform provided by Google Cloud. [...]",
-    "published": "2025-06-29T23:38:30",
-    "source": "BleepingComputer"
+    "title": "Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories",
+    "link": "https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html",
+    "summary": "Identity-based attacks are on the rise. Attacks in which malicious actors assume the identity of an entity to easily gain access to resources and sensitive data have been increasing in number and frequency over the last few years. Some recent reports estimate that 83% of attacks involve compromised ",
+    "published": "2025-06-30T11:00:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more",
+    "link": "https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html",
+    "summary": "Ever wonder what happens when attackers don\u2019t break the rules\u2014they just follow them better than we do? When systems work exactly as they\u2019re built to, but that \u201cby design\u201d behavior quietly opens the door to risk?\nThis week brings stories that make you stop and rethink what\u2019s truly under control. It\u2019s",
+    "published": "2025-06-30T10:16:00",
+    "source": "HackerNews"
   }
 ]
