@@ -12,12 +12,5 @@
     "summary": "Vulnerabilities affecting a Bluetooth chipset present in more than two dozen audio devices from ten vendors can be exploited for eavesdropping or stealing sensitive information. [...]",
     "published": "2025-06-29T16:03:19",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Cloudflare open-sources Orange Meets with End-to-End encryption",
-    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/",
-    "summary": "Cloudflare has implemented end-to-end encryption (E2EE) to its video calling app Orange Meets and open-sourced the solution\u00a0for transparency. [...]",
-    "published": "2025-06-29T14:11:21",
-    "source": "BleepingComputer"
   }
 ]
