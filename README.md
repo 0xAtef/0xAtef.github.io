@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Hikvision Canada ordered to cease operations over security risks](https://www.bleepingcomputer.com/news/security/hikvision-canada-ordered-to-cease-operations-over-security-risks/) — 2025-11-30
+- **Bleeping Computer**: [Microsoft warns of Windows update delays due to wrong timestamp](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/) — 2025-48-30
 - **Bleeping Computer**: [Europol helps disrupt $540 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/) — 2025-20-30
 - **Bleeping Computer**: [FBI: Cybercriminals steal health data posing as fraud investigators](https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/) — 2025-42-30
 - **Bleeping Computer**: [Over 1,200 Citrix servers unpatched against critical auth bypass flaw](https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/) — 2025-47-30
@@ -59,7 +61,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [PUBLOAD and Pubshell Malware Used in Mustang Panda&#39;s Tibet-Specific Attack](https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html) — 2025-25-27
 - **The Hacker News**: [Business Case for Agentic AI SOC Analysts](https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html) — 2025-00-27
 - **The Hacker News**: [Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit](https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html) — 2025-25-27
-- **Bleeping Computer**: [Retail giant Ahold Delhaize says data breach affects 2.2 million people](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/) — 2025-12-27
 - **The Hacker News**: [MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted](https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html) — 2025-43-27
 - **The Hacker News**: [OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors](https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html) — 2025-31-27
 - **The Hacker News**: [Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks](https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html) — 2025-46-26
