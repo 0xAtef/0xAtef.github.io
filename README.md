@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft Defender for Office 365 now blocks email bombing attacks](https://www.bleepingcomputer.com/news/security/microsoft-defender-for-office-365-now-blocks-email-bombing-attacks/) — 2025-04-30
+- **Bleeping Computer**: [Switzerland says government data stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/) — 2025-39-30
+- **The Hacker News**: [Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects](https://thehackernews.com/2025/06/europol-dismantles-540-million.html) — 2025-17-30
 - **Bleeping Computer**: [Hikvision Canada ordered to cease operations over security risks](https://www.bleepingcomputer.com/news/security/hikvision-canada-ordered-to-cease-operations-over-security-risks/) — 2025-11-30
 - **Bleeping Computer**: [Microsoft warns of Windows update delays due to wrong timestamp](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/) — 2025-48-30
 - **The Hacker News**: [Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks](https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html) — 2025-30-30
@@ -57,8 +60,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html) — 2025-19-28
 - **Bleeping Computer**: [Scattered Spider hackers shift focus to aviation, transportation firms](https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-shift-focus-to-aviation-transportation-firms/) — 2025-20-27
 - **The Hacker News**: [Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign](https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html) — 2025-58-27
-- **Bleeping Computer**: [Russia’s throttling of Cloudflare makes sites inaccessible](https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/) — 2025-47-27
-- **Bleeping Computer**: [Citrix Bleed 2 flaw now believed to be exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/) — 2025-18-27
 - **The Hacker News**: [PUBLOAD and Pubshell Malware Used in Mustang Panda&#39;s Tibet-Specific Attack](https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html) — 2025-25-27
 - **The Hacker News**: [Business Case for Agentic AI SOC Analysts](https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html) — 2025-00-27
 - **The Hacker News**: [Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit](https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html) — 2025-25-27
@@ -101,7 +102,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider](https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html) — 2025-36-20
 - **The Hacker News**: [200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers](https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html) — 2025-41-20
 - **The Hacker News**: [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html) — 2025-23-19
-- **The Hacker News**: [BlueNoroff Deepfake Zoom Scam Hits Crypto Employee with macOS Backdoor Malware](https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html) — 2025-38-19
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
