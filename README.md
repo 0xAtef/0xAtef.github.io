@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [U.S. Agencies Warn of Rising Iranian Cyberattacks on Defense, OT Networks, and Critical Infrastructure](https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html) — 2025-29-30
 - **Bleeping Computer**: [Microsoft Defender for Office 365 now blocks email bombing attacks](https://www.bleepingcomputer.com/news/security/microsoft-defender-for-office-365-now-blocks-email-bombing-attacks/) — 2025-04-30
 - **Bleeping Computer**: [Switzerland says government data stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/) — 2025-39-30
 - **The Hacker News**: [Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects](https://thehackernews.com/2025/06/europol-dismantles-540-million.html) — 2025-17-30
@@ -101,7 +102,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [6 Steps to 24/7 In-House SOC Success](https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html) — 2025-00-20
 - **The Hacker News**: [Massive 7.3 Tbps DDoS Attack Delivers 37.4 TB in 45 Seconds, Targeting Hosting Provider](https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html) — 2025-36-20
 - **The Hacker News**: [200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers](https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html) — 2025-41-20
-- **The Hacker News**: [New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft](https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html) — 2025-23-19
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
