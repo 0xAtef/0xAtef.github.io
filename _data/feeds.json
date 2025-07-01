@@ -14,6 +14,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status",
+    "link": "https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html",
+    "summary": "A new study of integrated development environments (IDEs) like Microsoft Visual Studio Code, Visual Studio, IntelliJ IDEA, and Cursor has revealed weaknesses in how they handle the extension verification process, ultimately enabling attackers to execute malicious code on developer machines.\n\"We disc",
+    "published": "2025-07-01T13:51:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Esse Health says recent data breach affects over 263,000 patients",
     "link": "https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/",
     "summary": "Esse Health, a healthcare provider based in St. Louis, Missouri, is notifying over 263,000 patients that their personal and health information was stolen in an April cyberattack. [...]",
