@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google fixes fourth actively exploited Chrome zero-day of 2025",
+    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/",
+    "summary": "Google has released\u00a0emergency updates to patch another Chrome zero-day vulnerability exploited in attacks, marking the fourth such flaw fixed since the start of the year. [...]",
+    "published": "2025-07-01T10:59:51",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google Patches Critical Zero-Day Flaw in Chrome\u2019s V8 Engine After Active Exploitation",
     "link": "https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html",
     "summary": "Google has released security updates to address a vulnerability in its Chrome browser for which an exploit exists in the wild.\nThe zero-day vulnerability, tracked as CVE-2025-6554 (CVSS score: N/A), has been described as a type confusing flaw in the V8 JavaScript and WebAssembly engine.\n\"Type confus",
