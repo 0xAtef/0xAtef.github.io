@@ -54,40 +54,5 @@
     "summary": "The Canadian government has ordered Hikvision's subsidiary in the country to cease all operations following a review that determined them to pose\u00a0a national security risk. [...]",
     "published": "2025-06-30T14:11:17",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft warns of Windows update delays due to wrong timestamp",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/",
-    "summary": "Microsoft has confirmed a new known issue causing delivery delays for June 2025 Windows security updates due to an incorrect metadata timestamp. [...]",
-    "published": "2025-06-30T13:48:49",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks",
-    "link": "https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html",
-    "summary": "The threat actor known as Blind Eagle has been attributed with high confidence to the use of the Russian bulletproof hosting service Proton66.\nTrustwave SpiderLabs, in a report published last week, said it was able to make this connection by pivoting from Proton66-linked digital assets, leading to t",
-    "published": "2025-06-30T13:30:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Europol helps disrupt $540 million crypto investment fraud ring",
-    "link": "https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/",
-    "summary": "Spanish authorities have arrested five individuals in Madrid and the Canary Islands, suspected of laundering $540\u00a0million (\u20ac460 million) from illegal cryptocurrency investment schemes and defrauding more than 5,000 victims. [...]",
-    "published": "2025-06-30T13:20:58",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "FBI: Cybercriminals steal health data posing as fraud investigators",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/",
-    "summary": "The Federal Bureau of Investigation (FBI) has warned Americans of cybercriminals impersonating health fraud investigators to steal their sensitive information. [...]",
-    "published": "2025-06-30T12:42:01",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Over 1,200 Citrix servers unpatched against critical auth bypass flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/",
-    "summary": "Over 1,200 Citrix NetScaler ADC and NetScaler Gateway appliances exposed online are unpatched against a critical vulnerability believed to be actively exploited, allowing threat actors to bypass authentication by hijacking user sessions. [...]",
-    "published": "2025-06-30T11:47:38",
-    "source": "BleepingComputer"
   }
 ]
