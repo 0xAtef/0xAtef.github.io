@@ -40,8 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Johnson Controls starts notifying people affected by 2023 breach](https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/) — 2025-47-01
+- **The Hacker News**: [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html) — 2025-00-01
 - **Bleeping Computer**: [Google fixes fourth actively exploited Chrome zero-day of 2025](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/) — 2025-59-01
-- **The Hacker News**: [Google Patches Critical Zero-Day Flaw in Chrome’s V8 Engine After Active Exploitation](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html) — 2025-55-01
+- **The Hacker News**: [Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html) — 2025-55-01
 - **The Hacker News**: [U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms](https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html) — 2025-53-01
 - **The Hacker News**: [Microsoft Removes Password Management from Authenticator App Starting August 2025](https://thehackernews.com/2025/07/microsoft-removes-password-management.html) — 2025-21-01
 - **Bleeping Computer**: [U.S. warns of Iranian cyber threats on critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-cyber-threats-on-critical-infrastructure/) — 2025-24-30
@@ -61,7 +63,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more](https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html) — 2025-16-30
 - **Bleeping Computer**: [Google rolls out Veo 3 video generator, try it for free using credits](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/) — 2025-38-29
 - **Bleeping Computer**: [Bluetooth flaws could let hackers spy through your microphone](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/) — 2025-03-29
-- **Bleeping Computer**: [Cloudflare open-sources Orange Meets with End-to-End encryption](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/) — 2025-11-29
 - **The Hacker News**: [FBI Warns of Scattered Spider&#39;s Expanding Attacks on Airlines Using Social Engineering](https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html) — 2025-48-28
 - **The Hacker News**: [GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool](https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html) — 2025-58-28
 - **The Hacker News**: [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html) — 2025-19-28
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html) — 2025-30-23
 - **The Hacker News**: [Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html) — 2025-44-21
 - **The Hacker News**: [Qilin Ransomware Adds &quot;Call Lawyer&quot; Feature to Pressure Victims for Larger Ransoms](https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html) — 2025-35-20
-- **The Hacker News**: [Iran&#39;s State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist](https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html) — 2025-54-20
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
