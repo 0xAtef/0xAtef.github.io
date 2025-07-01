@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [US disrupts North Korean IT worker &quot;laptop farm&quot; scheme in 16 states](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-it-worker-laptop-farm-scheme-in-16-states/) — 2025-56-01
 - **Bleeping Computer**: [Esse Health says recent data breach affects over 263,000 patients](https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/) — 2025-04-01
 - **Bleeping Computer**: [Johnson Controls starts notifying people affected by 2023 breach](https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/) — 2025-47-01
 - **The Hacker News**: [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html) — 2025-00-01
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Over 1,200 Citrix servers unpatched against critical auth bypass flaw](https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/) — 2025-47-30
 - **The Hacker News**: [Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories](https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html) — 2025-00-30
 - **The Hacker News**: [⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more](https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html) — 2025-16-30
-- **Bleeping Computer**: [Google rolls out Veo 3 video generator, try it for free using credits](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/) — 2025-38-29
 - **The Hacker News**: [FBI Warns of Scattered Spider&#39;s Expanding Attacks on Airlines Using Social Engineering](https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html) — 2025-48-28
 - **The Hacker News**: [GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool](https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html) — 2025-58-28
 - **The Hacker News**: [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html) — 2025-19-28
