@@ -1,5 +1,12 @@
 [
   {
+    "title": "Johnson Controls starts notifying people affected by 2023 breach",
+    "link": "https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/",
+    "summary": "Building automation giant Johnson Controls is notifying individuals whose data was stolen in a massive ransomware attack that impacted the company's operations worldwide in September 2023. [...]",
+    "published": "2025-07-01T11:47:26",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "A New Maturity Model for Browser Security: Closing the Last-Mile Risk",
     "link": "https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html",
     "summary": "Despite years of investment in Zero Trust, SSE, and endpoint protection, many enterprises are still leaving one critical layer exposed: the browser.\nIt\u2019s where 85% of modern work now happens. It\u2019s also where copy/paste actions, unsanctioned GenAI usage, rogue extensions, and personal devices create ",
