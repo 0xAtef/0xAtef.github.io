@@ -96,12 +96,5 @@
     "summary": "Google has released\u00a0emergency updates to patch another Chrome zero-day vulnerability exploited in attacks, marking the fourth such flaw fixed since the start of the year. [...]",
     "published": "2025-07-01T10:59:51",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Chrome Zero-Day CVE-2025-6554 Under Active Attack \u2014 Google Issues Security Update",
-    "link": "https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html",
-    "summary": "Google has released security updates to address a vulnerability in its Chrome browser for which an exploit exists in the wild.\nThe zero-day vulnerability, tracked as CVE-2025-6554 (CVSS score: N/A), has been described as a type confusing flaw in the V8 JavaScript and WebAssembly engine.\n\"Type confus",
-    "published": "2025-07-01T08:55:00",
-    "source": "HackerNews"
   }
 ]
