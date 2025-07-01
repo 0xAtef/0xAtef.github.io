@@ -1,5 +1,12 @@
 [
   {
+    "title": "AT&T rolls out \"Wireless Lock\" feature to block SIM swap attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/",
+    "summary": "AT&amp;T has launched a new security feature called \"Wireless Lock\" that protects customers from SIM swapping attacks by preventing changes to their account information and the porting of phone numbers while the feature is enabled. [...]",
+    "published": "2025-07-01T20:23:03",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft open-sources VS Code Copilot Chat extension on GitHub",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/",
     "summary": "Microsoft has released the source code for the GitHub Copilot Chat extension for VS Code under the MIT license. [...]",
@@ -95,13 +102,6 @@
     "link": "https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html",
     "summary": "Google has released security updates to address a vulnerability in its Chrome browser for which an exploit exists in the wild.\nThe zero-day vulnerability, tracked as CVE-2025-6554 (CVSS score: N/A), has been described as a type confusing flaw in the V8 JavaScript and WebAssembly engine.\n\"Type confus",
     "published": "2025-07-01T08:55:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms",
-    "link": "https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html",
-    "summary": "The U.S. Department of Justice (DoJ) on Monday announced sweeping actions targeting the North Korean information technology (IT) worker scheme, leading to the arrest of one individual and the seizure of 29 financial accounts, 21 fraudulent websites, and nearly 200 computers.\nThe coordinated action s",
-    "published": "2025-07-01T07:53:00",
     "source": "HackerNews"
   }
 ]
