@@ -1,5 +1,26 @@
 [
   {
+    "title": "Aeza Group sanctioned for hosting ransomware, infostealer servers",
+    "link": "https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/",
+    "summary": "The U.S. Department of the Treasury has sanctioned Russian hosting company Aeza Group and four operators for allegedly acting as a bulletproof hosting company for ransomware gangs, infostealer operations, darknet drug markets, and Russian disinformation campaigns. [...]",
+    "published": "2025-07-01T17:09:11",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "New FileFix attack runs JScript while bypassing Windows MoTW alerts",
+    "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/",
+    "summary": "A new FileFix attack allows executing malicious scripts while bypassing the Mark of the Web (MoTW) protection in Windows by exploiting how browsers handle saved HTML webpages. [...]",
+    "published": "2025-07-01T16:37:46",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns",
+    "link": "https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html",
+    "summary": "Cybersecurity researchers have flagged the tactical similarities between the threat actors behind the RomCom RAT and a cluster that has been observed delivering a loader dubbed TransferLoader.\nEnterprise security firm Proofpoint is tracking the activity associated with TransferLoader to a group dubb",
+    "published": "2025-07-01T16:26:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "International Criminal Court hit by new 'sophisticated' cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/international-criminal-court-hit-by-new-sophisticated-cyberattack/",
     "summary": "On Monday, the International Criminal Court (ICC) announced that it's investigating a new \"sophisticated\" cyberattack that targeted its systems last week. [...]",
