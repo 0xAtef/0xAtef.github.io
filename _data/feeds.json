@@ -19,19 +19,5 @@
     "summary": "Agents with the Federal Bureau of Investigation (FBI) briefed Capitol Hill staff recently on hardening the security of their mobile devices, after a contacts list stolen from the personal phone of the White House Chief of Staff Susie Wiles was reportedly used to fuel a series of text messages and ph",
     "published": "2025-06-30T17:33:59",
     "source": "Krebs"
-  },
-  {
-    "title": "U.S. Agencies Warn of Rising Iranian Cyberattacks on Defense, OT Networks, and Critical Infrastructure",
-    "link": "https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html",
-    "summary": "U.S. cybersecurity and intelligence agencies have issued a joint advisory warning of potential cyber-attacks from Iranian state-sponsored or affiliated threat actors.&nbsp;\n\"Over the past several months, there has been increasing activity from hacktivists and Iranian government-affiliated actors, wh",
-    "published": "2025-06-30T16:29:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft Defender for Office 365 now blocks email bombing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-for-office-365-now-blocks-email-bombing-attacks/",
-    "summary": "Microsoft says its Defender for Office 365 cloud-based email security suite will now automatically detect and block email bombing attacks. [...]",
-    "published": "2025-06-30T16:04:20",
-    "source": "BleepingComputer"
   }
 ]
