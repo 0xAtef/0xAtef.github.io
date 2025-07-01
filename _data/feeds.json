@@ -82,19 +82,5 @@
     "summary": "Building automation giant Johnson Controls is notifying individuals whose data was stolen in a massive ransomware attack that impacted the company's operations worldwide in September 2023. [...]",
     "published": "2025-07-01T11:47:26",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "A New Maturity Model for Browser Security: Closing the Last-Mile Risk",
-    "link": "https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html",
-    "summary": "Despite years of investment in Zero Trust, SSE, and endpoint protection, many enterprises are still leaving one critical layer exposed: the browser.\nIt\u2019s where 85% of modern work now happens. It\u2019s also where copy/paste actions, unsanctioned GenAI usage, rogue extensions, and personal devices create ",
-    "published": "2025-07-01T11:00:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Google fixes fourth actively exploited Chrome zero-day of 2025",
-    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/",
-    "summary": "Google has released\u00a0emergency updates to patch another Chrome zero-day vulnerability exploited in attacks, marking the fourth such flaw fixed since the start of the year. [...]",
-    "published": "2025-07-01T10:59:51",
-    "source": "BleepingComputer"
   }
 ]
