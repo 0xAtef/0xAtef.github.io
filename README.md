@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Esse Health says recent data breach affects over 263,000 patients](https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/) — 2025-04-01
 - **Bleeping Computer**: [Johnson Controls starts notifying people affected by 2023 breach](https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/) — 2025-47-01
 - **The Hacker News**: [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html) — 2025-00-01
 - **Bleeping Computer**: [Google fixes fourth actively exploited Chrome zero-day of 2025](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/) — 2025-59-01
@@ -49,7 +50,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [U.S. warns of Iranian cyber threats on critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-cyber-threats-on-critical-infrastructure/) — 2025-24-30
 - **Bleeping Computer**: [Germany asks Google, Apple to remove DeepSeek AI from app stores](https://www.bleepingcomputer.com/news/security/germany-asks-google-apple-remove-deepseek-ai-from-app-stores/) — 2025-03-30
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
-- **The Hacker News**: [U.S. Agencies Warn of Rising Iranian Cyberattacks on Defense, OT Networks, and Critical Infrastructure](https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html) — 2025-29-30
+- **The Hacker News**: [U.S. Agencies Warn of Rising Iranian Cyber Attacks on Defense, OT Networks, and Critical Infrastructure](https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html) — 2025-29-30
 - **Bleeping Computer**: [Microsoft Defender for Office 365 now blocks email bombing attacks](https://www.bleepingcomputer.com/news/security/microsoft-defender-for-office-365-now-blocks-email-bombing-attacks/) — 2025-04-30
 - **Bleeping Computer**: [Switzerland says government data stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/) — 2025-39-30
 - **The Hacker News**: [Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects](https://thehackernews.com/2025/06/europol-dismantles-540-million.html) — 2025-17-30
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories](https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html) — 2025-00-30
 - **The Hacker News**: [⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more](https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html) — 2025-16-30
 - **Bleeping Computer**: [Google rolls out Veo 3 video generator, try it for free using credits](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/) — 2025-38-29
-- **Bleeping Computer**: [Bluetooth flaws could let hackers spy through your microphone](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/) — 2025-03-29
 - **The Hacker News**: [FBI Warns of Scattered Spider&#39;s Expanding Attacks on Airlines Using Social Engineering](https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html) — 2025-48-28
 - **The Hacker News**: [GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool](https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html) — 2025-58-28
 - **The Hacker News**: [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html) — 2025-19-28
