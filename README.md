@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Google fixes fourth actively exploited Chrome zero-day of 2025](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/) — 2025-59-01
 - **The Hacker News**: [Google Patches Critical Zero-Day Flaw in Chrome’s V8 Engine After Active Exploitation](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html) — 2025-55-01
 - **The Hacker News**: [U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms](https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html) — 2025-53-01
 - **The Hacker News**: [Microsoft Removes Password Management from Authenticator App Starting August 2025](https://thehackernews.com/2025/07/microsoft-removes-password-management.html) — 2025-21-01
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Google rolls out Veo 3 video generator, try it for free using credits](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/) — 2025-38-29
 - **Bleeping Computer**: [Bluetooth flaws could let hackers spy through your microphone](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/) — 2025-03-29
 - **Bleeping Computer**: [Cloudflare open-sources Orange Meets with End-to-End encryption](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/) — 2025-11-29
-- **Bleeping Computer**: [Let’s Encrypt ends certificate expiry emails to cut costs, boost privacy](https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/) — 2025-09-28
 - **The Hacker News**: [FBI Warns of Scattered Spider&#39;s Expanding Attacks on Airlines Using Social Engineering](https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html) — 2025-48-28
 - **The Hacker News**: [GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool](https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html) — 2025-58-28
 - **The Hacker News**: [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html) — 2025-19-28
@@ -70,7 +70,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Business Case for Agentic AI SOC Analysts](https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html) — 2025-00-27
 - **The Hacker News**: [Chinese Group Silver Fox Uses Fake Websites to Deliver Sainbox RAT and Hidden Rootkit](https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html) — 2025-25-27
 - **The Hacker News**: [MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted](https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html) — 2025-43-27
-- **The Hacker News**: [OneClik Malware Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors](https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html) — 2025-31-27
+- **The Hacker News**: [OneClik Red Team Campaign Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors](https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html) — 2025-31-27
 - **The Hacker News**: [Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks](https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html) — 2025-46-26
 - **The Hacker News**: [Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access](https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html) — 2025-24-26
 - **The Hacker News**: [New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks](https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html) — 2025-03-26
