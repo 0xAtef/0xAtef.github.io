@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft open-sources VS Code Copilot Chat extension on GitHub](https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/) — 2025-11-01
+- **The Hacker News**: [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html) — 2025-03-01
 - **Bleeping Computer**: [Kelly Benefits says 2024 data breach impacts 550,000 customers](https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/) — 2025-28-01
 - **Bleeping Computer**: [Aeza Group sanctioned for hosting ransomware, infostealer servers](https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/) — 2025-09-01
 - **Bleeping Computer**: [New FileFix attack runs JScript while bypassing Windows MoTW alerts](https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/) — 2025-37-01
@@ -61,8 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft Defender for Office 365 now blocks email bombing attacks](https://www.bleepingcomputer.com/news/security/microsoft-defender-for-office-365-now-blocks-email-bombing-attacks/) — 2025-04-30
 - **Bleeping Computer**: [Switzerland says government data stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/) — 2025-39-30
 - **The Hacker News**: [Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects](https://thehackernews.com/2025/06/europol-dismantles-540-million.html) — 2025-17-30
-- **Bleeping Computer**: [Hikvision Canada ordered to cease operations over security risks](https://www.bleepingcomputer.com/news/security/hikvision-canada-ordered-to-cease-operations-over-security-risks/) — 2025-11-30
-- **Bleeping Computer**: [Microsoft warns of Windows update delays due to wrong timestamp](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/) — 2025-48-30
 - **The Hacker News**: [Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks](https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html) — 2025-30-30
 - **The Hacker News**: [Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories](https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html) — 2025-00-30
 - **The Hacker News**: [⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more](https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html) — 2025-16-30
@@ -104,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks](https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html) — 2025-12-23
 - **The Hacker News**: [How AI-Enabled Workflow Automation Can Help SOCs Reduce Burnout](https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html) — 2025-25-23
 - **The Hacker News**: [Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks](https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html) — 2025-46-23
-- **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, 7.3 Tbps DDoS, MFA Bypass Tricks, Banking Trojan and More](https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html) — 2025-30-23
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
