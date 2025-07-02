@@ -1,10 +1,24 @@
 [
   {
+    "title": "DOJ investigates ex-ransomware negotiator over extortion kickbacks",
+    "link": "https://www.bleepingcomputer.com/news/security/doj-investigates-ex-ransomware-negotiator-over-extortion-kickbacks/",
+    "summary": "An ex-ransomware negotiator is under criminal investigation by the Department of Justice for allegedly working with ransomware gangs to profit from extortion payment deals. [...]",
+    "published": "2025-07-02T19:14:41",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Spain arrests hackers who targeted politicians and journalists",
     "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/",
     "summary": "The Spanish police have arrested two individuals in the province of Las Palmas for their alleged involvement in cybercriminal activity, including data theft from the country's government. [...]",
     "published": "2025-07-02T17:30:05",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign",
+    "link": "https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html",
+    "summary": "Threat actors with ties to North Korea have been observed targeting Web3 and cryptocurrency-related businesses with malware written in the Nim programming language, underscoring a constant evolution of their tactics.\n\"Unusually for macOS malware, the threat actors employ a process injection techniqu",
+    "published": "2025-07-02T17:09:00",
+    "source": "HackerNews"
   },
   {
     "title": "Cisco warns that Unified CM has hardcoded root SSH credentials",
