@@ -12,12 +12,5 @@
     "summary": "Australian airline Qantas disclosed that it detected a cyberattack on Monday after threat actors gained access to a third-party platform containing\u00a0customer data. [...]",
     "published": "2025-07-02T00:54:45",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "AT&T rolls out \"Wireless Lock\" feature to block SIM swap attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/",
-    "summary": "AT&amp;T has launched a new security feature called \"Wireless Lock\" that protects customers from SIM swapping attacks by preventing changes to their account information and the porting of phone numbers while the feature is enabled. [...]",
-    "published": "2025-07-01T20:23:03",
-    "source": "BleepingComputer"
   }
 ]
