@@ -1,5 +1,12 @@
 [
   {
+    "title": "Dozens of fake wallet add-ons flood Firefox store to drain crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/",
+    "summary": "More than\u00a040 fake extensions in Firefox's official add-ons store are impersonating popular cryptocurrency wallets from trusted providers to steal wallet credentials and sensitive data. [...]",
+    "published": "2025-07-02T13:16:01",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Grok 4 spotted ahead of launch with special coding features",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/",
     "summary": "Elon Musk-funded xAI is skipping Grok 3.5 and releasing Grok 4 after Independence Day in the United States. [...]",
@@ -40,12 +47,5 @@
     "summary": "Unknown threat actors have been observed weaponizing v0, a generative artificial intelligence (AI) tool from Vercel, to design fake sign-in pages that impersonate their legitimate counterparts.\n\"This observation signals a new evolution in the weaponization of Generative AI by threat actors who have ",
     "published": "2025-07-02T05:48:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Qantas discloses cyberattack amid Scattered Spider aviation breaches",
-    "link": "https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/",
-    "summary": "Australian airline Qantas disclosed that it detected a cyberattack on Monday after threat actors gained access to a third-party platform containing\u00a0customer data. [...]",
-    "published": "2025-07-02T00:54:45",
-    "source": "BleepingComputer"
   }
 ]
