@@ -1,5 +1,12 @@
 [
   {
+    "title": "Forminator plugin flaw exposes WordPress sites to takeover attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/",
+    "summary": "The Forminator plugin for WordPress is vulnerable to an unauthenticated arbitrary file deletion flaw that could enable full site takeover attacks. [...]",
+    "published": "2025-07-02T15:38:32",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Microsoft fixes \u2018Print to PDF\u2019 feature broken by Windows update",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/",
     "summary": "Microsoft has fixed a known bug that breaks the 'Print to PDF' feature on Windows 11 24H2 systems after installing the April 2025 preview update. [...]",
