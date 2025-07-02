@@ -75,19 +75,5 @@
     "summary": "Microsoft is working to fix a DNS misconfiguration that is causing one-time passcode (OTP) message delivery failures in Exchange Online for some users. [...]",
     "published": "2025-07-02T12:21:59",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat",
-    "link": "https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html",
-    "summary": "With nearly 80% of cyber threats now mimicking legitimate user behavior, how are top SOCs determining what\u2019s legitimate traffic and what is potentially dangerous?\nWhere do you turn when firewalls and endpoint detection and response (EDR) fall short at detecting the most important threats to your org",
-    "published": "2025-07-02T11:00:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns",
-    "link": "https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html",
-    "summary": "Cybersecurity researchers are calling attention to phishing campaigns that impersonate popular brands and trick targets into calling phone numbers operated by threat actors.\n\"A significant portion of email threats with PDF payloads persuade victims to call adversary-controlled phone numbers, display",
-    "published": "2025-07-02T10:45:00",
-    "source": "HackerNews"
   }
 ]
