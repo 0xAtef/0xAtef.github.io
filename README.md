@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Dozens of fake wallet add-ons flood Firefox store to drain crypto](https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/) — 2025-16-02
+- **Bleeping Computer**: [Grok 4 spotted ahead of launch with special coding features](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/) — 2025-22-02
+- **Bleeping Computer**: [Microsoft: DNS issue blocks delivery of Exchange Online OTP codes](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/) — 2025-21-02
 - **The Hacker News**: [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html) — 2025-00-02
 - **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
 - **The Hacker News**: [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html) — 2025-56-02
@@ -58,12 +61,9 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Esse Health says recent data breach affects over 263,000 patients](https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/) — 2025-04-01
 - **Bleeping Computer**: [Johnson Controls starts notifying people affected by 2023 breach](https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/) — 2025-47-01
 - **The Hacker News**: [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html) — 2025-00-01
-- **Bleeping Computer**: [Google fixes fourth actively exploited Chrome zero-day of 2025](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-actively-exploited-chrome-zero-day-of-2025/) — 2025-59-01
 - **The Hacker News**: [Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html) — 2025-55-01
 - **The Hacker News**: [U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms](https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html) — 2025-53-01
 - **The Hacker News**: [Microsoft Removes Password Management from Authenticator App Starting August 2025](https://thehackernews.com/2025/07/microsoft-removes-password-management.html) — 2025-21-01
-- **Bleeping Computer**: [U.S. warns of Iranian cyber threats on critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-cyber-threats-on-critical-infrastructure/) — 2025-24-30
-- **Bleeping Computer**: [Germany asks Google, Apple to remove DeepSeek AI from app stores](https://www.bleepingcomputer.com/news/security/germany-asks-google-apple-remove-deepseek-ai-from-app-stores/) — 2025-03-30
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **The Hacker News**: [U.S. Agencies Warn of Rising Iranian Cyber Attacks on Defense, OT Networks, and Critical Infrastructure](https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html) — 2025-29-30
 - **The Hacker News**: [Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects](https://thehackernews.com/2025/06/europol-dismantles-540-million.html) — 2025-17-30
