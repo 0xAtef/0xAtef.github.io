@@ -19,12 +19,5 @@
     "summary": "Microsoft has released the source code for the GitHub Copilot Chat extension for VS Code under the MIT license. [...]",
     "published": "2025-07-01T19:11:26",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Critical Vulnerability in Anthropic's MCP Exposes Developer Machines to Remote Exploits",
-    "link": "https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html",
-    "summary": "Cybersecurity researchers have discovered a critical security vulnerability in artificial intelligence (AI) company Anthropic's Model Context Protocol (MCP) Inspector project that could result in remote code execution (RCE) and allow an attacker to gain complete access to the hosts.\nThe vulnerabilit",
-    "published": "2025-07-01T18:03:00",
-    "source": "HackerNews"
   }
 ]
