@@ -1,5 +1,12 @@
 [
   {
+    "title": "Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale",
+    "link": "https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html",
+    "summary": "Unknown threat actors have been observed weaponizing v0, a generative artificial intelligence (AI) tool from Vercel, to design fake sign-in pages that impersonate their legitimate counterparts.\n\"This observation signals a new evolution in the weaponization of Generative AI by threat actors who have ",
+    "published": "2025-07-02T05:48:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Qantas discloses cyberattack amid Scattered Spider aviation breaches",
     "link": "https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/",
     "summary": "Australian airline Qantas disclosed that it detected a cyberattack on Monday after threat actors gained access to a third-party platform containing\u00a0customer data. [...]",
@@ -11,13 +18,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/",
     "summary": "AT&amp;T has launched a new security feature called \"Wireless Lock\" that protects customers from SIM swapping attacks by preventing changes to their account information and the porting of phone numbers while the feature is enabled. [...]",
     "published": "2025-07-01T20:23:03",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft open-sources VS Code Copilot Chat extension on GitHub",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/",
-    "summary": "Microsoft has released the source code for the GitHub Copilot Chat extension for VS Code under the MIT license. [...]",
-    "published": "2025-07-01T19:11:26",
     "source": "BleepingComputer"
   }
 ]
