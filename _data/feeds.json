@@ -1,5 +1,19 @@
 [
   {
+    "title": "Grok 4 spotted ahead of launch with special coding features",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/",
+    "summary": "Elon Musk-funded xAI is skipping Grok 3.5 and releasing Grok 4 after Independence Day in the United States. [...]",
+    "published": "2025-07-02T12:22:34",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Microsoft: DNS issue blocks delivery of Exchange Online OTP codes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/",
+    "summary": "Microsoft is working to fix a DNS misconfiguration that is causing one-time passcode (OTP) message delivery failures in Exchange Online for some users. [...]",
+    "published": "2025-07-02T12:21:59",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat",
     "link": "https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html",
     "summary": "With nearly 80% of cyber threats now mimicking legitimate user behavior, how are top SOCs determining what\u2019s legitimate traffic and what is potentially dangerous?\nWhere do you turn when firewalls and endpoint detection and response (EDR) fall short at detecting the most important threats to your org",
