@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft fixes ‘Print to PDF’ feature broken by Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/) — 2025-52-02
 - **Bleeping Computer**: [Dozens of fake wallet add-ons flood Firefox store to drain crypto](https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/) — 2025-16-02
 - **Bleeping Computer**: [Grok 4 spotted ahead of launch with special coding features](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/) — 2025-22-02
 - **Bleeping Computer**: [Microsoft: DNS issue blocks delivery of Exchange Online OTP codes](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/) — 2025-21-02
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [US disrupts North Korean IT worker &quot;laptop farm&quot; scheme in 16 states](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-it-worker-laptop-farm-scheme-in-16-states/) — 2025-56-01
 - **The Hacker News**: [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html) — 2025-51-01
 - **Bleeping Computer**: [Esse Health says recent data breach affects over 263,000 patients](https://www.bleepingcomputer.com/news/security/esse-health-says-recent-data-breach-affects-over-263-000-patients/) — 2025-04-01
-- **Bleeping Computer**: [Johnson Controls starts notifying people affected by 2023 breach](https://www.bleepingcomputer.com/news/security/johnson-controls-starts-notifying-people-affected-by-2023-breach/) — 2025-47-01
 - **The Hacker News**: [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html) — 2025-00-01
 - **The Hacker News**: [Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html) — 2025-55-01
 - **The Hacker News**: [U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms](https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html) — 2025-53-01
