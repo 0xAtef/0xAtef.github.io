@@ -75,12 +75,5 @@
     "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has levied sanctions against Russia-based bulletproof hosting (BPH) service provider Aeza Group to assist threat actors in their malicious activities and targeting victims in the country and across the world.\nThe sanctions",
     "published": "2025-07-02T08:56:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale",
-    "link": "https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html",
-    "summary": "Unknown threat actors have been observed weaponizing v0, a generative artificial intelligence (AI) tool from Vercel, to design fake sign-in pages that impersonate their legitimate counterparts.\n\"This observation signals a new evolution in the weaponization of Generative AI by threat actors who have ",
-    "published": "2025-07-02T05:48:00",
-    "source": "HackerNews"
   }
 ]
