@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Spain arrests hackers who targeted politicians and journalists](https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/) — 2025-30-02
 - **Bleeping Computer**: [Cisco warns that Unified CM has hardcoded root SSH credentials](https://www.bleepingcomputer.com/news/security/cisco-removes-unified-cm-callManager-backdoor-root-account/) — 2025-08-02
 - **Bleeping Computer**: [Citrix warns of login issues after NetScaler auth bypass patch](https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/) — 2025-19-02
 - **Bleeping Computer**: [Forminator plugin flaw exposes WordPress sites to takeover attacks](https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/) — 2025-38-02
@@ -57,7 +58,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html) — 2025-03-01
 - **Bleeping Computer**: [Kelly Benefits says 2024 data breach impacts 550,000 customers](https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/) — 2025-28-01
 - **Bleeping Computer**: [Aeza Group sanctioned for hosting ransomware, infostealer servers](https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/) — 2025-09-01
-- **Bleeping Computer**: [New FileFix attack runs JScript while bypassing Windows MoTW alerts](https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/) — 2025-37-01
 - **The Hacker News**: [TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns](https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html) — 2025-26-01
 - **The Hacker News**: [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html) — 2025-51-01
 - **The Hacker News**: [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html) — 2025-00-01
