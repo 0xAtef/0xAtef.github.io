@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft fixes \u2018Print to PDF\u2019 feature broken by Windows update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/",
+    "summary": "Microsoft has fixed a known bug that breaks the 'Print to PDF' feature on Windows 11 24H2 systems after installing the April 2025 preview update. [...]",
+    "published": "2025-07-02T13:52:17",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Dozens of fake wallet add-ons flood Firefox store to drain crypto",
     "link": "https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/",
     "summary": "More than\u00a040 fake extensions in Firefox's official add-ons store are impersonating popular cryptocurrency wallets from trusted providers to steal wallet credentials and sensitive data. [...]",
