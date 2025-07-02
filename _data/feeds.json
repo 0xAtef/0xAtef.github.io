@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cisco warns that Unified CM has hardcoded root SSH credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-removes-unified-cm-callManager-backdoor-root-account/",
+    "summary": "Cisco has removed a backdoor account from its Unified Communications Manager (Unified CM), which would have allowed remote attackers to log in to unpatched devices with root privileges. [...]",
+    "published": "2025-07-02T17:08:24",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Citrix warns of login issues after NetScaler auth bypass patch",
     "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/",
     "summary": "Citrix warns that patching recently disclosed vulnerabilities that can be exploited to bypass authentication and launch denial-of-service attacks may also break login pages on NetScaler ADC and Gateway appliances. [...]",
