@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html) — 2025-00-02
+- **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
 - **The Hacker News**: [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html) — 2025-56-02
 - **The Hacker News**: [Vercel&#39;s v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html) — 2025-48-02
 - **Bleeping Computer**: [Qantas discloses cyberattack amid Scattered Spider aviation breaches](https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/) — 2025-54-02
@@ -102,8 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [APT28 Uses Signal Chat to Deploy BEARDSHELL Malware and COVENANT in Ukraine](https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html) — 2025-06-24
 - **The Hacker News**: [China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom](https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html) — 2025-00-24
 - **The Hacker News**: [Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content](https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html) — 2025-58-23
-- **The Hacker News**: [DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes](https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html) — 2025-14-23
-- **The Hacker News**: [XDigo Malware Exploits Windows LNK Flaw in Eastern European Government Attacks](https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html) — 2025-12-23
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
