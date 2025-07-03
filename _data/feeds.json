@@ -47,33 +47,5 @@
     "summary": "The Forminator plugin for WordPress is vulnerable to an unauthenticated arbitrary file deletion flaw that could enable full site takeover attacks. [...]",
     "published": "2025-07-02T15:38:32",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft fixes \u2018Print to PDF\u2019 feature broken by Windows update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/",
-    "summary": "Microsoft has fixed a known bug that breaks the 'Print to PDF' feature on Windows 11 24H2 systems after installing the April 2025 preview update. [...]",
-    "published": "2025-07-02T13:52:17",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Dozens of fake wallet add-ons flood Firefox store to drain crypto",
-    "link": "https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/",
-    "summary": "More than\u00a040 fake extensions in Firefox's official add-ons store are impersonating popular cryptocurrency wallets from trusted providers to steal wallet credentials and sensitive data. [...]",
-    "published": "2025-07-02T13:16:01",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Grok 4 spotted ahead of launch with special coding features",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/",
-    "summary": "Elon Musk-funded xAI is skipping Grok 3.5 and releasing Grok 4 after Independence Day in the United States. [...]",
-    "published": "2025-07-02T12:22:34",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft: DNS issue blocks delivery of Exchange Online OTP codes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/",
-    "summary": "Microsoft is working to fix a DNS misconfiguration that is causing one-time passcode (OTP) message delivery failures in Exchange Online for some users. [...]",
-    "published": "2025-07-02T12:21:59",
-    "source": "BleepingComputer"
   }
 ]
