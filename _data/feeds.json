@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hunters International ransomware shuts down after World Leaks rebrand",
+    "link": "https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/",
+    "summary": "\u200bThe Hunters International Ransomware-as-a-Service (RaaS) operation announced today that it has officially closed down its operations and will offer free decryptors to help victims recover their data without paying a ransom. [...]",
+    "published": "2025-07-03T10:53:21",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "The Hidden Weaknesses in AI SOC Tools that No One Talks About",
     "link": "https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html",
     "summary": "If you\u2019re evaluating AI-powered SOC platforms, you\u2019ve likely seen bold claims: faster triage, smarter remediation, and less noise. But under the hood, not all AI is created equal. Many solutions rely on pre-trained AI models that are hardwired for a handful of specific use cases. While that might wo",
