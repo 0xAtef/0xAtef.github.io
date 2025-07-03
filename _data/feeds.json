@@ -54,19 +54,5 @@
     "summary": "Microsoft has announced that the Exchange Server Subscription Edition (SE) is now available to all customers of its enterprise email service. [...]",
     "published": "2025-07-03T12:03:23",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hunters International ransomware shuts down, releases free decryptors",
-    "link": "https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/",
-    "summary": "\u200bThe Hunters International Ransomware-as-a-Service (RaaS) operation announced today that it has officially closed down its operations and will offer free decryptors to help victims recover their data without paying a ransom. [...]",
-    "published": "2025-07-03T10:53:21",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets",
-    "link": "https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html",
-    "summary": "Cybersecurity researchers have uncovered over 40 malicious browser extensions for Mozilla Firefox that are designed to steal cryptocurrency wallet secrets, putting users' digital assets at risk.\n\"These extensions impersonate legitimate wallet tools from widely-used platforms such as Coinbase, MetaMa",
-    "published": "2025-07-03T10:53:00",
-    "source": "HackerNews"
   }
 ]
