@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Grafana releases critical security update for Image Renderer plugin](https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/) — 2025-16-03
+- **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **The Hacker News**: [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html) — 2025-02-03
 - **Bleeping Computer**: [IdeaLab confirms data stolen in ransomware attack last year](https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/) — 2025-14-03
 - **Bleeping Computer**: [Microsoft investigates ongoing SharePoint Online access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/) — 2025-53-03
@@ -58,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Citrix warns of login issues after NetScaler auth bypass patch](https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/) — 2025-19-02
 - **Bleeping Computer**: [Forminator plugin flaw exposes WordPress sites to takeover attacks](https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/) — 2025-38-02
 - **Bleeping Computer**: [Microsoft fixes ‘Print to PDF’ feature broken by Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/) — 2025-52-02
-- **Bleeping Computer**: [Dozens of fake wallet add-ons flood Firefox store to drain crypto](https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/) — 2025-16-02
 - **The Hacker News**: [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html) — 2025-00-02
 - **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
 - **The Hacker News**: [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html) — 2025-56-02
@@ -111,5 +112,4 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
 - **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
-- **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15
-- **Krebs on Security**: [Patch Tuesday, May 2025 Edition](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/) — 2025-57-14<!-- BLOG-POST-LIST:END -->
+- **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15<!-- BLOG-POST-LIST:END -->
