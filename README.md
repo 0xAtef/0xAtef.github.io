@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Police dismantles investment fraud ring stealing €10 million](https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/) — 2025-53-03
 - **Bleeping Computer**: [Grafana releases critical security update for Image Renderer plugin](https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/) — 2025-16-03
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **The Hacker News**: [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html) — 2025-02-03
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Cisco warns that Unified CM has hardcoded root SSH credentials](https://www.bleepingcomputer.com/news/security/cisco-removes-unified-cm-callManager-backdoor-root-account/) — 2025-08-02
 - **Bleeping Computer**: [Citrix warns of login issues after NetScaler auth bypass patch](https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/) — 2025-19-02
 - **Bleeping Computer**: [Forminator plugin flaw exposes WordPress sites to takeover attacks](https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/) — 2025-38-02
-- **Bleeping Computer**: [Microsoft fixes ‘Print to PDF’ feature broken by Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/) — 2025-52-02
 - **The Hacker News**: [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html) — 2025-00-02
 - **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
 - **The Hacker News**: [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html) — 2025-56-02
