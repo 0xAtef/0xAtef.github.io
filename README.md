@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft asks users to ignore Windows Firewall config errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/) — 2025-02-03
 - **The Hacker News**: [Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html) — 2025-24-03
 - **Bleeping Computer**: [NimDoor crypto-theft macOS malware revives itself when killed](https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/) — 2025-36-02
 - **Bleeping Computer**: [DOJ investigates ex-ransomware negotiator over extortion kickbacks](https://www.bleepingcomputer.com/news/security/doj-investigates-ex-ransomware-negotiator-over-extortion-kickbacks/) — 2025-14-02
@@ -58,7 +59,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Vercel&#39;s v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html) — 2025-48-02
 - **Bleeping Computer**: [Qantas discloses cyberattack amid Scattered Spider aviation breaches](https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/) — 2025-54-02
 - **Bleeping Computer**: [AT&amp;T rolls out &quot;Wireless Lock&quot; feature to block SIM swap attacks](https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/) — 2025-23-01
-- **Bleeping Computer**: [Microsoft open-sources VS Code Copilot Chat extension on GitHub](https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/) — 2025-11-01
 - **The Hacker News**: [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html) — 2025-03-01
 - **The Hacker News**: [TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns](https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html) — 2025-26-01
 - **The Hacker News**: [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html) — 2025-51-01
