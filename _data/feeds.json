@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft asks users to ignore Windows Firewall config errors",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/",
+    "summary": "Microsoft asked customers this week to disregard incorrect Windows Firewall errors that appear after rebooting their systems following the installation of the June 2025 preview update. [...]",
+    "published": "2025-07-03T10:02:03",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials",
     "link": "https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html",
     "summary": "Cisco has released security updates to address a maximum-severity security flaw in Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME) that could permit an attacker to login to a susceptible device as the root user, allowing them",
