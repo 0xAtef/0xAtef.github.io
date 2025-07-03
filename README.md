@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- **Bleeping Computer**: [Hunters International ransomware shuts down after World Leaks rebrand](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/) — 2025-53-03
+- **Bleeping Computer**: [Microsoft: Exchange Server Subscription Edition now available](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/) — 2025-03-03
+- **Bleeping Computer**: [Hunters International ransomware shuts down, releases free decryptors](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/) — 2025-53-03
+- **The Hacker News**: [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html) — 2025-53-03
 - **The Hacker News**: [The Hidden Weaknesses in AI SOC Tools that No One Talks About](https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html) — 2025-30-03
 - **Bleeping Computer**: [Microsoft asks users to ignore Windows Firewall config errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/) — 2025-02-03
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms](https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html) — 2025-25-03
@@ -60,7 +62,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
 - **The Hacker News**: [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html) — 2025-56-02
 - **The Hacker News**: [Vercel&#39;s v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html) — 2025-48-02
-- **Bleeping Computer**: [Qantas discloses cyberattack amid Scattered Spider aviation breaches](https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/) — 2025-54-02
 - **The Hacker News**: [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html) — 2025-03-01
 - **The Hacker News**: [TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns](https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html) — 2025-26-01
 - **The Hacker News**: [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html) — 2025-51-01
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
 - **The Hacker News**: [Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers](https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html) — 2025-26-24
 - **The Hacker News**: [Between Buzz and Reality: The CTEM Conversation We All Need](https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html) — 2025-00-24
-- **The Hacker News**: [Hackers Exploit Misconfigured Docker APIs to Mine Cryptocurrency via Tor Network](https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html) — 2025-57-24
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
