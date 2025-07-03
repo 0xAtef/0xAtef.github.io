@@ -5,12 +5,5 @@
     "summary": "Cisco has released security updates to address a maximum-severity security flaw in Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME) that could permit an attacker to login to a susceptible device as the root user, allowing them",
     "published": "2025-07-03T04:24:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "NimDoor crypto-theft macOS malware revives itself when killed",
-    "link": "https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/",
-    "summary": "North Korean state-backed hackers have been using a new family of macOS malware called NimDoor in a campaign that targets\u00a0web3 and cryptocurrency organizations. [...]",
-    "published": "2025-07-02T19:36:27",
-    "source": "BleepingComputer"
   }
 ]
