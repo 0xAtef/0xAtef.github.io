@@ -1,5 +1,26 @@
 [
   {
+    "title": "Grafana releases critical security update for Image Renderer plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/",
+    "summary": "Grafana Labs has addressed four Chromium vulnerabilities in critical\u00a0security updates\u00a0for the Grafana Image Renderer plugin and Synthetic Monitoring Agent. [...]",
+    "published": "2025-07-03T16:16:59",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Big Tech\u2019s Mixed Response to U.S. Treasury Sanctions",
+    "link": "https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/",
+    "summary": "In May 2025, the U.S. government sanctioned a Chinese national for operating a cloud provider linked to the majority of virtual currency investment scam websites reported to the FBI. But more than a month later, the accused continues to openly operate accounts at a slew of American tech companies, i",
+    "published": "2025-07-03T16:06:05",
+    "source": "Krebs"
+  },
+  {
+    "title": "Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams",
+    "link": "https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html",
+    "summary": "A mobile ad fraud operation dubbed IconAds that consisted of 352 Android apps has been disrupted, according to a new report from HUMAN.\nThe identified apps were designed to load out-of-context ads on a user's screen and hide their icons from the device home screen launcher, making it harder for vict",
+    "published": "2025-07-03T16:02:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "IdeaLab confirms data stolen in ransomware attack last year",
     "link": "https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/",
     "summary": "IdeaLab is notifying individuals impacted by a data breach incident last October when hackers accessed sensitive information. [...]",
@@ -53,13 +74,6 @@
     "link": "https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html",
     "summary": "The French cybersecurity agency on Tuesday revealed that a number of entities spanning governmental, telecommunications, media, finance, and transport sectors in the country were impacted by a malicious campaign undertaken by a Chinese hacking group by weaponizing several zero-day vulnerabilities in",
     "published": "2025-07-03T09:25:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials",
-    "link": "https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html",
-    "summary": "Cisco has released security updates to address a maximum-severity security flaw in Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME) that could permit an attacker to login to a susceptible device as the root user, allowing them",
-    "published": "2025-07-03T04:24:00",
     "source": "HackerNews"
   }
 ]
