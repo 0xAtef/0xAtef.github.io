@@ -1,10 +1,24 @@
 [
   {
+    "title": "The Hidden Weaknesses in AI SOC Tools that No One Talks About",
+    "link": "https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html",
+    "summary": "If you\u2019re evaluating AI-powered SOC platforms, you\u2019ve likely seen bold claims: faster triage, smarter remediation, and less noise. But under the hood, not all AI is created equal. Many solutions rely on pre-trained AI models that are hardwired for a handful of specific use cases. While that might wo",
+    "published": "2025-07-03T10:30:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft asks users to ignore Windows Firewall config errors",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/",
     "summary": "Microsoft asked customers this week to disregard incorrect Windows Firewall errors that appear after rebooting their systems following the installation of the June 2025 preview update. [...]",
     "published": "2025-07-03T10:02:03",
     "source": "BleepingComputer"
+  },
+  {
+    "title": "Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms",
+    "link": "https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html",
+    "summary": "The French cybersecurity agency on Tuesday revealed that a number of entities spanning governmental, telecommunications, media, finance, and transport sectors in the country were impacted by a malicious campaign undertaken by a Chinese hacking group by weaponizing several zero-day vulnerabilities in",
+    "published": "2025-07-03T09:25:00",
+    "source": "HackerNews"
   },
   {
     "title": "Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials",
