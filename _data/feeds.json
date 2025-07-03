@@ -40,12 +40,5 @@
     "summary": "Citrix warns that patching recently disclosed vulnerabilities that can be exploited to bypass authentication and launch denial-of-service attacks may also break login pages on NetScaler ADC and Gateway appliances. [...]",
     "published": "2025-07-02T16:19:05",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Forminator plugin flaw exposes WordPress sites to takeover attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/",
-    "summary": "The Forminator plugin for WordPress is vulnerable to an unauthenticated arbitrary file deletion flaw that could enable full site takeover attacks. [...]",
-    "published": "2025-07-02T15:38:32",
-    "source": "BleepingComputer"
   }
 ]
