@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html) — 2025-02-03
+- **Bleeping Computer**: [IdeaLab confirms data stolen in ransomware attack last year](https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/) — 2025-14-03
 - **Bleeping Computer**: [Microsoft investigates ongoing SharePoint Online access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/) — 2025-53-03
 - **Bleeping Computer**: [Microsoft: Exchange Server Subscription Edition now available](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/) — 2025-03-03
 - **Bleeping Computer**: [Hunters International ransomware shuts down, releases free decryptors](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/) — 2025-53-03
@@ -57,7 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Forminator plugin flaw exposes WordPress sites to takeover attacks](https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/) — 2025-38-02
 - **Bleeping Computer**: [Microsoft fixes ‘Print to PDF’ feature broken by Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/) — 2025-52-02
 - **Bleeping Computer**: [Dozens of fake wallet add-ons flood Firefox store to drain crypto](https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/) — 2025-16-02
-- **Bleeping Computer**: [Grok 4 spotted ahead of launch with special coding features](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/) — 2025-22-02
 - **The Hacker News**: [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html) — 2025-00-02
 - **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
 - **The Hacker News**: [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html) — 2025-56-02
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New U.S. Visa Rule Requires Applicants to Set Social Media Account Privacy to Public](https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html) — 2025-47-24
 - **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
 - **The Hacker News**: [Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers](https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html) — 2025-26-24
-- **The Hacker News**: [Between Buzz and Reality: The CTEM Conversation We All Need](https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html) — 2025-00-24
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
