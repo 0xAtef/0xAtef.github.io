@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [ChatGPT Deep Research tests new connectors for more context](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/) — 2025-20-04
 - **Bleeping Computer**: [Ingram Micro suffers global outage as internal systems inaccessible](https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/) — 2025-14-04
 - **Bleeping Computer**: [Hacker leaks Telefónica data allegedly stolen in a new breach](https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/) — 2025-11-04
 - **The Hacker News**: [NightEagle APT Exploits Microsoft Exchange Flaw to Target China&#39;s Military and Tech Sectors](https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html) — 2025-59-04
@@ -61,7 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Microsoft asks users to ignore Windows Firewall config errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/) — 2025-02-03
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms](https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html) — 2025-25-03
 - **The Hacker News**: [Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html) — 2025-24-03
-- **Bleeping Computer**: [NimDoor crypto-theft macOS malware revives itself when killed](https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/) — 2025-36-02
 - **The Hacker News**: [North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign](https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html) — 2025-09-02
 - **The Hacker News**: [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html) — 2025-00-02
 - **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
