@@ -19,19 +19,5 @@
     "summary": "Cybersecurity researchers have shed light on a previously undocumented threat actor called NightEagle (aka APT-Q-95) that has been observed targeting Microsoft Exchange servers as a part of a zero-day exploit chain designed to target government, defense, and technology sectors in China.\nAccording to",
     "published": "2025-07-04T12:59:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Your AI Agents Might Be Leaking Data \u2014 Watch this Webinar to Learn How to Stop It",
-    "link": "https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html",
-    "summary": "Generative AI is changing how businesses work, learn, and innovate. But beneath the surface, something dangerous is happening. AI agents and custom GenAI workflows are creating new, hidden ways for sensitive enterprise data to leak\u2014and most teams don\u2019t even realize it.\nIf you\u2019re building, deploying,",
-    "published": "2025-07-04T09:31:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros",
-    "link": "https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html",
-    "summary": "Cybersecurity researchers have disclosed two security flaws in the Sudo command-line utility for Linux and Unix-like operating systems that could enable local attackers to escalate their privileges to root on susceptible machines.\nA brief description of the vulnerabilities is below -\n\nCVE-2025-32462",
-    "published": "2025-07-04T09:30:00",
-    "source": "HackerNews"
   }
 ]
