@@ -33,12 +33,5 @@
     "summary": "In May 2025, the U.S. government sanctioned a Chinese national for operating a cloud provider linked to the majority of virtual currency investment scam websites reported to the FBI. But more than a month later, the accused continues to openly operate accounts at a slew of American tech companies, i",
     "published": "2025-07-03T16:06:05",
     "source": "Krebs"
-  },
-  {
-    "title": "Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams",
-    "link": "https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html",
-    "summary": "A mobile ad fraud operation dubbed IconAds that consisted of 352 Android apps has been disrupted, according to a new report from HUMAN.\nThe identified apps were designed to load out-of-context ads on a user's screen and hide their icons from the device home screen launcher, making it harder for vict",
-    "published": "2025-07-03T16:02:00",
-    "source": "HackerNews"
   }
 ]
