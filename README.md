@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Google Ordered to Pay $314M for Misusing Android Users&#39; Cellular Data Without Permission](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html) — 2025-17-04
 - **Bleeping Computer**: [Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch](https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/) — 2025-22-03
 - **Bleeping Computer**: [xAI prepares Grok 4 Code as it plans to take on Claude and Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/) — 2025-00-03
 - **Bleeping Computer**: [Police dismantles investment fraud ring stealing €10 million](https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/) — 2025-53-03
@@ -103,7 +104,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Microsoft Extends Windows 10 Security Updates for One Year with New Enrollment Options](https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html) — 2025-10-25
 - **The Hacker News**: [New U.S. Visa Rule Requires Applicants to Set Social Media Account Privacy to Public](https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html) — 2025-47-24
 - **The Hacker News**: [Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue](https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html) — 2025-17-24
-- **The Hacker News**: [Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers](https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html) — 2025-26-24
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
