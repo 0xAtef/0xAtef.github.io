@@ -33,12 +33,5 @@
     "summary": "Cybersecurity researchers have disclosed two security flaws in the Sudo command-line utility for Linux and Unix-like operating systems that could enable local attackers to escalate their privileges to root on susceptible machines.\nA brief description of the vulnerabilities is below -\n\nCVE-2025-32462",
     "published": "2025-07-04T09:30:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission",
-    "link": "https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html",
-    "summary": "Google has been ordered by a court in the U.S. state of California to pay $314 million over charges that it misused Android device users' cellular data when they were idle to passively send information to the company.\nThe verdict marks an end to a legal class-action complaint that was originally fil",
-    "published": "2025-07-04T07:17:00",
-    "source": "HackerNews"
   }
 ]
