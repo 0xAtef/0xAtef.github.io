@@ -61,7 +61,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html) — 2025-24-03
 - **Bleeping Computer**: [NimDoor crypto-theft macOS malware revives itself when killed](https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/) — 2025-36-02
 - **Bleeping Computer**: [DOJ investigates ex-ransomware negotiator over extortion kickbacks](https://www.bleepingcomputer.com/news/security/doj-investigates-ex-ransomware-negotiator-over-extortion-kickbacks/) — 2025-14-02
-- **Bleeping Computer**: [Spain arrests hackers who targeted politicians and journalists](https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/) — 2025-30-02
 - **The Hacker News**: [North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign](https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html) — 2025-09-02
 - **The Hacker News**: [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html) — 2025-00-02
 - **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
