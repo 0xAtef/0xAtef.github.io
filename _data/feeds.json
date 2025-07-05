@@ -5,19 +5,5 @@
     "summary": "An ongoing outage at IT giant Ingram Micro is caused by a SafePay ransomware attack that led to the shutdown of internal systems, BleepingComputer has learned. [...]",
     "published": "2025-07-05T15:58:49",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties",
-    "link": "https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html",
-    "summary": "Taiwan's National Security Bureau (NSB) has warned that China-developed applications like RedNote (aka Xiaohongshu), Weibo, TikTok, WeChat, and Baidu Cloud pose security risks due to excessive data collection and data transfer to China.\nThe alert comes following an inspection of these apps carried o",
-    "published": "2025-07-05T06:12:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS",
-    "link": "https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html",
-    "summary": "Threat actors are weaponizing exposed Java Debug Wire Protocol (JDWP) interfaces to obtain code execution capabilities and deploy cryptocurrency miners on compromised hosts.\n\"The attacker used a modified version of XMRig with a hard-\"coded configuration, allowing them to avoid suspicious command-lin",
-    "published": "2025-07-05T05:44:00",
-    "source": "HackerNews"
   }
 ]
