@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Google&#39;s AI video maker Veo 3 is now available via $20 Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/) — 2025-17-04
 - **Bleeping Computer**: [ChatGPT Deep Research tests new connectors for more context](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/) — 2025-20-04
 - **Bleeping Computer**: [Ingram Micro suffers global outage as internal systems inaccessible](https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/) — 2025-14-04
 - **Bleeping Computer**: [Hacker leaks Telefónica data allegedly stolen in a new breach](https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/) — 2025-11-04
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Hunters International ransomware shuts down, releases free decryptors](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/) — 2025-53-03
 - **The Hacker News**: [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html) — 2025-53-03
 - **The Hacker News**: [The Hidden Weaknesses in AI SOC Tools that No One Talks About](https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html) — 2025-30-03
-- **Bleeping Computer**: [Microsoft asks users to ignore Windows Firewall config errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/) — 2025-02-03
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms](https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html) — 2025-25-03
 - **The Hacker News**: [Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html) — 2025-24-03
 - **The Hacker News**: [North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign](https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html) — 2025-09-02
