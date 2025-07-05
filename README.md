@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Ingram Micro outage caused by SafePay ransomware attack](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/) — 2025-58-05
 - **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
 - **The Hacker News**: [Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html) — 2025-44-05
 - **Bleeping Computer**: [Google&#39;s AI video maker Veo 3 is now available via $20 Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/) — 2025-17-04
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [IdeaLab confirms data stolen in ransomware attack last year](https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/) — 2025-14-03
 - **Bleeping Computer**: [Microsoft investigates ongoing SharePoint Online access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/) — 2025-53-03
 - **Bleeping Computer**: [Microsoft: Exchange Server Subscription Edition now available](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/) — 2025-03-03
-- **Bleeping Computer**: [Hunters International ransomware shuts down, releases free decryptors](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/) — 2025-53-03
 - **The Hacker News**: [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html) — 2025-53-03
 - **The Hacker News**: [The Hidden Weaknesses in AI SOC Tools that No One Talks About](https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html) — 2025-30-03
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms](https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html) — 2025-25-03
