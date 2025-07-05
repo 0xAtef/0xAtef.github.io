@@ -12,12 +12,5 @@
     "summary": "Threat actors are weaponizing exposed Java Debug Wire Protocol (JDWP) interfaces to obtain code execution capabilities and deploy cryptocurrency miners on compromised hosts.\n\"The attacker used a modified version of XMRig with a hard-\"coded configuration, allowing them to avoid suspicious command-lin",
     "published": "2025-07-05T05:44:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Google's AI video maker Veo 3 is now available via $20 Gemini",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/",
-    "summary": "Google says Veo 3, which is the company's state-of-the-art video generator, is now shipping to everyone using the Gemini app with a $20 subscription. [...]",
-    "published": "2025-07-04T23:17:02",
-    "source": "BleepingComputer"
   }
 ]
