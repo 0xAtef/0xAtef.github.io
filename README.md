@@ -43,7 +43,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Ingram Micro outage caused by SafePay ransomware attack](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/) — 2025-58-05
 - **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
 - **The Hacker News**: [Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html) — 2025-44-05
-- **Bleeping Computer**: [Google&#39;s AI video maker Veo 3 is now available via $20 Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/) — 2025-17-04
 - **Bleeping Computer**: [ChatGPT Deep Research tests new connectors for more context](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/) — 2025-20-04
 - **Bleeping Computer**: [Ingram Micro suffers global outage as internal systems inaccessible](https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/) — 2025-14-04
 - **Bleeping Computer**: [Hacker leaks Telefónica data allegedly stolen in a new breach](https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/) — 2025-11-04
