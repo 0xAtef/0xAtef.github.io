@@ -1,5 +1,12 @@
 [
   {
+    "title": "Public exploits released for CitrixBleed 2 NetScaler flaw, patch now",
+    "link": "https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/",
+    "summary": "Researchers have released proof-of-concept (PoC) exploits for a critical Citrix NetScaler vulnerability, tracked as CVE-2025-5777\u00a0and dubbed CitrixBleed2, warning that the flaw is easily exploitable and can successfully steal user session tokens. [...]",
+    "published": "2025-07-07T22:57:37",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Employee gets $920 for credentials used in $140 million bank heist",
     "link": "https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/",
     "summary": "Hackers stole nearly $140 million\u00a0from six banks in Brazil by using an employee's credentials from\u00a0C&amp;M, a company that offers financial connectivity solutions. [...]",
@@ -46,13 +53,6 @@
     "link": "https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html",
     "summary": "Everything feels secure\u2014until one small thing slips through. Even strong systems can break if a simple check is missed or a trusted tool is misused. Most threats don\u2019t start with alarms\u2014they sneak in through the little things we overlook. A tiny bug, a reused password, a quiet connection\u2014that\u2019s all ",
     "published": "2025-07-07T11:26:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Manufacturing Security: Why Default Passwords Must Go",
-    "link": "https://thehackernews.com/2025/07/manufacturing-security-why-default.html",
-    "summary": "If you didn't hear about&nbsp;Iranian hackers breaching US water facilities, it's because they only managed to control a single pressure station serving 7,000 people. What made this attack noteworthy wasn't its scale, but how easily the hackers gained access &mdash; by simply using the manufacturer'",
-    "published": "2025-07-07T11:00:00",
     "source": "HackerNews"
   }
 ]
