@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Atomic macOS infostealer adds backdoor for persistent attacks](https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/) — 2025-24-07
 - **The Hacker News**: [SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools](https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html) — 2025-26-07
 - **Bleeping Computer**: [Qantas is being extorted in recent data-theft cyberattack](https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/) — 2025-02-07
 - **Bleeping Computer**: [&#39;Batavia&#39; Windows spyware campaign targets dozens of Russian orgs](https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/) — 2025-48-07
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It](https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html) — 2025-31-04
 - **The Hacker News**: [Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros](https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html) — 2025-30-04
 - **The Hacker News**: [Google Ordered to Pay $314M for Misusing Android Users&#39; Cellular Data Without Permission](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html) — 2025-17-04
-- **Bleeping Computer**: [Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch](https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/) — 2025-22-03
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **The Hacker News**: [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html) — 2025-02-03
 - **The Hacker News**: [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html) — 2025-53-03
