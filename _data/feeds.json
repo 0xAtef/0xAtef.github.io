@@ -1,5 +1,19 @@
 [
   {
+    "title": "Qantas is being extorted in recent data-theft cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/",
+    "summary": "Qantas has confirmed that it is now being extorted by threat actors following a cyberattack that potentially exposed the data for 6 million customers. [...]",
+    "published": "2025-07-07T17:02:02",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "'Batavia' Windows spyware campaign targets dozens of Russian orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/",
+    "summary": "A previously undocumented spyware called 'Batavia' has been targeting large industrial enterprises in Russia in a phishing email campaign that uses contract-related lures. [...]",
+    "published": "2025-07-07T16:48:39",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hackers abuse leaked Shellter red team tool to deploy infostealers",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/",
     "summary": "Shellter Project, the vendor of a commercial AV/EDR evasion loader for penetration testing, confirmed that hackers used its Shellter Elite product in attacks after a customer leaked a copy of the software. [...]",
@@ -18,13 +32,6 @@
     "link": "https://thehackernews.com/2025/07/manufacturing-security-why-default.html",
     "summary": "If you didn't hear about&nbsp;Iranian hackers breaching US water facilities, it's because they only managed to control a single pressure station serving 7,000 people. What made this attack noteworthy wasn't its scale, but how easily the hackers gained access &mdash; by simply using the manufacturer'",
     "published": "2025-07-07T11:00:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors",
-    "link": "https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html",
-    "summary": "A hacking group with ties other than Pakistan has been found targeting Indian government organizations with a modified variant of a remote access trojan (RAT) called DRAT.\nThe activity has been attributed by Recorded Future's Insikt Group to a threat actor tracked as TAG-140, which it said overlaps ",
-    "published": "2025-07-07T04:51:00",
     "source": "HackerNews"
   }
 ]
