@@ -1,5 +1,12 @@
 [
   {
+    "title": "Employee gets $920 for credentials used in $140 million bank heist",
+    "link": "https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/",
+    "summary": "Hackers stole nearly $140 million\u00a0from six banks in Brazil by using an employee's credentials from\u00a0C&amp;M, a company that offers financial connectivity solutions. [...]",
+    "published": "2025-07-07T19:10:50",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Atomic macOS infostealer adds backdoor for persistent attacks",
     "link": "https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/",
     "summary": "Malware analyst discovered a new version of the\u00a0Atomic macOS info-stealer (also known as 'AMOS') that comes with a backdoor, to attackers persistent access to compromised systems. [...]",
