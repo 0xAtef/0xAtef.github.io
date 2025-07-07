@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools](https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html) — 2025-26-07
 - **Bleeping Computer**: [Qantas is being extorted in recent data-theft cyberattack](https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/) — 2025-02-07
 - **Bleeping Computer**: [&#39;Batavia&#39; Windows spyware campaign targets dozens of Russian orgs](https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/) — 2025-48-07
 - **Bleeping Computer**: [Hackers abuse leaked Shellter red team tool to deploy infostealers](https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/) — 2025-49-07
@@ -102,7 +103,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet](https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html) — 2025-02-26
 - **The Hacker News**: [WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews](https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html) — 2025-36-26
 - **The Hacker News**: [nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery](https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html) — 2025-56-25
-- **The Hacker News**: [Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC](https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html) — 2025-51-25
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
