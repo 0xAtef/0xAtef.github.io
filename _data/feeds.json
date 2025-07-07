@@ -47,12 +47,5 @@
     "summary": "Shellter Project, the vendor of a commercial AV/EDR evasion loader for penetration testing, confirmed that hackers used its Shellter Elite product in attacks after a customer leaked a copy of the software. [...]",
     "published": "2025-07-07T14:49:27",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More",
-    "link": "https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html",
-    "summary": "Everything feels secure\u2014until one small thing slips through. Even strong systems can break if a simple check is missed or a trusted tool is misused. Most threats don\u2019t start with alarms\u2014they sneak in through the little things we overlook. A tiny bug, a reused password, a quiet connection\u2014that\u2019s all ",
-    "published": "2025-07-07T11:26:00",
-    "source": "HackerNews"
   }
 ]
