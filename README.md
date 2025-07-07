@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [OpenAI says GPT-5 will unify breakthroughs from different models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/) — 2025-22-07
+- **Bleeping Computer**: [Hands on with Windows 11 Notepad&#39;s new markdown support](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/) — 2025-55-06
 - **Bleeping Computer**: [ChatGPT is testing disruptive Study Together feature](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/) — 2025-07-06
 - **Bleeping Computer**: [Ingram Micro outage caused by SafePay ransomware attack](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/) — 2025-58-05
 - **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
@@ -57,8 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Grafana releases critical security update for Image Renderer plugin](https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/) — 2025-16-03
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **The Hacker News**: [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html) — 2025-02-03
-- **Bleeping Computer**: [IdeaLab confirms data stolen in ransomware attack last year](https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/) — 2025-14-03
-- **Bleeping Computer**: [Microsoft investigates ongoing SharePoint Online access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/) — 2025-53-03
 - **The Hacker News**: [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html) — 2025-53-03
 - **The Hacker News**: [The Hidden Weaknesses in AI SOC Tools that No One Talks About](https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html) — 2025-30-03
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms](https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html) — 2025-25-03
