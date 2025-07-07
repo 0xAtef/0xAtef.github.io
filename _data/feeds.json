@@ -1,5 +1,12 @@
 [
   {
+    "title": "Atomic macOS infostealer adds backdoor for persistent attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/",
+    "summary": "Malware analyst discovered a new version of the\u00a0Atomic macOS info-stealer (also known as 'AMOS') that comes with a backdoor, to attackers persistent access to compromised systems. [...]",
+    "published": "2025-07-07T18:24:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools",
     "link": "https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html",
     "summary": "Cybersecurity researchers have disclosed a malicious campaign that leverages search engine optimization (SEO) poisoning techniques to deliver a known malware loader called Oyster (aka Broomstick or CleanUpLoader).\nThe malvertising activity, per Arctic Wolf, promotes fake websites hosting trojanized ",
