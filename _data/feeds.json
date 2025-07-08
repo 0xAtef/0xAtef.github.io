@@ -1,5 +1,19 @@
 [
   {
+    "title": "Overcoming Technical Barriers in Desktop and Application Virtualization",
+    "link": "https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/",
+    "summary": "Exposed RDP ports are an open door for attackers. TruGrid SecureRDP enforces Zero Trust and MFA, blocks lateral movement, and secures remote access\u2014no open firewall ports required. Learn more and get a free trial. [...]",
+    "published": "2025-07-08T14:09:49",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Malicious Chrome extensions with 1.7M installs found on Web Store",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/",
+    "summary": "Almost a dozen malicious extensions with 1.7 million downloads in Google's Chrome Web Store could track users, steal browser activity, and redirect to potentially unsafe web addresses. [...]",
+    "published": "2025-07-08T14:00:00",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "5 Ways Identity-based Attacks Are Breaching Retail",
     "link": "https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html",
     "summary": "From overprivileged admin roles to long-forgotten vendor tokens, these attackers are slipping through the cracks of trust and access. Here\u2019s how five retail breaches unfolded, and what they reveal about...\nIn recent months, major retailers like Adidas, The North Face, Dior, Victoria's Secret, Cartie",
@@ -33,12 +47,5 @@
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of flaws is as follows -\n\nCVE-2014-3931 (CVSS score: 9.8) - A buffer overflow vulner",
     "published": "2025-07-08T05:08:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage",
-    "link": "https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/",
-    "summary": "A Chinese national was arrested in Milan, Italy, last week for allegedly being linked to the state-sponsored Silk Typhoon hacking group, which responsible for cyberattacks against American organizations and government agencies. [...]",
-    "published": "2025-07-08T01:39:01",
-    "source": "BleepingComputer"
   }
 ]
