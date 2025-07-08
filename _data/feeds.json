@@ -1,5 +1,12 @@
 [
   {
+    "title": "Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play",
+    "link": "https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html",
+    "summary": "Cybersecurity researchers have discovered an Android banking malware campaign that has leveraged a trojan named Anatsa to target users in North America using malicious apps published on Google's official app marketplace.\nThe malware, disguised as a \"PDF Update\" to a document viewer app, has been cau",
+    "published": "2025-07-08T16:13:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Android malware Anatsa infiltrates Google Play to target US banks",
     "link": "https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/",
     "summary": "The Anatsa banking trojan has sneaked into Google Play once more via an app posing as a PDF viewer that counted\u00a0more than\u00a050,000 downloads. [...]",
@@ -53,13 +60,6 @@
     "link": "https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html",
     "summary": "Russian organizations have been targeted as part of an ongoing campaign that delivers a previously undocumented Windows spyware called Batavia.\nThe activity, per cybersecurity vendor Kaspersky, has been active since July 2024.\n\"The targeted attack begins with bait emails containing malicious links, ",
     "published": "2025-07-08T08:22:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation",
-    "link": "https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of flaws is as follows -\n\nCVE-2014-3931 (CVSS score: 9.8) - A buffer overflow vulner",
-    "published": "2025-07-08T05:08:00",
     "source": "HackerNews"
   }
 ]
