@@ -41,7 +41,7 @@ Let's connect and share some war stories!
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - **Bleeping Computer**: [Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/) — 2025-39-08
-- **Bleeping Computer**: [Public exploits released for CitrixBleed 2 NetScaler flaw, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/) — 2025-57-07
+- **Bleeping Computer**: [Public exploits released for Citrix Bleed 2 NetScaler flaw, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/) — 2025-57-07
 - **Bleeping Computer**: [Employee gets $920 for credentials used in $140 million bank heist](https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/) — 2025-10-07
 - **Bleeping Computer**: [Atomic macOS infostealer adds backdoor for persistent attacks](https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/) — 2025-24-07
 - **The Hacker News**: [SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools](https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html) — 2025-26-07
