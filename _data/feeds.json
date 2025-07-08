@@ -1,5 +1,26 @@
 [
   {
+    "title": "Windows 10 KB5062554 cumulative update released with 13 changes, fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/",
+    "summary": "Microsoft has released the KB5062554 cumulative update for Windows 10 22H2 and Windows 10 21H2, with thirteen new fixes or changes. [...]",
+    "published": "2025-07-08T17:44:26",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Windows 11 KB5062553 & KB5062552  cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/",
+    "summary": "Microsoft has released Windows 11\u00a0KB5062553\u00a0and\u00a0KB5062552\u00a0cumulative updates for versions 24H2 and 23H2 to fix security vulnerabilities and\u00a0issues. [...]",
+    "published": "2025-07-08T17:32:37",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Microsoft July 2025 Patch Tuesday fixes one zero-day, 137 flaws",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2025-patch-tuesday-fixes-one-zero-day-137-flaws/",
+    "summary": "Today is Microsoft's July 2025 Patch Tuesday, which includes security updates for 137 flaws, including one publicly disclosed zero-day vulnerability in Microsoft SQL Server. [...]",
+    "published": "2025-07-08T17:30:56",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play",
     "link": "https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html",
     "summary": "Cybersecurity researchers have discovered an Android banking malware campaign that has leveraged a trojan named Anatsa to target users in North America using malicious apps published on Google's official app marketplace.\nThe malware, disguised as a \"PDF Update\" to a document viewer app, has been cau",
