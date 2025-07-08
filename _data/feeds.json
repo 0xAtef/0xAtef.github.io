@@ -89,12 +89,5 @@
     "summary": "From overprivileged admin roles to long-forgotten vendor tokens, these attackers are slipping through the cracks of trust and access. Here\u2019s how five retail breaches unfolded, and what they reveal about...\nIn recent months, major retailers like Adidas, The North Face, Dior, Victoria's Secret, Cartie",
     "published": "2025-07-08T11:25:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks",
-    "link": "https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html",
-    "summary": "Cybersecurity researchers are calling attention to a malware campaign that's targeting security flaws in TBK digital video recorders (DVRs) and Four-Faith routers to rope the devices into a new botnet called RondoDox.\nThe vulnerabilities in question include CVE-2024-3721, a medium-severity command i",
-    "published": "2025-07-08T11:08:00",
-    "source": "HackerNews"
   }
 ]
