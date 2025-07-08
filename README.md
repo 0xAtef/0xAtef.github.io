@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Samsung announces major security enhancements coming to One UI 8](https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/) — 2025-43-08
+- **Bleeping Computer**: [M&amp;S confirms social engineering led to massive ransomware attack](https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/) — 2025-39-08
 - **Bleeping Computer**: [New Android TapTrap attack fools users with invisible UI trick](https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/) — 2025-39-08
 - **Bleeping Computer**: [Windows 10 KB5062554 cumulative update released with 13 changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/) — 2025-44-08
 - **The Hacker News**: [Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware](https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html) — 2025-35-08
@@ -60,8 +62,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Employee gets $920 for credentials used in $140 million bank heist](https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/) — 2025-10-07
 - **Bleeping Computer**: [Atomic macOS infostealer adds backdoor for persistent attacks](https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/) — 2025-24-07
 - **The Hacker News**: [SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools](https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html) — 2025-26-07
-- **Bleeping Computer**: [Qantas is being extorted in recent data-theft cyberattack](https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/) — 2025-02-07
-- **Bleeping Computer**: [&#39;Batavia&#39; Windows spyware campaign targets dozens of Russian orgs](https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/) — 2025-48-07
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html) — 2025-26-07
 - **The Hacker News**: [Manufacturing Security: Why Default Passwords Must Go](https://thehackernews.com/2025/07/manufacturing-security-why-default.html) — 2025-00-07
 - **The Hacker News**: [TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors](https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html) — 2025-51-07
