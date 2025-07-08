@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/) — 2025-39-08
 - **Bleeping Computer**: [Public exploits released for CitrixBleed 2 NetScaler flaw, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/) — 2025-57-07
 - **Bleeping Computer**: [Employee gets $920 for credentials used in $140 million bank heist](https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/) — 2025-10-07
 - **Bleeping Computer**: [Atomic macOS infostealer adds backdoor for persistent attacks](https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/) — 2025-24-07
@@ -57,7 +58,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
 - **The Hacker News**: [Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html) — 2025-44-05
 - **Bleeping Computer**: [ChatGPT Deep Research tests new connectors for more context](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/) — 2025-20-04
-- **Bleeping Computer**: [Ingram Micro suffers global outage as internal systems inaccessible](https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/) — 2025-14-04
 - **The Hacker News**: [NightEagle APT Exploits Microsoft Exchange Flaw to Target China&#39;s Military and Tech Sectors](https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html) — 2025-59-04
 - **The Hacker News**: [Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It](https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html) — 2025-31-04
 - **The Hacker News**: [Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros](https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html) — 2025-30-04
