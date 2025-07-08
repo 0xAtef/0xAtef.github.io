@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Android malware Anatsa infiltrates Google Play to target US banks](https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/) — 2025-00-08
 - **Bleeping Computer**: [Overcoming Technical Barriers in Desktop and Application Virtualization](https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/) — 2025-09-08
 - **Bleeping Computer**: [Malicious Chrome extensions with 1.7M installs found on Web Store](https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/) — 2025-00-08
 - **The Hacker News**: [Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension](https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html) — 2025-01-08
