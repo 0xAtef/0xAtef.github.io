@@ -40,6 +40,11 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Windows 10 KB5062554 cumulative update released with 13 changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/) — 2025-44-08
+- **The Hacker News**: [Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware](https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html) — 2025-35-08
+- **Bleeping Computer**: [Windows 11 KB5062553 &amp; KB5062552  cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/) — 2025-32-08
+- **Bleeping Computer**: [Microsoft July 2025 Patch Tuesday fixes one zero-day, 137 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2025-patch-tuesday-fixes-one-zero-day-137-flaws/) — 2025-30-08
+- **The Hacker News**: [Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play](https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html) — 2025-13-08
 - **Bleeping Computer**: [Android malware Anatsa infiltrates Google Play to target US banks](https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/) — 2025-00-08
 - **Bleeping Computer**: [Overcoming Technical Barriers in Desktop and Application Virtualization](https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/) — 2025-09-08
 - **Bleeping Computer**: [Malicious Chrome extensions with 1.7M installs found on Web Store](https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/) — 2025-00-08
@@ -60,9 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html) — 2025-26-07
 - **The Hacker News**: [Manufacturing Security: Why Default Passwords Must Go](https://thehackernews.com/2025/07/manufacturing-security-why-default.html) — 2025-00-07
 - **The Hacker News**: [TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors](https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html) — 2025-51-07
-- **Bleeping Computer**: [OpenAI says GPT-5 will unify breakthroughs from different models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/) — 2025-22-07
-- **Bleeping Computer**: [Hands on with Windows 11 Notepad&#39;s new markdown support](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/) — 2025-55-06
-- **Bleeping Computer**: [ChatGPT is testing disruptive Study Together feature](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/) — 2025-07-06
 - **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
 - **The Hacker News**: [Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html) — 2025-44-05
 - **The Hacker News**: [NightEagle APT Exploits Microsoft Exchange Flaw to Target China&#39;s Military and Tech Sectors](https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html) — 2025-59-04
@@ -103,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted](https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html) — 2025-43-27
 - **The Hacker News**: [OneClik Red Team Campaign Targets Energy Sector Using Microsoft ClickOnce and Golang Backdoors](https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html) — 2025-31-27
 - **The Hacker News**: [Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks](https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html) — 2025-46-26
-- **The Hacker News**: [Critical RCE Flaws in Cisco ISE and ISE-PIC Allow Unauthenticated Attackers to Gain Root Access](https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html) — 2025-24-26
-- **The Hacker News**: [New FileFix Method Emerges as a Threat Following 517% Rise in ClickFix Attacks](https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html) — 2025-03-26
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
