@@ -82,12 +82,5 @@
     "summary": "Cybersecurity researchers have flagged a supply chain attack targeting a Microsoft Visual Studio Code (VS Code) extension called Ethcode that has been installed a little over 6,000 times.\nThe compromise, per ReversingLabs, occurred via a GitHub pull request that was opened by a user named Airez299 o",
     "published": "2025-07-08T13:01:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "5 Ways Identity-based Attacks Are Breaching Retail",
-    "link": "https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html",
-    "summary": "From overprivileged admin roles to long-forgotten vendor tokens, these attackers are slipping through the cracks of trust and access. Here\u2019s how five retail breaches unfolded, and what they reveal about...\nIn recent months, major retailers like Adidas, The North Face, Dior, Victoria's Secret, Cartie",
-    "published": "2025-07-08T11:25:00",
-    "source": "HackerNews"
   }
 ]
