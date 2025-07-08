@@ -89,12 +89,5 @@
     "summary": "A newly released report by cybersecurity firm CTM360 reveals a large-scale scam operation utilizing fake news websites\u2014known as Baiting News Sites (BNS)\u2014to deceive users into online investment fraud across 50 countries.\nThese BNS pages are made to look like real news outlets: CNN, BBC, CNBC, or regi",
     "published": "2025-07-08T10:30:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms",
-    "link": "https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html",
-    "summary": "Russian organizations have been targeted as part of an ongoing campaign that delivers a previously undocumented Windows spyware called Batavia.\nThe activity, per cybersecurity vendor Kaspersky, has been active since July 2024.\n\"The targeted attack begins with bait emails containing malicious links, ",
-    "published": "2025-07-08T08:22:00",
-    "source": "HackerNews"
   }
 ]
