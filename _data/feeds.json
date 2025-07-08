@@ -19,12 +19,5 @@
     "summary": "Researchers have released proof-of-concept (PoC) exploits for a critical Citrix NetScaler vulnerability, tracked as CVE-2025-5777\u00a0and dubbed CitrixBleed2, warning that the flaw is easily exploitable and can successfully steal user session tokens. [...]",
     "published": "2025-07-07T22:57:37",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Employee gets $920 for credentials used in $140 million bank heist",
-    "link": "https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/",
-    "summary": "Hackers stole nearly $140 million\u00a0from six banks in Brazil by using an employee's credentials from\u00a0C&amp;M, a company that offers financial connectivity solutions. [...]",
-    "published": "2025-07-07T19:10:50",
-    "source": "BleepingComputer"
   }
 ]
