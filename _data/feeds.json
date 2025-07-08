@@ -7,7 +7,7 @@
     "source": "BleepingComputer"
   },
   {
-    "title": "Public exploits released for CitrixBleed 2 NetScaler flaw, patch now",
+    "title": "Public exploits released for Citrix Bleed 2 NetScaler flaw, patch now",
     "link": "https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/",
     "summary": "Researchers have released proof-of-concept (PoC) exploits for a critical Citrix NetScaler vulnerability, tracked as CVE-2025-5777\u00a0and dubbed CitrixBleed2, warning that the flaw is easily exploitable and can successfully steal user session tokens. [...]",
     "published": "2025-07-07T22:57:37",
