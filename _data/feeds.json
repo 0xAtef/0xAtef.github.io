@@ -1,5 +1,26 @@
 [
   {
+    "title": "5 Ways Identity-based Attacks Are Breaching Retail",
+    "link": "https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html",
+    "summary": "From overprivileged admin roles to long-forgotten vendor tokens, these attackers are slipping through the cracks of trust and access. Here\u2019s how five retail breaches unfolded, and what they reveal about...\nIn recent months, major retailers like Adidas, The North Face, Dior, Victoria's Secret, Cartie",
+    "published": "2025-07-08T11:25:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks",
+    "link": "https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html",
+    "summary": "Cybersecurity researchers are calling attention to a malware campaign that's targeting security flaws in TBK digital video recorders (DVRs) and Four-Faith routers to rope the devices into a new botnet called RondoDox.\nThe vulnerabilities in question include CVE-2024-3721, a medium-severity command i",
+    "published": "2025-07-08T11:08:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally",
+    "link": "https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html",
+    "summary": "A newly released report by cybersecurity firm CTM360 reveals a large-scale scam operation utilizing fake news websites&mdash;known as Baiting News Sites (BNS)&mdash;to deceive users into online investment fraud across 50 countries.\nThese BNS pages are made to look like real news outlets: CNN, BBC, C",
+    "published": "2025-07-08T10:30:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms",
     "link": "https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html",
     "summary": "Russian organizations have been targeted as part of an ongoing campaign that delivers a previously undocumented Windows spyware called Batavia.\nThe activity, per cybersecurity vendor Kaspersky, has been active since July 2024.\n\"The targeted attack begins with bait emails containing malicious links, ",
