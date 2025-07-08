@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Overcoming Technical Barriers in Desktop and Application Virtualization](https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/) — 2025-09-08
+- **Bleeping Computer**: [Malicious Chrome extensions with 1.7M installs found on Web Store](https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/) — 2025-00-08
 - **The Hacker News**: [5 Ways Identity-based Attacks Are Breaching Retail](https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html) — 2025-25-08
 - **The Hacker News**: [RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks](https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html) — 2025-08-08
 - **The Hacker News**: [BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally](https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html) — 2025-30-08
@@ -59,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [OpenAI says GPT-5 will unify breakthroughs from different models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/) — 2025-22-07
 - **Bleeping Computer**: [Hands on with Windows 11 Notepad&#39;s new markdown support](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/) — 2025-55-06
 - **Bleeping Computer**: [ChatGPT is testing disruptive Study Together feature](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/) — 2025-07-06
-- **Bleeping Computer**: [Ingram Micro outage caused by SafePay ransomware attack](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/) — 2025-58-05
 - **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
 - **The Hacker News**: [Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html) — 2025-44-05
 - **The Hacker News**: [NightEagle APT Exploits Microsoft Exchange Flaw to Target China&#39;s Military and Tech Sectors](https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html) — 2025-59-04
