@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Android TapTrap attack fools users with invisible UI trick",
+    "link": "https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/",
+    "summary": "A novel tapjacking technique\u00a0can exploit user interface animations to bypass Android's permission system and allow access to sensitive data or trick users into performing destructive actions, such as wiping the device. [...]",
+    "published": "2025-07-08T19:39:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Windows 10 KB5062554 cumulative update released with 13 changes, fixes",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/",
     "summary": "Microsoft has released the KB5062554 cumulative update for Windows 10 22H2 and Windows 10 21H2, with thirteen new fixes or changes. [...]",
