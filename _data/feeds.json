@@ -47,12 +47,5 @@
     "summary": "A previously undocumented spyware called 'Batavia' has been targeting large industrial enterprises in Russia in a phishing email campaign that uses contract-related lures. [...]",
     "published": "2025-07-07T16:48:39",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers abuse leaked Shellter red team tool to deploy infostealers",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/",
-    "summary": "Shellter Project, the vendor of a commercial AV/EDR evasion loader for penetration testing, confirmed that hackers used its Shellter Elite product in attacks after a customer leaked a copy of the software. [...]",
-    "published": "2025-07-07T14:49:27",
-    "source": "BleepingComputer"
   }
 ]
