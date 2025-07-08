@@ -1,5 +1,12 @@
 [
   {
+    "title": "CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation",
+    "link": "https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of flaws is as follows -\n\nCVE-2014-3931 (CVSS score: 9.8) - A buffer overflow vulner",
+    "published": "2025-07-08T05:08:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage",
     "link": "https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/",
     "summary": "A Chinese national was arrested in Milan, Italy, last week for allegedly being linked to the state-sponsored Silk Typhoon hacking group, which responsible for cyberattacks against American organizations and government agencies. [...]",
@@ -33,12 +40,5 @@
     "summary": "Cybersecurity researchers have disclosed a malicious campaign that leverages search engine optimization (SEO) poisoning techniques to deliver a known malware loader called Oyster (aka Broomstick or CleanUpLoader).\nThe malvertising activity, per Arctic Wolf, promotes fake websites hosting trojanized ",
     "published": "2025-07-07T17:26:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Qantas is being extorted in recent data-theft cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/",
-    "summary": "Qantas has confirmed that it is now being extorted by threat actors following a cyberattack that potentially exposed the data for 6 million customers. [...]",
-    "published": "2025-07-07T17:02:02",
-    "source": "BleepingComputer"
   }
 ]
