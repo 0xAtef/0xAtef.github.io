@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft confirms Windows Server Update Services (WSUS) sync is broken",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/",
+    "summary": "Microsoft has confirmed a widespread issue in Windows Server Update Services (WSUS) that prevents organizations from syncing with Microsoft Update and deploying the latest Windows updates. [...]",
+    "published": "2025-07-09T20:58:34",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Qantas confirms data breach impacts 5.7 million customers",
     "link": "https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/",
     "summary": "Australian airline Qantas has confirmed that 5.7 million people have been impacted by a recent data breach, in which threat actors stole customers' data. [...]",
