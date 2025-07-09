@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ruckus Networks leaves severe flaws unpatched in management devices",
+    "link": "https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/",
+    "summary": "Multiple vulnerabilities that remain unpatched in Ruckus Wireless management products could be exploited to fully compromise the network environment they serve. [...]",
+    "published": "2025-07-09T15:42:07",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Ingram Micro starts restoring systems after ransomware attack",
     "link": "https://www.bleepingcomputer.com/news/security/ingram-micro-starts-restoring-systems-after-ransomware-attack/",
     "summary": "Ingram Micro has begun restoring systems and business services after suffering\u00a0a massive SafePay ransomware attack right before the July 4th holiday. [...]",
