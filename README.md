@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft Authenticator on iOS moves backups fully to iCloud](https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/) — 2025-37-09
 - **Bleeping Computer**: [Microsoft confirms Windows Server Update Services &lpar;WSUS&rpar; sync is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/) — 2025-58-09
 - **Bleeping Computer**: [Qantas confirms data breach impacts 5.7 million customers](https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/) — 2025-14-09
 - **Bleeping Computer**: [Google reveals details on Android’s Advanced Protection for Chrome](https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/) — 2025-31-09
