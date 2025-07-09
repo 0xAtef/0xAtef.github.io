@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Microsoft confirms Windows Server Update Services &lpar;WSUS&rpar; sync is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/) — 2025-58-09
+- **Bleeping Computer**: [Qantas confirms data breach impacts 5.7 million customers](https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/) — 2025-14-09
 - **Bleeping Computer**: [Google reveals details on Android’s Advanced Protection for Chrome](https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/) — 2025-31-09
 - **Bleeping Computer**: [Bitcoin Depot breach exposes data of nearly 27,000 crypto users](https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/) — 2025-33-09
 - **The Hacker News**: [Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets](https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html) — 2025-26-09
@@ -57,9 +59,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Samsung announces major security enhancements coming to One UI 8](https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/) — 2025-43-08
 - **Bleeping Computer**: [M&amp;S confirms social engineering led to massive ransomware attack](https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/) — 2025-39-08
 - **Bleeping Computer**: [New Android TapTrap attack fools users with invisible UI trick](https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/) — 2025-39-08
-- **Bleeping Computer**: [Windows 10 KB5062554 cumulative update released with 13 changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/) — 2025-44-08
 - **The Hacker News**: [Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware](https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html) — 2025-35-08
-- **Bleeping Computer**: [Windows 11 KB5062553 &amp; KB5062552  cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/) — 2025-32-08
 - **The Hacker News**: [Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play](https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html) — 2025-13-08
 - **The Hacker News**: [Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension](https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html) — 2025-01-08
 - **The Hacker News**: [5 Ways Identity-based Attacks Are Breaching Retail](https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html) — 2025-25-08
