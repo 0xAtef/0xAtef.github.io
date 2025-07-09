@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Treasury sanctions North Korean over IT worker malware scheme](https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/) — 2025-43-09
 - **Bleeping Computer**: [The MFA You Trust Is Lying to You – and Here&#39;s How Attackers Exploit It](https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/) — 2025-02-09
+- **The Hacker News**: [DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware](https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html) — 2025-28-09
 - **Bleeping Computer**: [New ServiceNow flaw lets attackers enumerate restricted data](https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/) — 2025-00-09
 - **The Hacker News**: [U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme](https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html) — 2025-25-09
 - **The Hacker News**: [How To Automate Ticket Creation, Device Identification and Threat Triage With Tines](https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html) — 2025-00-09
@@ -64,7 +66,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally](https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html) — 2025-30-08
 - **The Hacker News**: [Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms](https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html) — 2025-22-08
 - **The Hacker News**: [CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation](https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html) — 2025-08-08
-- **Bleeping Computer**: [Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/) — 2025-39-08
 - **The Hacker News**: [SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools](https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html) — 2025-26-07
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html) — 2025-26-07
 - **The Hacker News**: [Manufacturing Security: Why Default Passwords Must Go](https://thehackernews.com/2025/07/manufacturing-security-why-default.html) — 2025-00-07
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html) — 2025-19-28
 - **The Hacker News**: [Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign](https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html) — 2025-58-27
 - **The Hacker News**: [PUBLOAD and Pubshell Malware Used in Mustang Panda&#39;s Tibet-Specific Attack](https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html) — 2025-25-27
-- **The Hacker News**: [Business Case for Agentic AI SOC Analysts](https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html) — 2025-00-27
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
