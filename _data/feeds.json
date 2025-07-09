@@ -82,12 +82,5 @@
     "summary": "A new vulnerability in ServiceNow, dubbed Count(er) Strike, allows low-privileged users to extract sensitive data from tables to which they should not have access. [...]",
     "published": "2025-07-09T13:00:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme",
-    "link": "https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html",
-    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday sanctioned a member of a North Korean hacking group called Andariel for their role in the infamous remote information technology (IT) worker scheme.\nThe Treasury said Song Kum Hyok, a 38-year-old North Korean na",
-    "published": "2025-07-09T11:25:00",
-    "source": "HackerNews"
   }
 ]
