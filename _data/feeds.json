@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin Depot breach exposes data of nearly 27,000 crypto users",
+    "link": "https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/",
+    "summary": "Bitcoin Depot, an operator of Bitcoin ATMs, is notifying customers of a data breach incident that has exposed their sensitive information. [...]",
+    "published": "2025-07-09T17:33:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Ruckus Networks leaves severe flaws unpatched in management devices",
     "link": "https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/",
     "summary": "Multiple vulnerabilities that remain unpatched in Ruckus Wireless management products could be exploited to fully compromise the network environment they serve. [...]",
