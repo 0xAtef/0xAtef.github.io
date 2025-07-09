@@ -1,5 +1,26 @@
 [
   {
+    "title": "The MFA You Trust Is Lying to You \u2013 and Here's How Attackers Exploit It",
+    "link": "https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/",
+    "summary": "MFA Authenticator apps aren't cutting it anymore. Attackers are bypassing legacy MFA with fake sites and real-time phishing. Token Ring and BioStick stop them cold\u2014with fingerprint-bound hardware. Learn more from Token. [...]",
+    "published": "2025-07-09T14:02:12",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware",
+    "link": "https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html",
+    "summary": "A threat actor with suspected ties to India has been observed targeting a European foreign affairs ministry with malware capable of harvesting sensitive data from compromised hosts.\nThe activity has been attributed by Trellix Advanced Research Center to an advanced persistent threat (APT) group call",
+    "published": "2025-07-09T13:28:00",
+    "source": "HackerNews"
+  },
+  {
+    "title": "New ServiceNow flaw lets attackers enumerate restricted data",
+    "link": "https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/",
+    "summary": "A new vulnerability in ServiceNow, dubbed Count(er) Strike, allows low-privileged users to extract sensitive data from tables to which they should not have access. [...]",
+    "published": "2025-07-09T13:00:00",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme",
     "link": "https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html",
     "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday sanctioned a member of a North Korean hacking group called Andariel for their role in the infamous remote information technology (IT) worker scheme.\nThe Treasury said Song Kum Hyok, a 38-year-old North Korean na",
