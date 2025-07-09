@@ -61,26 +61,5 @@
     "summary": "Cybersecurity researchers have discovered an Android banking malware campaign that has leveraged a trojan named Anatsa to target users in North America using malicious apps published on Google's official app marketplace.\nThe malware, disguised as a \"PDF Update\" to a document viewer app, has been cau",
     "published": "2025-07-08T16:13:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Android malware Anatsa infiltrates Google Play to target US banks",
-    "link": "https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/",
-    "summary": "The Anatsa banking trojan has sneaked into Google Play once more via an app posing as a PDF viewer that counted\u00a0more than\u00a050,000 downloads. [...]",
-    "published": "2025-07-08T15:00:00",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Overcoming Technical Barriers in Desktop and Application Virtualization",
-    "link": "https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/",
-    "summary": "Exposed RDP ports are an open door for attackers. TruGrid SecureRDP enforces Zero Trust and MFA, blocks lateral movement, and secures remote access\u2014no open firewall ports required. Learn more and get a free trial. [...]",
-    "published": "2025-07-08T14:09:49",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Malicious Chrome extensions with 1.7M installs found on Web Store",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/",
-    "summary": "Almost a dozen malicious extensions with 1.7 million downloads in Google's Chrome Web Store could track users, steal browser activity, and redirect to potentially unsafe web addresses. [...]",
-    "published": "2025-07-08T14:00:00",
-    "source": "BleepingComputer"
   }
 ]
