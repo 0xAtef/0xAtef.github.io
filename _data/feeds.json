@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft Patch Tuesday, July 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/",
+    "summary": "Microsoft today released updates to fix at least 137 security vulnerabilities in its Windows operating systems and supported software. None of the weaknesses addressed this month are known to be actively exploited, but 14 of the flaws earned Microsoft's most-dire \"critical\" rating, meaning they coul",
+    "published": "2025-07-09T00:53:33",
+    "source": "Krebs"
+  },
+  {
     "title": "Samsung announces major security enhancements coming to One UI 8",
     "link": "https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/",
     "summary": "Samsung has announced multiple data security and privacy enhancements for its upcoming Galaxy smartphones running One UI 8, its custom user interface on top of Android. [...]",
@@ -75,12 +82,5 @@
     "summary": "Almost a dozen malicious extensions with 1.7 million downloads in Google's Chrome Web Store could track users, steal browser activity, and redirect to potentially unsafe web addresses. [...]",
     "published": "2025-07-08T14:00:00",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension",
-    "link": "https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html",
-    "summary": "Cybersecurity researchers have flagged a supply chain attack targeting a Microsoft Visual Studio Code (VS Code) extension called Ethcode that has been installed a little over 6,000 times.\nThe compromise, per ReversingLabs, occurred via a GitHub pull request that was opened by a user named Airez299 o",
-    "published": "2025-07-08T13:01:00",
-    "source": "HackerNews"
   }
 ]
