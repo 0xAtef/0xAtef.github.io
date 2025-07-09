@@ -7,6 +7,13 @@
     "source": "BleepingComputer"
   },
   {
+    "title": "Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets",
+    "link": "https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html",
+    "summary": "The Initial Access Broker (IAB) known as Gold Melody has been attributed to a campaign that exploits leaked ASP.NET machine keys to obtain unauthorized access to organizations and peddle that access to other threat actors.\nThe activity is being tracked by Palo Alto Networks Unit 42 under the moniker",
+    "published": "2025-07-09T16:26:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Ruckus Networks leaves severe flaws unpatched in management devices",
     "link": "https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/",
     "summary": "Multiple vulnerabilities that remain unpatched in Ruckus Wireless management products could be exploited to fully compromise the network environment they serve. [...]",
@@ -67,13 +74,6 @@
     "link": "https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html",
     "summary": "A Chinese national has been arrested in Milan, Italy, for his alleged links to a state-sponsored hacking group known as Silk Typhoon and for carrying out cyber attacks against American organizations and government agencies.\nThe 33-year-old, Xu Zewei, has been charged with nine counts of wire fraud a",
     "published": "2025-07-09T08:40:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server",
-    "link": "https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html",
-    "summary": "For the first time in 2025, Microsoft's Patch Tuesday updates did not bundle fixes for exploited security vulnerabilities, but the company acknowledged one of the addressed flaws had been publicly known.\nThe patches resolve a whopping 130 vulnerabilities, along with 10 other non-Microsoft CVEs that ",
-    "published": "2025-07-09T07:10:00",
     "source": "HackerNews"
   }
 ]
