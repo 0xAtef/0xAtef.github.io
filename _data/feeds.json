@@ -19,12 +19,5 @@
     "summary": "M&amp;S confirmed today that the retail outlet's network was initially breached in a \"sophisticated impersonation attack\" that ultimately led to a DragonForce ransomware attack. [...]",
     "published": "2025-07-08T20:39:53",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Android TapTrap attack fools users with invisible UI trick",
-    "link": "https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/",
-    "summary": "A novel tapjacking technique\u00a0can exploit user interface animations to bypass Android's permission system and allow access to sensitive data or trick users into performing destructive actions, such as wiping the device. [...]",
-    "published": "2025-07-08T19:39:25",
-    "source": "BleepingComputer"
   }
 ]
