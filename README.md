@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Krebs on Security**: [Microsoft Patch Tuesday, July 2025 Edition](https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/) — 2025-53-09
 - **Bleeping Computer**: [Samsung announces major security enhancements coming to One UI 8](https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/) — 2025-43-08
 - **Bleeping Computer**: [M&amp;S confirms social engineering led to massive ransomware attack](https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/) — 2025-39-08
 - **Bleeping Computer**: [New Android TapTrap attack fools users with invisible UI trick](https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/) — 2025-39-08
@@ -111,5 +112,4 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/) — 2025-55-30
 - **Krebs on Security**: [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) — 2025-41-28
 - **Krebs on Security**: [Oops: DanaBot Malware Devs Infected Their Own PCs](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/) — 2025-53-22
-- **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20
-- **Krebs on Security**: [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/) — 2025-56-15<!-- BLOG-POST-LIST:END -->
+- **Krebs on Security**: [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/) — 2025-30-20<!-- BLOG-POST-LIST:END -->
