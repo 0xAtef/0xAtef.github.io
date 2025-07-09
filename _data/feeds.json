@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server",
+    "link": "https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html",
+    "summary": "For the first time in 2025, Microsoft's Patch Tuesday updates did not bundle fixes for exploited security vulnerabilities, but acknowledged one of the addressed flaws had been publicly known.\nThe patches resolve a whopping 130 vulnerabilities, along with 10 other non-Microsoft CVEs that affect Visua",
+    "published": "2025-07-09T07:10:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Microsoft Patch Tuesday, July 2025 Edition",
     "link": "https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/",
     "summary": "Microsoft today released updates to fix at least 137 security vulnerabilities in its Windows operating systems and supported software. None of the weaknesses addressed this month are known to be actively exploited, but 14 of the flaws earned Microsoft's most-dire \"critical\" rating, meaning they coul",
