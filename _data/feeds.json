@@ -33,19 +33,5 @@
     "summary": "Bitcoin Depot, an operator of Bitcoin ATMs, is notifying customers of a data breach incident that has exposed their sensitive information. [...]",
     "published": "2025-07-09T17:33:46",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets",
-    "link": "https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html",
-    "summary": "The Initial Access Broker (IAB) known as Gold Melody has been attributed to a campaign that exploits leaked ASP.NET machine keys to obtain unauthorized access to organizations and peddle that access to other threat actors.\nThe activity is being tracked by Palo Alto Networks Unit 42 under the moniker",
-    "published": "2025-07-09T16:26:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Ruckus Networks leaves severe flaws unpatched in management devices",
-    "link": "https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/",
-    "summary": "Multiple vulnerabilities that remain unpatched in Ruckus Wireless management products could be exploited to fully compromise the network environment they serve. [...]",
-    "published": "2025-07-09T15:42:07",
-    "source": "BleepingComputer"
   }
 ]
