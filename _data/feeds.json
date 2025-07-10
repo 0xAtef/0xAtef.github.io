@@ -5,12 +5,5 @@
     "summary": "A high-severity security flaw has been disclosed in ServiceNow's platform that, if successfully exploited, could result in data exposure and exfiltration.\nThe vulnerability, tracked as CVE-2025-3648 (CVSS score: 8.2), has been described as a case of data inference in Now Platform through conditional",
     "published": "2025-07-10T07:24:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Microsoft Authenticator on iOS moves backups fully to iCloud",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/",
-    "summary": "Microsoft is rolling out a new backup system in September for its Authenticator app on iOS, removing the requirement to use a Microsoft personal account to back up TOTP secrets and account names. [...]",
-    "published": "2025-07-09T22:37:27",
-    "source": "BleepingComputer"
   }
 ]
