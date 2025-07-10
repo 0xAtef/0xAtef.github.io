@@ -75,12 +75,5 @@
     "summary": "Semiconductor company AMD is warning of a new set of vulnerabilities affecting a broad range of chipsets that could lead to information disclosure.\nThe flaws, collectively called Transient Scheduler Attacks (TSA), manifest in the form of a speculative side channel in its CPUs that leverage execution",
     "published": "2025-07-10T10:44:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs",
-    "link": "https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html",
-    "summary": "A high-severity security flaw has been disclosed in ServiceNow's platform that, if successfully exploited, could result in data exposure and exfiltration.\nThe vulnerability, tracked as CVE-2025-3648 (CVSS score: 8.2), has been described as a case of data inference in Now Platform through conditional",
-    "published": "2025-07-10T07:24:00",
-    "source": "HackerNews"
   }
 ]
