@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [PerfektBlue Bluetooth flaws impact Mercedes, Volkswagen, Skoda cars](https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/) — 2025-01-10
+- **The Hacker News**: [Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord](https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html) — 2025-41-10
 - **Bleeping Computer**: [FBI&#39;s CJIS demystified: Best practices for passwords, MFA &amp; access control](https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/) — 2025-02-10
 - **Bleeping Computer**: [Four arrested in UK over M&amp;S, Co-op, Harrod cyberattacks](https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/) — 2025-46-10
 - **The Hacker News**: [Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods](https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html) — 2025-13-10
@@ -104,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [U.S. Agencies Warn of Rising Iranian Cyber Attacks on Defense, OT Networks, and Critical Infrastructure](https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html) — 2025-29-30
 - **The Hacker News**: [Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects](https://thehackernews.com/2025/06/europol-dismantles-540-million.html) — 2025-17-30
 - **The Hacker News**: [Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks](https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html) — 2025-30-30
-- **The Hacker News**: [Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories](https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html) — 2025-00-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
