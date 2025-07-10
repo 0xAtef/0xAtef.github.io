@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html) — 2025-00-10
+- **The Hacker News**: [New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App](https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html) — 2025-59-10
+- **The Hacker News**: [AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs](https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html) — 2025-44-10
 - **The Hacker News**: [ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs](https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html) — 2025-24-10
 - **Bleeping Computer**: [Microsoft Authenticator on iOS moves backups fully to iCloud](https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/) — 2025-37-09
 - **Bleeping Computer**: [Microsoft confirms Windows Server Update Services &lpar;WSUS&rpar; sync is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/) — 2025-58-09
@@ -103,9 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks](https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html) — 2025-30-30
 - **The Hacker News**: [Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories](https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html) — 2025-00-30
 - **The Hacker News**: [⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more](https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html) — 2025-16-30
-- **The Hacker News**: [FBI Warns of Scattered Spider&#39;s Expanding Attacks on Airlines Using Social Engineering](https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html) — 2025-48-28
-- **The Hacker News**: [GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool](https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html) — 2025-58-28
-- **The Hacker News**: [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html) — 2025-19-28
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
