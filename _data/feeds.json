@@ -68,19 +68,5 @@
     "summary": "MFA Authenticator apps aren't cutting it anymore. Attackers are bypassing legacy MFA with fake sites and real-time phishing. Token Ring and BioStick stop them cold\u2014with fingerprint-bound hardware. Learn more from Token. [...]",
     "published": "2025-07-09T14:02:12",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware",
-    "link": "https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html",
-    "summary": "A threat actor with suspected ties to India has been observed targeting a European foreign affairs ministry with malware capable of harvesting sensitive data from compromised hosts.\nThe activity has been attributed by Trellix Advanced Research Center to an advanced persistent threat (APT) group call",
-    "published": "2025-07-09T13:28:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "New ServiceNow flaw lets attackers enumerate restricted data",
-    "link": "https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/",
-    "summary": "A new vulnerability in ServiceNow, dubbed Count(er) Strike, allows low-privileged users to extract sensitive data from tables to which they should not have access. [...]",
-    "published": "2025-07-09T13:00:00",
-    "source": "BleepingComputer"
   }
 ]
