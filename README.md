@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [FBI&#39;s CJIS demystified: Best practices for passwords, MFA &amp; access control](https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/) — 2025-02-10
+- **Bleeping Computer**: [Four arrested in UK over M&amp;S, Co-op, Harrod cyberattacks](https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/) — 2025-46-10
 - **The Hacker News**: [Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods](https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html) — 2025-13-10
 - **The Hacker News**: [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html) — 2025-00-10
 - **The Hacker News**: [New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App](https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html) — 2025-59-10
@@ -62,9 +64,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks](https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html) — 2025-40-09
 - **The Hacker News**: [Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server](https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html) — 2025-10-09
 - **Krebs on Security**: [Microsoft Patch Tuesday, July 2025 Edition](https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/) — 2025-53-09
-- **Bleeping Computer**: [Samsung announces major security enhancements coming to One UI 8](https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/) — 2025-43-08
-- **Bleeping Computer**: [M&amp;S confirms social engineering led to massive ransomware attack](https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/) — 2025-39-08
-- **Bleeping Computer**: [New Android TapTrap attack fools users with invisible UI trick](https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/) — 2025-39-08
 - **The Hacker News**: [Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware](https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html) — 2025-35-08
 - **The Hacker News**: [Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play](https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html) — 2025-13-08
 - **The Hacker News**: [Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension](https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html) — 2025-01-08
