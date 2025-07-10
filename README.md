@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs](https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html) — 2025-24-10
 - **Bleeping Computer**: [Microsoft Authenticator on iOS moves backups fully to iCloud](https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/) — 2025-37-09
 - **Bleeping Computer**: [Microsoft confirms Windows Server Update Services &lpar;WSUS&rpar; sync is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/) — 2025-58-09
 - **Bleeping Computer**: [Qantas confirms data breach impacts 5.7 million customers](https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/) — 2025-14-09
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [FBI Warns of Scattered Spider&#39;s Expanding Attacks on Airlines Using Social Engineering](https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html) — 2025-48-28
 - **The Hacker News**: [GIFTEDCROOK Malware Evolves: From Browser Stealer to Intelligence-Gathering Tool](https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html) — 2025-58-28
 - **The Hacker News**: [Facebook’s New AI Tool Asks to Upload Your Photos for Story Ideas, Sparking Privacy Concerns](https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html) — 2025-19-28
-- **The Hacker News**: [Over 1,000 SOHO Devices Hacked in China-linked LapDogs Cyber Espionage Campaign](https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html) — 2025-58-27
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
