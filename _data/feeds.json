@@ -1,5 +1,19 @@
 [
   {
+    "title": "Russian pro basketball player arrested for alleged role in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/",
+    "summary": "Russian professional basketball player\u00a0Daniil Kasatkin was arrested in France at the request of the United States for allegedly acting as a negotiator for a ransomware gang. [...]",
+    "published": "2025-07-10T16:26:35",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "PerfektBlue Bluetooth flaws impact Mercedes, Volkswagen, Skoda cars",
+    "link": "https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/",
+    "summary": "Four vulnerabilities dubbed\u00a0PerfektBlue and affecting the BlueSDK Bluetooth stack\u00a0from OpenSynergy can be exploited to achieve remote code execution and potentially allow access to critical elements in vehicles from multiple vendors, including\u00a0Mercedes-Benz AG, Volkswagen, and Skoda. [...]",
+    "published": "2025-07-10T16:01:19",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord",
     "link": "https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html",
     "summary": "Cryptocurrency users are the target of an ongoing social engineering campaign that employs fake startup companies to trick users into downloading malware that can drain digital assets from both Windows and macOS systems.\n\"These malicious operations impersonate AI, gaming, and Web3 firms using spoofe",
