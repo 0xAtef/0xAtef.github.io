@@ -12,12 +12,5 @@
     "summary": "Microsoft is rolling out a new backup system in September for its Authenticator app on iOS, removing the requirement to use a Microsoft personal account to back up TOTP secrets and account names. [...]",
     "published": "2025-07-09T22:37:27",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft confirms Windows Server Update Services (WSUS) sync is broken",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/",
-    "summary": "Microsoft has confirmed a widespread issue in Windows Server Update Services (WSUS) that prevents organizations from syncing with Microsoft Update and deploying the latest Windows updates. [...]",
-    "published": "2025-07-09T20:58:34",
-    "source": "BleepingComputer"
   }
 ]
