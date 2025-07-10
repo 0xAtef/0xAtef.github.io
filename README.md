@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Windows 11 now uses JScript9Legacy engine for improved security](https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/) — 2025-46-10
 - **Krebs on Security**: [UK Charges Four in ‘Scattered Spider’ Ransom Group](https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/) — 2025-31-10
 - **The Hacker News**: [Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads](https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html) — 2025-03-10
 - **Bleeping Computer**: [Russian pro basketball player arrested for alleged role in ransomware attacks](https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/) — 2025-26-10
@@ -60,8 +61,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets](https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html) — 2025-26-09
 - **Bleeping Computer**: [Ruckus Networks leaves severe flaws unpatched in management devices](https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/) — 2025-42-09
 - **Bleeping Computer**: [Ingram Micro starts restoring systems after ransomware attack](https://www.bleepingcomputer.com/news/security/ingram-micro-starts-restoring-systems-after-ransomware-attack/) — 2025-13-09
-- **Bleeping Computer**: [Treasury sanctions North Korean over IT worker malware scheme](https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/) — 2025-43-09
-- **Bleeping Computer**: [The MFA You Trust Is Lying to You – and Here&#39;s How Attackers Exploit It](https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/) — 2025-02-09
 - **The Hacker News**: [DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware](https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html) — 2025-28-09
 - **The Hacker News**: [U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme](https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html) — 2025-25-09
 - **The Hacker News**: [How To Automate Ticket Creation, Device Identification and Threat Triage With Tines](https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html) — 2025-00-09
