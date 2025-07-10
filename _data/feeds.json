@@ -75,12 +75,5 @@
     "summary": "Cybersecurity researchers have discovered new artifacts associated with an Apple macOS malware called ZuRu, which is known to propagate via trojanized versions of legitimate software.\nSentinelOne, in a new report shared with The Hacker News, said the malware has been observed masquerading as the cro",
     "published": "2025-07-10T10:59:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs",
-    "link": "https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html",
-    "summary": "Semiconductor company AMD is warning of a new set of vulnerabilities affecting a broad range of chipsets that could lead to information disclosure.\nThe flaws, collectively called Transient Scheduler Attacks (TSA), manifest in the form of a speculative side channel in its CPUs that leverage execution",
-    "published": "2025-07-10T10:44:00",
-    "source": "HackerNews"
   }
 ]
