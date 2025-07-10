@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods](https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html) — 2025-13-10
 - **The Hacker News**: [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html) — 2025-00-10
 - **The Hacker News**: [New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App](https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html) — 2025-59-10
 - **The Hacker News**: [AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs](https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html) — 2025-44-10
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects](https://thehackernews.com/2025/06/europol-dismantles-540-million.html) — 2025-17-30
 - **The Hacker News**: [Blind Eagle Uses Proton66 Hosting for Phishing, RAT Deployment on Colombian Banks](https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html) — 2025-30-30
 - **The Hacker News**: [Leveraging Credentials As Unique Identifiers: A Pragmatic Approach To NHI Inventories](https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html) — 2025-00-30
-- **The Hacker News**: [⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more](https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html) — 2025-16-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
