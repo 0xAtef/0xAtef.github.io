@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Russian pro basketball player arrested for alleged role in ransomware attacks](https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/) — 2025-26-10
 - **Bleeping Computer**: [PerfektBlue Bluetooth flaws impact Mercedes, Volkswagen, Skoda cars](https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/) — 2025-01-10
 - **The Hacker News**: [Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord](https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html) — 2025-41-10
 - **Bleeping Computer**: [FBI&#39;s CJIS demystified: Best practices for passwords, MFA &amp; access control](https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/) — 2025-02-10
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Treasury sanctions North Korean over IT worker malware scheme](https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/) — 2025-43-09
 - **Bleeping Computer**: [The MFA You Trust Is Lying to You – and Here&#39;s How Attackers Exploit It](https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/) — 2025-02-09
 - **The Hacker News**: [DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware](https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html) — 2025-28-09
-- **Bleeping Computer**: [New ServiceNow flaw lets attackers enumerate restricted data](https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/) — 2025-00-09
 - **The Hacker News**: [U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme](https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html) — 2025-25-09
 - **The Hacker News**: [How To Automate Ticket Creation, Device Identification and Threat Triage With Tines](https://thehackernews.com/2025/07/how-to-automate-ticket-creation-device.html) — 2025-00-09
 - **The Hacker News**: [Chinese Hacker Xu Zewei Arrested for Ties to Silk Typhoon Group and U.S. Cyber Attacks](https://thehackernews.com/2025/07/chinese-hacker-xu-zewei-arrested-for.html) — 2025-40-09
