@@ -47,26 +47,5 @@
     "summary": "Multiple vulnerabilities that remain unpatched in Ruckus Wireless management products could be exploited to fully compromise the network environment they serve. [...]",
     "published": "2025-07-09T15:42:07",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Ingram Micro starts restoring systems after ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/ingram-micro-starts-restoring-systems-after-ransomware-attack/",
-    "summary": "Ingram Micro has begun restoring systems and business services after suffering\u00a0a massive SafePay ransomware attack right before the July 4th holiday. [...]",
-    "published": "2025-07-09T15:13:50",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Treasury sanctions North Korean over IT worker malware scheme",
-    "link": "https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/",
-    "summary": "The U.S. Department of the Treasury sanctioned cyber actor Song Kum Hyok for his association with North Korea's hacking group Andariel and for facilitating IT worker schemes that generated revenue for the\u00a0Pyongyang\u00a0regime. [...]",
-    "published": "2025-07-09T14:43:11",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "The MFA You Trust Is Lying to You \u2013 and Here's How Attackers Exploit It",
-    "link": "https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/",
-    "summary": "MFA Authenticator apps aren't cutting it anymore. Attackers are bypassing legacy MFA with fake sites and real-time phishing. Token Ring and BioStick stop them cold\u2014with fingerprint-bound hardware. Learn more from Token. [...]",
-    "published": "2025-07-09T14:02:12",
-    "source": "BleepingComputer"
   }
 ]
