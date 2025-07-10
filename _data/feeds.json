@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord",
+    "link": "https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html",
+    "summary": "Cryptocurrency users are the target of an ongoing social engineering campaign that employs fake startup companies to trick users into downloading malware that can drain digital assets from both Windows and macOS systems.\n\"These malicious operations impersonate AI, gaming, and Web3 firms using spoofe",
+    "published": "2025-07-10T14:41:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "FBI's CJIS demystified: Best practices for passwords, MFA & access control",
     "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/",
     "summary": "FBI's Criminal Justice Information Services (CJIS) compliance isn't optional when handling law enforcement data. From MFA to password hygiene, see how Specops Software helps meet FBI standards while also securing your Windows Active Directory. [...]",
