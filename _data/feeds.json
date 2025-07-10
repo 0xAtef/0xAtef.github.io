@@ -7,6 +7,13 @@
     "source": "Krebs"
   },
   {
+    "title": "Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads",
+    "link": "https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html",
+    "summary": "Cybersecurity researchers have discovered a critical vulnerability in the open-source mcp-remote project that could result in the execution of arbitrary operating system (OS) commands.\nThe vulnerability, tracked as CVE-2025-6514, carries a CVSS score of 9.6 out of 10.0.\n\"The vulnerability allows att",
+    "published": "2025-07-10T17:03:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Russian pro basketball player arrested for alleged role in ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/",
     "summary": "Russian professional basketball player\u00a0Daniil Kasatkin was arrested in France at the request of the United States for allegedly acting as a negotiator for a ransomware gang. [...]",
