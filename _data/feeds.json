@@ -1,5 +1,12 @@
 [
   {
+    "title": "'123456' password exposed info for 64 million McDonald\u2019s job applicants",
+    "link": "https://www.bleepingcomputer.com/news/security/123456-password-exposed-info-for-64-million-mcdonalds-job-applicants/",
+    "summary": "Cybersecurity researchers discovered a vulnerability in McHire, McDonald's chatbot job application platform, that exposed the personal information of more than 64 million job applicants across the United States. [...]",
+    "published": "2025-07-11T20:26:52",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now",
     "link": "https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/",
     "summary": "Proof-of-concept exploits have been released for a critical SQLi vulnerability in Fortinet FortiWeb that can be used to\u00a0achieve pre-authenticated remote code execution on vulnerable servers. [...]",
