@@ -1,5 +1,12 @@
 [
   {
+    "title": "NVIDIA issues guidance to defend GDDR6 GPUs against Rowhammer attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/",
+    "summary": "NVIDIA is warning users to activate\u00a0the System Level Error-Correcting Code\u00a0 mitigation to protect against\u00a0Rowhammer attacks on graphical processors with\u00a0GDDR6 memory. [...]",
+    "published": "2025-07-11T15:39:05",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "The zero-day that could've compromised every Cursor and Windsurf user",
     "link": "https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/",
     "summary": "Learn how one overlooked flaw in OpenVSX discovered by Koi Secureity could've let attackers hijack millions of dev machines via an extension supply chain attack. The zero-day threat's been patched\u2014but the wake-up call is clear: extensions are a new, massive supply chain risk. [...]",
