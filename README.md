@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now](https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/) — 2025-41-11
+- **Bleeping Computer**: [WordPress Gravity Forms developer hacked to push backdoored plugins](https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/) — 2025-30-11
 - **Bleeping Computer**: [NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks](https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/) — 2025-39-11
 - **Bleeping Computer**: [The zero-day that could&#39;ve compromised every Cursor and Windsurf user](https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/) — 2025-03-11
 - **Bleeping Computer**: [CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch](https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/) — 2025-45-11
@@ -64,8 +66,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs](https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html) — 2025-24-10
 - **Bleeping Computer**: [Microsoft Authenticator on iOS moves backups fully to iCloud](https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/) — 2025-37-09
 - **Bleeping Computer**: [Microsoft confirms Windows Server Update Services &lpar;WSUS&rpar; sync is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/) — 2025-58-09
-- **Bleeping Computer**: [Qantas confirms data breach impacts 5.7 million customers](https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/) — 2025-14-09
-- **Bleeping Computer**: [Google reveals details on Android’s Advanced Protection for Chrome](https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/) — 2025-31-09
 - **The Hacker News**: [Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets](https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html) — 2025-26-09
 - **The Hacker News**: [DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware](https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html) — 2025-28-09
 - **The Hacker News**: [U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme](https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html) — 2025-25-09
