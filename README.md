@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [&#39;123456&#39; password exposed info for 64 million McDonald’s job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-info-for-64-million-mcdonalds-job-applicants/) — 2025-26-11
 - **Bleeping Computer**: [Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now](https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/) — 2025-41-11
 - **Bleeping Computer**: [WordPress Gravity Forms developer hacked to push backdoored plugins](https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/) — 2025-30-11
 - **Bleeping Computer**: [NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks](https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/) — 2025-39-11
@@ -65,7 +66,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs](https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html) — 2025-44-10
 - **The Hacker News**: [ServiceNow Flaw CVE-2025-3648 Could Lead to Data Exposure via Misconfigured ACLs](https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html) — 2025-24-10
 - **Bleeping Computer**: [Microsoft Authenticator on iOS moves backups fully to iCloud](https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/) — 2025-37-09
-- **Bleeping Computer**: [Microsoft confirms Windows Server Update Services &lpar;WSUS&rpar; sync is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/) — 2025-58-09
 - **The Hacker News**: [Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets](https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html) — 2025-26-09
 - **The Hacker News**: [DoNot APT Expands Operations, Targets European Foreign Ministries with LoptikMod Malware](https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html) — 2025-28-09
 - **The Hacker News**: [U.S. Sanctions North Korean Andariel Hacker Behind Fraudulent IT Worker Scheme](https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html) — 2025-25-09
