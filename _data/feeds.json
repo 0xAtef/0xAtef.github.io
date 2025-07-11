@@ -1,5 +1,12 @@
 [
   {
+    "title": "CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/",
+    "summary": "The U.S. Cybersecurity & Infrastructure Security Agency has confirmed active exploitation of the CitrixBleed 2 vulnerability (CVE-2025-5777) in Citrix NetScaler ADC and Gateway and is giving federal agencies one day to apply fixes. [...]",
+    "published": "2025-07-11T14:45:57",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution",
     "link": "https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html",
     "summary": "Cybersecurity researchers have discovered a set of four security flaws in OpenSynergy's BlueSDK Bluetooth stack that, if successfully exploited, could allow remote code execution on millions of transport vehicles from different vendors.\nThe vulnerabilities, dubbed PerfektBlue, can be fashioned toget",
