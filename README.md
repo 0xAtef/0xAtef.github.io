@@ -40,8 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks](https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/) — 2025-39-11
 - **Bleeping Computer**: [The zero-day that could&#39;ve compromised every Cursor and Windsurf user](https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/) — 2025-03-11
 - **Bleeping Computer**: [CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch](https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/) — 2025-45-11
+- **The Hacker News**: [Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb &lpar;CVE-2025-25257&rpar;](https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html) — 2025-38-11
 - **The Hacker News**: [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html) — 2025-10-11
 - **The Hacker News**: [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html) — 2025-00-11
 - **The Hacker News**: [Critical Wing FTP Server Vulnerability &lpar;CVE-2025-47812&rpar; Actively Being Exploited in the Wild](https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html) — 2025-58-11
@@ -83,7 +85,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html) — 2025-26-07
 - **The Hacker News**: [Manufacturing Security: Why Default Passwords Must Go](https://thehackernews.com/2025/07/manufacturing-security-why-default.html) — 2025-00-07
 - **The Hacker News**: [TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors](https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html) — 2025-51-07
-- **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
+- **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from Douyin, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
 - **The Hacker News**: [Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html) — 2025-44-05
 - **The Hacker News**: [NightEagle APT Exploits Microsoft Exchange Flaw to Target China&#39;s Military and Tech Sectors](https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html) — 2025-59-04
 - **The Hacker News**: [Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It](https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html) — 2025-31-04
@@ -103,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html) — 2025-03-01
 - **The Hacker News**: [TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns](https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html) — 2025-26-01
 - **The Hacker News**: [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html) — 2025-51-01
-- **The Hacker News**: [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html) — 2025-00-01
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
