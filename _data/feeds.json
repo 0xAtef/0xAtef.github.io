@@ -5,12 +5,5 @@
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting Citrix NetScaler ADC and Gateway to its Known Exploited Vulnerabilities (KEV) catalog, officially confirming the vulnerability has been weaponized in the wild.\nThe shortcoming in que",
     "published": "2025-07-11T04:25:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Windows 11 now uses JScript9Legacy engine for improved security",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/",
-    "summary": "Microsoft announced that it has replaced\u00a0the default scripting engine JScript with the newer and more secure JScript9Legacy on Windows 11 version 24H2 and later. [...]",
-    "published": "2025-07-10T20:46:27",
-    "source": "BleepingComputer"
   }
 ]
