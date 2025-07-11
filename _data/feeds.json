@@ -1,5 +1,12 @@
 [
   {
+    "title": "PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution",
+    "link": "https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html",
+    "summary": "Cybersecurity researchers have discovered a set of four security flaws in OpenSynergy's BlueSDK Bluetooth stack that, if successfully exploited, could allow remote code execution on millions of transport vehicles from different vendors.\nThe vulnerabilities, dubbed PerfektBlue, can be fashioned toget",
+    "published": "2025-07-11T12:10:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Securing Data in the AI Era",
     "link": "https://thehackernews.com/2025/07/securing-data-in-ai-era.html",
     "summary": "The 2025 Data Risk Report: Enterprises face potentially serious data loss risks from AI-fueled tools. Adopting a unified, AI-driven approach to data security can help.\nAs businesses increasingly rely on cloud-driven platforms and AI-powered tools to accelerate digital transformation, the stakes for ",
