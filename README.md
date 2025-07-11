@@ -40,7 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- **Bleeping Computer**: [&#39;123456&#39; password exposed info for 64 million McDonald’s job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-info-for-64-million-mcdonalds-job-applicants/) — 2025-26-11
+- **Bleeping Computer**: [&#39;123456&#39; password exposed chats for 64 million McDonald’s job applicants](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/) — 2025-26-11
 - **Bleeping Computer**: [Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now](https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/) — 2025-41-11
 - **Bleeping Computer**: [WordPress Gravity Forms developer hacked to push backdoored plugins](https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/) — 2025-30-11
 - **Bleeping Computer**: [NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks](https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/) — 2025-39-11
