@@ -48,7 +48,7 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [PerfektBlue Bluetooth flaws impact Mercedes, Volkswagen, Skoda cars](https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/) — 2025-01-10
 - **The Hacker News**: [Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord](https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html) — 2025-41-10
 - **Bleeping Computer**: [FBI&#39;s CJIS demystified: Best practices for passwords, MFA &amp; access control](https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/) — 2025-02-10
-- **Bleeping Computer**: [Four arrested in UK over M&amp;S, Co-op, Harrod cyberattacks](https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/) — 2025-46-10
+- **Bleeping Computer**: [Four arrested in UK over M&amp;S, Co-op, Harrods cyberattacks](https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrods-cyberattacks/) — 2025-46-10
 - **The Hacker News**: [Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods](https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html) — 2025-13-10
 - **The Hacker News**: [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html) — 2025-00-10
 - **The Hacker News**: [New ZuRu Malware Variant Targeting Developers via Trojanized Termius macOS App](https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html) — 2025-59-10
