@@ -1,8 +1,8 @@
 [
   {
-    "title": "NVIDIA issues guidance to defend GDDR6 GPUs against Rowhammer attacks",
+    "title": "NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks",
     "link": "https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/",
-    "summary": "NVIDIA is warning users to activate\u00a0the System Level Error-Correcting Code\u00a0 mitigation to protect against\u00a0Rowhammer attacks on graphical processors with\u00a0GDDR6 memory. [...]",
+    "summary": "NVIDIA is warning users to activate System Level Error-Correcting Code\u00a0 mitigation to protect against\u00a0Rowhammer attacks on graphical processors with\u00a0GDDR6 memory. [...]",
     "published": "2025-07-11T15:39:05",
     "source": "BleepingComputer"
   },
@@ -53,13 +53,6 @@
     "link": "https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html",
     "summary": "An Iranian-backed ransomware-as-a-service (RaaS) named Pay2Key has resurfaced in the wake of the Israel-Iran-U.S. conflict last month, offering bigger payouts to cybercriminals who launch attacks against Israel and the U.S.\nThe financially motivated scheme, now operating under the moniker Pay2Key.I2",
     "published": "2025-07-11T10:46:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises",
-    "link": "https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting Citrix NetScaler ADC and Gateway to its Known Exploited Vulnerabilities (KEV) catalog, officially confirming the vulnerability has been weaponized in the wild.\nThe shortcoming in que",
-    "published": "2025-07-11T04:25:00",
     "source": "HackerNews"
   }
 ]
