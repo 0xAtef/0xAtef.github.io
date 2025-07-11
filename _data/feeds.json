@@ -1,5 +1,12 @@
 [
   {
+    "title": "CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises",
+    "link": "https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting Citrix NetScaler ADC and Gateway to its Known Exploited Vulnerabilities (KEV) catalog, officially confirming the vulnerability has been weaponized in the wild.\nThe shortcoming in que",
+    "published": "2025-07-11T04:25:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Windows 11 now uses JScript9Legacy engine for improved security",
     "link": "https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/",
     "summary": "Microsoft announced that it has replaced\u00a0the default scripting engine JScript with the newer and more secure JScript9Legacy on Windows 11 version 24H2 and later. [...]",
@@ -12,12 +19,5 @@
     "summary": "Authorities in the United Kingdom this week arrested four alleged members of \"Scattered Spider,\" a prolific data theft and extortion group whose recent victims include multiple airlines\u00a0and the U.K. retail chain Marks &#038; Spencer.",
     "published": "2025-07-10T17:31:10",
     "source": "Krebs"
-  },
-  {
-    "title": "Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads",
-    "link": "https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html",
-    "summary": "Cybersecurity researchers have discovered a critical vulnerability in the open-source mcp-remote project that could result in the execution of arbitrary operating system (OS) commands.\nThe vulnerability, tracked as CVE-2025-6514, carries a CVSS score of 9.6 out of 10.0.\n\"The vulnerability allows att",
-    "published": "2025-07-10T17:03:00",
-    "source": "HackerNews"
   }
 ]
