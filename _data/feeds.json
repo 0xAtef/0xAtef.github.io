@@ -1,5 +1,12 @@
 [
   {
+    "title": "WordPress Gravity Forms developer hacked to push backdoored plugins",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/",
+    "summary": "The popular WordPress plugin Gravity Forms has been compromised in what seems a supply-chain attack where manual installers from the official website were infected with a backdoor. [...]",
+    "published": "2025-07-11T19:30:07",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks",
     "link": "https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/",
     "summary": "NVIDIA is warning users to activate System Level Error-Correcting Code\u00a0 mitigation to protect against\u00a0Rowhammer attacks on graphical processors with\u00a0GDDR6 memory. [...]",
