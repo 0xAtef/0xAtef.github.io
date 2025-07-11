@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html) — 2025-00-11
+- **The Hacker News**: [Critical Wing FTP Server Vulnerability &lpar;CVE-2025-47812&rpar; Actively Being Exploited in the Wild](https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html) — 2025-58-11
+- **The Hacker News**: [Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals](https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html) — 2025-46-11
 - **The Hacker News**: [CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises](https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html) — 2025-25-11
 - **Bleeping Computer**: [Windows 11 now uses JScript9Legacy engine for improved security](https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/) — 2025-46-10
 - **Krebs on Security**: [UK Arrests Four in ‘Scattered Spider’ Ransom Group](https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/) — 2025-31-10
@@ -102,10 +105,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html) — 2025-51-01
 - **The Hacker News**: [A New Maturity Model for Browser Security: Closing the Last-Mile Risk](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html) — 2025-00-01
 - **The Hacker News**: [Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html) — 2025-55-01
-- **The Hacker News**: [U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms](https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html) — 2025-53-01
-- **The Hacker News**: [Microsoft Removes Password Management from Authenticator App Starting August 2025](https://thehackernews.com/2025/07/microsoft-removes-password-management.html) — 2025-21-01
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
-- **The Hacker News**: [U.S. Agencies Warn of Rising Iranian Cyber Attacks on Defense, OT Networks, and Critical Infrastructure](https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html) — 2025-29-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
 - **Krebs on Security**: [Proxy Services Feast on Ukraine’s IP Address Exodus](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/) — 2025-44-05
