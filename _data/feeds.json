@@ -5,19 +5,5 @@
     "summary": "Cybersecurity researchers discovered a vulnerability in McHire, McDonald's chatbot job application platform, that exposed the chats of more than 64 million job applicants across the United States. [...]",
     "published": "2025-07-11T20:26:52",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/",
-    "summary": "Proof-of-concept exploits have been released for a critical SQLi vulnerability in Fortinet FortiWeb that can be used to\u00a0achieve pre-authenticated remote code execution on vulnerable servers. [...]",
-    "published": "2025-07-11T19:41:39",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "WordPress Gravity Forms developer hacked to push backdoored plugins",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/",
-    "summary": "The popular WordPress plugin Gravity Forms has been compromised in what seems a supply-chain attack where manual installers from the official website were infected with a backdoor. [...]",
-    "published": "2025-07-11T19:30:07",
-    "source": "BleepingComputer"
   }
 ]
