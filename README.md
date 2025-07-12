@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs](https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html) — 2025-14-12
 - **Bleeping Computer**: [Hackers are exploiting critical RCE flaw in Wing FTP Server](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/) — 2025-13-12
 - **The Hacker News**: [Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub](https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html) — 2025-45-12
 - **Bleeping Computer**: [&#39;123456&#39; password exposed chats for 64 million McDonald’s job chatbot applications](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/) — 2025-26-11
@@ -104,7 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html) — 2025-56-02
 - **The Hacker News**: [Vercel&#39;s v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html) — 2025-48-02
 - **The Hacker News**: [Critical Vulnerability in Anthropic&#39;s MCP Exposes Developer Machines to Remote Exploits](https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html) — 2025-03-01
-- **The Hacker News**: [TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns](https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html) — 2025-26-01
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
