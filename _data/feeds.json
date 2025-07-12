@@ -47,12 +47,5 @@
     "summary": "Fortinet has released fixes for a critical security flaw impacting FortiWeb that could enable an unauthenticated attacker to run arbitrary database commands on susceptible instances.\nTracked as CVE-2025-25257, the vulnerability carries a CVSS score of 9.6 out of a maximum of 10.0.\n\"An improper neutr",
     "published": "2025-07-11T14:38:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution",
-    "link": "https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html",
-    "summary": "Cybersecurity researchers have discovered a set of four security flaws in OpenSynergy's BlueSDK Bluetooth stack that, if successfully exploited, could allow remote code execution on millions of transport vehicles from different vendors.\nThe vulnerabilities, dubbed PerfektBlue, can be fashioned toget",
-    "published": "2025-07-11T12:10:00",
-    "source": "HackerNews"
   }
 ]
