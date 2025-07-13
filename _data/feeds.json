@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "title": "Google Gemini flaw hijacks email summaries for phishing",
+    "link": "https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/",
+    "summary": "Google Gemini for Workspace can be exploited to generate email summaries that appear legitimate but include malicious instructions or warnings that direct users to phishing sites without using attachments or direct links. [...]",
+    "published": "2025-07-13T14:38:00",
+    "source": "BleepingComputer"
+  }
+]
