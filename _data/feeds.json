@@ -1,9 +1,1 @@
-[
-  {
-    "title": "GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs",
-    "link": "https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html",
-    "summary": "NVIDIA is urging customers to enable System-level Error Correction Codes (ECC) as a defense against a variant of a RowHammer attack demonstrated against its graphics processing units (GPUs).\n\"Risk of successful exploitation from RowHammer attacks varies based on DRAM device, platform, design specifi",
-    "published": "2025-07-12T17:14:00",
-    "source": "HackerNews"
-  }
-]
+[]
