@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows 10 KB5062554 update breaks emoji panel search feature",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/",
+    "summary": "The search feature for the Windows 10 emoji panel is broken after installing the KB5062554 cumulative update released Tuesday,\u00a0making it not possible to look up emojis by name or keyword. [...]",
+    "published": "2025-07-13T18:15:25",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google Gemini flaw hijacks email summaries for phishing",
     "link": "https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/",
     "summary": "Google Gemini for Workspace can be exploited to generate email summaries that appear legitimate but include malicious instructions or warnings that direct users to phishing sites without using attachments or direct links. [...]",
