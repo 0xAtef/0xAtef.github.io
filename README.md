@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Windows 10 KB5062554 update breaks emoji panel search feature](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/) — 2025-15-13
 - **Bleeping Computer**: [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-38-13
 - **The Hacker News**: [GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs](https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html) — 2025-14-12
 - **Bleeping Computer**: [Hackers are exploiting critical RCE flaw in Wing FTP Server](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/) — 2025-13-12
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Krebs on Security**: [UK Arrests Four in ‘Scattered Spider’ Ransom Group](https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/) — 2025-31-10
 - **The Hacker News**: [Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads](https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html) — 2025-03-10
 - **Bleeping Computer**: [Russian pro basketball player arrested for alleged role in ransomware attacks](https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/) — 2025-26-10
-- **Bleeping Computer**: [PerfektBlue Bluetooth flaws impact Mercedes, Volkswagen, Skoda cars](https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/) — 2025-01-10
 - **The Hacker News**: [Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord](https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html) — 2025-41-10
 - **The Hacker News**: [Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods](https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html) — 2025-13-10
 - **The Hacker News**: [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html) — 2025-00-10
