@@ -12,12 +12,5 @@
     "summary": "Hackers have started to exploit a\u00a0critical remote code execution vulnerability in Wing FTP Server just one day after technical details on the flaw became public. [...]",
     "published": "2025-07-12T14:13:24",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub",
-    "link": "https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html",
-    "summary": "Cybersecurity researchers have discovered a serious security issue that allows leaked Laravel APP_KEYs to be weaponized to gain remote code execution capabilities on hundreds of applications.\n\"Laravel's APP_KEY, essential for encrypting sensitive data, is often leaked publicly (e.g., on GitHub),\" Gi",
-    "published": "2025-07-12T12:45:00",
-    "source": "HackerNews"
   }
 ]
