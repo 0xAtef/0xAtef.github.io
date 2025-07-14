@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Gigabyte motherboards vulnerable to UEFI malware bypassing Secure Boot](https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/) — 2025-30-14
 - **The Hacker News**: [⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More](https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html) — 2025-52-14
+- **Bleeping Computer**: [Malicious VSCode extension in Cursor IDE led to $500K crypto theft](https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/) — 2025-26-14
 - **The Hacker News**: [CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center](https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html) — 2025-00-14
 - **The Hacker News**: [eSIM Vulnerability in Kigen&#39;s eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks](https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html) — 2025-27-14
 - **Bleeping Computer**: [Windows 10 KB5062554 update breaks emoji panel search feature](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/) — 2025-15-13
@@ -60,10 +62,8 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Wing FTP Server Vulnerability &lpar;CVE-2025-47812&rpar; Actively Being Exploited in the Wild](https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html) — 2025-58-11
 - **The Hacker News**: [Iranian-Backed Pay2Key Ransomware Resurfaces with 80% Profit Share for Cybercriminals](https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html) — 2025-46-11
 - **The Hacker News**: [CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises](https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html) — 2025-25-11
-- **Bleeping Computer**: [Windows 11 now uses JScript9Legacy engine for improved security](https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/) — 2025-46-10
 - **Krebs on Security**: [UK Arrests Four in ‘Scattered Spider’ Ransom Group](https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/) — 2025-31-10
 - **The Hacker News**: [Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads](https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html) — 2025-03-10
-- **Bleeping Computer**: [Russian pro basketball player arrested for alleged role in ransomware attacks](https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/) — 2025-26-10
 - **The Hacker News**: [Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord](https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html) — 2025-41-10
 - **The Hacker News**: [Four Arrested in £440M Cyber Attack on Marks &amp; Spencer, Co-op, and Harrods](https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html) — 2025-13-10
 - **The Hacker News**: [What Security Leaders Need to Know About AI Governance for SaaS](https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html) — 2025-00-10
