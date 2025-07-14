@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Interlock ransomware adopts FileFix method to deliver malware](https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/) — 2025-36-14
+- **The Hacker News**: [The Unusual Suspect: Git Repos](https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html) — 2025-06-14
+- **The Hacker News**: [New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries](https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html) — 2025-52-14
 - **Bleeping Computer**: [Gigabyte motherboards vulnerable to UEFI malware bypassing Secure Boot](https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/) — 2025-30-14
 - **The Hacker News**: [⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More](https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html) — 2025-52-14
 - **Bleeping Computer**: [Malicious VSCode extension in Cursor IDE led to $500K crypto theft](https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/) — 2025-26-14
@@ -102,8 +105,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms](https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html) — 2025-25-03
 - **The Hacker News**: [Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html) — 2025-24-03
 - **The Hacker News**: [North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign](https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html) — 2025-09-02
-- **The Hacker News**: [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html) — 2025-00-02
-- **The Hacker News**: [Hackers Using PDFs to Impersonate Microsoft, DocuSign, and More in Callback Phishing Campaigns](https://thehackernews.com/2025/07/hackers-using-pdfs-to-impersonate.html) — 2025-45-02
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
