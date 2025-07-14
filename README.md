@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [UK launches vulnerability research program for external experts](https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/) — 2025-21-14
 - **Bleeping Computer**: [Interlock ransomware adopts FileFix method to deliver malware](https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/) — 2025-36-14
 - **The Hacker News**: [The Unusual Suspect: Git Repos](https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html) — 2025-06-14
 - **The Hacker News**: [New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries](https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html) — 2025-52-14
@@ -58,7 +59,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [WordPress Gravity Forms developer hacked to push backdoored plugins](https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/) — 2025-30-11
 - **Bleeping Computer**: [NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks](https://www.bleepingcomputer.com/news/security/nvidia-shares-guidance-to-defend-gddr6-gpus-against-rowhammer-attacks/) — 2025-39-11
 - **Bleeping Computer**: [The zero-day that could&#39;ve compromised every Cursor and Windsurf user](https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/) — 2025-03-11
-- **Bleeping Computer**: [CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch](https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/) — 2025-45-11
 - **The Hacker News**: [Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb &lpar;CVE-2025-25257&rpar;](https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html) — 2025-38-11
 - **The Hacker News**: [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html) — 2025-10-11
 - **The Hacker News**: [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html) — 2025-00-11
