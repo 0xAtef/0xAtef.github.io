@@ -5,12 +5,5 @@
     "summary": "Cybersecurity researchers have discovered a new hacking technique that exploits weaknesses in the eSIM technology used in modern smartphones, exposing users to severe risks.\nThe issues impact the Kigen eUICC card. According to the Irish company's website, more than two billion SIMs in IoT devices ha",
     "published": "2025-07-14T05:27:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Windows 10 KB5062554 update breaks emoji panel search feature",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/",
-    "summary": "The search feature for the Windows 10 emoji panel is broken after installing the KB5062554 cumulative update released Tuesday,\u00a0making it not possible to look up emojis by name or keyword. [...]",
-    "published": "2025-07-13T18:15:25",
-    "source": "BleepingComputer"
   }
 ]
