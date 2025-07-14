@@ -1,5 +1,12 @@
 [
   {
+    "title": "UK launches vulnerability research program for external experts",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/",
+    "summary": "UK's National Cyber Security Centre (NCSC) has announced a new Vulnerability Research Initiative (VRI) that aims to strengthen relations with external cybersecurity experts. [...]",
+    "published": "2025-07-14T20:21:22",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Interlock ransomware adopts FileFix method to deliver malware",
     "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/",
     "summary": "Hackers have adopted the new technique called 'FileFix' in Interlock ransomware attacks to drop a\u00a0remote access trojan (RAT) on targeted systems. [...]",
@@ -40,12 +47,5 @@
     "summary": "A fake extension for the Cursor AI IDE code editor infected devices with remote access tools and infostealers, which, in one case, led to the theft of $500,000 in cryptocurrency from a Russian crypto developer. [...]",
     "published": "2025-07-14T12:26:34",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "CBI Shuts Down \u00a3390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center",
-    "link": "https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html",
-    "summary": "India's Central Bureau of Investigation (CBI) has announced that it has taken steps to dismantle what it said was a transnational cybercrime syndicate that carried out \"sophisticated\" tech support scams targeting citizens of Australia and the United Kingdom.\nThe fraudulent scheme is estimated to hav",
-    "published": "2025-07-14T08:00:00",
-    "source": "HackerNews"
   }
 ]
