@@ -1,16 +1,16 @@
 [
   {
+    "title": "North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign",
+    "link": "https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html",
+    "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing another set of 67 malicious packages to the npm registry, underscoring ongoing attempts to poison the open-source ecosystem via software supply chain attacks.\nThe packages, per Socket, have attra",
+    "published": "2025-07-15T07:17:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "DOGE Denizen Marko Elez Leaked API Key for xAI",
     "link": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/",
     "summary": "Marko Elez, a 25-year-old employee at Elon Musk's Department of Government Efficiency (DOGE), has been granted access to sensitive databases at the U.S. Social Security Administration, the Treasury and Justice departments, and the Department of Homeland Security. So it should fill all Americans with",
     "published": "2025-07-15T01:23:43",
     "source": "Krebs"
-  },
-  {
-    "title": "UK launches vulnerability research program for external experts",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/",
-    "summary": "UK's National Cyber Security Centre (NCSC) has announced a new Vulnerability Research Initiative (VRI) that aims to strengthen relations with external cybersecurity experts. [...]",
-    "published": "2025-07-14T20:21:22",
-    "source": "BleepingComputer"
   }
 ]
