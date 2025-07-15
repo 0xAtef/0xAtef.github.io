@@ -19,19 +19,5 @@
     "summary": "Hackers have adopted the new technique called 'FileFix' in Interlock ransomware attacks to drop a\u00a0remote access trojan (RAT) on targeted systems. [...]",
     "published": "2025-07-14T18:36:30",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "The Unusual Suspect: Git Repos",
-    "link": "https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html",
-    "summary": "While phishing and ransomware dominate headlines, another critical risk quietly persists across most enterprises: exposed Git repositories leaking sensitive data. A risk that silently creates shadow access into core systems\nGit is the backbone of modern software development, hosting millions of repo",
-    "published": "2025-07-14T17:06:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries",
-    "link": "https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html",
-    "summary": "Threat actors behind the Interlock ransomware group have unleashed a new PHP variant of its bespoke remote access trojan (RAT) as part of a widespread campaign using a variant of ClickFix called FileFix.\n\"Since May 2025, activity related to the Interlock RAT has been observed in connection with the ",
-    "published": "2025-07-14T16:52:00",
-    "source": "HackerNews"
   }
 ]
