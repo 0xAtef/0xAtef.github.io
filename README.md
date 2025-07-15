@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Police disrupt “Diskstation” ransomware gang attacking NAS devices](https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/) — 2025-53-15
 - **The Hacker News**: [Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools](https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html) — 2025-21-15
 - **Bleeping Computer**: [Android malware Konfety uses malformed APKs to evade detection](https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/) — 2025-10-15
 - **Bleeping Computer**: [OpenAI&#39;s ChatGPT-powered browser is codenamed &#39;Aura&#39;](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/) — 2025-30-15
@@ -64,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub](https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html) — 2025-45-12
 - **Bleeping Computer**: [&#39;123456&#39; password exposed chats for 64 million McDonald’s job chatbot applications](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/) — 2025-26-11
 - **Bleeping Computer**: [Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now](https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/) — 2025-41-11
-- **Bleeping Computer**: [WordPress Gravity Forms developer hacked to push backdoored plugins](https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/) — 2025-30-11
 - **The Hacker News**: [Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb &lpar;CVE-2025-25257&rpar;](https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html) — 2025-38-11
 - **The Hacker News**: [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html) — 2025-10-11
 - **The Hacker News**: [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html) — 2025-00-11
