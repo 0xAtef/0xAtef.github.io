@@ -33,12 +33,5 @@
     "summary": "Threat actors behind the Interlock ransomware group have unleashed a new PHP variant of its bespoke remote access trojan (RAT) as part of a widespread campaign using a variant of ClickFix called FileFix.\n\"Since May 2025, activity related to the Interlock RAT has been observed in connection with the ",
     "published": "2025-07-14T16:52:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Gigabyte motherboards vulnerable to UEFI malware bypassing Secure Boot",
-    "link": "https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/",
-    "summary": "Dozens of Gigabyte motherboard models run on UEFI firmware vulnerable to security issues that allow planting bootkit malware that is invisible to the operating system and can survive reinstalls. [...]",
-    "published": "2025-07-14T16:30:32",
-    "source": "BleepingComputer"
   }
 ]
