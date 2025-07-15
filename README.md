@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Android malware Konfety uses malformed APKs to evade detection](https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/) — 2025-10-15
 - **Bleeping Computer**: [OpenAI&#39;s ChatGPT-powered browser is codenamed &#39;Aura&#39;](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/) — 2025-30-15
 - **The Hacker News**: [State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments](https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html) — 2025-08-15
 - **The Hacker News**: [Securing Agentic AI: How to Protect the Invisible Identity Access](https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html) — 2025-00-15
@@ -47,7 +48,7 @@ Let's connect and share some war stories!
 - **The Hacker News**: [North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign](https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html) — 2025-17-15
 - **Krebs on Security**: [DOGE Denizen Marko Elez Leaked API Key for xAI](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/) — 2025-23-15
 - **Bleeping Computer**: [UK launches vulnerability research program for external experts](https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/) — 2025-21-14
-- **Bleeping Computer**: [Interlock ransomware adopts FileFix method to deliver malware](https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/) — 2025-36-14
+- **Bleeping Computer**: [Interlock ransomware adopts new FileFix attack to push malware](https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/) — 2025-36-14
 - **The Hacker News**: [The Unusual Suspect: Git Repos](https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html) — 2025-06-14
 - **The Hacker News**: [New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries](https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html) — 2025-52-14
 - **Bleeping Computer**: [Gigabyte motherboards vulnerable to UEFI malware bypassing Secure Boot](https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/) — 2025-30-14
@@ -63,7 +64,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [&#39;123456&#39; password exposed chats for 64 million McDonald’s job chatbot applications](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/) — 2025-26-11
 - **Bleeping Computer**: [Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now](https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/) — 2025-41-11
 - **Bleeping Computer**: [WordPress Gravity Forms developer hacked to push backdoored plugins](https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/) — 2025-30-11
-- **Bleeping Computer**: [NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks](https://www.bleepingcomputer.com/news/security/nvidia-shares-guidance-to-defend-gddr6-gpus-against-rowhammer-attacks/) — 2025-39-11
 - **The Hacker News**: [Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb &lpar;CVE-2025-25257&rpar;](https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html) — 2025-38-11
 - **The Hacker News**: [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html) — 2025-10-11
 - **The Hacker News**: [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html) — 2025-00-11
