@@ -1,5 +1,12 @@
 [
   {
+    "title": "Android malware Konfety uses malformed APKs to evade detection",
+    "link": "https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/",
+    "summary": "A new variant of the Konfety Android malware emerged with a malformed ZIP structure along with other obfuscation methods that allow\u00a0it to evade analysis and detection. [...]",
+    "published": "2025-07-15T13:10:36",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "OpenAI's ChatGPT-powered browser is codenamed 'Aura'",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/",
     "summary": "OpenAI is following Perplexity and is working on its own AI-powered browser codenamed \"Aura.\" [...]",
@@ -33,12 +40,5 @@
     "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing another set of 67 malicious packages to the npm registry, underscoring ongoing attempts to poison the open-source ecosystem via software supply chain attacks.\nThe packages, per Socket, have attra",
     "published": "2025-07-15T07:17:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "DOGE Denizen Marko Elez Leaked API Key for xAI",
-    "link": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/",
-    "summary": "Marko Elez, a 25-year-old employee at Elon Musk's Department of Government Efficiency (DOGE), has been granted access to sensitive databases at the U.S. Social Security Administration, the Treasury and Justice departments, and the Department of Homeland Security. So it should fill all Americans with",
-    "published": "2025-07-15T01:23:43",
-    "source": "Krebs"
   }
 ]
