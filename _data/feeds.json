@@ -12,12 +12,5 @@
     "summary": "UK's National Cyber Security Centre (NCSC) has announced a new Vulnerability Research Initiative (VRI) that aims to strengthen relations with external cybersecurity experts. [...]",
     "published": "2025-07-14T20:21:22",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Interlock ransomware adopts FileFix method to deliver malware",
-    "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/",
-    "summary": "Hackers have adopted the new technique called 'FileFix' in Interlock ransomware attacks to drop a\u00a0remote access trojan (RAT) on targeted systems. [...]",
-    "published": "2025-07-14T18:36:30",
-    "source": "BleepingComputer"
   }
 ]
