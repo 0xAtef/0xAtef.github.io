@@ -1,5 +1,12 @@
 [
   {
+    "title": "DOGE Denizen Marko Elez Leaked API Key for xAI",
+    "link": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/",
+    "summary": "Marko Elez, a 25-year-old employee at Elon Musk's Department of Government Efficiency (DOGE), has been granted access to sensitive databases at the U.S. Social Security Administration, the Treasury and Justice departments, and the Department of Homeland Security. So it should fill all Americans with",
+    "published": "2025-07-15T01:23:43",
+    "source": "Krebs"
+  },
+  {
     "title": "UK launches vulnerability research program for external experts",
     "link": "https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/",
     "summary": "UK's National Cyber Security Centre (NCSC) has announced a new Vulnerability Research Initiative (VRI) that aims to strengthen relations with external cybersecurity experts. [...]",
@@ -32,20 +39,6 @@
     "link": "https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/",
     "summary": "Dozens of Gigabyte motherboard models run on UEFI firmware vulnerable to security issues that allow planting bootkit malware that is invisible to the operating system and can survive reinstalls. [...]",
     "published": "2025-07-14T16:30:32",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More",
-    "link": "https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html",
-    "summary": "In cybersecurity, precision matters\u2014and there\u2019s little room for error. A small mistake, missed setting, or quiet misconfiguration can quickly lead to much bigger problems. The signs we\u2019re seeing this week highlight deeper issues behind what might look like routine incidents: outdated tools, slow res",
-    "published": "2025-07-14T12:52:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Malicious VSCode extension in Cursor IDE led to $500K crypto theft",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/",
-    "summary": "A fake extension for the Cursor AI IDE code editor infected devices with remote access tools and infostealers, which, in one case, led to the theft of $500,000 in cryptocurrency from a Russian crypto developer. [...]",
-    "published": "2025-07-14T12:26:34",
     "source": "BleepingComputer"
   }
 ]
