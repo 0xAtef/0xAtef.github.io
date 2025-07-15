@@ -1,5 +1,19 @@
 [
   {
+    "title": "Police disrupt \u201cDiskstation\u201d ransomware gang attacking NAS devices",
+    "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/",
+    "summary": "An international law enforcement action dismantled a Romanian ransomware gang known as 'Diskstation,' which encrypted the systems of several companies in the Lombardy region, paralyzing their businesses. [...]",
+    "published": "2025-07-15T16:53:08",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors",
+    "link": "https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html",
+    "summary": "Cloudflare on Tuesday said it mitigated 7.3 million distributed denial-of-service (DDoS) attacks in the second quarter of 2025, a significant drop from 20.5 million DDoS attacks it fended off the previous quarter.\n\"Overall, in Q2 2025, hyper-volumetric DDoS attacks skyrocketed,\" Omer Yoachimik and J",
+    "published": "2025-07-15T16:30:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools",
     "link": "https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html",
     "summary": "Cybersecurity researchers have shed light on a new ransomware-as-a-service (RaaS) operation called GLOBAL GROUP that has targeted a wide range of sectors in Australia, Brazil, Europe, and the United States since its emergence in early June 2025.\nGLOBAL GROUP was \"promoted on the Ramp4u forum by the ",
