@@ -1,5 +1,12 @@
 [
   {
+    "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
+    "link": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
+    "summary": "North Korean threat actors planted 67 malicious packages in the\u00a0Node Package Manager (npm) online repository to deliver a new malware loader called XORIndex to developer systems. [...]",
+    "published": "2025-07-15T17:47:09",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Police disrupt \u201cDiskstation\u201d ransomware gang attacking NAS devices",
     "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/",
     "summary": "An international law enforcement action dismantled a Romanian ransomware gang known as 'Diskstation,' which encrypted the systems of several companies in the Lombardy region, paralyzing their businesses. [...]",
