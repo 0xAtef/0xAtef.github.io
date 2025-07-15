@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI's ChatGPT-powered browser is codenamed 'Aura'",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/",
+    "summary": "OpenAI is following Perplexity and is working on its own AI-powered browser codenamed \"Aura.\" [...]",
+    "published": "2025-07-15T11:30:21",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign",
     "link": "https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html",
     "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing another set of 67 malicious packages to the npm registry, underscoring ongoing attempts to poison the open-source ecosystem via software supply chain attacks.\nThe packages, per Socket, have attra",
