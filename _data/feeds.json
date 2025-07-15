@@ -1,5 +1,12 @@
 [
   {
+    "title": "Windows KB5064489 emergency update fixes Azure VM launch issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/",
+    "summary": "Microsoft has released an emergency update to fix a bug that prevents Azure virtual machines from launching when the Trusted Launch setting is disabled and\u00a0Virtualization-Based Security (VBS) is enabled. [...]",
+    "published": "2025-07-15T18:47:07",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
     "link": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
     "summary": "North Korean threat actors planted 67 malicious packages in the\u00a0Node Package Manager (npm) online repository to deliver a new malware loader called XORIndex to developer systems. [...]",
@@ -60,13 +67,6 @@
     "link": "https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html",
     "summary": "Cybersecurity researchers have charted the evolution of a widely used remote access trojan called AsyncRAT, which was first released on GitHub in January 2019 and has since served as the foundation for several other variants.\n\"AsyncRAT has cemented its place as a cornerstone of modern malware and as",
     "published": "2025-07-15T10:53:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign",
-    "link": "https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html",
-    "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing another set of 67 malicious packages to the npm registry, underscoring ongoing attempts to poison the open-source ecosystem via software supply chain attacks.\nThe packages, per Socket, have attra",
-    "published": "2025-07-15T07:17:00",
     "source": "HackerNews"
   }
 ]
