@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [North Korean XORIndex malware hidden in 67 malicious npm packages](https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/) — 2025-47-15
 - **Bleeping Computer**: [Police disrupt “Diskstation” ransomware gang attacking NAS devices](https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/) — 2025-53-15
+- **The Hacker News**: [Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors](https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html) — 2025-30-15
 - **The Hacker News**: [Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools](https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html) — 2025-21-15
 - **Bleeping Computer**: [Android malware Konfety uses malformed APKs to evade detection](https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/) — 2025-10-15
 - **Bleeping Computer**: [OpenAI&#39;s ChatGPT-powered browser is codenamed &#39;Aura&#39;](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/) — 2025-30-15
@@ -64,7 +66,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Hackers are exploiting critical RCE flaw in Wing FTP Server](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/) — 2025-13-12
 - **The Hacker News**: [Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub](https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html) — 2025-45-12
 - **Bleeping Computer**: [&#39;123456&#39; password exposed chats for 64 million McDonald’s job chatbot applications](https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/) — 2025-26-11
-- **Bleeping Computer**: [Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now](https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/) — 2025-41-11
 - **The Hacker News**: [Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb &lpar;CVE-2025-25257&rpar;](https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html) — 2025-38-11
 - **The Hacker News**: [PerfektBlue Bluetooth Vulnerabilities Expose Millions of Vehicles to Remote Code Execution](https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html) — 2025-10-11
 - **The Hacker News**: [Securing Data in the AI Era](https://thehackernews.com/2025/07/securing-data-in-ai-era.html) — 2025-00-11
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros](https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html) — 2025-30-04
 - **The Hacker News**: [Google Ordered to Pay $314M for Misusing Android Users&#39; Cellular Data Without Permission](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html) — 2025-17-04
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
-- **The Hacker News**: [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html) — 2025-02-03
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
 - **Krebs on Security**: [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/) — 2025-10-11
