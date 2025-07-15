@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenAI's image model gets built-in style feature on ChatGPT",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/",
+    "summary": "OpenAI's image gen model, which is available via ChatGPT for free, now lets you easily create AI images even if you're not familiar with trends or prompt engineering. [...]",
+    "published": "2025-07-15T20:12:59",
+    "source": "BleepingComputer"
+  },
+  {
+    "title": "Abacus dark web drug market goes offline in suspected exit scam",
+    "link": "https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/",
+    "summary": "Abacus Market, the largest Western darknet marketplace supporting Bitcoin payments, has shut down its public infrastructure in a move suspected to be an exit scam. [...]",
+    "published": "2025-07-15T19:58:34",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Windows KB5064489 emergency update fixes Azure VM launch issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/",
     "summary": "Microsoft has released an emergency update to fix a bug that prevents Azure virtual machines from launching when the Trusted Launch setting is disabled and\u00a0Virtualization-Based Security (VBS) is enabled. [...]",
