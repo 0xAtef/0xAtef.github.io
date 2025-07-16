@@ -1,5 +1,12 @@
 [
   {
+    "title": "Grok 4 benchmark results: Tops math, ranks second in coding",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/",
+    "summary": "Grok 4 is a huge leap from Grok 3, but how good is it compared to other models in the market, such as Gemini 2.5 Pro? We now have answers, thanks to new independent benchmarks. [...]",
+    "published": "2025-07-16T10:35:10",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Google fixes actively exploited sandbox escape zero day in Chrome",
     "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/",
     "summary": "Google has released a security update for Chrome to address half a dozen vulnerabilities, one of them actively exploited by attackers to escape the browser's sandbox protection. [...]",
