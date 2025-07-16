@@ -82,26 +82,5 @@
     "summary": "Google has released a security update for Chrome to address half a dozen vulnerabilities, one of them actively exploited by attackers to escape the browser's sandbox protection. [...]",
     "published": "2025-07-16T09:47:46",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code",
-    "link": "https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html",
-    "summary": "Cybersecurity researchers have discovered a new, sophisticated variant of a known Android malware referred to as Konfety that leverages the evil twin technique to enable ad fraud.\nThe sneaky approach essentially involves a scenario wherein two variants of an application share the same package name: ",
-    "published": "2025-07-16T09:13:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Deepfakes. Fake Recruiters. Cloned CFOs \u2014 Learn How to Stop AI-Driven Attacks in Real Time",
-    "link": "https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html",
-    "summary": "Social engineering attacks have entered a new era\u2014and they\u2019re coming fast, smart, and deeply personalized.\nIt\u2019s no longer just suspicious emails in your spam folder. Today\u2019s attackers use generative AI, stolen branding assets, and deepfake tools to mimic your executives, hijack your social channels,",
-    "published": "2025-07-16T09:13:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild",
-    "link": "https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html",
-    "summary": "Google on Tuesday rolled out fixes for six security issues in its Chrome web browser, including one that it said has been exploited in the wild.\nThe high-severity vulnerability in question is CVE-2025-6558 (CVSS score: 8.8), which has been described as an incorrect validation of untrusted input in t",
-    "published": "2025-07-16T09:13:00",
-    "source": "HackerNews"
   }
 ]
