@@ -19,12 +19,5 @@
     "summary": "Microsoft has released an emergency update to fix a bug that prevents Azure virtual machines from launching when the Trusted Launch setting is disabled and\u00a0Virtualization-Based Security (VBS) is enabled. [...]",
     "published": "2025-07-15T18:47:07",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
-    "link": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
-    "summary": "North Korean threat actors planted 67 malicious packages in the\u00a0Node Package Manager (npm) online repository to deliver a new malware loader called XORIndex to developer systems. [...]",
-    "published": "2025-07-15T17:47:09",
-    "source": "BleepingComputer"
   }
 ]
