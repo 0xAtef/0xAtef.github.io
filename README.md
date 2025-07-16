@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware](https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/) — 2025-33-16
 - **Bleeping Computer**: [New Fortinet FortiWeb hacks likely linked to public RCE exploits](https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/) — 2025-58-16
 - **Bleeping Computer**: [Europol disrupts pro-Russian NoName057&lpar;16&rpar; DDoS hacktivist group](https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/) — 2025-07-16
 - **The Hacker News**: [UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit](https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html) — 2025-00-16
