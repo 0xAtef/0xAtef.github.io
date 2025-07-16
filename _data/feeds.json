@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms",
+    "link": "https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html",
+    "summary": "Cybersecurity researchers have flagged a new variant of a known malware loader called Matanbuchus that packs in significant features to enhance its stealth and evade detection.\nMatanbuchus is the name given to a malware-as-a-service (MaaS) offering that can act as a conduit for next-stage payloads, ",
+    "published": "2025-07-16T17:48:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Cloudflare says 1.1.1.1 outage not caused by attack or BGP hijack",
     "link": "https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/",
     "summary": "To quash speculation of a cyberattack or BGP hijack incident causing the recent 1.1.1.1 Resolver service outage, Cloudflare explains in a post mortem that the incident was caused by an internal misconfiguration. [...]",
