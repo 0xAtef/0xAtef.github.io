@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Europol disrupts pro-Russian NoName057&lpar;16&rpar; DDoS hacktivist group](https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/) — 2025-07-16
 - **The Hacker News**: [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html) — 2025-58-16
 - **The Hacker News**: [AI Agents Act Like Employees With Root Access—Here&#39;s How to Regain Control](https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html) — 2025-25-16
 - **Bleeping Computer**: [Grok 4 benchmark results: Tops math, ranks second in coding](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/) — 2025-35-16
@@ -68,7 +69,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries](https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html) — 2025-52-14
 - **Bleeping Computer**: [Gigabyte motherboards vulnerable to UEFI malware bypassing Secure Boot](https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/) — 2025-30-14
 - **The Hacker News**: [⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More](https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html) — 2025-52-14
-- **Bleeping Computer**: [Malicious VSCode extension in Cursor IDE led to $500K crypto theft](https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/) — 2025-26-14
 - **The Hacker News**: [CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center](https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html) — 2025-00-14
 - **The Hacker News**: [eSIM Vulnerability in Kigen&#39;s eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks](https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html) — 2025-27-14
 - **The Hacker News**: [GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs](https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html) — 2025-14-12
