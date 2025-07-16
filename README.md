@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Co-op confirms data of 6.5 million members stolen in cyberattack](https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/) — 2025-29-16
 - **Bleeping Computer**: [U.S. Army soldier pleads guilty to extorting 10 tech, telecom firms](https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/) — 2025-00-16
 - **Bleeping Computer**: [Louis Vuitton says regional data breaches tied to same cyberattack](https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/) — 2025-26-16
 - **The Hacker News**: [Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms](https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html) — 2025-48-16
@@ -60,7 +61,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Abacus dark web drug market goes offline in suspected exit scam](https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/) — 2025-58-15
 - **Bleeping Computer**: [Windows KB5064489 emergency update fixes Azure VM launch issues](https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/) — 2025-47-15
 - **Bleeping Computer**: [North Korean XORIndex malware hidden in 67 malicious npm packages](https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/) — 2025-47-15
-- **Bleeping Computer**: [Police disrupt “Diskstation” ransomware gang attacking NAS devices](https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/) — 2025-53-15
 - **The Hacker News**: [Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors](https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html) — 2025-30-15
 - **The Hacker News**: [Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools](https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html) — 2025-21-15
 - **The Hacker News**: [State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments](https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html) — 2025-08-15
