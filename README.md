@@ -40,6 +40,10 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Google fixes actively exploited sandbox escape zero day in Chrome](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/) — 2025-47-16
+- **The Hacker News**: [Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time](https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html) — 2025-13-16
+- **The Hacker News**: [Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild](https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html) — 2025-13-16
+- **The Hacker News**: [New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code](https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html) — 2025-13-16
 - **The Hacker News**: [Google AI &quot;Big Sleep&quot; Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act](https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html) — 2025-44-16
 - **Bleeping Computer**: [OpenAI&#39;s image model gets built-in style feature on ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/) — 2025-12-15
 - **Bleeping Computer**: [Abacus dark web drug market goes offline in suspected exit scam](https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/) — 2025-58-15
@@ -65,7 +69,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center](https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html) — 2025-00-14
 - **The Hacker News**: [eSIM Vulnerability in Kigen&#39;s eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks](https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html) — 2025-27-14
 - **Bleeping Computer**: [Windows 10 KB5062554 update breaks emoji panel search feature](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/) — 2025-15-13
-- **Bleeping Computer**: [Google Gemini flaw hijacks email summaries for phishing](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/) — 2025-38-13
 - **The Hacker News**: [GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs](https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html) — 2025-14-12
 - **The Hacker News**: [Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub](https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html) — 2025-45-12
 - **The Hacker News**: [Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb &lpar;CVE-2025-25257&rpar;](https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html) — 2025-38-11
@@ -103,9 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors](https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html) — 2025-51-07
 - **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from Douyin, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
 - **The Hacker News**: [Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html) — 2025-44-05
-- **The Hacker News**: [NightEagle APT Exploits Microsoft Exchange Flaw to Target China&#39;s Military and Tech Sectors](https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html) — 2025-59-04
-- **The Hacker News**: [Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It](https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html) — 2025-31-04
-- **The Hacker News**: [Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros](https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html) — 2025-30-04
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
