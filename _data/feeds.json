@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google fixes actively exploited sandbox escape zero day in Chrome",
+    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/",
+    "summary": "Google has released a security update for Chrome to address half a dozen vulnerabilities, one of them actively exploited by attackers to escape the browser's sandbox protection. [...]",
+    "published": "2025-07-16T09:47:46",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Deepfakes. Fake Recruiters. Cloned CFOs \u2014 Learn How to Stop AI-Driven Attacks in Real Time",
     "link": "https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html",
     "summary": "Social engineering attacks have entered a new era\u2014and they\u2019re coming fast, smart, and deeply personalized.\nIt\u2019s no longer just suspicious emails in your spam folder. Today\u2019s attackers use generative AI, stolen branding assets, and deepfake tools to mimic your executives, hijack your social channels,",
