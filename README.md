@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [U.S. Army soldier pleads guilty to extorting 10 tech, telecom firms](https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/) — 2025-00-16
 - **Bleeping Computer**: [Louis Vuitton says regional data breaches tied to same cyberattack](https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/) — 2025-26-16
 - **The Hacker News**: [Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms](https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html) — 2025-48-16
 - **Bleeping Computer**: [Cloudflare says 1.1.1.1 outage not caused by attack or BGP hijack](https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/) — 2025-49-16
@@ -62,7 +63,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Police disrupt “Diskstation” ransomware gang attacking NAS devices](https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/) — 2025-53-15
 - **The Hacker News**: [Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors](https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html) — 2025-30-15
 - **The Hacker News**: [Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools](https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html) — 2025-21-15
-- **Bleeping Computer**: [Android malware Konfety uses malformed APKs to evade detection](https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/) — 2025-10-15
 - **The Hacker News**: [State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments](https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html) — 2025-08-15
 - **The Hacker News**: [Securing Agentic AI: How to Protect the Invisible Identity Access](https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html) — 2025-00-15
 - **The Hacker News**: [AsyncRAT&#39;s Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe](https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html) — 2025-53-15
