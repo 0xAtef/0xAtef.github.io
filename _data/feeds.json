@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Fortinet FortiWeb hacks likely linked to public RCE exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/",
+    "summary": "Multiple Fortinet FortiWeb instances recently infected with web shells are believed to have been compromised using public exploits for a recently patched remote code execution (RCE) flaw tracked as CVE-2025-25257. [...]",
+    "published": "2025-07-16T14:58:52",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Europol disrupts pro-Russian NoName057(16) DDoS hacktivist group",
     "link": "https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/",
     "summary": "An international law enforcement operation dubbed \"Operation Eastwood\" has targeted the infrastructure of the pro-Russian hacktivist group NoName057(16), responsible for distributed denial-of-service (DDoS) attacks across Europe and the US. [...]",
