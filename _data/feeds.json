@@ -68,12 +68,5 @@
     "summary": "Cybersecurity researchers have disclosed what they say is a \"critical design flaw\" in delegated Managed Service Accounts (dMSAs) introduced in Windows Server 2025.\n\"The flaw can result in high-impact attacks, enabling cross-domain lateral movement and persistent access to all managed service account",
     "published": "2025-07-16T11:58:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "AI Agents Act Like Employees With Root Access\u2014Here's How to Regain Control",
-    "link": "https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html",
-    "summary": "The AI gold rush is on. But without identity-first security, every deployment becomes an open door. Most organizations secure native AI like a web app, but it behaves more like a junior employee with root access and no manager.\nFrom Hype to High Stakes\nGenerative AI has moved beyond the hype cycle. ",
-    "published": "2025-07-16T11:25:00",
-    "source": "HackerNews"
   }
 ]
