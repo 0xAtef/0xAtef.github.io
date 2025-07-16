@@ -1,5 +1,12 @@
 [
   {
+    "title": "Co-op confirms data of 6.5 million members stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/",
+    "summary": "UK retailer Co-op has confirmed that personal data of 6.5 million members was stolen in the massive cyberattack in April that shut down systems and caused food shortages in its grocery stores. [...]",
+    "published": "2025-07-16T22:29:27",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "U.S. Army soldier pleads guilty to extorting 10 tech, telecom firms",
     "link": "https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/",
     "summary": "A 21-year old former U.S. Army soldier\u00a0pleaded guilty to charges of hacking and extorting at least ten telecommunications and technology companies in the country. [...]",
@@ -68,12 +75,5 @@
     "summary": "The AI gold rush is on. But without identity-first security, every deployment becomes an open door. Most organizations secure native AI like a web app, but it behaves more like a junior employee with root access and no manager.\nFrom Hype to High Stakes\nGenerative AI has moved beyond the hype cycle. ",
     "published": "2025-07-16T11:25:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Grok 4 benchmark results: Tops math, ranks second in coding",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/",
-    "summary": "Grok 4 is a huge leap from Grok 3, but how good is it compared to other models in the market, such as Gemini 2.5 Pro? We now have answers, thanks to new independent benchmarks. [...]",
-    "published": "2025-07-16T10:35:10",
-    "source": "BleepingComputer"
   }
 ]
