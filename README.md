@@ -40,11 +40,13 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html) — 2025-58-16
+- **The Hacker News**: [AI Agents Act Like Employees With Root Access—Here&#39;s How to Regain Control](https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html) — 2025-25-16
 - **Bleeping Computer**: [Grok 4 benchmark results: Tops math, ranks second in coding](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/) — 2025-35-16
 - **Bleeping Computer**: [Google fixes actively exploited sandbox escape zero day in Chrome](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/) — 2025-47-16
+- **The Hacker News**: [New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code](https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html) — 2025-13-16
 - **The Hacker News**: [Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time](https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html) — 2025-13-16
 - **The Hacker News**: [Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild](https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html) — 2025-13-16
-- **The Hacker News**: [New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code](https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html) — 2025-13-16
 - **The Hacker News**: [Google AI &quot;Big Sleep&quot; Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act](https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html) — 2025-44-16
 - **Bleeping Computer**: [OpenAI&#39;s image model gets built-in style feature on ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/) — 2025-12-15
 - **Bleeping Computer**: [Abacus dark web drug market goes offline in suspected exit scam](https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/) — 2025-58-15
@@ -104,8 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html) — 2025-26-07
 - **The Hacker News**: [Manufacturing Security: Why Default Passwords Must Go](https://thehackernews.com/2025/07/manufacturing-security-why-default.html) — 2025-00-07
 - **The Hacker News**: [TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors](https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html) — 2025-51-07
-- **The Hacker News**: [Taiwan NSB Alerts Public on Data Risks from Douyin, Weibo, and RedNote Over China Ties](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html) — 2025-12-05
-- **The Hacker News**: [Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html) — 2025-44-05
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
