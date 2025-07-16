@@ -1,5 +1,12 @@
 [
   {
+    "title": "Louis Vuitton says regional data breaches tied to same cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/",
+    "summary": "Luxury fashion giant Louis Vuitton confirmed that breaches impacting customers in the UK, South Korea, and Turkey stem from the same security incident, which is believed to be linked to the ShinyHunters extortion group. [...]",
+    "published": "2025-07-16T19:26:18",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms",
     "link": "https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html",
     "summary": "Cybersecurity researchers have flagged a new variant of a known malware loader called Matanbuchus that packs in significant features to enhance its stealth and evade detection.\nMatanbuchus is the name given to a malware-as-a-service (MaaS) offering that can act as a conduit for next-stage payloads, ",
