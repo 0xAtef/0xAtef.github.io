@@ -1,5 +1,12 @@
 [
   {
+    "title": "SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/",
+    "summary": "A threat actor has been deploying a previously unseen malware called OVERSTEP that modifies the boot process of fully-patched but no longer supported SonicWall Secure Mobile Access appliances. [...]",
+    "published": "2025-07-16T15:33:15",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "New Fortinet FortiWeb hacks likely linked to public RCE exploits",
     "link": "https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/",
     "summary": "Multiple Fortinet FortiWeb instances recently infected with web shells are believed to have been compromised using public exploits for a recently patched remote code execution (RCE) flaw tracked as CVE-2025-25257. [...]",
