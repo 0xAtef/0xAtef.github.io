@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Google AI &quot;Big Sleep&quot; Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act](https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html) — 2025-44-16
 - **Bleeping Computer**: [OpenAI&#39;s image model gets built-in style feature on ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/) — 2025-12-15
 - **Bleeping Computer**: [Abacus dark web drug market goes offline in suspected exit scam](https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/) — 2025-58-15
 - **Bleeping Computer**: [Windows KB5064489 emergency update fixes Azure VM launch issues](https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/) — 2025-47-15
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [NightEagle APT Exploits Microsoft Exchange Flaw to Target China&#39;s Military and Tech Sectors](https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html) — 2025-59-04
 - **The Hacker News**: [Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It](https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html) — 2025-31-04
 - **The Hacker News**: [Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros](https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html) — 2025-30-04
-- **The Hacker News**: [Google Ordered to Pay $314M for Misusing Android Users&#39; Cellular Data Without Permission](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html) — 2025-17-04
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
