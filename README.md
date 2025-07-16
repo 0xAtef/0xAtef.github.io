@@ -40,7 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [New Fortinet FortiWeb hacks likely linked to public RCE exploits](https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/) — 2025-58-16
 - **Bleeping Computer**: [Europol disrupts pro-Russian NoName057&lpar;16&rpar; DDoS hacktivist group](https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/) — 2025-07-16
+- **The Hacker News**: [UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit](https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html) — 2025-00-16
 - **The Hacker News**: [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html) — 2025-58-16
 - **The Hacker News**: [AI Agents Act Like Employees With Root Access—Here&#39;s How to Regain Control](https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html) — 2025-25-16
 - **Bleeping Computer**: [Grok 4 benchmark results: Tops math, ranks second in coding](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/) — 2025-35-16
@@ -67,7 +69,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [Interlock ransomware adopts new FileFix attack to push malware](https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/) — 2025-36-14
 - **The Hacker News**: [The Unusual Suspect: Git Repos](https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html) — 2025-06-14
 - **The Hacker News**: [New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries](https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html) — 2025-52-14
-- **Bleeping Computer**: [Gigabyte motherboards vulnerable to UEFI malware bypassing Secure Boot](https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/) — 2025-30-14
 - **The Hacker News**: [⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More](https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html) — 2025-52-14
 - **The Hacker News**: [CBI Shuts Down £390K U.K. Tech Support Scam, Arrests Key Operatives in Noida Call Center](https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html) — 2025-00-14
 - **The Hacker News**: [eSIM Vulnerability in Kigen&#39;s eUICC Cards Exposes Billions of IoT Devices to Malicious Attacks](https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html) — 2025-27-14
@@ -105,7 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools](https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html) — 2025-26-07
 - **The Hacker News**: [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html) — 2025-26-07
 - **The Hacker News**: [Manufacturing Security: Why Default Passwords Must Go](https://thehackernews.com/2025/07/manufacturing-security-why-default.html) — 2025-00-07
-- **The Hacker News**: [TAG-140 Deploys DRAT V2 RAT, Targeting Indian Government, Defense, and Rail Sectors](https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html) — 2025-51-07
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
