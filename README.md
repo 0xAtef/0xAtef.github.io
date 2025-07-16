@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Louis Vuitton says regional data breaches tied to same cyberattack](https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/) — 2025-26-16
 - **The Hacker News**: [Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms](https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html) — 2025-48-16
 - **Bleeping Computer**: [Cloudflare says 1.1.1.1 outage not caused by attack or BGP hijack](https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/) — 2025-49-16
 - **Bleeping Computer**: [SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware](https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/) — 2025-33-16
@@ -62,13 +63,11 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors](https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html) — 2025-30-15
 - **The Hacker News**: [Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools](https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html) — 2025-21-15
 - **Bleeping Computer**: [Android malware Konfety uses malformed APKs to evade detection](https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/) — 2025-10-15
-- **Bleeping Computer**: [OpenAI&#39;s ChatGPT-powered browser is codenamed &#39;Aura&#39;](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/) — 2025-30-15
 - **The Hacker News**: [State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments](https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html) — 2025-08-15
 - **The Hacker News**: [Securing Agentic AI: How to Protect the Invisible Identity Access](https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html) — 2025-00-15
 - **The Hacker News**: [AsyncRAT&#39;s Open-Source Code Sparks Surge in Dangerous Malware Variants Across the Globe](https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html) — 2025-53-15
 - **The Hacker News**: [North Korean Hackers Flood npm Registry with XORIndex Malware in Ongoing Attack Campaign](https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html) — 2025-17-15
 - **Krebs on Security**: [DOGE Denizen Marko Elez Leaked API Key for xAI](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/) — 2025-23-15
-- **Bleeping Computer**: [UK launches vulnerability research program for external experts](https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/) — 2025-21-14
 - **The Hacker News**: [The Unusual Suspect: Git Repos](https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html) — 2025-06-14
 - **The Hacker News**: [New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries](https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html) — 2025-52-14
 - **The Hacker News**: [⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More](https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html) — 2025-52-14
