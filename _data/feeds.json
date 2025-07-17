@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors",
+    "link": "https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html",
+    "summary": "The Taiwanese semiconductor industry has become the target of spear-phishing campaigns undertaken by three Chinese state-sponsored threat actors.\n\"Targets of these campaigns ranged from organizations involved in the manufacturing, design, and testing of semiconductors and integrated circuits, wider ",
+    "published": "2025-07-17T07:56:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code",
     "link": "https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html",
     "summary": "Cisco has disclosed a new maximum-severity security vulnerability impacting Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) that could permit an attacker to execute arbitrary code on the underlying operating system with elevated privileges.\nTracked as CVE-2025-20337",
