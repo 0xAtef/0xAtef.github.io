@@ -64,7 +64,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [OpenAI&#39;s image model gets built-in style feature on ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/) — 2025-12-15
 - **Bleeping Computer**: [Abacus dark web drug market goes offline in suspected exit scam](https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/) — 2025-58-15
 - **Bleeping Computer**: [Windows KB5064489 emergency update fixes Azure VM launch issues](https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/) — 2025-47-15
-- **Bleeping Computer**: [North Korean XORIndex malware hidden in 67 malicious npm packages](https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/) — 2025-47-15
 - **The Hacker News**: [Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors](https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html) — 2025-30-15
 - **The Hacker News**: [Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools](https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html) — 2025-21-15
 - **The Hacker News**: [State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments](https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html) — 2025-08-15
