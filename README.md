@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [Max severity Cisco ISE bug allows pre-auth command execution, patch now](https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/) — 2025-53-17
 - **The Hacker News**: [Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner](https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html) — 2025-11-17
 - **The Hacker News**: [Europol Disrupts NoName057&lpar;16&rpar; Hacktivist Group Linked to DDoS Attacks Against Ukraine](https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html) — 2025-30-17
 - **The Hacker News**: [CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025](https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html) — 2025-00-17
@@ -64,7 +65,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Google AI &quot;Big Sleep&quot; Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act](https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html) — 2025-44-16
 - **Bleeping Computer**: [OpenAI&#39;s image model gets built-in style feature on ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/) — 2025-12-15
 - **Bleeping Computer**: [Abacus dark web drug market goes offline in suspected exit scam](https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/) — 2025-58-15
-- **Bleeping Computer**: [Windows KB5064489 emergency update fixes Azure VM launch issues](https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/) — 2025-47-15
 - **The Hacker News**: [Hyper-Volumetric DDoS Attacks Reach Record 7.3 Tbps, Targeting Key Global Sectors](https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html) — 2025-30-15
 - **The Hacker News**: [Newly Emerged GLOBAL GROUP RaaS Expands Operations with AI-Driven Negotiation Tools](https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html) — 2025-21-15
 - **The Hacker News**: [State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments](https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html) — 2025-08-15
