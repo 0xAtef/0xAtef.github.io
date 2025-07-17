@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [LameHug malware uses AI LLM to craft Windows data-theft commands in real-time](https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/) — 2025-57-17
 - **Bleeping Computer**: [Hacker steals $27 million in BigONE exchange crypto breach](https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/) — 2025-54-17
 - **Bleeping Computer**: [Chinese hackers breached National Guard to steal network configurations](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/) — 2025-02-17
 - **Bleeping Computer**: [Max severity Cisco ISE bug allows pre-auth command execution, patch now](https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/) — 2025-53-17
@@ -59,8 +60,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit](https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html) — 2025-00-16
 - **The Hacker News**: [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html) — 2025-58-16
 - **The Hacker News**: [AI Agents Act Like Employees With Root Access—Here&#39;s How to Regain Control](https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html) — 2025-25-16
-- **Bleeping Computer**: [Grok 4 benchmark results: Tops math, ranks second in coding](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/) — 2025-35-16
-- **Bleeping Computer**: [Google fixes actively exploited sandbox escape zero day in Chrome](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/) — 2025-47-16
 - **The Hacker News**: [New Konfety Malware Variant Evades Detection by Manipulating APKs and Dynamic Code](https://thehackernews.com/2025/07/new-konfety-malware-variant-evades.html) — 2025-13-16
 - **The Hacker News**: [Deepfakes. Fake Recruiters. Cloned CFOs — Learn How to Stop AI-Driven Attacks in Real Time](https://thehackernews.com/2025/07/deepfakes-fake-recruiters-cloned-cfos.html) — 2025-13-16
 - **The Hacker News**: [Urgent: Google Releases Critical Chrome Update for CVE-2025-6558 Exploit Active in the Wild](https://thehackernews.com/2025/07/urgent-google-releases-critical-chrome.html) — 2025-13-16
