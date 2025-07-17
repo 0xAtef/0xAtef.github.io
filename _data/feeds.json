@@ -61,12 +61,5 @@
     "summary": "Cybersecurity researchers have discovered a new campaign that exploits a known security flaw impacting Apache HTTP Server to deliver a cryptocurrency miner called Linuxsys.\nThe vulnerability in question is CVE-2021-41773 (CVSS score: 7.5), a high-severity path traversal vulnerability in Apache HTTP ",
     "published": "2025-07-17T14:11:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Europol Disrupts NoName057(16) Hacktivist Group Linked to DDoS Attacks Against Ukraine",
-    "link": "https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html",
-    "summary": "An international operation coordinated by Europol has disrupted the infrastructure of a pro-Russian hacktivist group known as NoName057(16) that has been linked to a string of distributed denial-of-service (DDoS) attacks against Ukraine and its allies.\nThe actions have led to the dismantling of a ma",
-    "published": "2025-07-17T11:30:00",
-    "source": "HackerNews"
   }
 ]
