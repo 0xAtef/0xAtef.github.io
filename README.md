@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin](https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/) — 2025-36-17
+- **Bleeping Computer**: [Microsoft Teams voice calls abused to push Matanbuchus malware](https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/) — 2025-28-17
 - **Bleeping Computer**: [Google sues to disrupt BadBox 2.0 botnet infecting 10 million devices](https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/) — 2025-59-17
 - **Bleeping Computer**: [LameHug malware uses AI LLM to craft Windows data-theft commands in real-time](https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/) — 2025-57-17
 - **The Hacker News**: [Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters](https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html) — 2025-40-17
@@ -57,8 +59,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms](https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html) — 2025-48-16
 - **Bleeping Computer**: [Cloudflare says 1.1.1.1 outage not caused by attack or BGP hijack](https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/) — 2025-49-16
 - **Bleeping Computer**: [SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware](https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/) — 2025-33-16
-- **Bleeping Computer**: [New Fortinet FortiWeb hacks likely linked to public RCE exploits](https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/) — 2025-58-16
-- **Bleeping Computer**: [Europol disrupts pro-Russian NoName057&lpar;16&rpar; DDoS hacktivist group](https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/) — 2025-07-16
 - **The Hacker News**: [UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit](https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html) — 2025-00-16
 - **The Hacker News**: [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html) — 2025-58-16
 - **The Hacker News**: [AI Agents Act Like Employees With Root Access—Here&#39;s How to Regain Control](https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html) — 2025-25-16
