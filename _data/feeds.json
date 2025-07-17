@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google sues to disrupt BadBox 2.0 botnet infecting 10 million devices",
+    "link": "https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/",
+    "summary": "Google has filed a lawsuit against the anonymous operators of the Android BadBox 2.0 malware botnet, accusing them of running a global ad fraud scheme against the company's advertising platforms. [...]",
+    "published": "2025-07-17T19:59:26",
+    "source": "BleepingComputer"
+  },
+  {
     "title": "LameHug malware uses AI LLM to craft Windows data-theft commands in real-time",
     "link": "https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/",
     "summary": "A novel malware family named LameHug is using a large language model (LLM) to generate commands to be executed on compromised Windows systems. [...]",
@@ -53,13 +60,6 @@
     "link": "https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html",
     "summary": "The modern-day threat landscape requires enterprise security teams to think and act beyond traditional cybersecurity measures that are purely passive and reactive, and in most cases, ineffective against emerging threats and sophisticated threat actors. Prioritizing cybersecurity means implementing m",
     "published": "2025-07-17T11:00:00",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors",
-    "link": "https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html",
-    "summary": "The Taiwanese semiconductor industry has become the target of spear-phishing campaigns undertaken by three Chinese state-sponsored threat actors.\n\"Targets of these campaigns ranged from organizations involved in the manufacturing, design, and testing of semiconductors and integrated circuits, wider ",
-    "published": "2025-07-17T07:56:00",
     "source": "HackerNews"
   }
 ]
