@@ -61,12 +61,5 @@
     "summary": "A threat activity cluster has been observed targeting fully-patched end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliances as part of a campaign designed to drop a backdoor called OVERSTEP.\nThe malicious activity, dating back to at least October 2024, has been attributed by the Googl",
     "published": "2025-07-16T14:00:00",
     "source": "HackerNews"
-  },
-  {
-    "title": "Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access",
-    "link": "https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html",
-    "summary": "Cybersecurity researchers have disclosed what they say is a \"critical design flaw\" in delegated Managed Service Accounts (dMSAs) introduced in Windows Server 2025.\n\"The flaw can result in high-impact attacks, enabling cross-domain lateral movement and persistent access to all managed service account",
-    "published": "2025-07-16T11:58:00",
-    "source": "HackerNews"
   }
 ]
