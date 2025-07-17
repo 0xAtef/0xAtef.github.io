@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code",
+    "link": "https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html",
+    "summary": "Cisco has disclosed a new maximum-severity security vulnerability impacting Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) that could permit an attacker to execute arbitrary code on the underlying operating system with elevated privileges.\nTracked as CVE-2025-20337",
+    "published": "2025-07-17T05:37:00",
+    "source": "HackerNews"
+  },
+  {
     "title": "Co-op confirms data of 6.5 million members stolen in cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/",
     "summary": "UK retailer Co-op has confirmed that personal data of 6.5 million members was stolen in the massive cyberattack in April that shut down systems and caused food shortages in its grocery stores. [...]",
@@ -19,12 +26,5 @@
     "summary": "Luxury fashion giant Louis Vuitton confirmed that breaches impacting customers in the UK, South Korea, and Turkey stem from the same security incident, which is believed to be linked to the ShinyHunters extortion group. [...]",
     "published": "2025-07-16T19:26:18",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms",
-    "link": "https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html",
-    "summary": "Cybersecurity researchers have flagged a new variant of a known malware loader called Matanbuchus that packs in significant features to enhance its stealth and evade detection.\nMatanbuchus is the name given to a malware-as-a-service (MaaS) offering that can act as a conduit for next-stage payloads, ",
-    "published": "2025-07-16T17:48:00",
-    "source": "HackerNews"
   }
 ]
