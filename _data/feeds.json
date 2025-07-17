@@ -47,19 +47,5 @@
     "summary": "Multiple Fortinet FortiWeb instances recently infected with web shells are believed to have been compromised using public exploits for a recently patched remote code execution (RCE) flaw tracked as CVE-2025-25257. [...]",
     "published": "2025-07-16T14:58:52",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Europol disrupts pro-Russian NoName057(16) DDoS hacktivist group",
-    "link": "https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/",
-    "summary": "An international law enforcement operation dubbed \"Operation Eastwood\" has targeted the infrastructure of the pro-Russian hacktivist group NoName057(16), responsible for distributed denial-of-service (DDoS) attacks across Europe and the US. [...]",
-    "published": "2025-07-16T14:07:30",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit",
-    "link": "https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html",
-    "summary": "A threat activity cluster has been observed targeting fully-patched end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliances as part of a campaign designed to drop a backdoor called OVERSTEP.\nThe malicious activity, dating back to at least October 2024, has been attributed by the Googl",
-    "published": "2025-07-16T14:00:00",
-    "source": "HackerNews"
   }
 ]
