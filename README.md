@@ -40,6 +40,8 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Europol Disrupts NoName057&lpar;16&rpar; Hacktivist Group Linked to DDoS Attacks Against Ukraine](https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html) — 2025-30-17
+- **The Hacker News**: [CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025](https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html) — 2025-00-17
 - **The Hacker News**: [Chinese Hackers Target Taiwan&#39;s Semiconductor Sector with Cobalt Strike, Custom Backdoors](https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html) — 2025-56-17
 - **The Hacker News**: [Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code](https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html) — 2025-37-17
 - **Bleeping Computer**: [Co-op confirms data of 6.5 million members stolen in cyberattack](https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/) — 2025-29-16
@@ -104,8 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [5 Ways Identity-based Attacks Are Breaching Retail](https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html) — 2025-25-08
 - **The Hacker News**: [RondoDox Botnet Exploits Flaws in TBK DVRs and Four-Faith Routers to Launch DDoS Attacks](https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html) — 2025-08-08
 - **The Hacker News**: [BaitTrap: Over 17,000 Fake News Websites Caught Fueling Investment Fraud Globally](https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html) — 2025-30-08
-- **The Hacker News**: [Researchers Uncover Batavia Windows Spyware Stealing Documents from Russian Firms](https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html) — 2025-22-08
-- **The Hacker News**: [CISA Adds Four Critical Vulnerabilities to KEV Catalog Due to Active Exploitation](https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html) — 2025-08-08
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
