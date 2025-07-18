@@ -40,6 +40,9 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **The Hacker News**: [Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices](https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html) — 2025-03-18
+- **The Hacker News**: [Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services](https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html) — 2025-59-18
+- **The Hacker News**: [From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware](https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html) — 2025-30-18
 - **Bleeping Computer**: [OpenAI: GPT-5 is coming, &quot;we&#39;ll see&quot; if it creates a shockwave](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/) — 2025-47-18
 - **Krebs on Security**: [Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai](https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/) — 2025-23-18
 - **Bleeping Computer**: [Citrix Bleed 2 exploited weeks before PoCs as Citrix denied attacks](https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/) — 2025-37-17
@@ -103,9 +106,6 @@ Let's connect and share some war stories!
 - **The Hacker News**: [Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server](https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html) — 2025-10-09
 - **Krebs on Security**: [Microsoft Patch Tuesday, July 2025 Edition](https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/) — 2025-53-09
 - **The Hacker News**: [Hackers Use Leaked Shellter Tool License to Spread Lumma Stealer and SectopRAT Malware](https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html) — 2025-35-08
-- **The Hacker News**: [Anatsa Android Banking Trojan Hits 90,000 Users with Fake PDF App on Google Play](https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html) — 2025-13-08
-- **The Hacker News**: [Malicious Pull Request Targets 6,000+ Developers via Vulnerable Ethcode VS Code Extension](https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html) — 2025-01-08
-- **The Hacker News**: [5 Ways Identity-based Attacks Are Breaching Retail](https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html) — 2025-25-08
 - **Krebs on Security**: [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/) — 2025-06-03
 - **Krebs on Security**: [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/) — 2025-33-30
 - **Krebs on Security**: [Inside a Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/) — 2025-14-12
