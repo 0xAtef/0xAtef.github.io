@@ -26,12 +26,5 @@
     "summary": "The Matanbuchus malware loader has been seen being distributed through social engineering over\u00a0Microsoft Teams calls impersonating IT helpdesk. [...]",
     "published": "2025-07-17T21:28:31",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Google sues to disrupt BadBox 2.0 botnet infecting 10 million devices",
-    "link": "https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/",
-    "summary": "Google has filed a lawsuit against the anonymous operators of the Android BadBox 2.0 malware botnet, accusing them of running a global ad fraud scheme against the company's advertising platforms. [...]",
-    "published": "2025-07-17T19:59:26",
-    "source": "BleepingComputer"
   }
 ]
