@@ -12,19 +12,5 @@
     "summary": "A critical Citrix NetScaler vulnerability, tracked as CVE-2025-5777 and dubbed \"CitrixBleed 2,\" was actively exploited nearly two weeks before proof-of-concept (PoC) exploits were made public, despite Citrix stating that there was no evidence of attacks. [...]",
     "published": "2025-07-17T23:37:34",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin",
-    "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/",
-    "summary": "VMware fixed four vulnerabilities in VMware ESXi, Workstation, Fusion, and Tools that were exploited as zero-days during the Pwn2Own Berlin 2025 hacking contest in May 2025. [...]",
-    "published": "2025-07-17T21:36:42",
-    "source": "BleepingComputer"
-  },
-  {
-    "title": "Microsoft Teams voice calls abused to push Matanbuchus malware",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/",
-    "summary": "The Matanbuchus malware loader has been seen being distributed through social engineering over\u00a0Microsoft Teams calls impersonating IT helpdesk. [...]",
-    "published": "2025-07-17T21:28:31",
-    "source": "BleepingComputer"
   }
 ]
