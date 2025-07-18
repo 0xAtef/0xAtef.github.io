@@ -20,10 +20,10 @@ timezone: Africa/Egypt
 
 title: Mohamed Atef  # the main title
 
-tagline: Cyber Defense Lead  # it will display as the sub-title
+tagline: CTI & Detection Engineer  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Cyber Defense Lead | SOC/CDC Leader | SOAR & Security Automation Engineer | Threat Detection Engineer | DFIR Specialist | Threat Hunting | CTI | Adversary Emulation | Problem Solver | EDR/XDR | EASM
+  Sr. Cyber Defense DFIR Analyst | CTI & Threat Detection Engineer | ThreatOps Developer | SOC | Threat Hunting | SOAR & Security Automation
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://0xatef.github.io/"
 

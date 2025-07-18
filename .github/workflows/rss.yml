@@ -1,69 +1,69 @@
-name: Update RSS Feeds
+# name: Update RSS Feeds
 
-on:
-  schedule:
-    - cron: "*/30 * * * *" # every 30 minutes
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "*/30 * * * *" # every 30 minutes
+#   workflow_dispatch:
 
-jobs:
-  fetch-feeds:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+# jobs:
+#   fetch-feeds:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
 
-    steps:
-      - uses: actions/checkout@v3
+#     steps:
+#       - uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+#       - name: Set up Python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.x'
 
-      - name: Install feedparser
-        run: pip install feedparser
+#       - name: Install feedparser
+#         run: pip install feedparser
 
-      - name: Backup Existing JSON
-        run: |
-          if [ -f _data/feeds.json ]; then
-            cp _data/feeds.json _data/feeds_backup.json
-          fi
+#       - name: Backup Existing JSON
+#         run: |
+#           if [ -f _data/feeds.json ]; then
+#             cp _data/feeds.json _data/feeds_backup.json
+#           fi
 
-      - name: Fetch feeds
-        run: python fetch_feeds.py
+#       - name: Fetch feeds
+#         run: python fetch_feeds.py
 
-      - name: Validate JSON
-        run: python -m json.tool _data/feeds.json
+#       - name: Validate JSON
+#         run: python -m json.tool _data/feeds.json
 
-      - name: Check JSON Content
-        run: |
-          if [ ! -s _data/feeds.json ]; then
-            echo "Error: _data/feeds.json is empty or missing!"
-            exit 1
-          fi
+#       - name: Check JSON Content
+#         run: |
+#           if [ ! -s _data/feeds.json ]; then
+#             echo "Error: _data/feeds.json is empty or missing!"
+#             exit 1
+#           fi
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#       - name: Commit and push changes
+#         run: |
+#           git config --global user.name "github-actions[bot]"
+#           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Ensure no unstaged changes are left
-          git add _data/feeds.json
+#           # Ensure no unstaged changes are left
+#           git add _data/feeds.json
       
-          # Commit changes if any
-          git diff-index --quiet HEAD || git commit -m "Update RSS feeds"
+#           # Commit changes if any
+#           git diff-index --quiet HEAD || git commit -m "Update RSS feeds"
       
-          # Pull with rebase
-          git pull --rebase origin $(git rev-parse --abbrev-ref HEAD)
+#           # Pull with rebase
+#           git pull --rebase origin $(git rev-parse --abbrev-ref HEAD)
       
-          # Push changes
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           # Push changes
+#           git push
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
 
-    #   - name: Trigger site rebuild
-    #     uses: peter-evans/repository-dispatch@v2
-    #     with:
-    #         token: ${{ secrets.GITHUB_TOKEN }}
-    #         event-type: rss-updated
+#     #   - name: Trigger site rebuild
+#     #     uses: peter-evans/repository-dispatch@v2
+#     #     with:
+#     #         token: ${{ secrets.GITHUB_TOKEN }}
+#     #         event-type: rss-updated
   

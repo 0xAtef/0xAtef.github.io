@@ -1,42 +1,42 @@
-name: Latest blog post workflow
+# name: Latest blog post workflow
 
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 * * * *'    # hourly UTC
-  workflow_dispatch:       # manual trigger
+# on:
+#   push:
+#     branches:
+#       - main
+#   schedule:
+#     - cron: '0 * * * *'    # hourly UTC
+#   workflow_dispatch:       # manual trigger
 
-permissions:
-  contents: write          # grant write access to repo contents
+# permissions:
+#   contents: write          # grant write access to repo contents
 
-jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
-    runs-on: ubuntu-latest
+# jobs:
+#   update-readme-with-blog:
+#     name: Update README with latest blog posts
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: true  # keep ${{ github.token }} available
-          fetch-depth: 0             # avoid detached HEAD on push
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
+#         with:
+#           persist-credentials: true  # keep ${{ github.token }} available
+#           fetch-depth: 0             # avoid detached HEAD on push
 
-      - name: Pull in posts from multiple RSS feeds
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-            feed_list: |
-              https://feeds.feedburner.com/TheHackersNews, https://krebsonsecurity.com/feed/, https://www.bleepingcomputer.com/feed/
-            feed_names: |
-              The Hacker News, Krebs on Security, Bleeping Computer
-            max_post_count: 100
+#       - name: Pull in posts from multiple RSS feeds
+#         uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#             feed_list: |
+#               https://feeds.feedburner.com/TheHackersNews, https://krebsonsecurity.com/feed/, https://www.bleepingcomputer.com/feed/
+#             feed_names: |
+#               The Hacker News, Krebs on Security, Bleeping Computer
+#             max_post_count: 100
   
-            # prepend a newline so every item is on its own line
-            template: "$newline- **$feedName**: [$title]($url) — $date"
+#             # prepend a newline so every item is on its own line
+#             template: "$newline- **$feedName**: [$title]($url) — $date"
   
-            # use MM for month, dd for day  (mm was minutes, hence the weird numbers)
-            date_format: "UTC:yyyy-MM-dd"
+#             # use MM for month, dd for day  (mm was minutes, hence the weird numbers)
+#             date_format: "UTC:yyyy-MM-dd"
   
-            readme_path: "./README.md"
-            commit_message: ":robot: Update blog posts"
+#             readme_path: "./README.md"
+#             commit_message: ":robot: Update blog posts"
