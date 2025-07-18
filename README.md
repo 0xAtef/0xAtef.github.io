@@ -40,6 +40,7 @@ Let's connect and share some war stories!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- **Bleeping Computer**: [OpenAI: GPT-5 is coming, &quot;we&#39;ll see&quot; if it creates a shockwave](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/) — 2025-47-18
 - **Krebs on Security**: [Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai](https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/) — 2025-23-18
 - **Bleeping Computer**: [Citrix Bleed 2 exploited weeks before PoCs as Citrix denied attacks](https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/) — 2025-37-17
 - **Bleeping Computer**: [VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin](https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/) — 2025-36-17
@@ -59,7 +60,6 @@ Let's connect and share some war stories!
 - **Bleeping Computer**: [U.S. Army soldier pleads guilty to extorting 10 tech, telecom firms](https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/) — 2025-00-16
 - **Bleeping Computer**: [Louis Vuitton says regional data breaches tied to same cyberattack](https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/) — 2025-26-16
 - **The Hacker News**: [Hackers Leverage Microsoft Teams to Spread Matanbuchus 3.0 Malware to Targeted Firms](https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html) — 2025-48-16
-- **Bleeping Computer**: [Cloudflare says 1.1.1.1 outage not caused by attack or BGP hijack](https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/) — 2025-49-16
 - **The Hacker News**: [UNC6148 Backdoors Fully-Patched SonicWall SMA 100 Series Devices with OVERSTEP Rootkit](https://thehackernews.com/2025/07/unc6148-backdoors-fully-patched.html) — 2025-00-16
 - **The Hacker News**: [Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access](https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html) — 2025-58-16
 - **The Hacker News**: [AI Agents Act Like Employees With Root Access—Here&#39;s How to Regain Control](https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html) — 2025-25-16
