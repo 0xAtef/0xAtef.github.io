@@ -181,69 +181,141 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 ---
   
-### 🎓 Training
+### 🎓 Training & Professional Development
 
+##### 🛡️ **Detection Engineering & MITRE ATT&CK**
 - **Threat Detection Engineering** – *TCM Security*  
+- **SIEM Alert Rule Development Fundamentals** – *Purple Academy by Picus*
+- **Foundations of Operationalizing MITRE ATT&CK** – *AttackIQ Academy*
+- **Maturing Threat-Informed Defense with M3TID** – *AttackIQ Academy*
+
+##### 🔍 **Threat Hunting & Intelligence**
+- **Foundations of Cyber Threat Intelligence** – *AttackIQ Academy*
 - **Practical Malware Analysis & Triage** – *TCM Security*  
+
+##### 🚨 **Incident Response & Forensics**
 - **Incident Handler Path** – *Cybrary*  
 - **Practical Windows Forensics** – *TCM Security*  
-- **Foundations of Operationalizing MITRE ATT&CK** – *AttackIQ Academy*  
-- **Maturing Threat-Informed Defense with M3TID** – *AttackIQ Academy*  
+
+##### 👥 **SOC Operations & Analysis**
 - **SOC Analyst Level 2** – *Cybrary*  
 - **SOC Analyst Level 1 & 2** – *TryHackMe*  
 - **Security Engineer** – *TryHackMe*  
-- **Foundations of Cyber Threat Intelligence** – *AttackIQ Academy*  
-- **N8N Workflow Automation (Levels 1 & 2)**  
-- **SIEM Alert Rule Development Fundamentals** – *Purple Academy by Picus*  
+
+##### 🤖 **Automation & Integration**
+- **N8N Workflow Automation (Levels 1 & 2)** – *N8N Academy*
+
+##### ☁️ **Cloud Security & Infrastructure**
 - **AWS Cloud Practitioner (CLF-C02)** – *KodeKloud*  
 - **Microsoft Azure Fundamentals (AZ-900)** – *KodeKloud*  
+
+##### 💻 **Programming & Networking**
 - **PCAP: Python Programming Essentials** – *KodeKloud*  
 - **CCNA / CCNA Security & CyberOps Associate** – *Cisco Networking Academy*
 
 ---
 
-### 🛠️ Hands-on Experience
+### 🛠️ Technical Expertise & Hands-on Experience
 
-- **SIEM**: QRadar, Splunk, ELK  
-- **SOAR**: TheHive, IBM Resilient  
-- **EDR/XDR**: Trillex, Fidelis, Group-IB  
-- **NDR/XDR**: IBM QNI, Group-IB  
-- **Workflow Automation**: N8N, Shuffle  
-- **Programming**: Python  
-- **Threat Intelligence Platforms (TIP)**: GIB, Threat-Q, Dark Atlas, Criminal IP, CTM360, SOC Radar, Google Threat Intelligence  
-- **Dark Web Monitoring**: GIB, Dark Atlas, CTM360, SOC Radar, Google Threat Intelligence  
-- **Attack Surface Management (ASM)**: GIB, Dark Atlas, Cynerv, Criminal IP, Tenable, CTM360, SOC Radar, Google Threat Intelligence  
-- **Digital Risk Protection (DRP)**: GIB, Dark Atlas, CTM360, SOC Radar, Google Threat Intelligence  
-- **Command & Control (C2) Frameworks**: Covenant, Havoc  
-- **Adversary Emulation**: Caldera  
-- **Middleware / API Integrations**  
-- **MITRE ATT&CK Gap Assessments**: Technology and Detection Use Cases  
-- **Velociraptor** (Endpoint & Memory Forensics)  
-- **MISP** (Threat Intelligence Sharing and Automation)
+##### 🔍 **SIEM & Security Analytics Platforms**
+- **Core SIEM**: `QRadar`, `Splunk`, `ELK Stack` (Elasticsearch, Logstash, Kibana)
+- **Log Management**: Centralized logging, parsing, and correlation
+- **Custom Dashboards**: Executive reporting and operational views
+
+##### 🤖 **SOAR & Incident Orchestration**
+- **Primary Platforms**: `TheHive`, `IBM Resilient`
+- **Workflow Automation**: `N8N`, `Shuffle`
+- **Integration Development**: API connectors and custom playbooks
+- **Case Management**: Incident tracking, escalation, and reporting
+
+##### 🛡️ **Endpoint Detection & Response (EDR/XDR)**
+- **EDR Solutions**: `Trillex`, `Fidelis`, `Group-IB`
+- **Network Detection**: `IBM QNI` (NDR/XDR), `Group-IB`
+- **Endpoint Forensics**: `Velociraptor` for memory and disk analysis
+- **Threat Hunting**: Behavioral analysis and anomaly detection
+
+##### 🧠 **Threat Intelligence Platforms & CTI Tools**
+- **Central Platforms**: `MISP`, `Threat-Q`, `Group-IB (GIB)`
+- **Commercial TIPs**: `Dark Atlas`, `Criminal IP`, `CTM360`
+- **Global Intelligence**: `SOC Radar`, `Google Threat Intelligence`
+- **CTI Automation**: Feed aggregation, IOC enrichment, and distribution
+
+##### 🌐 **Digital Risk Protection & Attack Surface Management**
+- **Attack Surface Management (ASM)**: External asset discovery and vulnerability assessment
+- **Digital Risk Protection (DRP)**: Brand monitoring, data leak detection
+- **Dark Web Monitoring**: Credential compromise and threat actor tracking
+- **Platforms**: `GIB`, `Dark Atlas`, `Cynerv`, `Criminal IP`, `Tenable`, `CTM360`, `SOC Radar`
+
+##### 🎯 **Red Team Tools & Purple Team Operations**
+- **Command & Control Frameworks**: `Covenant`, `Havoc`
+- **Adversary Emulation**: `Caldera` for automated attack simulation
+- **Purple Team Activities**: Detection validation, gap analysis, and security control testing
+- **TTPs Mapping**: MITRE ATT&CK framework implementation
+
+##### 💻 **Development & Automation Engineering**
+- **Programming Languages**: `Python` for security automation and tool development
+- **API Development**: Custom middleware for SIEM and TIP integrations
+- **Workflow Automation**: End-to-end security process orchestration
+- **Custom Tools**: ThreatOps platform and specialized security utilities
+
+##### 📊 **Security Assessment & Strategic Analysis**
+- **MITRE ATT&CK Assessments**: Technology coverage and detection content gap analysis
+- **Detection Engineering**: Custom rule development, testing frameworks, and DaC methodologies
+- **Technology Evaluation**: PoC assessments for EDR, TIP, SOAR, and security tools
+- **Metrics & KPIs**: MTTR/MTTD improvement and security program effectiveness measurement
 
 ---
 
-### 🏆 Key Projects
+### 🏆 Key Projects & Achievements
 
-1. **The Hive: Open Source SOAR**  
-   *Developed and maintained The Hive, a SOAR platform for incident response, threat hunting, and automated alert processing. Integrated with Cortex, MISP, QRadar, TIP, Digital Risk Protection, email, MS Teams, N8n, and Shuffle to streamline workflows and enhance response times.*
+#### **1. ThreatOps: Custom CTI Automation Platform** ⭐
+*2024 - Present | Python, RSS Processing, MISP Integration*
+- **Built from scratch**: Custom RSS feed aggregation and intelligence processing platform
+- **Business Impact**: Reduced manual CTI processing time by 80%, enabling real-time threat analysis
+- **Core Features**: Multi-source feeds, automated tagging, MISP integration, intelligent alerting
+- **Architecture**: `Python`, `MISP API`, `N8n`, `Docker`, `REST APIs`
+- **Innovation**: First-of-its-kind RSS-based CTI automation in the organization
 
-2. **MISP (Malware Information Sharing Platform)**  
-   *Implemented MISP to share and correlate Indicators of Compromise (IoCs). Automated IOC ingestion and enrichment, improving threat analysis and situational awareness. Integrated MISP with SIEM and TIP systems to enhance detection and response capabilities.*
+#### **2. Enterprise SOAR Implementation: TheHive Platform**
+*2022 - 2024 | SOC Orchestration & Incident Response*
+- **Achievement**: Led the first complete SOAR deployment for Egypt's first digital bank
+- **Integrations**: `Cortex`, `MISP`, `QRadar`, TIP platforms, MS Teams, Email, `N8n`, `Shuffle`
 
-3. **Product Assessment**  
-   - *Conducted **EDR assessments** to evaluate threat detection, incident response, forensic analysis, and integration with other security tools.*  
-   - *Assessed **Threat Intelligence Platforms**, **Dark Web Monitoring**, **Digital Risk Protection**, and **Attack Surface Management** solutions for effectiveness and integration.*
+#### **3. MISP Threat Intelligence Ecosystem**
+*2023 - Present | Cyber Threat Intelligence Platform*
+- **Strategic Implementation**: Centralized IOC sharing and correlation platform
+- **Automation**: Automated IOC ingestion, enrichment, and distribution workflows
+- **Integration**: Seamless SIEM and TIP system connectivity for enhanced detection capabilities
 
-4. **Attack Simulation**  
-   *Utilized Caldera for automated **adversary emulation**, performing real-world attack simulations to evaluate and strengthen security posture.*
+#### **4. Comprehensive Security Technology Assessment Program**
+*2023 - 2024 | Strategic Technology Evaluation*
+- **Scope**: Evaluated 12+ security solutions across EDR, TIP, ASM, DRP, and Dark Web Monitoring
+- **Assessment Areas**: 
+  - **EDR Solutions**: Threat detection, incident response, forensic analysis capabilities
+  - **Intelligence Platforms**: TIP, Dark Web Monitoring, DRP, and ASM solution effectiveness
+- **Methodology**: PoC testing, technical deep-dives, integration assessments
 
-5. **Custom Middleware for SIEM Integration**  
-   *Developed a custom middleware solution to integrate log data from APIs into **SIEM** systems, enhancing data centralization and analysis.*
+#### **5. Purple Team & Adversary Emulation Program**
+*2023 - Present | Security Validation & Testing*
+- **Platform**: `Caldera` for automated adversary emulation and attack simulation
+- **Activities**: Real-world attack simulations, detection validation, control effectiveness testing
+- **MITRE ATT&CK**: Comprehensive TTPs mapping and gap analysis
+- **Continuous Improvement**: Quarterly purple team exercises with measurable security improvements
 
-6. **Card Data Discovery Validator**  
-   *Built a Python tool for validating and ensuring proper handling and masking of card data in compliance with security standards.*
+#### **6. API-to-SIEM Integration Middleware**
+*2024 | Custom Integration Development*
+- **Technical Achievement**: Built custom middleware for API-to-SIEM data integration
+- **Business Impact**: Enabled centralization of 5+ previously siloed security data sources
+- **Architecture**: `Python`, REST APIs, syslog protocols, `QRadar` integration
+- **Documentation**: Created comprehensive integration guide published on blog
+- **Reusability**: Solution adopted across multiple environments and data sources
 
+### 🎯 Current Focus Areas (2025)
+
+- **🤖 AI/ML in CTI**: Exploring LLM integration for threat analysis
+- **☁️ Cloud Security**: AWS/Azure security architecture
+- **🔐 Zero Trust**: Implementation strategies and detection
+- **📊 Metrics-Driven Security**: KPI development and measurement
 
 ---
 
