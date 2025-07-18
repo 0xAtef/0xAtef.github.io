@@ -40,12 +40,5 @@
     "summary": "A novel malware family named LameHug is using a large language model (LLM) to generate commands to be executed on compromised Windows systems. [...]",
     "published": "2025-07-17T18:57:20",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters",
-    "link": "https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html",
-    "summary": "Threat actors are leveraging public GitHub repositories to host malicious payloads and distribute them via Amadey as part of a campaign observed in April 2025.\n\"The MaaS [malware-as-a-service] operators used fake GitHub accounts to host payloads, tools, and Amadey plug-ins, likely as an attempt to b",
-    "published": "2025-07-17T17:40:00",
-    "source": "HackerNews"
   }
 ]
