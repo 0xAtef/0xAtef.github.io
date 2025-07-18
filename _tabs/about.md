@@ -11,13 +11,15 @@ order: 4
 
 ## About Me
 
-I’m a **Senior Cyber Defense Engineer** specializing in **Digital Forensics**, **Incident Response**, **Threat Hunting**, **Cyber Threat Intelligence (CTI)**, and **SOC Operations**.
+**Senior Cyber Defense DFIR Analyst** with a strong focus on **Cyber Threat Intelligence (CTI)**, **threat detection engineering**, and **threat hunting**. While formally positioned within DFIR, my role spans across threat intelligence engineering, SOC architecture, and detection strategy, driving proactive defense initiatives and intelligence-led security operations.
 
-I focus on integrating and automating detection and response workflows using tools like **TIP**, **SOAR**, **SIEM**, **EDR**, **Mail Security Gateways**, and **Python**, enabling efficient threat detection, investigation, and mitigation across SOC environments.
+I lead the development of **CTI strategies**, **SOPs**, and **tooling**, including custom-built platforms like **"ThreatOps"**—a CTI automation tool designed to collect, parse, and operationalize RSS-based intelligence feeds, enriching internal security insights and empowering enterprise-wide threat programs.
 
-My experience includes evaluating and deploying security solutions—**EDR**, **TIP**, **ASM**, **DRP**, and **Dark Web Monitoring**—and ensuring they’re effectively embedded into the SOC ecosystem. I’m skilled in conducting endpoint investigations, building detection use cases, and refining SOC processes for optimal performance.
+With a foundation in **SOC operations**, including analysis, administration, and engineering, I bring prior experience in architecting and integrating core security solutions (`SIEM`, `SOAR`, `EDR`, `TIPs`, `ASM`, `DRP`), building end-to-end detection pipelines, and optimizing intelligence workflows.
 
-I hold certifications in **Threat Hunting** and **Windows Forensics**, and I’ve led CTI initiatives including **CTI-SOP development** and **platform integration** to boost threat detection and response efficiency.
+Actively engaged in **purple teaming** to validate detection logic and enhance visibility. While my current DFIR responsibilities are more strategic than deep-dive forensics, I maintain hands-on capability in **incident response**, **enrichment-driven triage**, and **light DFIR investigations**.
+
+**Certified in Threat Hunting and Windows Forensics**, I continuously contribute to threat-informed defense models, develop custom detection content, and ensure the seamless integration of CTI into SOC workflows. My mission is to bridge **intelligence**, **engineering**, and **response** into a unified, adaptive cyber defense capability.
 
 
 [Email](mailto:mohamedatef2970@gmail.com) / [Website](https://0xatef.github.io/about/) / [LinkedIn](https://www.linkedin.com/in/0xAtef/) / [GitHub](https://github.com/0xAtef/) / [Twitter](https://twitter.com/0xAtef/)
@@ -26,89 +28,142 @@ I hold certifications in **Threat Hunting** and **Windows Forensics**, and I’v
 
 ### 🛡️ Experience
 
-#### **Senior Cyber Defense Engineer – DFIR Unit**  
+#### **Senior Cyber Defense DFIR Analyst**  
 `April 2025 – Present`
 
-- Lead digital forensics and incident response (DFIR) investigations using **Velociraptor** and **XDR**, focusing on endpoint triage and memory analysis to identify root causes and assess incident impact.
-- Execute **threat hunting operations** leveraging EDR and SIEM telemetry, mapped to **MITRE ATT&CK** techniques for proactive detection.
-- Design and maintain a **Cyber Threat Intelligence (CTI) workflow** using **MISP**, **N8n**, and **Python** scripts to automate IOC ingestion, enrichment, and correlation with internal datasets.
-- Support the development and enforcement of **CTI Standard Operating Procedures (SOPs)**, enabling structured threat analysis and intelligence lifecycle management.
-- Analyze **adversary Tactics, Techniques, and Procedures (TTPs)** to enhance detection and accelerate response strategies.
-- Automate and integrate **threat intelligence**, **threat hunting**, and **incident response** processes via cross-platform scripting and **TIP/SIEM** integrations to maximize visibility and efficiency.
+##### 🔍 **Threat Hunting & Investigation**
+- Conduct **threat-informed investigations** and incident response by providing contextual intelligence, adversary insights, and lightweight analysis to guide detection and response efforts
+- Perform proactive **threat hunting** leveraging `EDR/SIEM` data mapped to **MITRE ATT&CK**, identifying stealthy behaviors and detection gaps
+- Analyze **adversary TTPs** and campaign data to inform detection engineering and response tuning across SOC tooling
+
+##### 🛡️ **Detection Engineering & Content Development**
+- Develop and maintain **detection rules** and use cases across multiple SIEM platforms (`QRadar`, `Splunk`, `ELK`)
+- Implement **Detection-as-Code (DaC)** methodologies with version control and automated testing frameworks
+- Create and tune **MITRE ATT&CK-mapped** detection content to address specific adversary techniques and procedures
+- Establish **detection coverage metrics** and gap analysis to continuously improve security monitoring capabilities
+- Collaborate with threat intelligence teams to transform **IOCs and TTPs** into actionable detection logic
+
+##### 🤖 **CTI Automation & Engineering**  
+- Develop and operate an automated **CTI pipeline** using `MISP`, `N8n`, and `Python`, enabling scalable IOC ingestion, enrichment, tagging, and correlation with internal telemetry sources
+- Engineer and maintain **"ThreatOps"** - a custom-built CTI automation tool designed to:
+  - Collect and parse RSS feed data
+  - Operationalize open-source intelligence (OSINT)
+  - Support internal intelligence programs
+- Automate and integrate **threat intelligence**, **hunting**, and **incident response** workflows using `Python`, `N8n`, and TIP/SIEM integrations
+
+##### 📋 **Process Development & Operations**
+- Design and implement **CTI SOPs** and intelligence workflows, aligning with the intelligence lifecycle to support:
+  - Collection planning
+  - Threat analysis  
+  - Stakeholder dissemination
+- Support ongoing development of **MISP-based ecosystems**, ensuring alignment between threat intelligence operations and enterprise defense strategy
+- Improve cross-platform visibility, accelerate triage, and reduce manual analyst workload through automation
 
 ---
 
-#### **Senior Cyber Defense Engineer – SOC Unit**  
+#### **Senior Cyber Defense Engineer**  
 `August 2024 – March 2025`
 
-- Administered and fine-tuned key SOC technologies including **SIEM**, **SOAR**, **EDR**, and **NDR**, ensuring comprehensive threat monitoring and rapid incident response.
-- Integrated and automated security workflows across platforms to drive **SOC efficiency** and scalability.
-- Managed high-priority cases related to **Digital Risk Protection (DRP)**, **Attack Surface Management (ASM)**, and **Threat Intelligence Platforms (TIP)**, ensuring timely and strategic remediation.
-- Authored detailed **Incident Response (IR) reports** for executive management, aligning cybersecurity posture with business goals.
-- Partnered with the GRC team on **PCI DSS log simulation**, and supported governance, risk, and compliance initiatives relevant to SOC operations.
-- Strengthened detection and response capabilities through continuous **SOC process improvement** and **playbook development**.
-- Implemented automation initiatives that reduced Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR).
-- Evaluated and contributed to **Proof of Concept (PoC)** efforts for various security solutions (EDR, Mail Gateway, TIP, ASM, Dark Web Monitoring, DRP, and SOAR).
-- Built and executed a **Threat Detection Program** using **Detection-as-Code (DaC)** with test-driven detection engineering.
-- Developed and operationalized a **Cyber Threat Intelligence Program** using **MISP**, **TIP**, and **OSINT**, delivering timely and actionable insights.
-- Conducted **MITRE ATT&CK assessments** for both technology stack and detection content, and generated **MITRE heat maps** to inform strategic decisions.
+##### 🖥️ **SOC Operations & Technology Management**
+- Administered and fine-tuned key SOC technologies including `SIEM`, `SOAR`, `EDR`, and `NDR`, ensuring comprehensive threat monitoring and rapid incident response
+- Integrated and automated security workflows across platforms to drive **SOC efficiency** and scalability
+- Managed high-priority cases related to **Digital Risk Protection (DRP)**, **Attack Surface Management (ASM)**, and **Threat Intelligence Platforms (TIP)**
+- Partnered with the GRC team on **PCI DSS log simulation** and supported governance, risk, and compliance initiatives
+
+##### 🛡️ **Detection & Response Engineering**
+- Built and executed a **Threat Detection Program** using **Detection-as-Code (DaC)** with test-driven detection engineering
+- Strengthened detection and response capabilities through continuous **SOC process improvement** and **playbook development**
+- Implemented automation initiatives that reduced **Mean Time to Detect (MTTD)** and **Mean Time to Respond (MTTR)**
+- Conducted **MITRE ATT&CK assessments** for both technology stack and detection content, and generated **MITRE heat maps** to inform strategic decisions
+
+##### 🧠 **Strategic Programs & Intelligence**
+- Developed and operationalized a **Cyber Threat Intelligence Program** using `MISP`, `TIP`, and `OSINT`, delivering timely and actionable insights
+- Evaluated and contributed to **Proof of Concept (PoC)** efforts for various security solutions:
+  - `EDR`, Mail Gateway, `TIP`
+  - `ASM`, Dark Web Monitoring, `DRP`, `SOAR`
+- Authored detailed **Incident Response (IR) reports** for executive management, aligning cybersecurity posture with business goals
 
 
 #### **Cyber Defense Engineer**  
 `December 2023 – July 2024`
 
-- Administered and managed **SOAR platform (TheHive)** to coordinate and streamline incident response activities.
-- Automated key **SOC workflows** to boost operational efficiency and reduce analyst fatigue.
-- Conducted **Endpoint Detection and Response (EDR) assessments** to evaluate effectiveness and identify coverage gaps.
-- Provided advanced support to the **SOC team** during complex and high-impact security incidents.
-- Collaborated with the **GRC team** on compliance and governance-related SOC initiatives.
-- Performed **SIEM administration**, ensuring optimal performance, rule tuning, and log source integration.
+##### 🤖 **SOAR & Automation**
+- Administered and managed **SOAR platform** (`TheHive`) to coordinate and streamline incident response activities
+- Automated key **SOC workflows** to boost operational efficiency and reduce analyst fatigue
+
+##### 🛠️ **Technology Assessment & Administration**
+- Conducted **Endpoint Detection and Response (EDR) assessments** to evaluate effectiveness and identify coverage gaps
+- Performed **SIEM administration**, ensuring optimal performance, rule tuning, and log source integration
+
+##### 👥 **SOC Operations & Collaboration**
+- Provided advanced support to the **SOC team** during complex and high-impact security incidents
+- Collaborated with the **GRC team** on compliance and governance-related SOC initiatives
 
 ---
 
 #### **Senior SOC Analyst**  
 `November 2023 – August 2024`
 
-- Played a key role in establishing the **first SOC team** for Egypt’s first digital bank, *Misr Digital Innovation (MDI)*.
-- Led the implementation of the **SOAR solution (TheHive)** to automate and orchestrate security operations.
-- Worked closely with **GRC and IT operations teams** to deploy and configure the **SIEM**, developing tailored use cases, detection rules, and automated playbooks aligned with MDI’s business operations.
-- Designed and enhanced **threat detection, monitoring**, and **incident response capabilities** to meet the evolving threat landscape.
-- Conducted audits on **L1 analysts**, identifying team/process gaps and implementing quality assurance improvements.
-- Mentored L1 analysts, provided **training recommendations**, and supported their professional development.
-- Assisted in the **administration and optimization of SIEM and SOAR platforms**, ensuring reliable and scalable SOC operations.
-- Monitored global **cybersecurity trends**, IOCs, and daily threat feeds via **Threat Intelligence Platforms (TIPs)** to support proactive defense strategies.
+##### 🏗️ **SOC Establishment & Leadership**
+- Played a key role in establishing the **first SOC team** for Egypt's first digital bank, *Misr Digital Innovation (MDI)*
+- Designed and enhanced **threat detection, monitoring**, and **incident response capabilities** to meet the evolving threat landscape
+
+##### 🛠️ **SIEM/SOAR Implementation & Management**
+- Led the implementation of the **SOAR solution** (`TheHive`) to automate and orchestrate security operations
+- Worked closely with **GRC and IT operations teams** to deploy and configure the `SIEM`, developing tailored use cases, detection rules, and automated playbooks aligned with MDI's business operations
+- Assisted in the **administration and optimization** of `SIEM` and `SOAR` platforms, ensuring reliable and scalable SOC operations
+
+##### 👨‍🏫 **Team Development & Training**
+- Conducted audits on **L1 analysts**, identifying team/process gaps and implementing quality assurance improvements
+- Mentored L1 analysts, provided **training recommendations**, and supported their professional development
+
+##### 🌐 **Threat Intelligence & Monitoring**
+- Monitored global **cybersecurity trends**, IOCs, and daily threat feeds via **Threat Intelligence Platforms (TIPs)** to support proactive defense strategies
 
 #### **Senior SOC and Incident Response Engineer**  
 `September 2022 – November 2023`
 
-- Strengthened **threat detection, monitoring, and response capabilities** through continuous **purple team engagements**.
-- Designed **automation workflows** to streamline threat investigation and analysis processes.
-- Integrated various **SOC technologies** with the SIEM platform to centralize and enhance detection capabilities.
-- Led the implementation and optimization of **SOAR platform (TheHive)** for effective incident response.
-- Developed comprehensive **SOC processes**, including tailored **use cases** and **playbooks** to align with operational needs.
-- Conducted deep-dive investigations into escalated security incidents from **L1 analysts**, identifying root cause and containment strategies.
-- Monitored **Dark Web platforms** to identify potential data breaches or compromised business credentials, initiating appropriate takedown or remediation efforts.
-- Executed **threat hunting activities** using known adversary **TTPs** aligned with the MITRE ATT&CK framework.
-- Investigated IOCs shared by **Central Bank of Egypt (CBE)** and **Threat Intelligence Platforms (TIPs)** to detect relevant threats within the environment.
-- Established and continuously refined **SOC operational processes**, ensuring alignment with best practices and efficiency goals.
-- Audited and mentored **L1 analysts**, identifying knowledge gaps and recommending training paths to enhance team capabilities.
-- Authored detailed **incident response reports** for major cases, providing insights and mitigation recommendations.
-- Collaborated with the **GRC team** on **PCI log simulation** and other compliance-aligned SOC responsibilities.
+##### 🛡️ **Detection & Response Engineering**
+- Strengthened **threat detection, monitoring, and response capabilities** through continuous **purple team engagements**
+- Integrated various **SOC technologies** with the SIEM platform to centralize and enhance detection capabilities
+- Developed comprehensive **SOC processes**, including tailored **use cases** and **playbooks** to align with operational needs
+
+##### 🤖 **SOAR & Automation**
+- Led the implementation and optimization of **SOAR platform** (`TheHive`) for effective incident response
+- Designed **automation workflows** to streamline threat investigation and analysis processes
+
+##### 🔍 **Incident Response & Investigation**
+- Conducted deep-dive investigations into escalated security incidents from **L1 analysts**, identifying root cause and containment strategies
+- Authored detailed **incident response reports** for major cases, providing insights and mitigation recommendations
+- Collaborated with the **GRC team** on **PCI log simulation** and other compliance-aligned SOC responsibilities
+
+##### 🌐 **Threat Intelligence & Hunting**
+- Monitored **Dark Web platforms** to identify potential data breaches or compromised business credentials, initiating appropriate takedown or remediation efforts
+- Executed **threat hunting activities** using known adversary **TTPs** aligned with the MITRE ATT&CK framework
+- Investigated IOCs shared by **Central Bank of Egypt (CBE)** and **Threat Intelligence Platforms (TIPs)** to detect relevant threats within the environment
+
+##### 👥 **Team Development & Process Improvement**
+- Established and continuously refined **SOC operational processes**, ensuring alignment with best practices and efficiency goals
+- Audited and mentored **L1 analysts**, identifying knowledge gaps and recommending training paths to enhance team capabilities
 
 ---
 
 #### **SOC Analyst**  
 `December 2021 – September 2022`
 
-- Provided **24x7 security monitoring** by analyzing alerts generated from multiple security technologies.
-- Validated alerts, filtered out **false positives**, and escalated legitimate threats for appropriate incident handling.
-- Monitored **cyber threat intelligence feeds**, proactively identifying and flagging new and emerging threats.
-- Recommended improvements to **detection rules and controls** to reduce noise and enhance signal fidelity.
-- Produced regular **SOC performance reports**, covering detection metrics, incident trends, and resolution stats.
-- Conducted **threat hunting** activities across critical systems and log sources to uncover hidden threats or misconfigurations.
-- Responded to alerts and IOCs distributed by **EG-FinCert** and the **Central Bank of Egypt (CBE)**, ensuring prompt action and investigation.
-- Managed **brand protection alerts**, executing **takedowns of impersonating social media profiles, websites, and mobile apps** flagged by threat intelligence tools.
+##### 🖥️ **Security Monitoring & Analysis**
+- Provided **24x7 security monitoring** by analyzing alerts generated from multiple security technologies
+- Validated alerts, filtered out **false positives**, and escalated legitimate threats for appropriate incident handling
+- Produced regular **SOC performance reports**, covering detection metrics, incident trends, and resolution stats
 
+##### 🔍 **Threat Hunting & Intelligence**
+- Monitored **cyber threat intelligence feeds**, proactively identifying and flagging new and emerging threats
+- Conducted **threat hunting** activities across critical systems and log sources to uncover hidden threats or misconfigurations
+- Responded to alerts and IOCs distributed by **EG-FinCert** and the **Central Bank of Egypt (CBE)**, ensuring prompt action and investigation
+
+##### 🛡️ **Detection Engineering & Brand Protection**
+- Recommended improvements to **detection rules and controls** to reduce noise and enhance signal fidelity
+- Managed **brand protection alerts**, executing **takedowns of impersonating social media profiles, websites, and mobile apps** flagged by threat intelligence tools
 
 ---
 
