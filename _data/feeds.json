@@ -1,5 +1,12 @@
 [
   {
+    "title": "Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai",
+    "link": "https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/",
+    "summary": "Security researchers recently revealed that the personal information of millions of people who applied for jobs at McDonald's was exposed after they guessed the password (\"123456\") for the fast food chain's account at Paradox.ai, a company that makes artificial intelligence based hiring chatbots use",
+    "published": "2025-07-18T01:23:20",
+    "source": "Krebs"
+  },
+  {
     "title": "Citrix Bleed 2 exploited weeks before PoCs as Citrix denied attacks",
     "link": "https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/",
     "summary": "A critical Citrix NetScaler vulnerability, tracked as CVE-2025-5777 and dubbed \"CitrixBleed 2,\" was actively exploited nearly two weeks before proof-of-concept (PoC) exploits were made public, despite Citrix stating that there was no evidence of attacks. [...]",
