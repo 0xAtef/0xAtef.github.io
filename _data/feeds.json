@@ -33,12 +33,5 @@
     "summary": "Google has filed a lawsuit against the anonymous operators of the Android BadBox 2.0 malware botnet, accusing them of running a global ad fraud scheme against the company's advertising platforms. [...]",
     "published": "2025-07-17T19:59:26",
     "source": "BleepingComputer"
-  },
-  {
-    "title": "LameHug malware uses AI LLM to craft Windows data-theft commands in real-time",
-    "link": "https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/",
-    "summary": "A novel malware family named LameHug is using a large language model (LLM) to generate commands to be executed on compromised Windows systems. [...]",
-    "published": "2025-07-17T18:57:20",
-    "source": "BleepingComputer"
   }
 ]
