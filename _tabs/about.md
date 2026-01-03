@@ -11,15 +11,7 @@ order: 4
 
 ## About Me
 
-**Senior Cyber Defense DFIR Analyst** with a strong focus on **Cyber Threat Intelligence (CTI)**, **threat detection engineering**, and **threat hunting**. While formally positioned within DFIR, my role spans across threat intelligence engineering, SOC architecture, and detection strategy, driving proactive defense initiatives and intelligence-led security operations.
-
-I lead the development of **CTI strategies**, **SOPs**, and **tooling**, including custom-built platforms like **"ThreatOps"**—a CTI automation tool designed to collect, parse, and operationalize RSS-based intelligence feeds, enriching internal security insights and empowering enterprise-wide threat programs.
-
-With a foundation in **SOC operations**, including analysis, administration, and engineering, I bring prior experience in architecting and integrating core security solutions (`SIEM`, `SOAR`, `EDR`, `TIPs`, `ASM`, `DRP`), building end-to-end detection pipelines, and optimizing intelligence workflows.
-
-Actively engaged in **purple teaming** to validate detection logic and enhance visibility. While my current DFIR responsibilities are more strategic than deep-dive forensics, I maintain hands-on capability in **incident response**, **enrichment-driven triage**, and **light DFIR investigations**.
-
-**Certified in Threat Hunting and Windows Forensics**, I continuously contribute to threat-informed defense models, develop custom detection content, and ensure the seamless integration of CTI into SOC workflows. My mission is to bridge **intelligence**, **engineering**, and **response** into a unified, adaptive cyber defense capability.
+Strategic SOC/Cyber Defense Lead with extensive experience in leading and architecting proactive security operations, bridging the gap between **Cyber Threat Intelligence (CTI)**, **threat detection engineering**, and **incident response**. Expert in establishing and managing **MSOC/Resident SOC teams**, building end-to-end detection pipelines mapped to **MITRE ATT&CK**, and driving an intelligence-led defense strategy. Proven track record in designing, integrating, and optimizing core security solutions (`SIEM`, `SOAR`, `EDR`, `TIPs`, `DRP`), developing custom automation and tooling (`Python`, `N8N`, **"ThreatOps"**), and applying **DFIR/Forensics** for deep-dive investigations. A certified professional dedicated to leveraging strategic leadership and deep technical expertise to build a unified, adaptive, and highly effective cyber defense capability.
 
 
 [Email](mailto:mohamedatef2970@gmail.com) / [Website](https://0xatef.github.io/about/) / [LinkedIn](https://www.linkedin.com/in/0xAtef/) / [GitHub](https://github.com/0xAtef/) / [Twitter](https://twitter.com/0xAtef/)
@@ -28,8 +20,31 @@ Actively engaged in **purple teaming** to validate detection logic and enhance v
 
 ### 🛡️ Experience
 
+#### **Cyber Defense Lead & Consultant**  
+`November 2025 – Present`
+
+##### 🏢 **MSOC/Resident SOC Leadership & Operations**
+- Led MSOC/Resident SOC teams, managing daily operations and service delivery for multiple clients
+- Conducted SOC Maturity Assessments, delivering strategic roadmaps and recommendations to elevate clients' cyber defense capabilities
+- Executed and led Compromise Assessments (CAs) to identify and eradicate persistent threats within client environments
+- Developed and enforced comprehensive SOC processes, including incident response, triage, and escalation for MSSP/resident environments
+
+##### 👥 **Team Management & Development**
+- Managed and mentored L1-L3 security analysts/engineers, focusing on skill development and performance in threat detection/response
+
+##### 🧠 **Cyber Threat Intelligence & Detection Engineering**
+- Operationalized CTI, integrating it into detection engineering, threat hunting, and client risk assessments
+- Architected and maintained core security monitoring platforms (SIEM, SOAR, EDR, TIP) across client environments
+- Designed and implemented a standardized Use Case Framework and oversaw the development and tuning of detection content (use cases, rules, playbooks) mapped to MITRE ATT&CK for enhanced coverage and reduced false positives
+
+##### 🚨 **Incident Management & Client Engagement**
+- Managed the full lifecycle of client security incidents, from detection through post-incident reporting
+- Supported pre-sales and solution architecture with technical expertise on SOC services and tool integration
+
+---
+
 #### **Senior Cyber Defense DFIR Analyst**  
-`April 2025 – Present`
+`April 2025 – November 2025`
 
 ##### 🔍 **Threat Hunting & Investigation**
 - Conduct **threat-informed investigations** and incident response by providing contextual intelligence, adversary insights, and lightweight analysis to guide detection and response efforts
